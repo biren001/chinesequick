@@ -1,0 +1,3 @@
+/thank-you/ :: status=200 < :: continue=true :: noindex=true
+/ :: status=200 < :: continue=false :: noindex=false
+/learn/restaurant/ :: status=200 < :: continue=false :: noindex=false

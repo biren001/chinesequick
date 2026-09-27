@@ -1,0 +1,23 @@
+# 由 data/legacy-redirects.json 生成（_dev/make-redirect-stubs.js），不要手改。
+# ⚠ 本项目实测 CF Pages Direct Upload **不执行**这个文件（见脚本头注释）；
+#   真正兜底的是同源的静态跳转页。两条路目标一致，平台支持谁就用谁。
+
+# No thanks —— 我不买了 是生硬说法，已删。原意图是「礼貌地拒绝购买」，用 不用了，谢谢 承接。
+/how-to-say-i-wont-buy-it-in-chinese    /how-to-say-no-thanks-in-chinese/    301
+/how-to-say-i-wont-buy-it-in-chinese/    /how-to-say-no-thanks-in-chinese/    301
+/how-to-say-i-wont-buy-it-in-chinese/*    /how-to-say-no-thanks-in-chinese/    301
+
+# You're welcome —— 原页一页吃两个意图（It's okay / You're welcome），已拆成两条。落点选不客气而不是没关系：you're welcome 的搜索需求量更高，把已到手的权重送去更值的那页。
+/how-to-say-its-okay-youre-welcome-in-chinese    /how-to-say-youre-welcome-in-chinese/    301
+/how-to-say-its-okay-youre-welcome-in-chinese/    /how-to-say-youre-welcome-in-chinese/    301
+/how-to-say-its-okay-youre-welcome-in-chinese/*    /how-to-say-youre-welcome-in-chinese/    301
+
+# What's your name —— 我叫大卫 slug 零搜索量，已删。同一个对话意图（自我介绍）由 你叫什么名字？承接。
+/how-to-say-my-name-is-david-in-chinese    /how-to-say-whats-your-name-in-chinese/    301
+/how-to-say-my-name-is-david-in-chinese/    /how-to-say-whats-your-name-in-chinese/    301
+/how-to-say-my-name-is-david-in-chinese/*    /how-to-say-whats-your-name-in-chinese/    301
+
+# That's great —— 很好 让位给 不好意思，已删。同为泛用正面评价，用 太棒了 承接。
+/how-to-say-very-good-in-chinese    /how-to-say-thats-great-in-chinese/    301
+/how-to-say-very-good-in-chinese/    /how-to-say-thats-great-in-chinese/    301
+/how-to-say-very-good-in-chinese/*    /how-to-say-thats-great-in-chinese/    301

@@ -1,0 +1,10 @@
+{
+ "at": "2026-09-27T11:01:52.517Z",
+ "project": "chinesequick",
+ "target": "3029a6ae-3b66-4bd6-ae00-2d36b76ba2a1",
+ "targetCreated": "2026-09-27T08:37:44.335658Z",
+ "status": 200,
+ "success": true,
+ "transport": "direct",
+ "bodyPrefix": "{\n  \"result\": {\n    \"id\": \"3029a6ae-3b66-4bd6-ae00-2d36b76ba2a1\",\n    \"short_id\": \"3029a6ae\",\n    \"project_id\": \"de033319-6fb8-4956-ac17-75dacdd7ac0d\",\n    \"project_name\": \"chinesequick\",\n    \"environment\": \"production\",\n    \"url\": \"https://3029a6ae.chinesequick.pages.dev\",\n    \"created_on\": \"2026-0"
+}

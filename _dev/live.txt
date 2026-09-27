@@ -1,0 +1,51 @@
+{
+ "/": {
+  "status": 200,
+  "len": 19803,
+  "ct": "text/html; charset=utf-8"
+ },
+ "/robots.txt": {
+  "status": 200,
+  "len": 70,
+  "ct": "text/plain; charset=utf-8"
+ },
+ "/sitemap.xml": {
+  "status": 200,
+  "len": 11533,
+  "ct": "application/xml"
+ },
+ "/llms.txt": {
+  "status": 404,
+  "len": 9869,
+  "ct": "text/html; charset=utf-8"
+ },
+ "/chinese-restaurant-phrases/": {
+  "status": 200,
+  "len": 38739,
+  "ct": "text/html; charset=utf-8"
+ },
+ "/how-to-say-thank-you-in-chinese/": {
+  "status": 200,
+  "len": 17400,
+  "ct": "text/html; charset=utf-8"
+ },
+ "/learn/restaurant/": {
+  "status": 200,
+  "len": 37090,
+  "ct": "text/html; charset=utf-8"
+ },
+ "/thank-you/": {
+  "status": 200,
+  "len": 13328,
+  "ct": "text/html; charset=utf-8"
+ },
+ "_home": {
+  "title": "Real-Life Chinese — Learn the Chinese phrases you&#x27;ll actually use",
+  "descLen": 143,
+  "canonical": null,
+  "ogImage": null,
+  "jsonldCount": 0,
+  "h1": "Learn Chinese for real life.",
+  "imgCount": 0
+ }
+}

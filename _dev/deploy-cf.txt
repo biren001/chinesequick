@@ -1,0 +1,139 @@
+{
+ "at": "2026-09-27T13:45:59.325Z",
+ "dir": "C:\\Users\\Administrator\\WorkBuddy\\2026-09-25-20-49-31\\real-life-chinese\\out",
+ "project": "chinesequick",
+ "dryRun": false,
+ "precheck": false,
+ "token": "cfat… (len 53)",
+ "projectPagesFetched": 1,
+ "projects": [
+  "chinesequick",
+  "imageprocessing",
+  "aivisnap-en",
+  "aivisnap"
+ ],
+ "projectMatched": true,
+ "hostCheck": {
+  "ok": true,
+  "project": "chinesequick",
+  "expectHost": "chinesequick.com",
+  "siteHost": "chinesequick.com",
+  "sitemapHost": "chinesequick.com",
+  "sitemapCounts": [
+   [
+    "chinesequick.com",
+    133
+   ]
+  ],
+  "problems": []
+ },
+ "fileCount": 727,
+ "totalBytes": 14675218,
+ "manifestEntries": 727,
+ "prevDeployment": "9041f2f6-d036-4b2a-af7f-e608b073bc64",
+ "knownDeployments": 10,
+ "rounds": [
+  {
+   "round": 1,
+   "newDeployment": true,
+   "id": "06f95f57",
+   "fileCount": 727,
+   "fileCountSource": "deployment",
+   "servedOk": true,
+   "rolledBackTo": null,
+   "uploadError": null,
+   "cfError": null
+  }
+ ],
+ "assetBuckets": 1,
+ "assetUploaded": 727,
+ "assetHashesDeclared": 727,
+ "settle": {
+  "changed": true,
+  "servedOk": true,
+  "id": "06f95f57-b1c8-40a5-9cd4-18a4f48ee31e",
+  "shortId": "06f95f57",
+  "url": "https://06f95f57.chinesequick.pages.dev",
+  "fileCount": 727,
+  "fileCountKnown": true,
+  "stages": [
+   {
+    "name": "queued",
+    "started_on": "2026-09-27T13:49:11.791809Z",
+    "ended_on": null,
+    "status": "active"
+   },
+   {
+    "name": "initialize",
+    "started_on": null,
+    "ended_on": null,
+    "status": "idle"
+   },
+   {
+    "name": "clone_repo",
+    "started_on": null,
+    "ended_on": null,
+    "status": "idle"
+   },
+   {
+    "name": "build",
+    "started_on": null,
+    "ended_on": null,
+    "status": "idle"
+   },
+   {
+    "name": "deploy",
+    "started_on": null,
+    "ended_on": null,
+    "status": "idle"
+   }
+  ],
+  "fileCountSource": "deployment",
+  "served": {
+   "base": "https://06f95f57.chinesequick.pages.dev",
+   "checks": [
+    {
+     "path": "/",
+     "status": 200,
+     "type": "text/html"
+    },
+    {
+     "path": "/_next/static/Oc-oiifTWp9mdWWRyhSMm/_buildManifest.js",
+     "status": 200,
+     "type": "application/javascript"
+    },
+    {
+     "path": "/apple-icon.png",
+     "status": 200,
+     "type": "image/png"
+    }
+   ],
+   "ok": true
+  }
+ },
+ "served": {
+  "base": "https://06f95f57.chinesequick.pages.dev",
+  "checks": [
+   {
+    "path": "/",
+    "status": 200,
+    "type": "text/html"
+   },
+   {
+    "path": "/_next/static/Oc-oiifTWp9mdWWRyhSMm/_buildManifest.js",
+    "status": 200,
+    "type": "application/javascript"
+   },
+   {
+    "path": "/apple-icon.png",
+    "status": 200,
+    "type": "image/png"
+   }
+  ],
+  "ok": true
+ },
+ "transport": "direct",
+ "url": "https://06f95f57.chinesequick.pages.dev",
+ "deploymentId": "06f95f57-b1c8-40a5-9cd4-18a4f48ee31e",
+ "ok": true
+}

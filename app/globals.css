@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #faf9f7;
+  --color-card: #ffffff;
+  --color-ink: #1b1a18;
+  --color-muted: #6b6a66;
+  --color-line: #e8e5e0;
+  --color-accent: #e4572e;
+  --color-accent-soft: #fdeee8;
+  --color-success: #16a34a;
+  --color-success-soft: #e8f7ee;
+  --color-danger: #dc2626;
+  --color-danger-soft: #fdeaea;
+
+  --font-sans:
+    "Inter", "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", system-ui, sans-serif;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}

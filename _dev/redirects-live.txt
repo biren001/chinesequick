@@ -1,0 +1,76 @@
+{
+ "base": "https://chinesequick.com",
+ "mechanism": "static-stub",
+ "count": 4,
+ "results": [
+  {
+   "from": "/how-to-say-i-wont-buy-it-in-chinese",
+   "to": "/how-to-say-no-thanks-in-chinese/",
+   "label": "No thanks",
+   "why": "我不买了 是生硬说法，已删。原意图是「礼貌地拒绝购买」，用 不用了，谢谢 承接。",
+   "bare": {
+    "status": 308,
+    "location": "/how-to-say-i-wont-buy-it-in-chinese/"
+   },
+   "slashed": {
+    "status": 200,
+    "refresh": "/how-to-say-no-thanks-in-chinese/",
+    "canonical": "https://chinesequick.com/how-to-say-no-thanks-in-chinese/"
+   },
+   "targetStatus": 200,
+   "ok": true
+  },
+  {
+   "from": "/how-to-say-its-okay-youre-welcome-in-chinese",
+   "to": "/how-to-say-youre-welcome-in-chinese/",
+   "label": "You're welcome",
+   "why": "原页一页吃两个意图（It's okay / You're welcome），已拆成两条。落点选不客气而不是没关系：you're welcome 的搜索需求量更高，把已到手的权重送去更值的那页。",
+   "bare": {
+    "status": 308,
+    "location": "/how-to-say-its-okay-youre-welcome-in-chinese/"
+   },
+   "slashed": {
+    "status": 200,
+    "refresh": "/how-to-say-youre-welcome-in-chinese/",
+    "canonical": "https://chinesequick.com/how-to-say-youre-welcome-in-chinese/"
+   },
+   "targetStatus": 200,
+   "ok": true
+  },
+  {
+   "from": "/how-to-say-my-name-is-david-in-chinese",
+   "to": "/how-to-say-whats-your-name-in-chinese/",
+   "label": "What's your name",
+   "why": "我叫大卫 slug 零搜索量，已删。同一个对话意图（自我介绍）由 你叫什么名字？承接。",
+   "bare": {
+    "status": 308,
+    "location": "/how-to-say-my-name-is-david-in-chinese/"
+   },
+   "slashed": {
+    "status": 200,
+    "refresh": "/how-to-say-whats-your-name-in-chinese/",
+    "canonical": "https://chinesequick.com/how-to-say-whats-your-name-in-chinese/"
+   },
+   "targetStatus": 200,
+   "ok": true
+  },
+  {
+   "from": "/how-to-say-very-good-in-chinese",
+   "to": "/how-to-say-thats-great-in-chinese/",
+   "label": "That's great",
+   "why": "很好 让位给 不好意思，已删。同为泛用正面评价，用 太棒了 承接。",
+   "bare": {
+    "status": 308,
+    "location": "/how-to-say-very-good-in-chinese/"
+   },
+   "slashed": {
+    "status": 200,
+    "refresh": "/how-to-say-thats-great-in-chinese/",
+    "canonical": "https://chinesequick.com/how-to-say-thats-great-in-chinese/"
+   },
+   "targetStatus": 200,
+   "ok": true
+  }
+ ],
+ "fails": []
+}

@@ -1,0 +1,424 @@
+{
+ "home": {
+  "canonical": "https://chinesequick.com/",
+  "ogImage": "https://chinesequick.com/og.png",
+  "ogImageAbs": true,
+  "twitterCard": "summary_large_image",
+  "twitterImage": "https://chinesequick.com/og.png",
+  "jsonldBlocks": 1,
+  "jsonldTypes": [
+   "WebSite",
+   "EducationalOrganization"
+  ],
+  "jsonldErrors": [],
+  "titleLen": 55,
+  "textLen": 1938
+ },
+ "phrase": {
+  "canonical": "https://chinesequick.com/how-to-say-thank-you-in-chinese/",
+  "title": "How to say &quot;Thank you&quot; in Chinese",
+  "titleLen": 33,
+  "descLen": 100,
+  "jsonldBlocks": 1,
+  "jsonldTypes": [
+   "BreadcrumbList",
+   "FAQPage"
+  ],
+  "jsonldErrors": [],
+  "textLen": 2043,
+  "hasWordTable": false,
+  "hasFaq": true,
+  "h2Count": 5,
+  "faqCount": 3
+ },
+ "category": {
+  "canonical": "https://chinesequick.com/chinese-restaurant-phrases/",
+  "titleLen": 49,
+  "jsonldTypes": [
+   "BreadcrumbList",
+   "ItemList"
+  ],
+  "jsonldErrors": [],
+  "textLen": 1624,
+  "itemCount": 14
+ },
+ "learn": {
+  "canonical": "https://chinesequick.com/learn/restaurant/",
+  "jsonldTypes": [
+   "BreadcrumbList",
+   "Course"
+  ],
+  "jsonldErrors": []
+ },
+ "sitemap": {
+  "total": 133,
+  "allHttps": true,
+  "allTrailingSlash": true,
+  "noNoindexPage": true,
+  "sample": [
+   "https://chinesequick.com/",
+   "https://chinesequick.com/china-travel-checklist/",
+   "https://chinesequick.com/chinese-numbers/"
+  ]
+ },
+ "checklist": {
+  "page": true,
+  "inSitemap": true,
+  "canonical": "https://chinesequick.com/china-travel-checklist/",
+  "title": "China Travel Checklist Before Your Trip | ChineseQuick",
+  "titleLen": 54,
+  "descLen": 158,
+  "jsonldTypes": [
+   "BreadcrumbList",
+   "FAQPage"
+  ],
+  "jsonldErrors": [],
+  "faqCount": 5,
+  "textLen": 8887,
+  "checkboxes": 17,
+  "externalSources": 3,
+  "lastCheckedShown": true,
+  "stagesShown": 3,
+  "topicLabelsShown": 3,
+  "internalLinks": 17
+ },
+ "robots": "User-Agent: Googlebot\nUser-Agent: Bingbot\nUser-Agent: DuckDuckBot\nUser-Agent: Applebot\nUser-Agent: OAI-SearchBot\nUser-Agent: ChatGPT-User\nUser-Agent: Claude-SearchBot\nUser-Agent: Claude-User\nUser-Agent: PerplexityBot\nUser-Agent: Amazonbot\nUser-Agent: meta-externalfetcher\nAllow: /\n\nUser-Agent: GPTBot\nUser-Agent: ClaudeBot\nUser-Agent: CCBot\nUser-Agent: Google-Extended\nUser-Agent: Applebot-Extended\nUser-Agent: meta-externalagent\nUser-Agent: Bytespider\nAllow: /\n\nUser-Agent: *\nAllow: /\n\nSitemap: https://chinesequick.com/sitemap.xml\n",
+ "robotsUaCount": 19,
+ "files": {
+  "llms": true,
+  "llmsHead": "# ChineseQuick\n\n> Get by in China — real phrases, audio and trip prep. 105 free Mandarin Chinese phrases for travel, food, shopping, hotels, everyday conversati",
+  "og": true,
+  "ogSize": 60425,
+  "icon": true,
+  "favicon": true,
+  "errorBoundary": true,
+  "thankYouNoindex": "noindex, nofollow"
+ },
+ "allPages": {
+  "pages": 141,
+  "jsonldBlocks": 129,
+  "pagesWithBadJson": 0,
+  "badList": [],
+  "noTranslateMissing": []
+ },
+ "numbers": {
+  "page": true,
+  "inSitemap": true,
+  "canonical": "https://chinesequick.com/chinese-numbers/",
+  "title": "Chinese numbers: how to count to 10,000 | ChineseQuick",
+  "titleLen": 54,
+  "descLen": 153,
+  "jsonldTypes": [
+   "BreadcrumbList",
+   "FAQPage"
+  ],
+  "jsonldErrors": [],
+  "faqCount": 5,
+  "numberItems": 24,
+  "audioRefs": 24,
+  "audioMissing": 0,
+  "linkedFromHome": true,
+  "linkedFromMoney": true
+ },
+ "money": {
+  "page": true,
+  "inSitemap": true,
+  "titleLen": 44,
+  "descLen": 112,
+  "jsonldErrors": [],
+  "audioRefs": 11
+ },
+ "punctuation": {
+  "doublePeriodFiles": 0,
+  "doublePeriodList": []
+ },
+ "grammar": {
+  "articleChecked": 105,
+  "articleWrong": 0,
+  "articleWrongList": []
+ },
+ "brand": {
+  "ogSiteName": "ChineseQuick",
+  "schemaName": "ChineseQuick",
+  "sameName": true,
+  "alternateName": [
+   "Chinese Quick",
+   "chinesequick.com",
+   "Real-Life Chinese"
+  ],
+  "domainInAlternateName": true,
+  "logoUrl": "https://chinesequick.com/logo.png",
+  "logoUrlOk": true,
+  "legacyNameFiles": [
+   "index.html"
+  ]
+ },
+ "scenarios": {
+  "hub": true,
+  "hubInSitemap": true,
+  "titleLen": 41,
+  "descLen": 142,
+  "hubItems": 6,
+  "hubScenarioLinks": 6,
+  "jsonldErrors": [],
+  "pages": [
+   {
+    "slug": "arriving-at-the-airport",
+    "exists": true,
+    "inSitemap": true,
+    "titleLen": 53,
+    "descLen": 147,
+    "stepsRendered": 6,
+    "theySayRendered": 6,
+    "statedSteps": 6,
+    "statedPhrases": 6,
+    "itemListCount": 6,
+    "faqCount": 3,
+    "phraseLinks": 9,
+    "jsonldErrors": []
+   },
+   {
+    "slug": "checking-into-a-hotel",
+    "exists": true,
+    "inSitemap": true,
+    "titleLen": 50,
+    "descLen": 125,
+    "stepsRendered": 8,
+    "theySayRendered": 8,
+    "statedSteps": 8,
+    "statedPhrases": 8,
+    "itemListCount": 8,
+    "faqCount": 3,
+    "phraseLinks": 11,
+    "jsonldErrors": []
+   },
+   {
+    "slug": "getting-around",
+    "exists": true,
+    "inSitemap": true,
+    "titleLen": 50,
+    "descLen": 151,
+    "stepsRendered": 8,
+    "theySayRendered": 8,
+    "statedSteps": 8,
+    "statedPhrases": 8,
+    "itemListCount": 8,
+    "faqCount": 3,
+    "phraseLinks": 11,
+    "jsonldErrors": []
+   },
+   {
+    "slug": "ordering-food",
+    "exists": true,
+    "inSitemap": true,
+    "titleLen": 50,
+    "descLen": 147,
+    "stepsRendered": 9,
+    "theySayRendered": 9,
+    "statedSteps": 9,
+    "statedPhrases": 9,
+    "itemListCount": 9,
+    "faqCount": 3,
+    "phraseLinks": 13,
+    "jsonldErrors": []
+   },
+   {
+    "slug": "paying-in-china",
+    "exists": true,
+    "inSitemap": true,
+    "titleLen": 49,
+    "descLen": 140,
+    "stepsRendered": 8,
+    "theySayRendered": 8,
+    "statedSteps": 8,
+    "statedPhrases": 8,
+    "itemListCount": 8,
+    "faqCount": 3,
+    "phraseLinks": 12,
+    "jsonldErrors": []
+   },
+   {
+    "slug": "taking-a-taxi",
+    "exists": true,
+    "inSitemap": true,
+    "titleLen": 45,
+    "descLen": 149,
+    "stepsRendered": 7,
+    "theySayRendered": 7,
+    "statedSteps": 7,
+    "statedPhrases": 7,
+    "itemListCount": 7,
+    "faqCount": 3,
+    "phraseLinks": 10,
+    "jsonldErrors": []
+   }
+  ],
+  "linkedFromHome": true,
+  "linkedFromFooter": true,
+  "categoryLinksScenario": true,
+  "phraseLinksScenario": true,
+  "mismatchedSteps": []
+ },
+ "slugOverride": {
+  "overriddenCount": 1,
+  "entries": [
+   {
+    "id": 13,
+    "chinese": "就是这个地址。",
+    "slug": "its-this-address",
+    "english": "This is the address.",
+    "stillNeeded": true,
+    "derivedWouldBe": "this-is-the-address",
+    "urlStillBuilt": true,
+    "titleShowsNewEnglish": true,
+    "canonicalMatchesUrl": true
+   }
+  ]
+ },
+ "redirects": {
+  "exists": true,
+  "ruleCount": 12,
+  "rules": [
+   {
+    "from": "/how-to-say-i-wont-buy-it-in-chinese",
+    "to": "/how-to-say-no-thanks-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-no-thanks-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-i-wont-buy-it-in-chinese/",
+    "to": "/how-to-say-no-thanks-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-no-thanks-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-i-wont-buy-it-in-chinese/*",
+    "to": "/how-to-say-no-thanks-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-no-thanks-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-its-okay-youre-welcome-in-chinese",
+    "to": "/how-to-say-youre-welcome-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-youre-welcome-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-its-okay-youre-welcome-in-chinese/",
+    "to": "/how-to-say-youre-welcome-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-youre-welcome-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-its-okay-youre-welcome-in-chinese/*",
+    "to": "/how-to-say-youre-welcome-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-youre-welcome-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-my-name-is-david-in-chinese",
+    "to": "/how-to-say-whats-your-name-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-whats-your-name-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-my-name-is-david-in-chinese/",
+    "to": "/how-to-say-whats-your-name-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-whats-your-name-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-my-name-is-david-in-chinese/*",
+    "to": "/how-to-say-whats-your-name-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-whats-your-name-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-very-good-in-chinese",
+    "to": "/how-to-say-thats-great-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-thats-great-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-very-good-in-chinese/",
+    "to": "/how-to-say-thats-great-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-thats-great-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   },
+   {
+    "from": "/how-to-say-very-good-in-chinese/*",
+    "to": "/how-to-say-thats-great-in-chinese/",
+    "status": "301",
+    "target": "how-to-say-thats-great-in-chinese/index.html",
+    "srcLive": true,
+    "srcIsStub": true
+   }
+  ],
+  "legacyCount": 4,
+  "stubs": [
+   {
+    "from": "/how-to-say-i-wont-buy-it-in-chinese",
+    "to": "/how-to-say-no-thanks-in-chinese/",
+    "file": true,
+    "marked": true,
+    "refresh": "/how-to-say-no-thanks-in-chinese/",
+    "canonical": "https://chinesequick.com/how-to-say-no-thanks-in-chinese/",
+    "noindex": false,
+    "inSitemap": false
+   },
+   {
+    "from": "/how-to-say-its-okay-youre-welcome-in-chinese",
+    "to": "/how-to-say-youre-welcome-in-chinese/",
+    "file": true,
+    "marked": true,
+    "refresh": "/how-to-say-youre-welcome-in-chinese/",
+    "canonical": "https://chinesequick.com/how-to-say-youre-welcome-in-chinese/",
+    "noindex": false,
+    "inSitemap": false
+   },
+   {
+    "from": "/how-to-say-my-name-is-david-in-chinese",
+    "to": "/how-to-say-whats-your-name-in-chinese/",
+    "file": true,
+    "marked": true,
+    "refresh": "/how-to-say-whats-your-name-in-chinese/",
+    "canonical": "https://chinesequick.com/how-to-say-whats-your-name-in-chinese/",
+    "noindex": false,
+    "inSitemap": false
+   },
+   {
+    "from": "/how-to-say-very-good-in-chinese",
+    "to": "/how-to-say-thats-great-in-chinese/",
+    "file": true,
+    "marked": true,
+    "refresh": "/how-to-say-thats-great-in-chinese/",
+    "canonical": "https://chinesequick.com/how-to-say-thats-great-in-chinese/",
+    "noindex": false,
+    "inSitemap": false
+   }
+  ],
+  "problems": []
+ }
+}

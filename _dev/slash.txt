@@ -1,0 +1,16 @@
+{
+ "noSlash": {
+  "status": 308,
+  "loc": "/how-to-say-thank-you-in-chinese/",
+  "can": ""
+ },
+ "catNoSlash": {
+  "status": 308,
+  "loc": "/chinese-restaurant-phrases/",
+  "can": ""
+ },
+ "root": {
+  "status": 200,
+  "can": ""
+ }
+}

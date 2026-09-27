@@ -1,0 +1,10 @@
+{
+ "mode": "selftest",
+ "at": "2026-09-27T11:36:32.056Z",
+ "sentBytes": 1291,
+ "receivedBytes": 1291,
+ "parts": 4,
+ "expectedParts": 4,
+ "passed": true,
+ "problems": []
+}

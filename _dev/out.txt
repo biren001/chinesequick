@@ -1,0 +1,16 @@
+ ⚠ Attempted to load @next/swc-win32-x64-msvc, but an error occurred: \\?\C:\Users\Administrator\WorkBuddy\2026-09-25-20-49-31\real-life-chinese\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node is not a valid Win32 application.
+ ⚠ Attempted to load @next/swc-win32-x64-msvc, but an error occurred: \\?\C:\Users\Administrator\WorkBuddy\2026-09-25-20-49-31\real-life-chinese\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node is not a valid Win32 application.
+ ⚠ Attempted to load @next/swc-win32-x64-msvc, but an error occurred: \\?\C:\Users\Administrator\WorkBuddy\2026-09-25-20-49-31\real-life-chinese\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node is not a valid Win32 application.
+ ⚠ Attempted to load @next/swc-win32-x64-msvc, but an error occurred: \\?\C:\Users\Administrator\WorkBuddy\2026-09-25-20-49-31\real-life-chinese\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node is not a valid Win32 application.
+   Generating static pages (0/68) ...
+   Generating static pages (17/68) 
+   Generating static pages (34/68) 
+   Generating static pages (51/68) 
+ ✓ Generating static pages (68/68)
+> Build error occurred
+Error: [safe-delete][SAFE_DELETE_BULK_CONFIRM_REQUIRED] {"count":50,"threshold":50,"scope":"turn","targets":["C:\\Users\\Administrator\\WorkBuddy\\2026-09-25-20-49-31\\real-life-chinese\\.next\\export"],"targetCount":1}
+    at checkBulkDeleteGuard (C:\Users\Administrator\AppData\Local\Programs\WorkBuddy\resources\app.asar.unpacked\cli\vendor\shim\node-safe-delete-shim.cjs:220:19)
+    at tryTrash (C:\Users\Administrator\AppData\Local\Programs\WorkBuddy\resources\app.asar.unpacked\cli\vendor\shim\node-safe-delete-shim.cjs:572:5)
+    at tryRm (C:\Users\Administrator\AppData\Local\Programs\WorkBuddy\resources\app.asar.unpacked\cli\vendor\shim\node-safe-delete-shim.cjs:753:5)
+    at Object.wrappedPromisesRm [as rm] (C:\Users\Administrator\AppData\Local\Programs\WorkBuddy\resources\app.asar.unpacked\cli\vendor\shim\node-safe-delete-shim.cjs:797:15)
+---thankyou---false

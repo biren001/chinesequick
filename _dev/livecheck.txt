@@ -1,0 +1,104 @@
+{
+ "files": {
+  "/robots.txt": {
+   "status": 200,
+   "len": 533
+  },
+  "/llms.txt": {
+   "status": 200,
+   "len": 7038
+  },
+  "/og.png": {
+   "status": 200,
+   "len": 51498
+  },
+  "/logo.png": {
+   "status": 200,
+   "len": 2658
+  },
+  "/apple-icon.png": {
+   "status": 200,
+   "len": 2349
+  },
+  "/sitemap.xml": {
+   "status": 200,
+   "len": 11593
+  },
+  "/b3009d2d0336934d3d8380112e45b81d.txt": {
+   "status": 200,
+   "len": 32
+  }
+ },
+ "pages": {
+  "/": {
+   "status": 200,
+   "canonical": "https://chinesequick.com/",
+   "jsonldBlocks": 1,
+   "jsonldTypes": [
+    "WebSite",
+    "EducationalOrganization"
+   ],
+   "jsonldBad": 0,
+   "ogImage": "https://chinesequick.com/og.png"
+  },
+  "/chinese-restaurant-phrases/": {
+   "status": 200,
+   "canonical": "https://chinesequick.com/chinese-restaurant-phrases/",
+   "jsonldBlocks": 1,
+   "jsonldTypes": [
+    "BreadcrumbList",
+    "ItemList"
+   ],
+   "jsonldBad": 0,
+   "ogImage": null
+  },
+  "/how-to-say-thank-you-in-chinese/": {
+   "status": 200,
+   "canonical": "https://chinesequick.com/how-to-say-thank-you-in-chinese/",
+   "jsonldBlocks": 1,
+   "jsonldTypes": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "jsonldBad": 0,
+   "ogImage": null
+  },
+  "/how-to-say-i-dont-eat-meat-in-chinese/": {
+   "status": 200,
+   "canonical": "https://chinesequick.com/how-to-say-i-dont-eat-meat-in-chinese/",
+   "jsonldBlocks": 1,
+   "jsonldTypes": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "jsonldBad": 0,
+   "ogImage": null
+  },
+  "/learn/restaurant/": {
+   "status": 200,
+   "canonical": "https://chinesequick.com/learn/restaurant/",
+   "jsonldBlocks": 1,
+   "jsonldTypes": [
+    "BreadcrumbList",
+    "Course"
+   ],
+   "jsonldBad": 0,
+   "ogImage": "https://chinesequick.com/og.png"
+  }
+ },
+ "phrasePage": {
+  "textLen": 1490,
+  "hasWordByWord": true,
+  "hasFaq": true
+ },
+ "robotsUA": 19,
+ "robotsHasPerplexity": true,
+ "robotsHasGooglebot": true,
+ "homeLinks": [
+  "chinese-restaurant-phrases",
+  "chinese-travel-phrases",
+  "chinese-hotel-phrases",
+  "chinese-shopping-phrases",
+  "chinese-everyday-phrases"
+ ]
+}

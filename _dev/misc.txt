@@ -1,0 +1,7 @@
+{
+ "indexTxt": 13253,
+ "indexTxtHead": "1:\"$Sreact.fragment\"\n2:I[9766,[],\"\"]\n3:I[8924,[],\"\"]\n4:I[2394,[\"619\",\"static/chunks/619-ba102abea3e3d0e4.js\",\"177\",\"stat",
+ "dir404": [
+  "index.html"
+ ]
+}

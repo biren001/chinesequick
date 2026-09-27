@@ -1,0 +1,20 @@
+{
+ "chinesequick.com": {
+  "status": 200
+ },
+ "www.chinesequick.com": {
+  "status": 200
+ },
+ "robots": "User-Agent: *\nAllow: /\n\nSitemap: https://chinesequick.com/sitemap.xml\n",
+ "sitemapHead": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://chinesequick.com/</loc>\n<lastmod>2026-09-26T03:07:55.298Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://chinesequick.com/chinese-restaurant-phrases</loc>\n<lastmod>2026-09-26T03:07:55.298Z</lastmod>\n<changefreq>monthly</changefreq>\n<prio",
+ "sitemapUrls": 61,
+ "phrase": {
+  "canonical": "https://chinesequick.com/how-to-say-thank-you-in-chinese/",
+  "jsonld": 0,
+  "title": "How to say &quot;Thank you&quot; in Chinese | Real-Life Chinese",
+  "descLen": 140,
+  "wordCount": 482,
+  "h1": "How to say “<!-- -->Thank you<!-- -->” in Chinese",
+  "h2": 2
+ }
+}

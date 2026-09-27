@@ -1,0 +1,158 @@
+{
+  "base": "https://real-life-chinese.app.workbuddy.host",
+  "device": {
+    "w": 390,
+    "h": 844
+  },
+  "pages": [
+    {
+      "path": "/chinese-restaurant-phrases/",
+      "note": "集合页（10 条整句）",
+      "probe": {
+        "overflowPx": 0,
+        "listenBtn": true,
+        "listenDisabled": false,
+        "ghostBtns": 0,
+        "audioTags": 0,
+        "decode": "canplaythrough",
+        "durationSec": 0.81,
+        "pressBefore": "false",
+        "pressDuring": "true",
+        "pressAfter": "false"
+      },
+      "mp3Requests": [
+        {
+          "url": "/audio/1.mp3?v=1790410753242",
+          "status": 200,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/1.mp3?v=1790410753801",
+          "status": 200,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/1.mp3",
+          "status": 206,
+          "fromDiskCache": false
+        }
+      ]
+    },
+    {
+      "path": "/how-to-say-how-much-in-chinese/",
+      "note": "单句页（含逐词表）",
+      "probe": {
+        "overflowPx": 0,
+        "listenBtn": true,
+        "listenDisabled": false,
+        "ghostBtns": 2,
+        "audioTags": 0,
+        "decode": "canplaythrough",
+        "durationSec": 0.62,
+        "pressBefore": "false",
+        "pressDuring": "true",
+        "pressAfter": "false"
+      },
+      "mp3Requests": [
+        {
+          "url": "/audio/words/duoshao.mp3?v=1790410759790",
+          "status": 200,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/words/duoshao.mp3?v=1790410759974",
+          "status": 200,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/1.mp3",
+          "status": 206,
+          "fromDiskCache": true
+        }
+      ]
+    },
+    {
+      "path": "/learn/restaurant/",
+      "note": "学习页（客户端渲染）",
+      "probe": {
+        "overflowPx": 0,
+        "listenBtn": true,
+        "listenDisabled": false,
+        "ghostBtns": 0,
+        "audioTags": 0,
+        "decode": "canplaythrough",
+        "durationSec": 0.81,
+        "pressBefore": "false",
+        "pressDuring": "true",
+        "pressAfter": "false"
+      },
+      "mp3Requests": [
+        {
+          "url": "/audio/1.mp3?v=1790410766297",
+          "status": 200,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/1.mp3?v=1790410766781",
+          "status": 200,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/1.mp3",
+          "status": 206,
+          "fromDiskCache": true
+        }
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "/audio/1.mp3?v=1790410753242",
+      "status": 200,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/1.mp3?v=1790410753801",
+      "status": 200,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/1.mp3",
+      "status": 206,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/words/duoshao.mp3?v=1790410759790",
+      "status": 200,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/words/duoshao.mp3?v=1790410759974",
+      "status": 200,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/1.mp3",
+      "status": 206,
+      "fromDiskCache": true
+    },
+    {
+      "url": "/audio/1.mp3?v=1790410766297",
+      "status": 200,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/1.mp3?v=1790410766781",
+      "status": 200,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/1.mp3",
+      "status": 206,
+      "fromDiskCache": true
+    }
+  ],
+  "errors": [],
+  "verdict": "PASS",
+  "fails": []
+}

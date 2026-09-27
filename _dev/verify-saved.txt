@@ -1,0 +1,305 @@
+{
+  "base": "https://chinesequick.com",
+  "device": {
+    "w": 390,
+    "h": 844
+  },
+  "steps": [
+    {
+      "path": "/learn/restaurant/",
+      "note": "学习页点爱心",
+      "slow": false,
+      "value": {
+        "overflowPx": 0,
+        "found": true,
+        "chinese": "多少钱？",
+        "before": "false",
+        "after": "true",
+        "labelAfter": "Remove from saved phrases",
+        "storage": "{\"version\":1,\"ids\":[1]}",
+        "otherUntouched": 13
+      },
+      "audioRequests": []
+    },
+    {
+      "path": "/saved/",
+      "note": "收藏页应列出它",
+      "slow": false,
+      "value": {
+        "overflowPx": 0,
+        "count": 1,
+        "chinese": [
+          "多少钱？"
+        ],
+        "hasEmptyState": false,
+        "storage": "{\"version\":1,\"ids\":[1]}",
+        "heartFilled": 1
+      },
+      "audioRequests": []
+    },
+    {
+      "path": "/saved/",
+      "note": "刷新后仍在（持久化）",
+      "slow": false,
+      "value": {
+        "overflowPx": 0,
+        "count": 1,
+        "chinese": [
+          "多少钱？"
+        ],
+        "hasEmptyState": false,
+        "storage": "{\"version\":1,\"ids\":[1]}",
+        "heartFilled": 1
+      },
+      "audioRequests": []
+    },
+    {
+      "path": "/how-to-say-i-love-you-in-chinese/",
+      "note": "单句页点爱心",
+      "slow": false,
+      "value": {
+        "found": true,
+        "text": "Save",
+        "after": "true",
+        "textAfter": "Saved",
+        "storage": "{\"version\":1,\"ids\":[1,73]}"
+      },
+      "audioRequests": []
+    },
+    {
+      "path": "/saved/",
+      "note": "收藏页应有两条",
+      "slow": false,
+      "value": {
+        "overflowPx": 0,
+        "count": 2,
+        "chinese": [
+          "多少钱？",
+          "我爱你。"
+        ],
+        "hasEmptyState": false,
+        "storage": "{\"version\":1,\"ids\":[1,73]}",
+        "heartFilled": 2
+      },
+      "audioRequests": []
+    },
+    {
+      "path": "/saved/",
+      "note": "在收藏页取消一条",
+      "slow": false,
+      "value": {
+        "before": 2,
+        "found": true,
+        "after": 1,
+        "hasEmptyState": false,
+        "storage": "{\"version\":1,\"ids\":[73]}"
+      },
+      "audioRequests": []
+    },
+    {
+      "path": "/learn/restaurant/",
+      "note": "做完测验→错题复习卡",
+      "slow": false,
+      "value": {
+        "answered": 5,
+        "wrongCount": 2,
+        "sawResult": true,
+        "reviewHeading": "Review 2 phrases you missed",
+        "headingCount": 2,
+        "listedPhrases": [
+          "不要辣。",
+          "太辣了！"
+        ],
+        "practiseLabel": "Practise these 2",
+        "reviewQuizShown": true,
+        "reviewQuizOptions": 3,
+        "reviewQuizQuestion": "How do you say \"Not spicy, please.\" in Chinese?",
+        "hasBackButton": true,
+        "overflowPx": 0
+      },
+      "audioRequests": []
+    },
+    {
+      "path": "/china-travel-checklist/",
+      "note": "清单：勾选两项",
+      "slow": false,
+      "value": {
+        "overflowPx": 0,
+        "boxes": 17,
+        "progressBefore": "0 / 17 done",
+        "checkedBefore": 0,
+        "firstTitle": "Check your passport validity requirements",
+        "checkedAfter": 2,
+        "progressAfter": "2 / 17 done",
+        "storage": "{\"version\":1,\"done\":[\"passport-validity\",\"visa-rules\"]}"
+      },
+      "audioRequests": []
+    },
+    {
+      "path": "/china-travel-checklist/",
+      "note": "清单：刷新后仍在（持久化）",
+      "slow": false,
+      "value": {
+        "boxes": 17,
+        "checked": 2,
+        "progress": "2 / 17 done",
+        "lineThrough": 2,
+        "storage": "{\"version\":1,\"done\":[\"passport-validity\",\"visa-rules\"]}",
+        "checkedAfterUntick": 1,
+        "progressAfterUntick": "1 / 17 done",
+        "storageAfterUntick": "{\"version\":1,\"done\":[\"visa-rules\"]}"
+      },
+      "audioRequests": []
+    },
+    {
+      "path": "/chinese-travel-phrases/",
+      "note": "连播：自动推进 + 与单句互斥 + 停止",
+      "slow": true,
+      "value": {
+        "overflowPx": 0,
+        "found": true,
+        "label": "Play all 14 phrases",
+        "pressedBefore": "false",
+        "singlePressedDuring": "true",
+        "pressedAfterStart": "true",
+        "singleSamples": [
+          "false",
+          "false",
+          "false",
+          "false",
+          "false",
+          "false"
+        ],
+        "singleStoppedByPlayAll": "false",
+        "advanced": [
+          2,
+          3,
+          4
+        ],
+        "nowPlaying": true,
+        "currentLine": "一张票多少钱？",
+        "pressedAfterStop": "false",
+        "panelGoneAfterStop": true,
+        "labelAfterStop": "▶ Play all 14"
+      },
+      "audioRequests": [
+        {
+          "url": "https://chinesequick.com/audio/11.mp3",
+          "status": 200
+        },
+        {
+          "url": "https://chinesequick.com/audio/12.mp3",
+          "status": 200
+        },
+        {
+          "url": "https://chinesequick.com/audio/13.mp3",
+          "status": 200
+        },
+        {
+          "url": "https://chinesequick.com/audio/14.mp3",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/chinese-numbers/",
+      "note": "数字页：点数字发音 + 互斥",
+      "slow": false,
+      "value": {
+        "overflowPx": 0,
+        "h1": "Chinese numbers: how to count to 10,000",
+        "playButtons": 24,
+        "firstLabel": "Play 零",
+        "firstDisabled": false,
+        "samples": [
+          "true"
+        ],
+        "pressedAfter": "true",
+        "firstAfterSecond": "false",
+        "secondAfterSecond": "true"
+      },
+      "audioRequests": [
+        {
+          "url": "https://chinesequick.com/audio/numbers/ling.mp3",
+          "status": 206
+        },
+        {
+          "url": "https://chinesequick.com/audio/numbers/yi.mp3",
+          "status": 206
+        }
+      ]
+    },
+    {
+      "path": "/scenarios/ordering-food/",
+      "note": "场景页：步骤渲染 + 发音 + 收藏",
+      "slow": false,
+      "value": {
+        "overflowPx": 0,
+        "h1": "Ordering food in Chinese: from menu to bill",
+        "sayBlocks": 9,
+        "hearBlocks": 9,
+        "statedSteps": 9,
+        "statedPhrases": 9,
+        "nextScenario": 1,
+        "foundListen": true,
+        "samples": [
+          "true",
+          "true",
+          "true",
+          "true",
+          "true",
+          "true"
+        ],
+        "foundSave": true,
+        "savePressed": "true",
+        "savedRaw": "{\"version\":1,\"ids\":[4,73]}"
+      },
+      "audioRequests": [
+        {
+          "url": "https://chinesequick.com/audio/4.mp3",
+          "status": 200
+        }
+      ]
+    }
+  ],
+  "consoleErrors": [],
+  "networkNoise": [],
+  "fails": [],
+  "analyticsBlocked": true,
+  "audioResponses": [
+    {
+      "url": "https://chinesequick.com/audio/11.mp3",
+      "status": 200
+    },
+    {
+      "url": "https://chinesequick.com/audio/12.mp3",
+      "status": 200
+    },
+    {
+      "url": "https://chinesequick.com/audio/13.mp3",
+      "status": 200
+    },
+    {
+      "url": "https://chinesequick.com/audio/14.mp3",
+      "status": 200
+    },
+    {
+      "url": "https://chinesequick.com/audio/numbers/ling.mp3",
+      "status": 206
+    },
+    {
+      "url": "https://chinesequick.com/audio/numbers/yi.mp3",
+      "status": 206
+    },
+    {
+      "url": "https://chinesequick.com/audio/4.mp3",
+      "status": 200
+    }
+  ],
+  "verdict": "PASS",
+  "analytics": {
+    "attempts": 28,
+    "responses": 0,
+    "blocked": true
+  }
+}

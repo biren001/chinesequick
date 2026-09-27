@@ -1,0 +1,9 @@
+app/sitemap.ts: YES
+app/robots.ts: YES
+app/layout.tsx: YES
+lib/site.ts: YES
+public/robots.txt: NO
+public/llms.txt: NO
+app/[seo]/page.tsx: YES
+components/SeoCategoryView.tsx: YES
+components/PhraseView.tsx: YES

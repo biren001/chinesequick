@@ -1,0 +1,5 @@
+peOffset=120
+signature=PE..
+machineCode=34404 name=x86-64
+optionalMagic=0x20b PE32plus-64bit
+processArch=x64 platform=win32

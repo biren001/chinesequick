@@ -1,0 +1,45 @@
+{
+ "sitemapPages": 133,
+ "pagesScanned": 137,
+ "orphanCount": 0,
+ "orphans": [],
+ "brokenInternalLinks": [],
+ "minInbound": 5,
+ "maxInbound": 150,
+ "homeLinksToCategoryPages": [
+  "chinese-restaurant-phrases",
+  "chinese-travel-phrases",
+  "chinese-hotel-phrases",
+  "chinese-shopping-phrases",
+  "chinese-money-phrases",
+  "chinese-everyday-phrases",
+  "chinese-emergency-phrases"
+ ],
+ "sampleInbound": [
+  [
+   "https://chinesequick.com",
+   141
+  ],
+  [
+   "https://chinesequick.com/china-travel-checklist",
+   147
+  ],
+  [
+   "https://chinesequick.com/chinese-numbers",
+   10
+  ],
+  [
+   "https://chinesequick.com/scenarios",
+   150
+  ],
+  [
+   "https://chinesequick.com/scenarios/arriving-at-the-airport",
+   14
+  ],
+  [
+   "https://chinesequick.com/scenarios/taking-a-taxi",
+   16
+  ]
+ ],
+ "lowInbound": []
+}

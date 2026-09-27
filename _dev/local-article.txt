@@ -1,0 +1,6 @@
+﻿LOCAL out/ EXISTS len=30483
+a everyday: False   an everyday: True
+[1] text":"\"Thank you\" in Chinese is 璋㈣阿銆?鈥?written in pinyin as Xi猫xie. It is an everyday phrase you would use in China."}},{"@type":"Question","name":"What does 璋㈣阿銆?mean in C
+[2] quot;Thank you&quot; in Chinese is 璋㈣阿銆?鈥?written in pinyin as Xi猫xie. It is an everyday phrase you would use in China.</dd></div><div class="rounded-2xl border border-line bg
+[3] :\"\\\"Thank you\\\" in Chinese is 璋㈣阿銆?鈥?written in pinyin as Xi猫xie. It is an everyday phrase you would use in China.\"}},{\"@type\":\"Question\",\"name\":\"What does 璋㈣阿銆?m
+[4] :\"\\\"Thank you\\\" in Chinese is 璋㈣阿銆?鈥?written in pinyin as Xi猫xie. It is an everyday phrase you would use in China.\"}]]}],\"$L16\",\"$L17\"]}]]}],false,\"$L18\",\"$L19\"]

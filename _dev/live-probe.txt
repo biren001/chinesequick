@@ -1,0 +1,42 @@
+﻿URL: https://chinesequick.com/
+STATUS: 200  LEN: 40477
+TITLE: ChineseQuick — learn Chinese for everyday life in China
+DESC: Learn the Mandarin you&#x27;ll use in China: restaurant, taxi, hotel and emergency phrases with pinyin and audio, plus a pre-trip checklist. Free, no sign-up.
+OLD_BRAND: True  A_EVERYDAY: False  AN_EVERYDAY: False
+---
+URL: https://chinesequick.com/how-to-say-thank-you-in-chinese/
+STATUS: 200  LEN: 30775
+TITLE: How to say &quot;Thank you&quot; in Chinese
+DESC: &quot;Thank you&quot; in Chinese is 谢谢。 (Xièxie). Pronunciation, pinyin and when to use it — everyday Chinese.
+OLD_BRAND: False  A_EVERYDAY: True  AN_EVERYDAY: False
+---
+URL: https://chinesequick.com/learn/everyday/
+STATUS: 200  LEN: 121416
+TITLE: 30 Everyday phrases in Chinese | ChineseQuick
+DESC: Learn 30 practical Chinese everyday phrases with pinyin, English and audio. Greetings, thanks and the small words you use all day.
+OLD_BRAND: False  A_EVERYDAY: False  AN_EVERYDAY: False
+---
+URL: https://chinesequick.com/scenarios/
+STATUS: 200  LEN: 32194
+TITLE: Chinese phrase guides for real situations
+DESC: Step-by-step Chinese phrase guides for the situations you actually hit in China: airport, taxi, hotel, restaurants, paying and getting around.
+OLD_BRAND: False  A_EVERYDAY: False  AN_EVERYDAY: False
+---
+URL: https://chinesequick.com/china-travel-checklist/
+STATUS: 200  LEN: 53200
+TITLE: China Travel Checklist Before Your Trip | ChineseQuick
+DESC: A 17-point checklist for your first trip to China: passport and entry rules, Alipay and WeChat Pay, mobile data, and the Chinese phrases you&#x27;ll actually need.
+OLD_BRAND: False  A_EVERYDAY: False  AN_EVERYDAY: False
+---
+URL: https://chinesequick.com/learn/emergency/
+STATUS: 200  LEN: 66899
+TITLE: 13 Emergency phrases in Chinese | ChineseQuick
+DESC: Learn 13 practical Chinese emergency phrases with pinyin, English and audio. Get help fast: police, doctor, lost and allergies.
+OLD_BRAND: False  A_EVERYDAY: False  AN_EVERYDAY: False
+---
+URL: https://chinesequick.com/contact/
+STATUS: 200  LEN: 21406
+TITLE: Contact | ChineseQuick
+DESC: How to report a wrong or unnatural Chinese phrase, a missing situation, an audio problem or a bug. No email required.
+OLD_BRAND: False  A_EVERYDAY: False  AN_EVERYDAY: False
+---

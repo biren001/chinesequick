@@ -1,0 +1,25 @@
+{
+ "how-to-say-i-dont-eat-meat-in-chinese": {
+  "words": true,
+  "faq": true,
+  "text": 1470,
+  "rows": 4
+ },
+ "how-to-say-hello-in-chinese": {
+  "words": true,
+  "faq": true,
+  "text": 1183,
+  "rows": 2
+ },
+ "how-to-say-where-is-the-bathroom-in-chinese": {
+  "words": true,
+  "faq": true,
+  "text": 1518,
+  "rows": 3
+ },
+ "sitemapHasThankYouPage": false,
+ "sitemapSampleTail": [
+  "https://chinesequick.com/how-to-say-please-say-it-again-in-chinese/",
+  "https://chinesequick.com/how-to-say-very-good-in-chinese/"
+ ]
+}

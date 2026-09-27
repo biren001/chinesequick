@@ -1,0 +1,12 @@
+== 真机脚本 GA 拦截体检 ==
+扫描 50 个脚本，其中 5 个会启动真机 Chrome
+
+✓ check-errors-live.js
+✓ repro-client-error.js
+✓ verify-audio-live.js
+✓ verify-repeat.js
+✓ verify-saved.js
+
+✓ PASS — 所有真机脚本都会拦断统计域名
+
+VERDICT: PASS

@@ -1,0 +1,43 @@
+# ⚠ 本文件内注释一律独占一行：git 只把【行首】的 # 当注释，
+#   `out/   # 说明` 这样的行内注释会被整串当成 pattern，规则静默失效。
+
+# ── 依赖与构建产物：全部可由 package.json + 源码重建 ──
+node_modules/
+.next/
+.next-*/
+out/
+out-prev-*/
+build/
+
+# ── 部署打包产物：pack.js 随时可重建，单份 5 MB、历史 21 份 ──
+deploy-*.zip
+deploy-*.zip.prev-*
+
+# ── 环境变量：.env.local 含 CF_API_TOKEN，绝不入库 ──
+# .env.local.example 是脱敏模板，不匹配本规则，照常提交
+.env*.local
+
+# ── 日志 ──
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# ── _dev/ 的临时产物 ──
+# _dev/ 本身必须入库：54 个 js + 7 个 py 是本项目的发布器、校验器、
+# 内容与音频生成器。丢掉它们，这个项目就只剩一堆无法维护的静态文件。
+# 约定：正式结果文件不带下划线（seocheck.txt / live-version.txt …），
+#       下划线开头的是本轮临时品与一次性探针 → 不入库。
+_dev/_*
+_dev/chrome-*
+
+# ── 手工备份文件：git 本身即备份手段，备份文件不入库 ──
+# _dev/merge-deep.js 等脚本合并数据前会写 <file>.bakN，忽略掉避免历史噪音
+*.bak
+*.bak[0-9]*
+*.backup
+
+# ── 系统 / 编辑器 ──
+.DS_Store
+Thumbs.db
+*.pem
+next-env.d.ts

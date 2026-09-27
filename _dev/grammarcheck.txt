@@ -1,0 +1,17 @@
+{
+  "htmlFiles": 141,
+  "occurrences": 105,
+  "pagesWithFaqSentence": 105,
+  "variants": {
+    "a hotel": 10,
+    "a shopping": 13,
+    "a restaurant": 14,
+    "a money": 11,
+    "a travel": 14,
+    "an everyday": 30,
+    "an emergency": 13
+  },
+  "wrong": 0,
+  "wrongList": [],
+  "verdict": "PASS"
+}

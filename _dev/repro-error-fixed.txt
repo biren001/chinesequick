@@ -1,0 +1,172 @@
+{
+ "base": "http://127.0.0.1:4173",
+ "path": "/learn/restaurant/",
+ "at": "2026-09-26T11:21:32.518Z",
+ "scenarios": [
+  {
+   "name": "baseline",
+   "probe": {
+    "bodyChars": 1516,
+    "bodyChildren": 17,
+    "h1": "Restaurant",
+    "h1Count": 1,
+    "links": 8,
+    "buttons": 74,
+    "nextErrorPage": false,
+    "firstText": "Real-Life Chinese\n🍜\nRestaurant\n\nOrder food, ask for the bill, handle spice levels.\n\nRestaurant Chinese\n0 / 14\nStreak: 1",
+    "translateAttr": "no",
+    "notranslateMeta": true,
+    "mutations": null,
+    "movedEls": null,
+    "errorBoundary": false
+   },
+   "events": [],
+   "after": null
+  },
+  {
+   "name": "returning-user",
+   "probe": {
+    "bodyChars": 1795,
+    "bodyChildren": 17,
+    "h1": "Restaurant",
+    "h1Count": 1,
+    "links": 9,
+    "buttons": 79,
+    "nextErrorPage": false,
+    "firstText": "Real-Life Chinese\n🍜\nRestaurant\n\nOrder food, ask for the bill, handle spice levels.\n\nRestaurant Chinese\n5 / 14\nStreak: 2",
+    "translateAttr": "no",
+    "notranslateMeta": true,
+    "mutations": null,
+    "movedEls": null,
+    "errorBoundary": false
+   },
+   "events": [],
+   "after": null
+  },
+  {
+   "name": "translate-text",
+   "probe": {
+    "bodyChars": 1795,
+    "bodyChildren": 17,
+    "h1": "Restaurant",
+    "h1Count": 1,
+    "links": 9,
+    "buttons": 79,
+    "nextErrorPage": false,
+    "firstText": "Real-Life Chinese\n🍜\nRestaurant\n\nOrder food, ask for the bill, handle spice levels.\n\nRestaurant Chinese\n5 / 14\nStreak: 2",
+    "translateAttr": "no",
+    "notranslateMeta": true,
+    "mutations": 0,
+    "movedEls": null,
+    "errorBoundary": false
+   },
+   "events": [],
+   "after": null
+  },
+  {
+   "name": "translate+click",
+   "probe": {
+    "bodyChars": 1795,
+    "bodyChildren": 17,
+    "h1": "Restaurant",
+    "h1Count": 1,
+    "links": 9,
+    "buttons": 79,
+    "nextErrorPage": false,
+    "firstText": "Real-Life Chinese\n🍜\nRestaurant\n\nOrder food, ask for the bill, handle spice levels.\n\nRestaurant Chinese\n5 / 14\nStreak: 2",
+    "translateAttr": "no",
+    "notranslateMeta": true,
+    "mutations": 0,
+    "movedEls": null,
+    "errorBoundary": false
+   },
+   "events": [],
+   "after": {
+    "bodyChars": 1795,
+    "bodyChildren": 17,
+    "h1": "Restaurant",
+    "h1Count": 1,
+    "links": 9,
+    "buttons": 79,
+    "nextErrorPage": false,
+    "firstText": "Real-Life Chinese\n🍜\nRestaurant\n\nOrder food, ask for the bill, handle spice levels.\n\nRestaurant Chinese\n5 / 14\nStreak: 2",
+    "translateAttr": "no",
+    "notranslateMeta": true,
+    "mutations": 0,
+    "movedEls": null,
+    "errorBoundary": false
+   },
+   "click": "clicked"
+  },
+  {
+   "name": "move-elements+click",
+   "probe": {
+    "bodyChars": 1795,
+    "bodyChildren": 17,
+    "h1": "Restaurant",
+    "h1Count": 1,
+    "links": 9,
+    "buttons": 79,
+    "nextErrorPage": false,
+    "firstText": "Real-Life Chinese\n🍜\nRestaurant\n\nOrder food, ask for the bill, handle spice levels.\n\nRestaurant Chinese\n5 / 14\nStreak: 2",
+    "translateAttr": "no",
+    "notranslateMeta": true,
+    "mutations": null,
+    "movedEls": 0,
+    "errorBoundary": false
+   },
+   "events": [],
+   "after": {
+    "bodyChars": 1795,
+    "bodyChildren": 17,
+    "h1": "Restaurant",
+    "h1Count": 1,
+    "links": 9,
+    "buttons": 79,
+    "nextErrorPage": false,
+    "firstText": "Real-Life Chinese\n🍜\nRestaurant\n\nOrder food, ask for the bill, handle spice levels.\n\nRestaurant Chinese\n5 / 14\nStreak: 2",
+    "translateAttr": "no",
+    "notranslateMeta": true,
+    "mutations": null,
+    "movedEls": 0,
+    "errorBoundary": false
+   },
+   "click": "clicked"
+  },
+  {
+   "name": "text+move+click",
+   "probe": {
+    "bodyChars": 1795,
+    "bodyChildren": 17,
+    "h1": "Restaurant",
+    "h1Count": 1,
+    "links": 9,
+    "buttons": 79,
+    "nextErrorPage": false,
+    "firstText": "Real-Life Chinese\n🍜\nRestaurant\n\nOrder food, ask for the bill, handle spice levels.\n\nRestaurant Chinese\n5 / 14\nStreak: 2",
+    "translateAttr": "no",
+    "notranslateMeta": true,
+    "mutations": 0,
+    "movedEls": 0,
+    "errorBoundary": false
+   },
+   "events": [],
+   "after": {
+    "bodyChars": 1795,
+    "bodyChildren": 17,
+    "h1": "Restaurant",
+    "h1Count": 1,
+    "links": 9,
+    "buttons": 79,
+    "nextErrorPage": false,
+    "firstText": "Real-Life Chinese\n🍜\nRestaurant\n\nOrder food, ask for the bill, handle spice levels.\n\nRestaurant Chinese\n5 / 14\nStreak: 2",
+    "translateAttr": "no",
+    "notranslateMeta": true,
+    "mutations": 0,
+    "movedEls": 0,
+    "errorBoundary": false
+   },
+   "click": "clicked"
+  }
+ ]
+}

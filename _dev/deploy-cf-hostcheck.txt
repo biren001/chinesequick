@@ -1,0 +1,16 @@
+{
+ "at": "2026-09-27T11:30:50.702Z",
+ "dir": "C:\\Users\\Administrator\\WorkBuddy\\2026-09-25-20-49-31\\real-life-chinese\\out",
+ "ok": true,
+ "project": "chinesequick",
+ "expectHost": "chinesequick.com",
+ "siteHost": "chinesequick.com",
+ "sitemapHost": "chinesequick.com",
+ "sitemapCounts": [
+  [
+   "chinesequick.com",
+   133
+  ]
+ ],
+ "problems": []
+}

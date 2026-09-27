@@ -1,0 +1,29 @@
+[
+  { "zh": "零", "py": "líng", "en": "zero", "section": "basics" },
+  { "zh": "一", "py": "yī", "en": "one", "section": "basics" },
+  { "zh": "二", "py": "èr", "en": "two", "section": "basics" },
+  { "zh": "三", "py": "sān", "en": "three", "section": "basics" },
+  { "zh": "四", "py": "sì", "en": "four", "section": "basics" },
+  { "zh": "五", "py": "wǔ", "en": "five", "section": "basics" },
+  { "zh": "六", "py": "liù", "en": "six", "section": "basics" },
+  { "zh": "七", "py": "qī", "en": "seven", "section": "basics" },
+  { "zh": "八", "py": "bā", "en": "eight", "section": "basics" },
+  { "zh": "九", "py": "jiǔ", "en": "nine", "section": "basics" },
+  { "zh": "十", "py": "shí", "en": "ten", "section": "basics" },
+
+  { "zh": "十一", "py": "shí yī", "en": "eleven", "section": "building" },
+  { "zh": "二十", "py": "èr shí", "en": "twenty", "section": "building" },
+  { "zh": "一百", "py": "yì bǎi", "en": "one hundred", "section": "building" },
+  { "zh": "一千", "py": "yì qiān", "en": "one thousand", "section": "building" },
+  { "zh": "一万", "py": "yí wàn", "en": "ten thousand", "section": "building" },
+
+  { "zh": "块", "py": "kuài", "en": "yuan (spoken)", "section": "money" },
+  { "zh": "元", "py": "yuán", "en": "yuan (written)", "section": "money" },
+  { "zh": "角", "py": "jiǎo", "en": "10 fen / a dime", "section": "money" },
+  { "zh": "分", "py": "fēn", "en": "fen / cent, and minute", "section": "money" },
+  { "zh": "两", "py": "liǎng", "en": "two (before a measure word)", "section": "money" },
+  { "zh": "半", "py": "bàn", "en": "half", "section": "money" },
+
+  { "zh": "点", "py": "diǎn", "en": "o'clock", "section": "time" },
+  { "zh": "号", "py": "hào", "en": "date (of the month)", "section": "time" }
+]

@@ -1,0 +1,14 @@
+sitemap 条数        : 133
+产物内容页          : 136
+  ├ 可收录（无 noindex）: 133
+  └ 明确 noindex       : 3  ["/404/","/saved/","/thank-you/"]
+跳转页              : 4
+
+【A】可收录页全部在 sitemap 里 ✓（133 条）
+【B】sitemap 无死链 ✓
+【C】noindex 页均未进 sitemap ✓
+【E】跳转页未进 sitemap ✓
+【D】无重复条目 ✓
+
+VERDICT: PASS —— sitemap / 产物 / noindex 声明三方一致（133 条）
+          可收录 133 ⊂ sitemap 133；noindex 3 条已排除在外 ✓

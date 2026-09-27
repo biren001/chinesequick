@@ -1,0 +1,421 @@
+[
+  { "id": 1, "category": "restaurant", "chinese": "多少钱？", "pinyin": "Duōshao qián?", "english": "How much?", "audio": null,
+    "tip": "The fastest way to ask a price. Point at the item while you say it — no full sentence needed.",
+    "words": [{ "zh": "多少", "py": "duōshao", "en": "how much / how many" }, { "zh": "钱", "py": "qián", "en": "money" }] },
+
+  { "id": 2, "category": "restaurant", "chinese": "我要这个。", "pinyin": "Wǒ yào zhège.", "english": "I want this one.", "audio": null,
+    "tip": "Point at the menu item while you say it. Works in restaurants, markets and shops alike.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "要", "py": "yào", "en": "to want" }, { "zh": "这个", "py": "zhège", "en": "this one" }] },
+
+  { "id": 3, "category": "restaurant", "chinese": "不要辣。", "pinyin": "Bú yào là.", "english": "Not spicy, please.", "audio": null,
+    "tip": "Say it when you order. In Sichuan and Hunan restaurants they may ask 要辣吗? (\"Spicy?\") first.",
+    "words": [{ "zh": "不", "py": "bù", "en": "not" }, { "zh": "要", "py": "yào", "en": "to want" }, { "zh": "辣", "py": "là", "en": "spicy" }] },
+
+  { "id": 4, "category": "restaurant", "chinese": "有菜单吗？", "pinyin": "Yǒu càidān ma?", "english": "Do you have a menu?", "audio": null,
+    "tip": "The 吗 at the end turns a statement into a question — the simplest question form in Chinese.",
+    "words": [{ "zh": "有", "py": "yǒu", "en": "to have" }, { "zh": "菜单", "py": "càidān", "en": "menu" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 5, "category": "restaurant", "chinese": "好吃！", "pinyin": "Hǎochī!", "english": "Delicious!", "audio": null,
+    "tip": "Literally \"good to eat\". Saying it during the meal is a genuine compliment in China.",
+    "words": [{ "zh": "好", "py": "hǎo", "en": "good" }, { "zh": "吃", "py": "chī", "en": "to eat" }] },
+
+  { "id": 6, "category": "restaurant", "chinese": "我不吃肉。", "pinyin": "Wǒ bù chī ròu.", "english": "I don't eat meat.", "audio": null,
+    "tip": "Handy because 肉 covers pork, beef and lamb — you don't need to name each animal.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "不", "py": "bù", "en": "not" }, { "zh": "吃", "py": "chī", "en": "to eat" }, { "zh": "肉", "py": "ròu", "en": "meat" }] },
+
+  { "id": 7, "category": "restaurant", "chinese": "请给我水。", "pinyin": "Qǐng gěi wǒ shuǐ.", "english": "Water, please.", "audio": null,
+    "tip": "Chinese restaurants usually bring hot water or tea by default. Ask for 冰水 (bīng shuǐ) if you want ice water.",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "给", "py": "gěi", "en": "to give" }, { "zh": "我", "py": "wǒ", "en": "me" }, { "zh": "水", "py": "shuǐ", "en": "water" }] },
+
+  { "id": 8, "category": "restaurant", "chinese": "可以打包吗？", "pinyin": "Kěyǐ dǎbāo ma?", "english": "Can I get this to go?", "audio": null,
+    "tip": "打包 literally means \"hit-pack\". Doggy bags are normal and free in most Chinese restaurants.",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "打包", "py": "dǎbāo", "en": "to box up leftovers" }, { "zh": "吗", "py": "ma", "en": "question particle" }] },
+
+  { "id": 9, "category": "restaurant", "chinese": "太贵了。", "pinyin": "Tài guì le.", "english": "Too expensive.", "audio": null,
+    "tip": "Say it with a smile — in markets this often starts friendly bargaining rather than ending it.",
+    "words": [{ "zh": "太", "py": "tài", "en": "too" }, { "zh": "贵", "py": "guì", "en": "expensive" }, { "zh": "了", "py": "le", "en": "aspect particle" }] },
+
+  { "id": 10, "category": "restaurant", "chinese": "买单。", "pinyin": "Mǎidān.", "english": "The bill, please.", "audio": null,
+    "tip": "Literally \"buy the bill\". This is the standard way to ask to pay in mainland China; in Taiwan people say 结账 (jiézhàng).",
+    "words": [{ "zh": "买单", "py": "mǎidān", "en": "to settle the bill" }] },
+
+  { "id": 11, "category": "travel", "chinese": "厕所在哪里？", "pinyin": "Cèsuǒ zài nǎlǐ?", "english": "Where is the bathroom?", "audio": null,
+    "tip": "公共厕所 (gōnggòng cèsuǒ, public restroom) is common on Chinese streets and usually free.",
+    "words": [{ "zh": "厕所", "py": "cèsuǒ", "en": "bathroom / toilet" }, { "zh": "在", "py": "zài", "en": "to be at" }, { "zh": "哪里", "py": "nǎlǐ", "en": "where" }] },
+
+  { "id": 12, "category": "travel", "chinese": "我要去机场。", "pinyin": "Wǒ yào qù jīchǎng.", "english": "I need to go to the airport.", "audio": null,
+    "tip": "Show it to a taxi driver together with your flight details.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I" }, { "zh": "要", "py": "yào", "en": "to want / need to" }, { "zh": "去", "py": "qù", "en": "to go" }, { "zh": "机场", "py": "jīchǎng", "en": "airport" }] },
+
+  { "id": 13, "category": "travel", "chinese": "就是这个地址。", "pinyin": "Jiùshì zhège dìzhǐ.", "english": "This is the address.", "slug": "its-this-address", "audio": null,
+    "tip": "Hand your phone over and say this to confirm it is the right place. Chinese addresses are hard to read aloud, so always show the written address as well.",
+    "words": [{ "zh": "就是", "py": "jiùshì", "en": "it is exactly" }, { "zh": "这个", "py": "zhège", "en": "this" }, { "zh": "地址", "py": "dìzhǐ", "en": "address" }] },
+
+  { "id": 14, "category": "travel", "chinese": "一张票多少钱？", "pinyin": "Yì zhāng piào duōshao qián?", "english": "How much is one ticket?", "audio": null,
+    "tip": "张 is a measure word. Chinese needs one between a number and its noun.",
+    "words": [{ "zh": "一", "py": "yī", "en": "one" }, { "zh": "张", "py": "zhāng", "en": "measure word for flat objects" }, { "zh": "票", "py": "piào", "en": "ticket" }, { "zh": "多少", "py": "duōshao", "en": "how much" }, { "zh": "钱", "py": "qián", "en": "money" }] },
+
+  { "id": 15, "category": "travel", "chinese": "火车站在哪儿？", "pinyin": "Huǒchēzhàn zài nǎr?", "english": "Where is the train station?", "audio": null,
+    "tip": "哪儿 is the casual spoken version of 哪里 — you will hear both constantly.",
+    "words": [{ "zh": "火车站", "py": "huǒchēzhàn", "en": "train station" }, { "zh": "在", "py": "zài", "en": "to be at" }, { "zh": "哪儿", "py": "nǎr", "en": "where (spoken)" }] },
+
+  { "id": 16, "category": "travel", "chinese": "我不会说中文。", "pinyin": "Wǒ bú huì shuō Zhōngwén.", "english": "I can't speak Chinese.", "audio": null,
+    "tip": "Say this first and people often switch to simpler words or start helping with gestures.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I" }, { "zh": "不", "py": "bù", "en": "not" }, { "zh": "会", "py": "huì", "en": "can (learned skill)" }, { "zh": "说", "py": "shuō", "en": "to speak" }, { "zh": "中文", "py": "Zhōngwén", "en": "Chinese language" }] },
+
+  { "id": 17, "category": "travel", "chinese": "请帮我一下。", "pinyin": "Qǐng bāng wǒ yíxià.", "english": "Please help me.", "audio": null,
+    "tip": "一下 softens a request — it makes asking for help sound polite rather than demanding.",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "帮", "py": "bāng", "en": "to help" }, { "zh": "我", "py": "wǒ", "en": "me" }, { "zh": "一下", "py": "yíxià", "en": "once / a moment" }] },
+
+  { "id": 18, "category": "travel", "chinese": "我要买票。", "pinyin": "Wǒ yào mǎi piào.", "english": "I want to buy a ticket.", "audio": null,
+    "tip": "Works at train stations, bus terminals, cinemas and tourist attractions.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I" }, { "zh": "要", "py": "yào", "en": "to want" }, { "zh": "买", "py": "mǎi", "en": "to buy" }, { "zh": "票", "py": "piào", "en": "ticket" }] },
+
+  { "id": 19, "category": "travel", "chinese": "什么时候出发？", "pinyin": "Shénme shíhou chūfā?", "english": "When do we leave?", "audio": null,
+    "tip": "Ask this at bus and train stations where departure times aren't posted in English.",
+    "words": [{ "zh": "什么", "py": "shénme", "en": "what" }, { "zh": "时候", "py": "shíhou", "en": "time / moment" }, { "zh": "出发", "py": "chūfā", "en": "to set off" }] },
+
+  { "id": 20, "category": "travel", "chinese": "这是我的护照。", "pinyin": "Zhè shì wǒ de hùzhào.", "english": "This is my passport.", "audio": null,
+    "tip": "的 links the owner to the thing — the same pattern builds \"my bag\", \"my ticket\" and \"my hotel\".",
+    "words": [{ "zh": "这", "py": "zhè", "en": "this" }, { "zh": "是", "py": "shì", "en": "to be" }, { "zh": "我的", "py": "wǒ de", "en": "my" }, { "zh": "护照", "py": "hùzhào", "en": "passport" }] },
+
+  { "id": 21, "category": "hotel", "chinese": "我订了房间。", "pinyin": "Wǒ dìng le fángjiān.", "english": "I booked a room.", "audio": null,
+    "tip": "了 shows the booking already happened. Say it at check-in with your confirmation ready.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I" }, { "zh": "订", "py": "dìng", "en": "to book" }, { "zh": "了", "py": "le", "en": "completed action" }, { "zh": "房间", "py": "fángjiān", "en": "room" }] },
+
+  { "id": 22, "category": "hotel", "chinese": "有空房吗？", "pinyin": "Yǒu kòngfáng ma?", "english": "Do you have a room available?", "audio": null,
+    "tip": "A walk-in phrase. 满 (mǎn, full) is the answer you don't want — if they say 满了, try the next hotel.",
+    "words": [{ "zh": "有", "py": "yǒu", "en": "to have" }, { "zh": "空房", "py": "kòngfáng", "en": "vacant room" }, { "zh": "吗", "py": "ma", "en": "question particle" }] },
+
+  { "id": 23, "category": "hotel", "chinese": "我要入住。", "pinyin": "Wǒ yào rùzhù.", "english": "I'd like to check in.", "audio": null,
+    "tip": "Have your passport ready — hotels in China must register every guest, including foreigners.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I" }, { "zh": "要", "py": "yào", "en": "to want" }, { "zh": "入住", "py": "rùzhù", "en": "to check in" }] },
+
+  { "id": 24, "category": "hotel", "chinese": "我要退房。", "pinyin": "Wǒ yào tuìfáng.", "english": "I'd like to check out.", "audio": null,
+    "tip": "退房 literally means \"return the room\". Hand back the key card while you say it.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I" }, { "zh": "要", "py": "yào", "en": "to want" }, { "zh": "退房", "py": "tuìfáng", "en": "to check out" }] },
+
+  { "id": 25, "category": "hotel", "chinese": "房间在几楼？", "pinyin": "Fángjiān zài jǐ lóu?", "english": "What floor is the room on?", "audio": null,
+    "tip": "Chinese lifts often label floors as 1F, 2F. Note that 一楼 is the ground floor, not the first floor up.",
+    "words": [{ "zh": "房间", "py": "fángjiān", "en": "room" }, { "zh": "在", "py": "zài", "en": "to be on" }, { "zh": "几", "py": "jǐ", "en": "how many" }, { "zh": "楼", "py": "lóu", "en": "floor / building" }] },
+
+  { "id": 26, "category": "hotel", "chinese": "有 Wi-Fi 吗？", "pinyin": "Yǒu Wi-Fi ma?", "english": "Is there Wi-Fi?", "audio": null,
+    "tip": "\"Wi-Fi\" is pronounced almost the same in Chinese. Staff will usually point at the password.",
+    "words": [{ "zh": "有", "py": "yǒu", "en": "to have" }, { "zh": "Wi-Fi", "py": "Wi-Fi", "en": "Wi-Fi" }, { "zh": "吗", "py": "ma", "en": "question particle" }] },
+
+  { "id": 27, "category": "hotel", "chinese": "空调坏了。", "pinyin": "Kōngtiáo huài le.", "english": "The air conditioner is broken.", "audio": null,
+    "tip": "Swap in any noun and the pattern holds — 灯坏了 (the light), 马桶坏了 (the toilet).",
+    "words": [{ "zh": "空调", "py": "kōngtiáo", "en": "air conditioner" }, { "zh": "坏", "py": "huài", "en": "broken" }, { "zh": "了", "py": "le", "en": "aspect particle" }] },
+
+  { "id": 28, "category": "hotel", "chinese": "请给我毛巾。", "pinyin": "Qǐng gěi wǒ máojīn.", "english": "A towel, please.", "audio": null,
+    "tip": "Chinese hotels normally provide bath towels but not washcloths — ask housekeeping if you want one.",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "给", "py": "gěi", "en": "to give" }, { "zh": "我", "py": "wǒ", "en": "me" }, { "zh": "毛巾", "py": "máojīn", "en": "towel" }] },
+
+  { "id": 29, "category": "hotel", "chinese": "可以寄存行李吗？", "pinyin": "Kěyǐ jìcún xíngli ma?", "english": "Can I store my luggage?", "audio": null,
+    "tip": "Most hotels hold bags for free after check-out — very handy on your last travel day.",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "寄存", "py": "jìcún", "en": "to store / check (bags)" }, { "zh": "行李", "py": "xíngli", "en": "luggage" }, { "zh": "吗", "py": "ma", "en": "question particle" }] },
+
+  { "id": 30, "category": "hotel", "chinese": "早餐几点开始？", "pinyin": "Zǎocān jǐ diǎn kāishǐ?", "english": "What time does breakfast start?", "audio": null,
+    "tip": "几点 is how you ask \"what time\" for any event — just swap in the activity.",
+    "words": [{ "zh": "早餐", "py": "zǎocān", "en": "breakfast" }, { "zh": "几", "py": "jǐ", "en": "what / how many" }, { "zh": "点", "py": "diǎn", "en": "o'clock" }, { "zh": "开始", "py": "kāishǐ", "en": "to start" }] },
+
+  { "id": 31, "category": "shopping", "chinese": "这个多少钱？", "pinyin": "Zhège duōshao qián?", "english": "How much is this?", "audio": null,
+    "tip": "Add 这个 while pointing — much clearer than asking about nothing in a crowded stall.",
+    "words": [{ "zh": "这个", "py": "zhège", "en": "this one" }, { "zh": "多少", "py": "duōshao", "en": "how much" }, { "zh": "钱", "py": "qián", "en": "money" }] },
+
+  { "id": 32, "category": "shopping", "chinese": "可以便宜一点吗？", "pinyin": "Kěyǐ piányi yìdiǎn ma?", "english": "Can you make it cheaper?", "audio": null,
+    "tip": "The standard opening move in markets. Expect to settle somewhere near the middle.",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "便宜", "py": "piányi", "en": "cheap" }, { "zh": "一点", "py": "yìdiǎn", "en": "a little" }, { "zh": "吗", "py": "ma", "en": "question particle" }] },
+
+  { "id": 33, "category": "shopping", "chinese": "我可以试试吗？", "pinyin": "Wǒ kěyǐ shìshi ma?", "english": "Can I try it on?", "audio": null,
+    "tip": "Repeating a verb (试试) means \"have a little try\" — softer and friendlier than the single form.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I" }, { "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "试试", "py": "shìshi", "en": "to try (reduplicated)" }, { "zh": "吗", "py": "ma", "en": "question particle" }] },
+
+  { "id": 34, "category": "shopping", "chinese": "我随便看看。", "pinyin": "Wǒ suíbiàn kànkan.", "english": "I'm just browsing.", "audio": null,
+    "tip": "This is the polite way to decline a shop assistant who follows you around the store.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I" }, { "zh": "随便", "py": "suíbiàn", "en": "casually" }, { "zh": "看看", "py": "kànkan", "en": "to look around" }] },
+
+  { "id": 35, "category": "shopping", "chinese": "有别的颜色吗？", "pinyin": "Yǒu bié de yánsè ma?", "english": "Do you have another color?", "audio": null,
+    "tip": "Swap 颜色 (color) for 尺码 (chǐmǎ, size) to ask for a different size with the same sentence.",
+    "words": [{ "zh": "有", "py": "yǒu", "en": "to have" }, { "zh": "别的", "py": "bié de", "en": "other" }, { "zh": "颜色", "py": "yánsè", "en": "color" }, { "zh": "吗", "py": "ma", "en": "question particle" }] },
+
+  { "id": 36, "category": "shopping", "chinese": "可以刷卡吗？", "pinyin": "Kěyǐ shuākǎ ma?", "english": "Can I pay by card?", "audio": null,
+    "tip": "Alipay and WeChat Pay dominate daily payments in China. Small shops may be cash-only.",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "刷卡", "py": "shuākǎ", "en": "to swipe a card" }, { "zh": "吗", "py": "ma", "en": "question particle" }] },
+
+  { "id": 37, "category": "shopping", "chinese": "有小号吗？", "pinyin": "Yǒu xiǎo hào ma?", "english": "Do you have a small size?", "audio": null,
+    "tip": "Sizes are 小号 small, 中号 medium, 大号 large. Chinese sizes usually run smaller than US sizes.",
+    "words": [{ "zh": "有", "py": "yǒu", "en": "to have" }, { "zh": "小", "py": "xiǎo", "en": "small" }, { "zh": "号", "py": "hào", "en": "size" }, { "zh": "吗", "py": "ma", "en": "question particle" }] },
+
+  { "id": 38, "category": "shopping", "chinese": "给我一个袋子。", "pinyin": "Gěi wǒ yí ge dàizi.", "english": "Give me a bag, please.", "audio": null,
+    "tip": "Bags are usually free at supermarkets but often charged a few cents at convenience stores.",
+    "words": [{ "zh": "给", "py": "gěi", "en": "to give" }, { "zh": "我", "py": "wǒ", "en": "me" }, { "zh": "一个", "py": "yí ge", "en": "one (measure word)" }, { "zh": "袋子", "py": "dàizi", "en": "bag" }] },
+
+  { "id": 39, "category": "shopping", "chinese": "我要退这个。", "pinyin": "Wǒ yào tuì zhège.", "english": "I want to return this.", "audio": null,
+    "tip": "Keep your receipt (发票 fāpiào). Returns without one are rare in Chinese shops.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I" }, { "zh": "要", "py": "yào", "en": "to want" }, { "zh": "退", "py": "tuì", "en": "to return / refund" }, { "zh": "这个", "py": "zhège", "en": "this one" }] },
+
+  { "id": 40, "category": "shopping", "chinese": "打折吗？", "pinyin": "Dǎzhé ma?", "english": "Is there a discount?", "audio": null,
+    "tip": "打折 means to give a discount. Big malls have fixed prices — ask this in markets, small shops and tourist streets, where a polite ask often works.",
+    "words": [{ "zh": "打折", "py": "dǎzhé", "en": "to give a discount" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 41, "category": "everyday", "chinese": "你好。", "pinyin": "Nǐ hǎo.", "english": "Hello.", "audio": null,
+    "tip": "Literally \"you good\". A safe, universal greeting at any hour of the day.",
+    "words": [{ "zh": "你", "py": "nǐ", "en": "you" }, { "zh": "好", "py": "hǎo", "en": "good" }] },
+
+  { "id": 42, "category": "everyday", "chinese": "谢谢。", "pinyin": "Xièxie.", "english": "Thank you.", "audio": null,
+    "tip": "Say it as one doubled word: xièxie. Add 你 to thank one person directly (谢谢你), or 大家 to thank a whole group (谢谢大家).",
+    "words": [{ "zh": "谢", "py": "xiè", "en": "to thank" }] },
+
+  { "id": 43, "category": "everyday", "chinese": "对不起。", "pinyin": "Duìbuqǐ.", "english": "Sorry.", "audio": null,
+    "tip": "Covers both a real apology and getting someone's attention in a crowd.",
+    "words": [{ "zh": "对不起", "py": "duìbuqǐ", "en": "sorry / excuse me" }] },
+
+  { "id": 44, "category": "everyday", "chinese": "不客气。", "pinyin": "Bú kèqi.", "english": "You're welcome.", "audio": null,
+    "tip": "The standard reply to 谢谢. 客气 literally means \"to stand on ceremony\", so 不客气 is \"don't be so polite\".",
+    "words": [{ "zh": "不", "py": "bù", "en": "not" }, { "zh": "客气", "py": "kèqi", "en": "polite / formal" }] },
+
+  { "id": 45, "category": "everyday", "chinese": "再见。", "pinyin": "Zàijiàn.", "english": "Goodbye.", "audio": null,
+    "tip": "Literally \"see you again\". Among friends you will also hear 拜拜 (báibái), borrowed from \"bye-bye\".",
+    "words": [{ "zh": "再", "py": "zài", "en": "again" }, { "zh": "见", "py": "jiàn", "en": "to see" }] },
+
+  { "id": 46, "category": "everyday", "chinese": "你好吗？", "pinyin": "Nǐ hǎo ma?", "english": "How are you?", "audio": null,
+    "tip": "Textbook Chinese. Between native speakers you will hear 最近怎么样 or a remark about something visible; 你好吗 turns up mostly in teaching material and in what people say to foreign learners.",
+    "words": [{ "zh": "你", "py": "nǐ", "en": "you" }, { "zh": "好", "py": "hǎo", "en": "good" }, { "zh": "吗", "py": "ma", "en": "question particle" }] },
+
+  { "id": 47, "category": "everyday", "chinese": "你叫什么名字？", "pinyin": "Nǐ jiào shénme míngzi?", "english": "What's your name?", "audio": null,
+    "tip": "Answer with 我叫… (wǒ jiào…) plus your name. To give your surname politely, say 我姓… (wǒ xìng…).",
+    "words": [{ "zh": "你", "py": "nǐ", "en": "you" }, { "zh": "叫", "py": "jiào", "en": "to be called" }, { "zh": "什么", "py": "shénme", "en": "what" }, { "zh": "名字", "py": "míngzi", "en": "name" }] },
+
+  { "id": 48, "category": "everyday", "chinese": "我不懂。", "pinyin": "Wǒ bù dǒng.", "english": "I don't understand.", "audio": null,
+    "tip": "Short and clear. Pair it with 请再说一遍 and most people will slow down for you.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I" }, { "zh": "不", "py": "bù", "en": "not" }, { "zh": "懂", "py": "dǒng", "en": "to understand" }] },
+
+  { "id": 49, "category": "everyday", "chinese": "请再说一遍。", "pinyin": "Qǐng zài shuō yí biàn.", "english": "Please say it again.", "audio": null,
+    "tip": "遍 is the measure word for an action done once, from beginning to end.",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "再", "py": "zài", "en": "again" }, { "zh": "说", "py": "shuō", "en": "to speak" }, { "zh": "一遍", "py": "yí biàn", "en": "one time through" }] },
+
+  { "id": 50, "category": "everyday", "chinese": "不好意思。", "pinyin": "Bù hǎoyìsi.", "english": "Excuse me.", "audio": null,
+    "tip": "The most useful two-syllable phrase in China: it gets attention, makes a light apology, and softens a refusal. Use it before a question or when you squeeze past someone.",
+    "words": [{ "zh": "不", "py": "bù", "en": "not" }, { "zh": "好意思", "py": "hǎoyìsi", "en": "to feel embarrassed / to have the nerve" }] },
+
+  { "id": 51, "category": "restaurant", "chinese": "有什么推荐？", "pinyin": "Yǒu shénme tuījiàn?", "english": "What do you recommend?", "audio": null,
+    "tip": "推荐 means to recommend. Ask it and the server will usually point at one or two dishes — the fastest way to eat well without reading a long menu.",
+    "words": [{ "zh": "有", "py": "yǒu", "en": "to have" }, { "zh": "什么", "py": "shénme", "en": "what" }, { "zh": "推荐", "py": "tuījiàn", "en": "to recommend" }] },
+
+  { "id": 52, "category": "restaurant", "chinese": "我吃素。", "pinyin": "Wǒ chī sù.", "english": "I'm vegetarian.", "audio": null,
+    "tip": "素 means vegetarian. In a noisy restaurant 素 is easy to miss, so add 不要肉 (\"no meat\") if you want to be certain.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "吃", "py": "chī", "en": "to eat" }, { "zh": "素", "py": "sù", "en": "vegetarian" }] },
+
+  { "id": 53, "category": "restaurant", "chinese": "可以加饭吗？", "pinyin": "Kěyǐ jiā fàn ma?", "english": "Can I get more rice?", "audio": null,
+    "tip": "Rice refills are usually free. 加 means to add, so the same pattern gives you 加汤 (more soup) or 加水 (more water).",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "加", "py": "jiā", "en": "to add" }, { "zh": "饭", "py": "fàn", "en": "rice / meal" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 54, "category": "restaurant", "chinese": "太辣了！", "pinyin": "Tài là le!", "english": "This is too spicy!", "audio": null,
+    "tip": "Unlike 不要辣 (said when ordering), this one is for food that is already on the table. 太…了 is the \"too much\" frame — 太贵了 works the same way.",
+    "words": [{ "zh": "太", "py": "tài", "en": "too / so" }, { "zh": "辣", "py": "là", "en": "spicy" }, { "zh": "了", "py": "le", "en": "change-of-state particle" }] },
+
+  { "id": 55, "category": "travel", "chinese": "请带我去这个地址。", "pinyin": "Qǐng dài wǒ qù zhège dìzhǐ.", "english": "Please take me to this address.", "audio": null,
+    "tip": "The sentence that makes taxis easy: show the address on your phone and read it out. 带 means to take someone somewhere.",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "带", "py": "dài", "en": "to take / to bring" }, { "zh": "我", "py": "wǒ", "en": "me" }, { "zh": "去", "py": "qù", "en": "to go" }, { "zh": "这个", "py": "zhège", "en": "this" }, { "zh": "地址", "py": "dìzhǐ", "en": "address" }] },
+
+  { "id": 56, "category": "travel", "chinese": "多久能到？", "pinyin": "Duōjiǔ néng dào?", "english": "How long does it take to get there?", "audio": null,
+    "tip": "Ask before you get in, not after. 多久 asks about a length of time; 几点 asks what time (on the clock).",
+    "words": [{ "zh": "多久", "py": "duōjiǔ", "en": "how long" }, { "zh": "能", "py": "néng", "en": "can / to be able to" }, { "zh": "到", "py": "dào", "en": "to arrive" }] },
+
+  { "id": 57, "category": "travel", "chinese": "我的手机没电了。", "pinyin": "Wǒ de shǒujī méi diàn le.", "english": "My phone is dead.", "audio": null,
+    "tip": "没电 literally means \"no electricity\". Useful when you need to show a map, charge your phone or pay — nearly every payment in China runs through a phone.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "的", "py": "de", "en": "possessive particle" }, { "zh": "手机", "py": "shǒujī", "en": "mobile phone" }, { "zh": "没电", "py": "méi diàn", "en": "out of battery" }, { "zh": "了", "py": "le", "en": "change-of-state particle" }] },
+
+  { "id": 58, "category": "travel", "chinese": "可以帮我拍张照片吗？", "pinyin": "Kěyǐ bāng wǒ pāi zhāng zhàopiàn ma?", "english": "Can you take a photo of me?", "audio": null,
+    "tip": "Hand your phone over first, then ask. 张 is the measure word for photos — 拍张照片 is \"take a photo\", 拍照 is the general verb.",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "帮", "py": "bāng", "en": "to help" }, { "zh": "我", "py": "wǒ", "en": "me" }, { "zh": "拍", "py": "pāi", "en": "to take (a photo)" }, { "zh": "照片", "py": "zhàopiàn", "en": "photo" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 59, "category": "shopping", "chinese": "有大号的吗？", "pinyin": "Yǒu dàhào de ma?", "english": "Do you have a larger size?", "audio": null,
+    "tip": "大号 = large, 中号 = medium, 小号 = small. Swap 大 for 小 and you already have the other question.",
+    "words": [{ "zh": "有", "py": "yǒu", "en": "to have" }, { "zh": "大号", "py": "dàhào", "en": "large size" }, { "zh": "的", "py": "de", "en": "one / the ... one" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 60, "category": "shopping", "chinese": "可以退税吗？", "pinyin": "Kěyǐ tuìshuì ma?", "english": "Can I get a tax refund?", "audio": null,
+    "tip": "Only shops with a 退税 sign can do this, and you need to spend at least 500 yuan in one store on one day. Bring your passport — the refund happens at the airport.",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "退税", "py": "tuìshuì", "en": "tax refund" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 61, "category": "shopping", "chinese": "收现金吗？", "pinyin": "Shōu xiànjīn ma?", "english": "Do you take cash?", "audio": null,
+    "tip": "In China the question is usually the other way round — many places prefer 微信 or 支付宝. Ask before you queue, and keep some cash for small stalls and taxis.",
+    "words": [{ "zh": "收", "py": "shōu", "en": "to accept / to receive" }, { "zh": "现金", "py": "xiànjīn", "en": "cash" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 62, "category": "everyday", "chinese": "是。", "pinyin": "Shì.", "english": "Yes.", "audio": null,
+    "tip": "Chinese rarely answers with a bare yes — it repeats the verb instead: 是 (it is), 有 (I have), 可以 (sure). 对 (duì) means \"correct\" and is what you'll hear most.",
+    "words": [{ "zh": "是", "py": "shì", "en": "to be / yes" }] },
+
+  { "id": 63, "category": "everyday", "chinese": "不是。", "pinyin": "Bú shì.", "english": "No.", "audio": null,
+    "tip": "不是 negates 是 only. For \"I don't have it\" say 没有 (méiyǒu), and for a flat refusal 不用了，谢谢.",
+    "words": [{ "zh": "不", "py": "bù", "en": "not" }, { "zh": "是", "py": "shì", "en": "to be" }] },
+
+  { "id": 64, "category": "everyday", "chinese": "请问", "pinyin": "Qǐngwèn", "english": "May I ask?", "audio": null,
+    "tip": "Drop 请问 in front of any question and it instantly sounds polite — literally \"please may I ask\". Every local does this in shops and station queues.",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "问", "py": "wèn", "en": "to ask" }] },
+
+  { "id": 65, "category": "everyday", "chinese": "早上好。", "pinyin": "Zǎoshang hǎo.", "english": "Good morning.", "audio": null,
+    "tip": "Before roughly 10 a.m. 你好 works at any hour, but 早上好 sounds warmer in the morning — shopkeepers and hotel staff notice the difference.",
+    "words": [{ "zh": "早上", "py": "zǎoshang", "en": "morning" }, { "zh": "好", "py": "hǎo", "en": "good" }] },
+
+  { "id": 66, "category": "everyday", "chinese": "晚安。", "pinyin": "Wǎn'ān.", "english": "Good night.", "audio": null,
+    "tip": "Only for going to sleep or leaving late. When you arrive somewhere at night, the greeting is 晚上好 (wǎnshang hǎo) — a different phrase.",
+    "words": [{ "zh": "晚", "py": "wǎn", "en": "late / evening" }, { "zh": "安", "py": "ān", "en": "peace / safe" }] },
+
+  { "id": 67, "category": "everyday", "chinese": "好的。", "pinyin": "Hǎo de.", "english": "Okay.", "audio": null,
+    "tip": "好 alone works too, but 好的 sounds friendlier and softer — the one to use with staff, drivers and hosts.",
+    "words": [{ "zh": "好", "py": "hǎo", "en": "good" }, { "zh": "的", "py": "de", "en": "particle" }] },
+
+  { "id": 68, "category": "everyday", "chinese": "我不知道。", "pinyin": "Wǒ bù zhīdào.", "english": "I don't know.", "audio": null,
+    "tip": "Different from 我不懂 (\"I don't understand\"). This one means \"I have no idea\" — say it and people will usually point you to someone else.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "不", "py": "bù", "en": "not" }, { "zh": "知道", "py": "zhīdào", "en": "to know" }] },
+
+  { "id": 69, "category": "everyday", "chinese": "我中文说得不好。", "pinyin": "Wǒ Zhōngwén shuō de bù hǎo.", "english": "My Chinese isn't good.", "audio": null,
+    "tip": "Say it early and people switch to simpler Chinese or write things down instead of giving up on you mid-sentence.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "中文", "py": "Zhōngwén", "en": "Chinese language" }, { "zh": "说", "py": "shuō", "en": "to speak" }, { "zh": "得", "py": "de", "en": "degree particle" }, { "zh": "不好", "py": "bù hǎo", "en": "not good" }] },
+
+  { "id": 70, "category": "everyday", "chinese": "你会说英语吗？", "pinyin": "Nǐ huì shuō Yīngyǔ ma?", "english": "Do you speak English?", "audio": null,
+    "tip": "会 is about a learned skill. Swap it for 能 and the question shifts from \"do you speak English?\" to \"could you say it in English?\".",
+    "words": [{ "zh": "你", "py": "nǐ", "en": "you" }, { "zh": "会", "py": "huì", "en": "can / to know how to" }, { "zh": "说", "py": "shuō", "en": "to speak" }, { "zh": "英语", "py": "Yīngyǔ", "en": "English" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 71, "category": "everyday", "chinese": "请说慢一点。", "pinyin": "Qǐng shuō màn yìdiǎn.", "english": "Please speak more slowly.", "audio": null,
+    "tip": "一点 means \"a little\" and softens the request — a bare 说慢 sounds like an order. Same pattern: 便宜一点 (a bit cheaper).",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "说", "py": "shuō", "en": "to speak" }, { "zh": "慢", "py": "màn", "en": "slow" }, { "zh": "一点", "py": "yìdiǎn", "en": "a little" }] },
+
+  { "id": 72, "category": "everyday", "chinese": "请写下来。", "pinyin": "Qǐng xiě xiàlái.", "english": "Please write it down.", "audio": null,
+    "tip": "The most useful sentence when you are stuck. People write faster than they can explain, and characters you can copy are characters you can look up.",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "写", "py": "xiě", "en": "to write" }, { "zh": "下来", "py": "xiàlái", "en": "down / on paper" }] },
+
+  { "id": 73, "category": "everyday", "chinese": "我爱你。", "pinyin": "Wǒ ài nǐ.", "english": "I love you.", "audio": null,
+    "tip": "For partners and family. Between friends Chinese says 我很喜欢你 (\"I really like you\") — 爱 is strong and saying it casually can land oddly.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "爱", "py": "ài", "en": "to love" }, { "zh": "你", "py": "nǐ", "en": "you" }] },
+
+  { "id": 74, "category": "everyday", "chinese": "干杯！", "pinyin": "Gānbēi!", "english": "Cheers!", "audio": null,
+    "tip": "Literally \"dry the glass\". Say it as the glasses meet — and in China you are expected to actually drink when someone toasts you, so pour accordingly.",
+    "words": [{ "zh": "干", "py": "gān", "en": "dry / to drain" }, { "zh": "杯", "py": "bēi", "en": "glass / cup" }] },
+
+  { "id": 75, "category": "everyday", "chinese": "生日快乐！", "pinyin": "Shēngrì kuàilè!", "english": "Happy birthday!", "audio": null,
+    "tip": "快乐 is the \"happy\" in every greeting: swap the front and you get 新年快乐 (Happy New Year) and 节日快乐 (Happy holidays).",
+    "words": [{ "zh": "生日", "py": "shēngrì", "en": "birthday" }, { "zh": "快乐", "py": "kuàilè", "en": "happy" }] },
+
+  { "id": 76, "category": "everyday", "chinese": "没关系。", "pinyin": "Méi guānxi.", "english": "It's fine.", "audio": null,
+    "tip": "The standard reply to 对不起 (sorry) — and what you say when someone apologises for bumping into you. Not to be confused with 不客气, which replies to thank you.",
+    "words": [{ "zh": "没", "py": "méi", "en": "not have" }, { "zh": "关系", "py": "guānxi", "en": "matter / relation" }] },
+
+  { "id": 77, "category": "everyday", "chinese": "请等一下。", "pinyin": "Qǐng děng yíxià.", "english": "Please wait a moment.", "audio": null,
+    "tip": "一下 softens a request the way \"just\" does in English — 等 alone sounds abrupt, 等一下 is what you'll hear all day in China.",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "等", "py": "děng", "en": "to wait" }, { "zh": "一下", "py": "yíxià", "en": "a moment" }] },
+
+  { "id": 78, "category": "everyday", "chinese": "不用了，谢谢。", "pinyin": "Bú yòng le, xièxie.", "english": "No thanks.", "audio": null,
+    "tip": "The polite way to turn down touts, taxi drivers and street sellers. 不用 literally means \"no need\" — firmer than it sounds, and it ends the conversation cleanly.",
+    "words": [{ "zh": "不用", "py": "bú yòng", "en": "no need" }, { "zh": "了", "py": "le", "en": "particle" }, { "zh": "谢谢", "py": "xièxie", "en": "thank you" }] },
+
+  { "id": 79, "category": "everyday", "chinese": "认识你很高兴。", "pinyin": "Rènshi nǐ hěn gāoxìng.", "english": "Nice to meet you.", "audio": null,
+    "tip": "Literally \"knowing you is very happy\". On business cards and at formal meetings you'll also see the short version 幸会 (xìnghuì).",
+    "words": [{ "zh": "认识", "py": "rènshi", "en": "to know someone" }, { "zh": "你", "py": "nǐ", "en": "you" }, { "zh": "很", "py": "hěn", "en": "very" }, { "zh": "高兴", "py": "gāoxìng", "en": "happy" }] },
+
+  { "id": 80, "category": "everyday", "chinese": "我是游客。", "pinyin": "Wǒ shì yóukè.", "english": "I'm a tourist.", "audio": null,
+    "tip": "Said early, it buys patience — it explains your accent before anyone has to guess, and people slow down for you.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "是", "py": "shì", "en": "to be" }, { "zh": "游客", "py": "yóukè", "en": "tourist" }] },
+
+  { "id": 81, "category": "everyday", "chinese": "太棒了！", "pinyin": "Tài bàng le!", "english": "That's great!", "audio": null,
+    "tip": "太…了 is the \"so / too …\" frame. 棒 means excellent — the same frame with a different adjective gives you 太好了 (that's great) and 太辣了 (too spicy).",
+    "words": [{ "zh": "太", "py": "tài", "en": "too / so" }, { "zh": "棒", "py": "bàng", "en": "great / excellent" }, { "zh": "了", "py": "le", "en": "particle" }] },
+
+  { "id": 82, "category": "emergency", "chinese": "救命！", "pinyin": "Jiùmìng!", "english": "Help!", "audio": null,
+    "tip": "Only for real danger — 救命 literally means \"save my life\". For a small favour use 我需要帮助 instead.",
+    "words": [{ "zh": "救", "py": "jiù", "en": "to save" }, { "zh": "命", "py": "mìng", "en": "life" }] },
+
+  { "id": 83, "category": "emergency", "chinese": "我需要帮助。", "pinyin": "Wǒ xūyào bāngzhù.", "english": "I need help.", "audio": null,
+    "tip": "Calmer and more general than 救命. 需要 is \"to need\" — reuse the frame as 我需要看医生 or 我需要一张地图.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "需要", "py": "xūyào", "en": "to need" }, { "zh": "帮助", "py": "bāngzhù", "en": "help" }] },
+
+  { "id": 84, "category": "emergency", "chinese": "请叫警察。", "pinyin": "Qǐng jiào jǐngchá.", "english": "Please call the police.", "audio": null,
+    "tip": "China's emergency numbers: 110 police, 120 ambulance, 119 fire. All three are free from any phone, including a locked one.",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "叫", "py": "jiào", "en": "to call" }, { "zh": "警察", "py": "jǐngchá", "en": "police" }] },
+
+  { "id": 85, "category": "emergency", "chinese": "请叫救护车。", "pinyin": "Qǐng jiào jiùhùchē.", "english": "Please call an ambulance.", "audio": null,
+    "tip": "救护车 is the ambulance and 120 is its number. If words fail completely, saying \"one-two-zero\" out loud is understood everywhere.",
+    "words": [{ "zh": "请", "py": "qǐng", "en": "please" }, { "zh": "叫", "py": "jiào", "en": "to call" }, { "zh": "救护车", "py": "jiùhùchē", "en": "ambulance" }] },
+
+  { "id": 86, "category": "emergency", "chinese": "我迷路了。", "pinyin": "Wǒ mílù le.", "english": "I'm lost.", "audio": null,
+    "tip": "迷路 means to lose your way. Show the Chinese name of your hotel on your phone while you say it — names are far more reliable than directions.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "迷路", "py": "mílù", "en": "to get lost" }, { "zh": "了", "py": "le", "en": "change-of-state particle" }] },
+
+  { "id": 87, "category": "emergency", "chinese": "医院在哪里？", "pinyin": "Yīyuàn zài nǎlǐ?", "english": "Where is the hospital?", "audio": null,
+    "tip": "The same 在哪里 pattern as 厕所在哪里. Swap in 药店 (pharmacy) or 派出所 (local police station) and you are covered.",
+    "words": [{ "zh": "医院", "py": "yīyuàn", "en": "hospital" }, { "zh": "在", "py": "zài", "en": "to be located at" }, { "zh": "哪里", "py": "nǎlǐ", "en": "where" }] },
+
+  { "id": 88, "category": "emergency", "chinese": "我需要看医生。", "pinyin": "Wǒ xūyào kàn yīshēng.", "english": "I need to see a doctor.", "audio": null,
+    "tip": "In China you usually go straight to a hospital's 急诊 (emergency department) rather than booking an appointment with a clinic.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "需要", "py": "xūyào", "en": "to need" }, { "zh": "看", "py": "kàn", "en": "to see" }, { "zh": "医生", "py": "yīshēng", "en": "doctor" }] },
+
+  { "id": 89, "category": "emergency", "chinese": "我过敏。", "pinyin": "Wǒ guòmǐn.", "english": "I'm allergic.", "audio": null,
+    "tip": "Add the thing with 对…过敏: 我对花生过敏. Say it before you order, and show it written down — in a busy kitchen it is easy to lose.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "过敏", "py": "guòmǐn", "en": "to be allergic" }] },
+
+  { "id": 90, "category": "emergency", "chinese": "我对花生过敏。", "pinyin": "Wǒ duì huāshēng guòmǐn.", "english": "I'm allergic to peanuts.", "audio": null,
+    "tip": "Swap 花生 for 海鲜 (seafood), 牛奶 (milk) or 坚果 (nuts). Watch for 花生油 (peanut oil) too — it is common in Chinese cooking.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "对", "py": "duì", "en": "towards / to" }, { "zh": "花生", "py": "huāshēng", "en": "peanut" }, { "zh": "过敏", "py": "guòmǐn", "en": "to be allergic" }] },
+
+  { "id": 91, "category": "emergency", "chinese": "我生病了。", "pinyin": "Wǒ shēngbìng le.", "english": "I'm sick.", "audio": null,
+    "tip": "了 marks the change — you were fine before and you are not now. If it is a fever, 我发烧 (wǒ fāshāo) is more specific and gets you seen faster.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "生病", "py": "shēngbìng", "en": "to get sick" }, { "zh": "了", "py": "le", "en": "change-of-state particle" }] },
+
+  { "id": 92, "category": "emergency", "chinese": "我的护照丢了。", "pinyin": "Wǒ de hùzhào diū le.", "english": "I lost my passport.", "audio": null,
+    "tip": "File a police report (报警) before you contact your embassy — the replacement needs that paper, and it is also what your insurance will ask for.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "的", "py": "de", "en": "possessive particle" }, { "zh": "护照", "py": "hùzhào", "en": "passport" }, { "zh": "丢", "py": "diū", "en": "to lose" }, { "zh": "了", "py": "le", "en": "change-of-state particle" }] },
+
+  { "id": 93, "category": "emergency", "chinese": "我的钱包被偷了。", "pinyin": "Wǒ de qiánbāo bèi tōu le.", "english": "My wallet was stolen.", "audio": null,
+    "tip": "被 marks the passive voice — literally \"my wallet was stolen\". If you simply lost it, use 丢了 instead: 我的钱包丢了.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "的", "py": "de", "en": "possessive particle" }, { "zh": "钱包", "py": "qiánbāo", "en": "wallet" }, { "zh": "被", "py": "bèi", "en": "passive voice marker" }, { "zh": "偷", "py": "tōu", "en": "to steal" }, { "zh": "了", "py": "le", "en": "change-of-state particle" }] },
+
+  { "id": 94, "category": "emergency", "chinese": "这附近有药店吗？", "pinyin": "Zhè fùjìn yǒu yàodiàn ma?", "english": "Is there a pharmacy nearby?", "audio": null,
+    "tip": "Chinese pharmacies are 药店 and are marked with a green cross. 附近 means \"nearby\" and slots in front of any place you need.",
+    "words": [{ "zh": "这", "py": "zhè", "en": "this" }, { "zh": "附近", "py": "fùjìn", "en": "nearby" }, { "zh": "有", "py": "yǒu", "en": "to have / is there" }, { "zh": "药店", "py": "yàodiàn", "en": "pharmacy" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 95, "category": "money", "chinese": "可以用支付宝吗？", "pinyin": "Kěyǐ yòng Zhīfùbǎo ma?", "english": "Can I pay with Alipay?", "audio": null,
+    "tip": "支付宝 (Zhīfùbǎo) and 微信支付 are how China pays for almost everything, from taxis to noodle shops. Ask before you order, and have the app open with your card already added.",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "用", "py": "yòng", "en": "to use" }, { "zh": "支付宝", "py": "Zhīfùbǎo", "en": "Alipay" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 96, "category": "money", "chinese": "可以用微信支付吗？", "pinyin": "Kěyǐ yòng Wēixìn zhīfù ma?", "english": "Can I pay with WeChat Pay?", "audio": null,
+    "tip": "微信支付 (Wēixìn zhīfù) is the other half of the pair. Both apps look the same at the till: you show a payment code (付款码) and the cashier scans it.",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "用", "py": "yòng", "en": "to use" }, { "zh": "微信", "py": "Wēixìn", "en": "WeChat" }, { "zh": "支付", "py": "zhīfù", "en": "payment" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 97, "category": "money", "chinese": "怎么付款？", "pinyin": "Zěnme fùkuǎn?", "english": "How do I pay?", "audio": null,
+    "tip": "The all-purpose question when you cannot see a card reader. In most shops the answer is 扫码 (sǎo mǎ) — scan the QR code.",
+    "words": [{ "zh": "怎么", "py": "zěnme", "en": "how" }, { "zh": "付款", "py": "fùkuǎn", "en": "to pay" }] },
+
+  { "id": 98, "category": "money", "chinese": "我来付。", "pinyin": "Wǒ lái fù.", "english": "I'll get this.", "audio": null,
+    "tip": "来 here means \"let me do it\". Say it as you reach for the QR code — it settles who pays without a discussion.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "来", "py": "lái", "en": "to come / to (do something)" }, { "zh": "付", "py": "fù", "en": "to pay" }] },
+
+  { "id": 99, "category": "money", "chinese": "我请客。", "pinyin": "Wǒ qǐngkè.", "english": "It's my treat.", "audio": null,
+    "tip": "请客 means to host someone as a guest. In China splitting the bill is less common than one person covering it, and saying this first is how you claim it.",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "请客", "py": "qǐngkè", "en": "to treat someone" }] },
+
+  { "id": 100, "category": "money", "chinese": "一共多少钱？", "pinyin": "Yígòng duōshao qián?", "english": "How much is it altogether?", "audio": null,
+    "tip": "Use it at the till when you have several items, or at the end of a meal. 一共 means \"in total\".",
+    "words": [{ "zh": "一共", "py": "yígòng", "en": "altogether" }, { "zh": "多少", "py": "duōshao", "en": "how much" }, { "zh": "钱", "py": "qián", "en": "money" }] },
+
+  { "id": 101, "category": "money", "chinese": "可以分开付吗？", "pinyin": "Kěyǐ fēnkāi fù ma?", "english": "Can we pay separately?", "audio": null,
+    "tip": "分开 means separately. Useful when you are travelling in a group and want one bill split — say it before the cashier starts scanning.",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "分开", "py": "fēnkāi", "en": "separately" }, { "zh": "付", "py": "fù", "en": "to pay" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 102, "category": "money", "chinese": "不用找了。", "pinyin": "Bú yòng zhǎo le.", "english": "Keep the change.", "audio": null,
+    "tip": "Literally \"no need to give change\". 找钱 is the verb for handing change back, so 找 alone is understood here.",
+    "words": [{ "zh": "不用", "py": "bú yòng", "en": "no need" }, { "zh": "找", "py": "zhǎo", "en": "to give change" }, { "zh": "了", "py": "le", "en": "particle" }] },
+
+  { "id": 103, "category": "money", "chinese": "可以开发票吗？", "pinyin": "Kěyǐ kāi fāpiào ma?", "english": "Can I have a receipt?", "audio": null,
+    "tip": "发票 (fāpiào) is the official tax receipt, not a printed till slip — you need it for expense claims and for tax refunds at the airport. Ask before you pay if you can.",
+    "words": [{ "zh": "可以", "py": "kěyǐ", "en": "can / may" }, { "zh": "开", "py": "kāi", "en": "to issue" }, { "zh": "发票", "py": "fāpiào", "en": "official receipt" }, { "zh": "吗", "py": "ma", "en": "yes/no question particle" }] },
+
+  { "id": 104, "category": "money", "chinese": "支付没成功。", "pinyin": "Zhīfù méi chénggōng.", "english": "The payment didn't go through.", "audio": null,
+    "tip": "Say it and show your screen — 没 means \"did not\". If the money left your account anyway, ask for 退款 (tuìkuǎn, a refund).",
+    "words": [{ "zh": "支付", "py": "zhīfù", "en": "payment" }, { "zh": "没", "py": "méi", "en": "did not" }, { "zh": "成功", "py": "chénggōng", "en": "to succeed" }] },
+
+  { "id": 105, "category": "money", "chinese": "我的卡不能用。", "pinyin": "Wǒ de kǎ bù néng yòng.", "english": "My card doesn't work.", "audio": null,
+    "tip": "Foreign cards often fail on Chinese payment terminals, so the usual fix is Alipay or WeChat Pay instead. 不能用 is a useful frame on its own: 这个不能用 (this one doesn't work).",
+    "words": [{ "zh": "我", "py": "wǒ", "en": "I / me" }, { "zh": "的", "py": "de", "en": "possessive particle" }, { "zh": "卡", "py": "kǎ", "en": "card" }, { "zh": "能", "py": "néng", "en": "can / to be able to" }, { "zh": "用", "py": "yòng", "en": "to use" }] }
+]

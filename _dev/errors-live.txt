@@ -1,0 +1,181 @@
+{
+ "base": "https://chinesequick.com",
+ "at": "2026-09-27T13:03:43.417Z",
+ "pages": [
+  {
+   "path": "/",
+   "pass": 1,
+   "probe": {
+    "title": "ChineseQuick — learn Chinese for everyday life in China",
+    "bodyChars": 1887,
+    "h1": "Learn Chinese for everyday life in China.",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/",
+   "pass": 2,
+   "probe": {
+    "title": "ChineseQuick — learn Chinese for everyday life in China",
+    "bodyChars": 1887,
+    "h1": "Learn Chinese for everyday life in China.",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/how-to-say-how-much-in-chinese/",
+   "pass": 1,
+   "probe": {
+    "title": "How to say \"How much?\" in Chinese",
+    "bodyChars": 2147,
+    "h1": "How to say “How much?” in Chinese",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/how-to-say-how-much-in-chinese/",
+   "pass": 2,
+   "probe": {
+    "title": "How to say \"How much?\" in Chinese",
+    "bodyChars": 2147,
+    "h1": "How to say “How much?” in Chinese",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/learn/restaurant/",
+   "pass": 1,
+   "probe": {
+    "title": "14 Restaurant phrases in Chinese | ChineseQuick",
+    "bodyChars": 1769,
+    "h1": "Restaurant",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/learn/restaurant/",
+   "pass": 2,
+   "probe": {
+    "title": "14 Restaurant phrases in Chinese | ChineseQuick",
+    "bodyChars": 1769,
+    "h1": "Restaurant",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/about/",
+   "pass": 1,
+   "probe": {
+    "title": "About ChineseQuick | ChineseQuick",
+    "bodyChars": 2745,
+    "h1": "About ChineseQuick",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/about/",
+   "pass": 2,
+   "probe": {
+    "title": "About ChineseQuick | ChineseQuick",
+    "bodyChars": 2745,
+    "h1": "About ChineseQuick",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/scenarios/",
+   "pass": 1,
+   "probe": {
+    "title": "Chinese phrase guides for real situations",
+    "bodyChars": 1274,
+    "h1": "What to say, in the order you'll need it",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/scenarios/",
+   "pass": 2,
+   "probe": {
+    "title": "Chinese phrase guides for real situations",
+    "bodyChars": 1274,
+    "h1": "What to say, in the order you'll need it",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/scenarios/ordering-food/",
+   "pass": 1,
+   "probe": {
+    "title": "Ordering food in Chinese: menu, spice and the bill",
+    "bodyChars": 5894,
+    "h1": "Ordering food in Chinese: from menu to bill",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  },
+  {
+   "path": "/scenarios/ordering-food/",
+   "pass": 2,
+   "probe": {
+    "title": "Ordering food in Chinese: menu, spice and the bill",
+    "bodyChars": 5894,
+    "h1": "Ordering food in Chinese: from menu to bill",
+    "nextError": false,
+    "errOverlay": false,
+    "swController": false,
+    "scriptsFailed": 0
+   },
+   "events": []
+  }
+ ],
+ "issues": [],
+ "analyticsBlocked": true,
+ "analytics": {
+  "attempts": 36,
+  "responses": 0,
+  "blocked": true
+ }
+}

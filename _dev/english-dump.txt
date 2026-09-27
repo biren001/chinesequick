@@ -1,0 +1,120 @@
+TOTAL: 105
+
+=== emergency (13) ===
+id=82	救命！	Help!
+id=83	我需要帮助。	I need help.
+id=84	请叫警察。	Please call the police.
+id=85	请叫救护车。	Please call an ambulance.
+id=86	我迷路了。	I'm lost.
+id=87	医院在哪里？	Where is the hospital?
+id=88	我需要看医生。	I need to see a doctor.
+id=89	我过敏。	I'm allergic.
+id=90	我对花生过敏。	I'm allergic to peanuts.
+id=91	我生病了。	I'm sick.
+id=92	我的护照丢了。	I lost my passport.
+id=93	我的钱包被偷了。	My wallet was stolen.
+id=94	这附近有药店吗？	Is there a pharmacy nearby?
+
+=== everyday (30) ===
+id=41	你好。	Hello.
+id=42	谢谢。	Thank you.
+id=43	对不起。	Sorry.
+id=44	不客气。	You're welcome.
+id=45	再见。	Goodbye.
+id=46	你好吗？	How are you?
+id=47	你叫什么名字？	What's your name?
+id=48	我不懂。	I don't understand.
+id=49	请再说一遍。	Please say it again.
+id=50	不好意思。	Excuse me.
+id=62	是。	Yes.
+id=63	不是。	No.
+id=64	请问	May I ask?
+id=65	早上好。	Good morning.
+id=66	晚安。	Good night.
+id=67	好的。	Okay.
+id=68	我不知道。	I don't know.
+id=69	我中文说得不好。	My Chinese isn't good.
+id=70	你会说英语吗？	Do you speak English?
+id=71	请说慢一点。	Please speak more slowly.
+id=72	请写下来。	Please write it down.
+id=73	我爱你。	I love you.
+id=74	干杯！	Cheers!
+id=75	生日快乐！	Happy birthday!
+id=76	没关系。	It's fine.
+id=77	请等一下。	Please wait a moment.
+id=78	不用了，谢谢。	No thanks.
+id=79	认识你很高兴。	Nice to meet you.
+id=80	我是游客。	I'm a tourist.
+id=81	太棒了！	That's great!
+
+=== hotel (10) ===
+id=21	我订了房间。	I booked a room.
+id=22	有空房吗？	Do you have a room available?
+id=23	我要入住。	I'd like to check in.
+id=24	我要退房。	I'd like to check out.
+id=25	房间在几楼？	What floor is the room on?
+id=26	有 Wi-Fi 吗？	Is there Wi-Fi?
+id=27	空调坏了。	The air conditioner is broken.
+id=28	请给我毛巾。	A towel, please.
+id=29	可以寄存行李吗？	Can I store my luggage?
+id=30	早餐几点开始？	What time does breakfast start?
+
+=== money (11) ===
+id=95	可以用支付宝吗？	Can I pay with Alipay?
+id=96	可以用微信支付吗？	Can I pay with WeChat Pay?
+id=97	怎么付款？	How do I pay?
+id=98	我来付。	I'll get this.
+id=99	我请客。	It's my treat.
+id=100	一共多少钱？	How much is it altogether?
+id=101	可以分开付吗？	Can we pay separately?
+id=102	不用找了。	Keep the change.
+id=103	可以开发票吗？	Can I have a receipt?
+id=104	支付没成功。	The payment didn't go through.
+id=105	我的卡不能用。	My card doesn't work.
+
+=== restaurant (14) ===
+id=1	多少钱？	How much?
+id=2	我要这个。	I want this one.
+id=3	不要辣。	Not spicy, please.
+id=4	有菜单吗？	Do you have a menu?
+id=5	好吃！	Delicious!
+id=6	我不吃肉。	I don't eat meat.
+id=7	请给我水。	Water, please.
+id=8	可以打包吗？	Can I get this to go?
+id=9	太贵了。	Too expensive.
+id=10	买单。	The bill, please.
+id=51	有什么推荐？	What do you recommend?
+id=52	我吃素。	I'm vegetarian.
+id=53	可以加饭吗？	Can I get more rice?
+id=54	太辣了！	This is too spicy!
+
+=== shopping (13) ===
+id=31	这个多少钱？	How much is this?
+id=32	可以便宜一点吗？	Can you make it cheaper?
+id=33	我可以试试吗？	Can I try it on?
+id=34	我随便看看。	I'm just browsing.
+id=35	有别的颜色吗？	Do you have another color?
+id=36	可以刷卡吗？	Can I pay by card?
+id=37	有小号吗？	Do you have a small size?
+id=38	给我一个袋子。	Give me a bag, please.
+id=39	我要退这个。	I want to return this.
+id=40	打折吗？	Is there a discount?
+id=59	有大号的吗？	Do you have a larger size?
+id=60	可以退税吗？	Can I get a tax refund?
+id=61	收现金吗？	Do you take cash?
+
+=== travel (14) ===
+id=11	厕所在哪里？	Where is the bathroom?
+id=12	我要去机场。	I need to go to the airport.
+id=13	就是这个地址。	It's this address.
+id=14	一张票多少钱？	How much is one ticket?
+id=15	火车站在哪儿？	Where is the train station?
+id=16	我不会说中文。	I can't speak Chinese.
+id=17	请帮我一下。	Please help me.
+id=18	我要买票。	I want to buy a ticket.
+id=19	什么时候出发？	When do we leave?
+id=20	这是我的护照。	This is my passport.
+id=55	请带我去这个地址。	Please take me to this address.
+id=56	多久能到？	How long does it take to get there?
+id=57	我的手机没电了。	My phone is dead.
+id=58	可以帮我拍张照片吗？	Can you take a photo of me?

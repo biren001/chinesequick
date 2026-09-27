@@ -1,0 +1,107 @@
+{
+  "base": "https://real-life-chinese.app.workbuddy.host",
+  "device": {
+    "w": 390,
+    "h": 844
+  },
+  "steps": [
+    {
+      "path": "/how-to-say-hello-in-chinese/",
+      "note": "单句页：点一次走完三遍并收尾",
+      "value": {
+        "overflowPx": 0,
+        "found": true,
+        "idleText": "Listen×3",
+        "pressedBefore": "false",
+        "slowText": "Slow",
+        "seq": [
+          "Listen×3",
+          "Stop1/3",
+          "Stop2/3",
+          "Stop3/3",
+          "Listen×3"
+        ],
+        "pressedAfter": "false",
+        "idleTextAfter": "Listen×3"
+      },
+      "audioRequests": [
+        {
+          "url": "https://real-life-chinese.app.workbuddy.host/audio/41.mp3",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "path": "/how-to-say-hello-in-chinese/",
+      "note": "单句页：途中再点一下立刻停住",
+      "value": {
+        "found": true,
+        "midText": "Stop2/3",
+        "midPressed": "true",
+        "stoppedText": "Listen×3",
+        "stoppedPressed": "false",
+        "afterStopSeq": [],
+        "finalPressed": "false"
+      },
+      "audioRequests": [
+        {
+          "url": "https://real-life-chinese.app.workbuddy.host/audio/41.mp3",
+          "status": 206
+        }
+      ]
+    },
+    {
+      "path": "/learn/everyday/",
+      "note": "学习页：A 连播中点 B，A 立刻让位",
+      "value": {
+        "overflowPx": 0,
+        "cardCount": 30,
+        "found": true,
+        "firstText": "Listen×3",
+        "aDuring": "true",
+        "aAfter": "false",
+        "bAfter": "true",
+        "aTextAfter": "Listen×3",
+        "aTail": [],
+        "aFinal": "false"
+      },
+      "audioRequests": [
+        {
+          "url": "https://real-life-chinese.app.workbuddy.host/audio/41.mp3",
+          "status": 206
+        },
+        {
+          "url": "https://real-life-chinese.app.workbuddy.host/audio/42.mp3",
+          "status": 206
+        }
+      ]
+    }
+  ],
+  "consoleErrors": [],
+  "fails": [],
+  "analyticsBlocked": true,
+  "audioResponses": [
+    {
+      "url": "https://real-life-chinese.app.workbuddy.host/audio/41.mp3",
+      "status": 200
+    },
+    {
+      "url": "https://real-life-chinese.app.workbuddy.host/audio/41.mp3",
+      "status": 206
+    },
+    {
+      "url": "https://real-life-chinese.app.workbuddy.host/audio/41.mp3",
+      "status": 206
+    },
+    {
+      "url": "https://real-life-chinese.app.workbuddy.host/audio/42.mp3",
+      "status": 206
+    }
+  ],
+  "verdict": "PASS",
+  "analytics": {
+    "attempts": 6,
+    "responses": 0,
+    "blocked": true
+  }
+}

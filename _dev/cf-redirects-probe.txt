@@ -1,0 +1,21 @@
+== CF `_redirects` 受控实验（预览分支，零线上风险）==
+分支 : redir-probe-mujt2tfw
+文件 : 4 个 —— /index.html, /404.html, /rr-target/index.html, _redirects
+
+--- 送进去的 _redirects 原文 ---
+"/rr-plain  /rr-target/  301\n/rr-slash/  /rr-target/  301\n/rr-splat/*  /rr-target/  301\n"
+
+OK  : upload-token 到手
+OK  : assets/upload 200
+OK  : upsert-hashes 200
+OK  : 部署已建 7ff3489e（queued）
+
+--- 探针（最多重试 6 次）---
+  A 基路径     404  
+  B 带尾斜杠   404  
+  C 通配       404  
+  D 目标页     200  
+  E _redirects 本身  404  
+
+结论：CF **不认** 这个 _redirects。
+      但 /_redirects 本身返回 404（不是 200）→ 指纹不符，得换思路查。

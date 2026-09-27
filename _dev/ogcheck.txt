@@ -1,0 +1,5 @@
+{
+ "phraseOg": "https://chinesequick.com/og.png",
+ "catOg": "https://chinesequick.com/og.png",
+ "phraseTw": "https://chinesequick.com/og.png"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ChineseQuick",
+  "short_name": "ChineseQuick",
+  "description": "Get by in China — Mandarin phrases with audio for restaurants, travel, hotels, shopping and emergencies, plus a pre-trip checklist.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf9f7",
+  "theme_color": "#faf9f7",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

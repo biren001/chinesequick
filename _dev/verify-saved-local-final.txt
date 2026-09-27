@@ -1,0 +1,112 @@
+{
+  "base": "http://127.0.0.1:4173",
+  "device": {
+    "w": 390,
+    "h": 844
+  },
+  "steps": [
+    {
+      "path": "/learn/restaurant/",
+      "note": "学习页点爱心",
+      "value": {
+        "overflowPx": 0,
+        "found": true,
+        "chinese": "多少钱？",
+        "before": "false",
+        "after": "true",
+        "labelAfter": "Remove from saved phrases",
+        "storage": "{\"version\":1,\"ids\":[1]}",
+        "otherUntouched": 13
+      }
+    },
+    {
+      "path": "/saved/",
+      "note": "收藏页应列出它",
+      "value": {
+        "overflowPx": 0,
+        "count": 1,
+        "chinese": [
+          "多少钱？"
+        ],
+        "hasEmptyState": false,
+        "storage": "{\"version\":1,\"ids\":[1]}",
+        "heartFilled": 1
+      }
+    },
+    {
+      "path": "/saved/",
+      "note": "刷新后仍在（持久化）",
+      "value": {
+        "overflowPx": 0,
+        "count": 1,
+        "chinese": [
+          "多少钱？"
+        ],
+        "hasEmptyState": false,
+        "storage": "{\"version\":1,\"ids\":[1]}",
+        "heartFilled": 1
+      }
+    },
+    {
+      "path": "/how-to-say-i-love-you-in-chinese/",
+      "note": "单句页点爱心",
+      "value": {
+        "found": true,
+        "text": "Save",
+        "after": "true",
+        "textAfter": "Saved",
+        "storage": "{\"version\":1,\"ids\":[1,73]}"
+      }
+    },
+    {
+      "path": "/saved/",
+      "note": "收藏页应有两条",
+      "value": {
+        "overflowPx": 0,
+        "count": 2,
+        "chinese": [
+          "多少钱？",
+          "我爱你。"
+        ],
+        "hasEmptyState": false,
+        "storage": "{\"version\":1,\"ids\":[1,73]}",
+        "heartFilled": 2
+      }
+    },
+    {
+      "path": "/saved/",
+      "note": "在收藏页取消一条",
+      "value": {
+        "before": 2,
+        "found": true,
+        "after": 1,
+        "hasEmptyState": false,
+        "storage": "{\"version\":1,\"ids\":[73]}"
+      }
+    },
+    {
+      "path": "/learn/restaurant/",
+      "note": "做完测验→错题复习卡",
+      "value": {
+        "answered": 5,
+        "wrongCount": 2,
+        "sawResult": true,
+        "reviewHeading": "Review 2 phrases you missed",
+        "headingCount": 2,
+        "listedPhrases": [
+          "不要辣。",
+          "太辣了！"
+        ],
+        "practiseLabel": "Practise these 2",
+        "reviewQuizShown": true,
+        "reviewQuizOptions": 3,
+        "reviewQuizQuestion": "How do you say \"Not spicy, please.\" in Chinese?",
+        "hasBackButton": true,
+        "overflowPx": 0
+      }
+    }
+  ],
+  "consoleErrors": [],
+  "fails": [],
+  "verdict": "PASS"
+}

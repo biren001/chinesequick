@@ -1,0 +1,16 @@
+# ⚠ 顺序有讲究：gitattributes 是【后面的规则覆盖前面的】，
+#  所以通配的 `* text=auto` 必须写在最前，具体规则写在后面才生效。
+* text=auto
+
+# 音频与图标必须以二进制处理 —— 本机 core.autocrlf=true，
+# 若被当成文本做行尾转换，mp3 会被写坏且【完全静默】（能播但音质异常）。
+*.mp3 binary
+*.wav binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.webp binary
+*.zip binary
+*.woff binary
+*.woff2 binary

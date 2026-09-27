@@ -1,0 +1,176 @@
+{
+  "base": "https://chinesequick.com",
+  "device": {
+    "w": 390,
+    "h": 844
+  },
+  "pages": [
+    {
+      "path": "/chinese-restaurant-phrases/",
+      "note": "集合页（10 条整句）",
+      "probe": {
+        "overflowPx": 0,
+        "listenBtn": true,
+        "listenDisabled": false,
+        "ghostBtns": 1,
+        "audioTags": 0,
+        "decode": "canplaythrough",
+        "durationSec": 0.81,
+        "repeatTotal": 3,
+        "badgeBefore": "×3",
+        "pressBefore": "false",
+        "pressDuring": "true",
+        "pressAfter": "false",
+        "resetAfterMs": 3546,
+        "resetDeadlineMs": 7730
+      },
+      "mp3Requests": [
+        {
+          "url": "/audio/1.mp3?v=1790517098972",
+          "status": 206,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/1.mp3?v=1790517099772",
+          "status": 206,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/1.mp3",
+          "status": 200,
+          "fromDiskCache": true
+        }
+      ]
+    },
+    {
+      "path": "/how-to-say-how-much-in-chinese/",
+      "note": "单句页（含逐词表）",
+      "probe": {
+        "overflowPx": 0,
+        "listenBtn": true,
+        "listenDisabled": false,
+        "ghostBtns": 5,
+        "audioTags": 0,
+        "decode": "canplaythrough",
+        "durationSec": 0.62,
+        "repeatTotal": 3,
+        "badgeBefore": "×3",
+        "pressBefore": "false",
+        "pressDuring": "true",
+        "pressAfter": "false",
+        "resetAfterMs": 3566,
+        "resetDeadlineMs": 7160
+      },
+      "mp3Requests": [
+        {
+          "url": "/audio/words/duoshao.mp3?v=1790517119086",
+          "status": 206,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/words/duoshao.mp3?v=1790517119433",
+          "status": 206,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/1.mp3",
+          "status": 200,
+          "fromDiskCache": true
+        }
+      ]
+    },
+    {
+      "path": "/learn/restaurant/",
+      "note": "学习页（客户端渲染）",
+      "probe": {
+        "overflowPx": 0,
+        "listenBtn": true,
+        "listenDisabled": false,
+        "ghostBtns": 1,
+        "audioTags": 0,
+        "decode": "canplaythrough",
+        "durationSec": 0.81,
+        "repeatTotal": 3,
+        "badgeBefore": "×3",
+        "pressBefore": "false",
+        "pressDuring": "true",
+        "pressAfter": "false",
+        "resetAfterMs": 3556,
+        "resetDeadlineMs": 7730
+      },
+      "mp3Requests": [
+        {
+          "url": "/audio/1.mp3?v=1790517127051",
+          "status": 206,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/1.mp3?v=1790517127766",
+          "status": 206,
+          "fromDiskCache": false
+        },
+        {
+          "url": "/audio/1.mp3",
+          "status": 200,
+          "fromDiskCache": true
+        }
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "/audio/1.mp3?v=1790517098972",
+      "status": 206,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/1.mp3?v=1790517099772",
+      "status": 206,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/1.mp3",
+      "status": 200,
+      "fromDiskCache": true
+    },
+    {
+      "url": "/audio/words/duoshao.mp3?v=1790517119086",
+      "status": 206,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/words/duoshao.mp3?v=1790517119433",
+      "status": 206,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/1.mp3",
+      "status": 200,
+      "fromDiskCache": true
+    },
+    {
+      "url": "/audio/1.mp3?v=1790517127051",
+      "status": 206,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/1.mp3?v=1790517127766",
+      "status": 206,
+      "fromDiskCache": false
+    },
+    {
+      "url": "/audio/1.mp3",
+      "status": 200,
+      "fromDiskCache": true
+    }
+  ],
+  "errors": [],
+  "analyticsBlocked": true,
+  "verdict": "PASS",
+  "fails": [],
+  "analytics": {
+    "attempts": 9,
+    "responses": 0,
+    "blocked": true
+  }
+}

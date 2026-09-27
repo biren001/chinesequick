@@ -1,0 +1,2448 @@
+{
+  "1": {
+    "when": [
+      "Markets, street stalls and small shops — anywhere there is no printed price tag.",
+      "It is also how a negotiation starts: asking the price is not a commitment to buy."
+    ],
+    "variants": [
+      {
+        "zh": "这个多少钱？",
+        "py": "Zhège duōshao qián?",
+        "en": "How much is this one?",
+        "note": "Point at the item while you say it."
+      },
+      {
+        "zh": "一共多少钱？",
+        "py": "Yígòng duōshao qián?",
+        "en": "How much in total?"
+      },
+      {
+        "zh": "多少钱一斤？",
+        "py": "Duōshao qián yì jīn?",
+        "en": "How much per 500g?",
+        "note": "The one to know in fruit and vegetable markets, where everything is priced per 斤 rather than per item."
+      }
+    ],
+    "mistakes": [
+      "Say duōshao, not duōshǎo — 少 loses its third tone inside this word.",
+      "In supermarkets and chain stores the price is printed on the shelf. This question belongs where prices are actually negotiated, not everywhere you buy something."
+    ]
+  },
+  "2": {
+    "when": [
+      "When pointing is doing most of the work — a menu, a display case, a market stall, or a photo on your phone.",
+      "Say it with your finger already on the item, because 这个 is only as precise as the thing you are touching; said without pointing it turns into 哪个？"
+    ],
+    "variants": [
+      {
+        "zh": "我要两个。",
+        "py": "Wǒ yào liǎng ge.",
+        "en": "I want two of them.",
+        "note": "要 takes a number plus a measure word directly: 两个, 三碗, 四张. The measure word is never optional."
+      },
+      {
+        "zh": "就要这个。",
+        "py": "Jiù yào zhège.",
+        "en": "Just this one.",
+        "note": "就 narrows the choice. It is the answer for when somebody is offering you something and you want the offering to stop."
+      },
+      {
+        "zh": "这个，谢谢。",
+        "py": "Zhège, xièxie.",
+        "en": "This one, thanks.",
+        "note": "A two-word order plus 谢谢 is entirely normal at a counter. Chinese gets shorter under pressure, not more formal."
+      }
+    ],
+    "mistakes": [
+      "给我 is not the polite 'give me' of English. On its own it is an instruction, which is why 我要这个 is the safer default and 给我 is kept for people you know.",
+      "要 is want-in-order-to-receive and 想 is want-as-a-feeling. 我想要这个 sounds hesitant and can read as 'I would quite like this', so use 要 when you are actually ordering.",
+      "There is no word for 'the'. 这个 is doing that job — it means the one you mean — so the English habit of naming an item without pointing at it gets you 哪个？ in return."
+    ],
+    "replies": [
+      {
+        "zh": "好的，马上来。",
+        "py": "Hǎo de, mǎshàng lái.",
+        "en": "Okay, coming right up."
+      },
+      {
+        "zh": "要几个？",
+        "py": "Yào jǐ ge?",
+        "en": "How many do you want?"
+      },
+      {
+        "zh": "这个没有了。",
+        "py": "Zhège méiyǒu le.",
+        "en": "We're out of this one."
+      }
+    ]
+  },
+  "3": {
+    "when": [
+      "Say it as you order rather than when the food arrives — chilli usually goes into the wok, so a dish that reaches you mild had to be cooked that way from the start.",
+      "It is worth saying even if you like heat, because 辣 in Sichuan and Hunan cooking is a baseline rather than a flavour, and 不要辣 is understood everywhere without further explanation."
+    ],
+    "variants": [
+      {
+        "zh": "不要放辣。",
+        "py": "Bú yào fàng là.",
+        "en": "Don't put chilli in.",
+        "note": "放 (to put in) turns the wish into an instruction, which is what you want when the order is being written down rather than remembered."
+      },
+      {
+        "zh": "微辣。",
+        "py": "Wēi là.",
+        "en": "Mildly spicy.",
+        "note": "Two syllables and it fits on a menu line. 微 is the 微 of 微信 (WeChat), meaning tiny, so 微辣 is the lowest setting that still counts as spicy."
+      },
+      {
+        "zh": "我不吃辣。",
+        "py": "Wǒ bù chī là.",
+        "en": "I don't eat spicy food.",
+        "note": "Stronger than 不要辣: it makes chilli something you cannot have rather than something you would rather skip this time, and waiters remember it."
+      }
+    ],
+    "mistakes": [
+      "不要辣 keeps the 要 (to want), so it is literally \"don't want spicy\". A bare 不辣 sounds like a claim about the dish instead of a request about your order, which is not what a waiter is listening for.",
+      "辣 covers chilli heat only. The numbing buzz of Sichuan peppercorn is a separate word — 麻 (má) — so a dish can be 不辣 and still leave your mouth tingling.",
+      "Some dishes are chilli-free before you ask. 白灼 (blanched), 清蒸 (steamed) and 清汤 (clear soup) have no chilli in the recipe, so ordering one of those is simpler than negotiating."
+    ],
+    "replies": [
+      {
+        "zh": "知道了。",
+        "py": "Zhīdào le.",
+        "en": "Got it."
+      },
+      {
+        "zh": "要不要辣？",
+        "py": "Yào bú yào là?",
+        "en": "Spicy or not?"
+      },
+      {
+        "zh": "微辣可以吗？",
+        "py": "Wēi là kěyǐ ma?",
+        "en": "Would mild be OK?"
+      }
+    ]
+  },
+  "5": {
+    "when": [
+      "Said while eating, about the food in front of you — to the cook, your host, or whoever chose the restaurant.",
+      "Also works before you taste it, when a dish arrives and looks or smells good."
+    ],
+    "variants": [
+      {
+        "zh": "太好吃了！",
+        "py": "Tài hǎochī le!",
+        "en": "This is so good!",
+        "note": "The version you will hear most at the table."
+      },
+      {
+        "zh": "味道不错。",
+        "py": "Wèidào búcuò.",
+        "en": "The flavour is good.",
+        "note": "Calmer than 好吃 — for when you want to sound a little less effusive."
+      },
+      {
+        "zh": "这个很好吃。",
+        "py": "Zhège hěn hǎochī.",
+        "en": "This one is delicious."
+      }
+    ],
+    "mistakes": [
+      "Do not use it for drinks — that is 好喝 (hǎohē).",
+      "Compliment the specific dish, not 'the food' in general. 好吃 is about what is in your mouth right now."
+    ]
+  },
+  "7": {
+    "when": [
+      "Say it once the order is in but no drinks have arrived — in most Chinese restaurants water is not poured automatically, it has to be asked for.",
+      "It is also the phrase to fall back on when a shared pot of tea is going round the table and you would rather have plain water for yourself."
+    ],
+    "variants": [
+      {
+        "zh": "我要一杯水。",
+        "py": "Wǒ yào yì bēi shuǐ.",
+        "en": "I'd like a glass of water.",
+        "note": "一杯 is one glass; swap in 瓶 (bīng) for a bottle."
+      },
+      {
+        "zh": "来一杯水。",
+        "py": "Lái yì bēi shuǐ.",
+        "en": "A glass of water, please.",
+        "note": "Using 来 as a request is very common at the table — short and still polite."
+      },
+      {
+        "zh": "有热水吗？",
+        "py": "Yǒu rè shuǐ ma?",
+        "en": "Do you have hot water?",
+        "note": "Asking for 热 on purpose is normal, because that is what most places serve."
+      }
+    ],
+    "mistakes": [
+      "Do not expect cold water. What arrives is 热水 (hot) or 温水 (warm), and ordering 冰水 in winter can get you a genuinely puzzled look.",
+      "不要水 is a refusal, not a request. 我不要水 means \"I don't want any water\" — the verb you need here is 要 or 给.",
+      "水 on its own means drinking water rather than the bottled kind. For a sealed bottle ask for 矿泉水 (kuàngquánshuǐ), and for sparkling you will usually have to name a brand."
+    ],
+    "replies": [
+      {
+        "zh": "好的，马上来。",
+        "py": "Hǎo de, mǎshàng lái.",
+        "en": "Sure, coming right up."
+      },
+      {
+        "zh": "热的还是冰的？",
+        "py": "Rè de háishi bīng de?",
+        "en": "Hot or iced?"
+      },
+      {
+        "zh": "在那儿，自己拿。",
+        "py": "Zài nàr, zìjǐ ná.",
+        "en": "It's over there, help yourself."
+      }
+    ]
+  },
+  "8": {
+    "when": [
+      "Say it when the meal is over and there is food left. Doggy bags are normal in most Chinese restaurants, and asking for one is not seen as an imposition.",
+      "It is worth knowing the three words that are not interchangeable here: 打包 is boxing up what you did not finish, 带走 is taking a fresh order away, and 外卖 is delivery. A waiter acts on whichever one you use."
+    ],
+    "variants": [
+      {
+        "zh": "麻烦帮我打包。",
+        "py": "Máfan bāng wǒ dǎbāo.",
+        "en": "Could you box this up for me, please.",
+        "note": "麻烦 (sorry to trouble you) plus 帮我 (help me) is the standard polite frame for asking staff to do something: 麻烦帮我拿一下 (pass me that, please) is built the same way."
+      },
+      {
+        "zh": "吃不完，打包。",
+        "py": "Chī bù wán, dǎbāo.",
+        "en": "I can't finish it — box it up.",
+        "note": "Gives the reason and the instruction in one breath. Chinese pairs the two often, and it saves a round of questions."
+      },
+      {
+        "zh": "有打包盒吗？",
+        "py": "Yǒu dǎbāo hé ma?",
+        "en": "Do you have a box for this?",
+        "note": "The version to use when the food is still on the table and no waiter is nearby. 盒 is the box itself — 饭盒 (lunch box) is built the same way."
+      }
+    ],
+    "mistakes": [
+      "Doggy bags carry no stigma in China. Not finishing a dish is ordinary, and asking for a box reads as liking the food enough to want it again later.",
+      "打包 is the word that gets action for leftovers. 带走 is a request about how an order leaves, so it fits a fresh order better than a half-eaten plate.",
+      "Say it before you pay. The box comes from the kitchen or the front desk, and asking at the counter afterwards means a second trip."
+    ],
+    "replies": [
+      {
+        "zh": "好的。",
+        "py": "Hǎo de.",
+        "en": "Sure."
+      },
+      {
+        "zh": "要几个盒子？",
+        "py": "Yào jǐ ge hézi?",
+        "en": "How many boxes?"
+      },
+      {
+        "zh": "盒子要加一块钱。",
+        "py": "Hézi yào jiā yí kuài qián.",
+        "en": "The box is one yuan extra."
+      }
+    ]
+  },
+  "9": {
+    "when": [
+      "In markets, street stalls and shops where the price was spoken to you rather than printed on a tag.",
+      "It opens a negotiation rather than ending one: in China this is the first move in bargaining, and it is normally said with a smile."
+    ],
+    "variants": [
+      {
+        "zh": "便宜一点吧。",
+        "py": "Piányi yīdiǎn ba.",
+        "en": "Make it a bit cheaper.",
+        "note": "The sentence that follows this one. On its own it is a request; after 太贵了 it becomes an offer to keep talking."
+      },
+      {
+        "zh": "太贵了吧？",
+        "py": "Tài guì le ba?",
+        "en": "That is a bit expensive, isn't it?",
+        "note": "The 吧 turns a verdict into a shared observation, which is much easier for a seller to answer."
+      },
+      {
+        "zh": "可以便宜点吗？",
+        "py": "Kěyǐ piányi diǎn ma?",
+        "en": "Could you make it cheaper?",
+        "note": "The polite version. 可以…吗 is the frame for asking permission, so it lands softly even in a loud market."
+      }
+    ],
+    "mistakes": [
+      "On its own it can sound like a flat refusal. The bargaining happens in the next sentence, so follow it with 便宜一点 or 可以便宜点吗 instead of repeating it.",
+      "It is about a price someone quoted you, not a price on a menu. In a supermarket or a chain restaurant the price is fixed and the phrase has no answer.",
+      "Keep the tone light. A hard 太贵了 aimed at a shopkeeper reads as an insult to the goods; the same words said cheerfully are an invitation to bargain."
+    ],
+    "replies": [
+      {
+        "zh": "那你说多少？",
+        "py": "Nà nǐ shuō duōshao?",
+        "en": "So what are you offering?"
+      },
+      {
+        "zh": "已经是最低价了。",
+        "py": "Yǐjīng shì zuì dī jià le.",
+        "en": "That is already the lowest price."
+      }
+    ]
+  },
+  "10": {
+    "when": [
+      "At the end of a meal in a sit-down restaurant: catch a server's eye and say it, or say it at the till on your way out.",
+      "The bill covers the whole table, and one person settling it is the norm, so it is also the phrase you use when you intend to pay for everyone."
+    ],
+    "variants": [
+      {
+        "zh": "结账。",
+        "py": "Jiézhàng.",
+        "en": "The bill, please.",
+        "note": "The standard word in Taiwan and much of the south. Understood everywhere on the mainland, so either one works."
+      },
+      {
+        "zh": "我买单。",
+        "py": "Wǒ mǎidān.",
+        "en": "I am paying.",
+        "note": "Said while reaching for your phone. In China everyone offers at once, so saying it first is polite rather than pushy."
+      },
+      {
+        "zh": "可以分开付吗？",
+        "py": "Kěyǐ fēnkāi fù ma?",
+        "en": "Can we pay separately?",
+        "note": "Ask before the cashier starts, because the default assumption is one payment for the table."
+      }
+    ],
+    "mistakes": [
+      "买单 is the mainland phrase and 结账 is what people say in Taiwan. Both are understood, but 结账 in a Beijing restaurant sounds slightly unusual.",
+      "Tipping is not expected and a service charge would be printed on the menu, so the number on the bill is the number you pay.",
+      "If you need an official receipt for expenses, ask for 发票 (fāpiào) at the moment you pay. It has to be issued from the original transaction and cannot be added afterwards."
+    ],
+    "replies": [
+      {
+        "zh": "好的，稍等。",
+        "py": "Hǎo de, shāoděng.",
+        "en": "OK, one moment."
+      },
+      {
+        "zh": "扫码付款。",
+        "py": "Sǎo mǎ fùkuǎn.",
+        "en": "Scan the code to pay."
+      },
+      {
+        "zh": "一共一百二十八。",
+        "py": "Yígòng yībǎi èrshíbā.",
+        "en": "128 yuan altogether."
+      }
+    ]
+  },
+  "11": {
+    "when": [
+      "Any restaurant, station, shopping centre or hotel lobby.",
+      "Public toilets in China are common and almost always free — you rarely need to buy something first."
+    ],
+    "variants": [
+      {
+        "zh": "洗手间在哪里？",
+        "py": "Xǐshǒujiān zài nǎlǐ?",
+        "en": "Where is the washroom?",
+        "note": "The politer word. Use it in hotels, airports and nicer restaurants."
+      },
+      {
+        "zh": "卫生间在哪里？",
+        "py": "Wèishēngjiān zài nǎlǐ?",
+        "en": "Where is the restroom?",
+        "note": "This is the word printed on most public signs."
+      },
+      {
+        "zh": "可以借用一下洗手间吗？",
+        "py": "Kěyǐ jièyòng yíxià xǐshǒujiān ma?",
+        "en": "May I use your restroom?",
+        "note": "Needed in small shops and private businesses where the toilet is not public."
+      }
+    ],
+    "mistakes": [
+      "Ask about the room, not about yourself — do not translate 'I need to go to the bathroom' word for word.",
+      "哪里 (nǎlǐ) and 哪儿 (nǎr) are the same question word. The second carries an r-coloured ending and sounds more Beijing; both are understood everywhere."
+    ],
+    "replies": [
+      {
+        "zh": "在那边。",
+        "py": "Zài nàbiān.",
+        "en": "Over there."
+      },
+      {
+        "zh": "二楼。",
+        "py": "Èr lóu.",
+        "en": "Second floor."
+      }
+    ]
+  },
+  "15": {
+    "when": [
+      "Ask it of a passer-by, a hotel front desk or a taxi driver when you know the station is nearby but not which direction it lies in.",
+      "It is also the phrase for the moment a long-distance bus drops you somewhere unfamiliar and you need to work out how to continue by rail."
+    ],
+    "variants": [
+      {
+        "zh": "火车站怎么走？",
+        "py": "Huǒchēzhàn zěnme zǒu?",
+        "en": "How do I get to the train station?",
+        "note": "怎么走 asks for the route rather than the location, which is often more useful."
+      },
+      {
+        "zh": "打扰一下，火车站在哪儿？",
+        "py": "Dǎrǎo yíxià, huǒchēzhàn zài nǎr?",
+        "en": "Sorry to bother you, where is the train station?",
+        "note": "打扰一下 is the standard opener with a stranger, and it buys you patience."
+      },
+      {
+        "zh": "火车站在前面吗？",
+        "py": "Huǒchēzhàn zài qiánmiàn ma?",
+        "en": "Is the station up ahead?",
+        "note": "Use it when you can already see a big building and just want it confirmed."
+      }
+    ],
+    "mistakes": [
+      "火车 is the train, not the station. 车站 on its own means any station — bus, coach or rail — so 火车 alone will not get you to a ticket hall.",
+      "在哪儿 asks where something is, while 怎么走 asks how to get there. The 哪儿 and 哪里 forms are the same word at different registers, so both are safe, but neither gives you a route.",
+      "Big cities have more than one, and drivers may not know which you mean. 高铁站 (gāotiězhàn) is the one for bullet trains and is often a completely different building."
+    ],
+    "replies": [
+      {
+        "zh": "一直往前走。",
+        "py": "Yìzhí wǎng qián zǒu.",
+        "en": "Go straight ahead."
+      },
+      {
+        "zh": "前面的路口左转。",
+        "py": "Qiánmiàn de lùkǒu zuǒ zhuǎn.",
+        "en": "Turn left at the junction ahead."
+      },
+      {
+        "zh": "就在马路对面。",
+        "py": "Jiù zài mǎlù duìmiàn.",
+        "en": "It's right across the road."
+      }
+    ]
+  },
+  "16": {
+    "when": [
+      "When the conversation has to change shape right now — somebody is explaining something at speed and none of it is landing.",
+      "It is a statement rather than a request, so it works best as the first thing you say; coming in mid-sentence it sounds like you are giving up on what they just said, which is when 我中文说得不好 is the better choice."
+    ],
+    "variants": [
+      {
+        "zh": "我只会一点点中文。",
+        "py": "Wǒ zhǐ huì yìdiǎndiǎn Zhōngwén.",
+        "en": "I only know a tiny bit of Chinese.",
+        "note": "只会 is 'only know how to'. 一点点 is the modest conversational amount — smaller, and warmer, than 一点."
+      },
+      {
+        "zh": "你可以打字给我看。",
+        "py": "Nǐ kěyǐ dǎzì gěi wǒ kàn.",
+        "en": "You could type it out for me.",
+        "note": "A phone keyboard crosses the gap faster than speech. 打字 is typing and 写 is writing by hand; the two are not interchangeable."
+      },
+      {
+        "zh": "不好意思，我不太会。",
+        "py": "Bù hǎoyìsi, wǒ bú tài huì.",
+        "en": "Sorry, I can't really.",
+        "note": "不太会 says the skill is thin rather than absent. Both truer and easier on the other person than a flat 我不会."
+      }
+    ],
+    "mistakes": [
+      "不会 is about a skill you never picked up, and 不能 is about not being able to right now. Saying 我不说中文 instead reads as a choice you are making, which is why it lands as rude rather than apologetic.",
+      "This sentence is about speaking. If the problem is that you cannot follow what is being said to you, that is a different line — 我听不懂 says the words are not arriving, and answering with 我不会说中文 gets you English instead of slower Chinese.",
+      "Chinese has no fixed apology to bolt onto it. The sentence is blunt by design and works as the opening move; put 不好意思 in front only when you are cutting somebody off mid explanation."
+    ],
+    "replies": [
+      {
+        "zh": "没关系，我说慢一点。",
+        "py": "Méiguānxi, wǒ shuō màn yìdiǎn.",
+        "en": "No problem, I'll speak more slowly."
+      },
+      {
+        "zh": "那我写给你。",
+        "py": "Nà wǒ xiě gěi nǐ.",
+        "en": "Then let me write it out for you."
+      },
+      {
+        "zh": "你等一下，我找个会的。",
+        "py": "Nǐ děng yíxià, wǒ zhǎo gè huì de.",
+        "en": "Wait a moment, I'll find someone who can."
+      }
+    ]
+  },
+  "17": {
+    "when": [
+      "When you need one small thing done right now — reading a sign aloud, holding a bag while you tie a shoe, or working out which platform a train leaves from.",
+      "Ask somebody who is standing still and whose job is being there, because a station counter or a hotel desk can act while a passer-by can only point."
+    ],
+    "variants": [
+      {
+        "zh": "能帮我一下吗？",
+        "py": "Néng bāng wǒ yíxià ma?",
+        "en": "Could you give me a hand?",
+        "note": "The question version. 能 leaves the other person room to say no, which is what makes it usable with strangers."
+      },
+      {
+        "zh": "帮我看看。",
+        "py": "Bāng wǒ kànkan.",
+        "en": "Have a look for me.",
+        "note": "帮我 plus a verb builds any small errand: 帮我看看 (have a look), 帮我拿一下 (hold this), 帮我读一下 (read this out)."
+      },
+      {
+        "zh": "请教一下。",
+        "py": "Qǐngjiào yíxià.",
+        "en": "May I ask you something?",
+        "note": "请教 is the ask-in-order-to-learn verb. It is the polite way into a language question, where 帮我 is for an action."
+      }
+    ],
+    "mistakes": [
+      "一下 is the polite half, not 请. 请帮我 sounds formal and stiff — the register of a notice or a service desk — and dropping 一下 is what turns the request into a bare instruction.",
+      "一下 promises a small, finishable favour. Asking a stranger to watch your bags for an hour is not 一下, and the phrase will sound like you are understating what you actually want.",
+      "帮我一下 asks for an action; 我问一下 asks for an answer. At a station counter the second is often all you need, and it is the lighter way in — 我问一下，这个站台对吗？"
+    ],
+    "replies": [
+      {
+        "zh": "好的，没问题。",
+        "py": "Hǎo de, méi wèntí.",
+        "en": "Sure, no problem."
+      },
+      {
+        "zh": "好的，我看一下。",
+        "py": "Hǎo de, wǒ kàn yíxià.",
+        "en": "Sure, let me have a look."
+      },
+      {
+        "zh": "在那边。",
+        "py": "Zài nàbiān.",
+        "en": "It's over there."
+      }
+    ]
+  },
+  "19": {
+    "when": [
+      "Use it on a tour, in a hired car or with a group when nobody has told you the departure time yet and you need to plan your morning around it.",
+      "It is also the question for a bus or train station where the boards are not in English, and for the moment a driver says 等一下 — wait a bit — since that answer can mean ten minutes or two hours."
+    ],
+    "variants": [
+      {
+        "zh": "几点出发？",
+        "py": "Jǐ diǎn chūfā?",
+        "en": "What time do we leave?",
+        "note": "几点 asks for a clock time, while 什么时候 leaves it open."
+      },
+      {
+        "zh": "我们什么时候走？",
+        "py": "Wǒmen shénme shíhou zǒu?",
+        "en": "When are we heading off?",
+        "note": "走 is the everyday verb for leaving; 出发 is the one printed on timetables."
+      },
+      {
+        "zh": "还要等多久？",
+        "py": "Hái yào děng duōjiǔ?",
+        "en": "How much longer do we wait?",
+        "note": "The follow-up to use when the first answer turns out to be vague."
+      }
+    ],
+    "mistakes": [
+      "走 means leaving, not departing on a schedule. 什么时候走 covers a person heading off, so keep 出发 for the official departure of a bus, train or tour.",
+      "If you are the one being asked, a bare number is not an answer. 八 is \"eight\", 八点 is \"eight o'clock\", and only the second one answers this question.",
+      "Chinese has no future tense, so the same sentence covers today and next week. Add 明天 or 后天 when the day matters."
+    ],
+    "replies": [
+      {
+        "zh": "八点出发。",
+        "py": "Bā diǎn chūfā.",
+        "en": "We leave at eight."
+      },
+      {
+        "zh": "马上就走。",
+        "py": "Mǎshàng jiù zǒu.",
+        "en": "We're leaving right now."
+      },
+      {
+        "zh": "等人齐了再说。",
+        "py": "Děng rén qí le zài shuō.",
+        "en": "Once everyone's here."
+      }
+    ]
+  },
+  "27": {
+    "when": [
+      "Say it at the front desk when the room is too hot or too cold and you have worked out that the machine is not responding at all, rather than that you cannot find the remote.",
+      "It is also the sentence to bring to a landlord or a homestay host, because 坏了 reports a fault without blaming anyone for it."
+    ],
+    "variants": [
+      {
+        "zh": "空调不制冷了。",
+        "py": "Kōngtiáo bù zhìlěng le.",
+        "en": "The AC has stopped cooling.",
+        "note": "Use it when the unit is running but blowing warm air — a different fault from a dead one."
+      },
+      {
+        "zh": "空调打不开。",
+        "py": "Kōngtiáo dǎ bù kāi.",
+        "en": "The AC won't turn on.",
+        "note": "打不开 covers anything that refuses to open or start, from a window to an app."
+      },
+      {
+        "zh": "能派人来看看吗？",
+        "py": "Néng pài rén lái kànkan ma?",
+        "en": "Could you send someone to look at it?",
+        "note": "The follow-up that turns a report into an actual repair."
+      }
+    ],
+    "mistakes": [
+      "坏 is for things, never for people. 我坏了 is nonsense while 空调坏了 is normal, and the pattern takes any appliance: 灯坏了, 马桶坏了, 洗衣机坏了.",
+      "了 here is not past tense. 坏了 reports a new state — it has become broken — which is why the same sentence still describes a machine that is broken right now.",
+      "坏了 covers a machine that has failed. A device that has simply run out of power is 没电了 (méi diàn le), and saying 坏了 about a flat remote invites a repair visit you do not need."
+    ],
+    "replies": [
+      {
+        "zh": "好的，我马上叫人上去。",
+        "py": "Hǎo de, wǒ mǎshàng jiào rén shàngqu.",
+        "en": "OK, I'll send someone up right away."
+      },
+      {
+        "zh": "您要不要换个房间？",
+        "py": "Nín yào bu yào huàn ge fángjiān?",
+        "en": "Would you like to change rooms?"
+      },
+      {
+        "zh": "今天维修师傅不在。",
+        "py": "Jīntiān wéixiū shīfu bú zài.",
+        "en": "The repairman isn't in today."
+      }
+    ]
+  },
+  "31": {
+    "when": [
+      "Street markets, night markets, souvenir stalls and small independent shops: anywhere the price is spoken rather than printed.",
+      "Point at one specific item as you say it, because 这个 does the work of the noun you do not know."
+    ],
+    "variants": [
+      {
+        "zh": "这个怎么卖？",
+        "py": "Zhège zěnme mài?",
+        "en": "How do you sell this?",
+        "note": "The market version, asking the rate rather than the total. You will hear it more than 多少钱 at fruit and vegetable stalls."
+      },
+      {
+        "zh": "多少钱一斤？",
+        "py": "Duōshao qián yì jīn?",
+        "en": "How much per half kilo?",
+        "note": "一斤 (yì jīn) is 500 grams, and fresh food in China is priced by it rather than by the item."
+      },
+      {
+        "zh": "有便宜的吗？",
+        "py": "Yǒu piányi de ma?",
+        "en": "Do you have a cheaper one?",
+        "note": "Moves the conversation from the price to the choice, which works in shops that stock several grades of the same thing."
+      }
+    ],
+    "mistakes": [
+      "Say duōshao as one word. 少 keeps its third tone on its own but flattens inside 多少, so splitting the two syllables sounds wrong.",
+      "Ask about 这个 or 那个, never about nothing. In a crowded stall a bare 多少钱 makes the seller guess which of twenty items you mean.",
+      "In a supermarket the price is on the shelf tag and there is nothing to ask. This phrase earns its keep where prices are actually spoken."
+    ],
+    "replies": [
+      {
+        "zh": "二十五。",
+        "py": "Èrshíwǔ.",
+        "en": "Twenty-five."
+      },
+      {
+        "zh": "你要几个？",
+        "py": "Nǐ yào jǐ gè?",
+        "en": "How many do you want?"
+      },
+      {
+        "zh": "这个便宜。",
+        "py": "Zhège piányi.",
+        "en": "This one is cheaper."
+      }
+    ]
+  },
+  "32": {
+    "when": [
+      "Say it in markets, night stalls and tourist streets, and say it with a smile — in those places the first price is an opening, so asking for less is expected rather than rude.",
+      "Expect to settle somewhere in the middle, and expect the answer to be a number rather than a word: the seller usually replies with a price, not with a yes."
+    ],
+    "variants": [
+      {
+        "zh": "能不能再少一点？",
+        "py": "Néng bù néng zài shǎo yìdiǎn?",
+        "en": "Could you go a little lower?",
+        "note": "少 (less) is the word that fits price talk — 少一点 is \"a bit less\". The 能不能 frame asks permission, which softens it further."
+      },
+      {
+        "zh": "两个一起多少钱？",
+        "py": "Liǎng ge yìqǐ duōshao qián?",
+        "en": "How much for two together?",
+        "note": "The move that works when a flat discount does not: buy more, pay less each. It also shifts the subject from your budget to the seller's volume."
+      },
+      {
+        "zh": "再便宜一点就买。",
+        "py": "Zài piányi yìdiǎn jiù mǎi.",
+        "en": "Come down a bit more and I'll take it.",
+        "note": "Names the trade instead of repeating the ask. 就 here means \"then\" — a lower price produces a purchase, and that is the sentence a seller listens for."
+      }
+    ],
+    "mistakes": [
+      "便宜一点 is not the same as 打折: 打折 asks about a promotion the seller already has, 便宜一点 asks the seller to move the price for you.",
+      "一点 is doing real work — the request is deliberately small. 可以便宜吗 with no 一点 sounds like a challenge to the prices themselves, and it tends to be met with a flat no.",
+      "The first answer is very often 不行 or 不能便宜. That is a position rather than a refusal, and saying the same words again more loudly does not move it — changing the offer does."
+    ],
+    "replies": [
+      {
+        "zh": "最多便宜五块。",
+        "py": "Zuì duō piányi wǔ kuài.",
+        "en": "Five yuan off, at most."
+      },
+      {
+        "zh": "这个价已经很便宜了。",
+        "py": "Zhège jià yǐjīng hěn piányi le.",
+        "en": "This price is already low."
+      },
+      {
+        "zh": "你要几个？",
+        "py": "Nǐ yào jǐ ge?",
+        "en": "How many do you want?"
+      }
+    ]
+  },
+  "33": {
+    "when": [
+      "Ask it in a clothing shop when you want to use the fitting room — in many smaller shops the staff will unlock one for you rather than leaving them open.",
+      "It is also the phrase for trying anything on or out in front of the seller, from shoes to sunglasses to a phone case, where English would reach for several different verbs."
+    ],
+    "variants": [
+      {
+        "zh": "可以试穿吗？",
+        "py": "Kěyǐ shìchuān ma?",
+        "en": "Can I try this on?",
+        "note": "试穿 is specifically for clothes, so it is the safest choice in a clothing shop."
+      },
+      {
+        "zh": "我能试一下吗？",
+        "py": "Wǒ néng shì yíxià ma?",
+        "en": "May I give it a try?",
+        "note": "试一下 carries the same meaning without the doubling; the repeated 试试 sounds softer and more casual."
+      },
+      {
+        "zh": "试衣间在哪儿？",
+        "py": "Shìyījiān zài nǎr?",
+        "en": "Where is the fitting room?",
+        "note": "The natural follow-up as soon as the answer is yes."
+      }
+    ],
+    "mistakes": [
+      "试 is not the exam word. 试 means trying something on or out, while 考试 is sitting a test, so 我可以考试吗 in a shop gets a blank look.",
+      "The fitting room is 试衣间 as one unit. 试衣 alone does not name a room, and 更衣室 is a changing room for sport, so staff will point you somewhere else.",
+      "Do not use this to mean you are still deciding. 试 is a physical try-on; to say you will think it over, use 考虑 (kǎolǜ)."
+    ],
+    "replies": [
+      {
+        "zh": "可以，试衣间在那边。",
+        "py": "Kěyǐ, shìyījiān zài nàbian.",
+        "en": "Sure, the fitting room is over there."
+      },
+      {
+        "zh": "只能试两件。",
+        "py": "Zhǐ néng shì liǎng jiàn.",
+        "en": "You can only try two pieces."
+      },
+      {
+        "zh": "这个不能试。",
+        "py": "Zhège bù néng shì.",
+        "en": "This one can't be tried on."
+      }
+    ]
+  },
+  "34": {
+    "when": [
+      "You say it to a shop assistant who comes over as you walk in: it tells them you are not ready to buy and that you will ask if you need anything.",
+      "Because it is a soft no, it works on touts and street sellers too — said with a smile it ends the pitch without making the person feel brushed off."
+    ],
+    "variants": [
+      {
+        "zh": "我就看看。",
+        "py": "Wǒ jiù kànkan.",
+        "en": "I'm just looking.",
+        "note": "Sharper and shorter. 就 narrows it to 'only', so this version says the looking is all you intend to do."
+      },
+      {
+        "zh": "随便看看。",
+        "py": "Suíbiàn kànkan.",
+        "en": "Just looking around.",
+        "note": "Drops the 我 and is what you hear from local shoppers. Fine on its own, though with no pronoun it can sound abrupt to an older assistant."
+      },
+      {
+        "zh": "有需要我叫你。",
+        "py": "Yǒu xūyào wǒ jiào nǐ.",
+        "en": "I'll call you if I need anything.",
+        "note": "The line that actually releases you. Adding it after 我随便看看 gives the assistant something to do other than follow you around."
+      }
+    ],
+    "mistakes": [
+      "随便 does not mean 'whatever' here. 随便 on its own in answer to a question (what do you want to eat?) sounds careless; inside 我随便看看 it means 'casually', which is what makes the phrase friendly.",
+      "It is an answer to the assistant, not a refusal of the shop. Say it and they will usually stay nearby rather than leave you alone.",
+      "看看 is a doubled verb, so it means 'have a look around' rather than 'look'. The same doubling softens 试试 (try it), 走走 (walk around) and 想想 (think it over)."
+    ],
+    "replies": [
+      {
+        "zh": "好，慢慢看。",
+        "py": "Hǎo, mànman kàn.",
+        "en": "OK, take your time."
+      },
+      {
+        "zh": "有需要叫我。",
+        "py": "Yǒu xūyào jiào wǒ.",
+        "en": "Call me if you need anything."
+      },
+      {
+        "zh": "这个可以试。",
+        "py": "Zhège kěyǐ shì.",
+        "en": "You can try this one on."
+      }
+    ]
+  },
+  "40": {
+    "when": [
+      "Ask it in markets, small shops and tourist streets, where the seller sets the price rather than a head office. In a mall or a chain store the staff have no authority to change a posted price, so the answer there is always the same.",
+      "The word itself is the tell: 打折 is a reduction the seller is running, so a yes means a posted price comes down — it does not mean bargaining has started."
+    ],
+    "variants": [
+      {
+        "zh": "打几折？",
+        "py": "Dǎ jǐ zhé?",
+        "en": "How much off?",
+        "note": "The follow-up to a yes. In Chinese pricing 折 counts what is left of the original, so 九折 pays 90% and 八折 pays 80% — a bigger number is a smaller discount."
+      },
+      {
+        "zh": "有优惠吗？",
+        "py": "Yǒu yōuhuì ma?",
+        "en": "Is there any promotion?",
+        "note": "Covers vouchers and member prices rather than a flat reduction. 优惠 is the word you see on posters, in apps and at the till in chain stores."
+      },
+      {
+        "zh": "现在有活动吗？",
+        "py": "Xiànzài yǒu huódòng ma?",
+        "en": "Is there anything on at the moment?",
+        "note": "活动 (an event or campaign) is what shops call a seasonal sale. It is the everyday way to ask, and it applies to restaurants and cinemas as well as shops."
+      }
+    ],
+    "mistakes": [
+      "打折 is not a synonym for haggling. It asks whether the seller already has a promotion; when you want the price itself moved, that is 便宜一点 (make it cheaper).",
+      "Chinese discounts count what you pay, not what you save. 九折 is pay-90%, 八折 is pay-80% — the opposite of how \"20% off\" reads.",
+      "Three words get confused: 打折 is a seller's reduction, 优惠 is a promotion or perk, and 便宜 simply means cheap. 大优惠 on a shop window is a deal that already exists, not one you can ask for."
+    ],
+    "replies": [
+      {
+        "zh": "可以的。",
+        "py": "Kěyǐ de.",
+        "en": "Sure."
+      },
+      {
+        "zh": "不能便宜。",
+        "py": "Bù néng piányi.",
+        "en": "No, the price is fixed."
+      },
+      {
+        "zh": "已经打折了。",
+        "py": "Yǐjīng dǎzhé le.",
+        "en": "It's already discounted."
+      }
+    ]
+  },
+  "41": {
+    "when": [
+      "The standard greeting at any hour of the day, with anyone you do not know well.",
+      "It is also how people answer the phone in Chinese."
+    ],
+    "variants": [
+      {
+        "zh": "您好。",
+        "py": "Nín hǎo.",
+        "en": "Hello (respectful).",
+        "note": "Same sentence with the formal 您 instead of 你. Use it with much older people, doctors, and anyone serving you in a formal setting."
+      },
+      {
+        "zh": "嗨。",
+        "py": "Hāi.",
+        "en": "Hi.",
+        "note": "Casual. Common among younger people and in messaging."
+      }
+    ],
+    "mistakes": [
+      "你好 is for first meetings and formal moments. Greeting a friend with it every morning sounds distant — friends often greet each other with a comment or nothing at all.",
+      "Do not treat it as 'how are you'. 你好吗 is a literal question people rarely ask; everyday greetings are usually observations about what you can see."
+    ]
+  },
+  "42": {
+    "when": [
+      "Thank someone for anything small: handing you change, pouring tea, letting you pass, holding a door.",
+      "It works everywhere in China — shops, taxis, hotels, friends. It is never too formal and never too casual."
+    ],
+    "variants": [
+      {
+        "zh": "谢谢你。",
+        "py": "Xièxie nǐ.",
+        "en": "Thank you (to you).",
+        "note": "Adding 你 makes it directed at one specific person — slightly warmer and more personal."
+      },
+      {
+        "zh": "谢谢大家。",
+        "py": "Xièxie dàjiā.",
+        "en": "Thank you everyone."
+      },
+      {
+        "zh": "太谢谢了。",
+        "py": "Tài xièxie le.",
+        "en": "Thank you so much.",
+        "note": "For real help: someone carried your bag, waited for you, or went out of their way."
+      }
+    ],
+    "mistakes": [
+      "Say it once, at the end. English speakers tend to sprinkle thanks through a sentence; in Chinese one 谢谢 at the close is plenty.",
+      "谢谢 never means 'please'. To ask for something politely use 请 (qǐng), or just state what you want with a calm tone."
+    ]
+  },
+  "43": {
+    "when": [
+      "To apologise for something real: bumping into someone, arriving late, breaking something.",
+      "Also used to politely interrupt or to get past someone in a crowd."
+    ],
+    "variants": [
+      {
+        "zh": "不好意思。",
+        "py": "Bù hǎoyìsi.",
+        "en": "Excuse me / sorry.",
+        "note": "The light apology, and far more common in daily life than 对不起. Use it for asking someone to move, interrupting, being a few minutes late."
+      },
+      {
+        "zh": "抱歉。",
+        "py": "Bàoqiàn.",
+        "en": "Sorry / apologise.",
+        "note": "A step more formal. Frequent in writing and in semi-formal speech."
+      }
+    ],
+    "mistakes": [
+      "Do not reach for 对不起 every time English would use 'sorry'. For small daily friction — squeezing past someone, asking a stranger to repeat themselves — 不好意思 sounds natural where 对不起 feels heavy, as if you caused real trouble.",
+      "Do not confuse it with the reply. When someone apologises to you, the answer is 没关系 (méi guānxi, \"it's fine\"), not another apology."
+    ],
+    "replies": [
+      {
+        "zh": "没关系。",
+        "py": "Méi guānxi.",
+        "en": "It's fine."
+      },
+      {
+        "zh": "没事。",
+        "py": "Méi shì.",
+        "en": "No problem."
+      }
+    ]
+  },
+  "44": {
+    "when": [
+      "The standard answer to 谢谢. Say it whenever someone thanks you for something you did.",
+      "It also means 'don't stand on ceremony' when you are urging someone to help themselves."
+    ],
+    "variants": [
+      {
+        "zh": "不用谢。",
+        "py": "Bú yòng xiè.",
+        "en": "No need to thank me.",
+        "note": "Soft and very common — the everyday default."
+      },
+      {
+        "zh": "没事儿。",
+        "py": "Méi shìr.",
+        "en": "It's nothing.",
+        "note": "Casual. Good among friends and younger people."
+      }
+    ],
+    "mistakes": [
+      "The most useful thing to know: many people in China answer 谢谢 with no words at all, or with a small gesture or nod. Silence here is not rudeness.",
+      "Do not answer thanks with 哪里哪里 (nǎlǐ nǎlǐ). That is a modest reply to a compliment — using it after 谢谢 would be answering the wrong kind of remark."
+    ]
+  },
+  "45": {
+    "when": [
+      "When you leave a shop, a taxi, a restaurant or someone's home — the all-purpose goodbye that works anywhere.",
+      "Also on the phone before hanging up, and when you part from someone you will not see again soon."
+    ],
+    "variants": [
+      {
+        "zh": "拜拜！",
+        "py": "Báibái!",
+        "en": "Bye!",
+        "note": "Borrowed from 'bye-bye' and very common among friends and younger people. Fine in casual settings, a little light for a formal farewell."
+      },
+      {
+        "zh": "回头见。",
+        "py": "Huítóu jiàn.",
+        "en": "See you later.",
+        "note": "Literally 'see you when I turn my head'. For people you genuinely expect to meet again."
+      },
+      {
+        "zh": "我先走了。",
+        "py": "Wǒ xiān zǒu le.",
+        "en": "I'll be off first.",
+        "note": "The normal way to announce you are leaving a group — a dinner table, an office, a party. It comes before 再见, not instead of it."
+      }
+    ],
+    "mistakes": [
+      "再见 works when both sides are leaving. To step away for a moment — leaving your table to ask a question — say 我去问一下 (wǒ qù wèn yíxià, \"I'll go and ask\") and come back.",
+      "Do not overuse it. Chinese speakers often leave a shop with a nod, or with 谢谢, and nothing else. 再见 every single time sounds earnest rather than wrong."
+    ]
+  },
+  "46": {
+    "when": [
+      "With someone you already know — a friend, a colleague, a host you have met before. It is a real question about how they have been.",
+      "Not the right opener with a stranger. With a shopkeeper, a driver or hotel staff the greeting is 你好 on its own; 你好吗 there sounds like a line from a textbook."
+    ],
+    "variants": [
+      {
+        "zh": "最近怎么样？",
+        "py": "Zuìjìn zěnmeyàng?",
+        "en": "How have you been lately?",
+        "note": "What people actually say to a friend or colleague they have not seen for a while."
+      },
+      {
+        "zh": "好久不见。",
+        "py": "Hǎo jiǔ bú jiàn.",
+        "en": "Long time no see.",
+        "note": "Use it when it really has been a long time. It replaces the question rather than leading into it."
+      },
+      {
+        "zh": "吃了吗？",
+        "py": "Chī le ma?",
+        "en": "Have you eaten?",
+        "note": "An old greeting, not an invitation to dinner. Common among neighbours and older people — 吃了 or 还没 is a complete answer."
+      }
+    ],
+    "mistakes": [
+      "你好吗 is textbook Chinese. It appears in teaching material and in what Chinese speakers say to learners; between two native speakers you will hear 最近怎么样, or a remark about something they can see.",
+      "Do not answer with 我很好，谢谢，你呢. That is the textbook dialogue. 挺好的 or 还行 is what a real answer sounds like.",
+      "It is also not a greeting for the phone. Chinese speakers answer the phone with 喂 (wéi)."
+    ],
+    "replies": [
+      {
+        "zh": "挺好的。",
+        "py": "Tǐng hǎo de.",
+        "en": "Pretty good."
+      },
+      {
+        "zh": "还行。",
+        "py": "Hái xíng.",
+        "en": "Not bad."
+      }
+    ]
+  },
+  "47": {
+    "when": [
+      "You ask it of someone your own age — a fellow traveller, a new colleague, a host's friend — where the direct form is completely normal.",
+      "To somebody older, or to anyone whose name you need for a form, the polite version is 您贵姓 (nín guìxìng) — the direct question can sound like you are checking up on them."
+    ],
+    "variants": [
+      {
+        "zh": "请问你叫什么名字？",
+        "py": "Qǐngwèn nǐ jiào shénme míngzi?",
+        "en": "May I ask your name?",
+        "note": "请问 in front is all it takes to move the same sentence from casual to polite. This is the safe version at a hotel or an office."
+      },
+      {
+        "zh": "您贵姓？",
+        "py": "Nín guìxìng?",
+        "en": "What is your surname?",
+        "note": "The formal question, used with older people and in business. 贵 is a courtesy word: literally 'your honourable surname'."
+      },
+      {
+        "zh": "怎么称呼你？",
+        "py": "Zěnme chēnghu nǐ?",
+        "en": "What should I call you?",
+        "note": "The easiest one to use, because it asks only what to call the person rather than for a full name. Very common in workplaces."
+      }
+    ],
+    "mistakes": [
+      "名字 is the full name; surname and given name are separate words. 姓 is the family name and it comes first — in 王小明, 王 is the 姓 and 小明 the given name — and 您贵姓 asks only for the 姓.",
+      "The question already contains 什么, so it takes no 吗. Adding one (你叫什么名字吗) is the mistake foreigners make most often with this sentence.",
+      "Do not build it as 你的名字是什么. It is a word-for-word translation of 'what is your name'; it is understood, but the natural sentence uses 叫."
+    ],
+    "replies": [
+      {
+        "zh": "我叫李明。",
+        "py": "Wǒ jiào Lǐ Míng.",
+        "en": "My name is Li Ming."
+      },
+      {
+        "zh": "我姓王。",
+        "py": "Wǒ xìng Wáng.",
+        "en": "My surname is Wang."
+      },
+      {
+        "zh": "你呢？",
+        "py": "Nǐ ne?",
+        "en": "And you?"
+      }
+    ]
+  },
+  "48": {
+    "when": [
+      "When someone speaks too fast, uses words you do not know, or explains something technical.",
+      "It works best paired with a gesture — pointing, or turning your phone around. People usually slow down, switch to simpler words, or start writing characters."
+    ],
+    "variants": [
+      {
+        "zh": "我听不懂。",
+        "py": "Wǒ tīng bù dǒng.",
+        "en": "I can't understand (when listening).",
+        "note": "More precise when the problem is speed, accent or audio quality rather than the words themselves."
+      },
+      {
+        "zh": "你说慢一点，好吗？",
+        "py": "Nǐ shuō màn yìdiǎn, hǎo ma?",
+        "en": "Could you say it a bit slower?",
+        "note": "The follow-up that actually fixes the problem."
+      },
+      {
+        "zh": "是什么意思？",
+        "py": "Shì shénme yìsi?",
+        "en": "What does it mean?"
+      }
+    ],
+    "mistakes": [
+      "不懂 is about understanding, not ability. 'I can't speak Chinese' is 我不会说中文 (wǒ bú huì shuō Zhōngwén). Saying 我不懂中文 says you understand nothing at all, which understates you.",
+      "If you are interrupting someone to say it, lead with 不好意思."
+    ]
+  },
+  "49": {
+    "when": [
+      "Say it when someone has spoken and you caught the sound but not the meaning. This sentence asks them to repeat exactly the same thing rather than to explain it differently.",
+      "It is the polite default with anyone you have just met, and it works on the phone as well as face to face, where a bare 什么？ would sound abrupt."
+    ],
+    "variants": [
+      {
+        "zh": "请再说一次。",
+        "py": "Qǐng zài shuō yí cì.",
+        "en": "Please say it one more time.",
+        "note": "次 counts any occurrence while 遍 counts a run from start to finish, which is why 遍 fits speech better."
+      },
+      {
+        "zh": "没听清，再说一遍。",
+        "py": "Méi tīng qīng, zài shuō yí biàn.",
+        "en": "I didn't catch that, say it again.",
+        "note": "Leading with 没听清 explains why you are asking, which softens the request."
+      },
+      {
+        "zh": "不好意思，再说一遍好吗？",
+        "py": "Bù hǎoyìsi, zài shuō yí biàn hǎo ma?",
+        "en": "Sorry, could you say that again?",
+        "note": "不好意思 in front and 好吗 at the end makes this the most polite version of the request."
+      }
+    ],
+    "mistakes": [
+      "遍 cannot count anything that happens in time. 三遍 is three readings of the same thing from start to finish, while three separate trips to a shop are 三次.",
+      "再 and 又 both look like \"again\" but they are not interchangeable. 再说一遍 asks for the next repetition, while 又说一遍 describes someone repeating themselves.",
+      "Do not shorten it to 什么？ outside your own circle. Among friends it is fine, but with anyone else it reads as surprise or irritation rather than a request."
+    ],
+    "replies": [
+      {
+        "zh": "好的，我再说一遍。",
+        "py": "Hǎo de, wǒ zài shuō yí biàn.",
+        "en": "Sure, I'll say it again."
+      },
+      {
+        "zh": "我换个说法。",
+        "py": "Wǒ huàn ge shuōfa.",
+        "en": "Let me put it another way."
+      },
+      {
+        "zh": "你听得懂吗？",
+        "py": "Nǐ tīng de dǒng ma?",
+        "en": "Can you understand?"
+      }
+    ]
+  },
+  "50": {
+    "when": [
+      "To get a stranger's attention before a question: hotel staff, a passer-by, someone behind a counter.",
+      "It also covers squeezing past somebody, interrupting a conversation and making a light apology for something small, which is why you hear it dozens of times a day in China."
+    ],
+    "variants": [
+      {
+        "zh": "不好意思，请问一下。",
+        "py": "Bù hǎoyìsi, qǐngwèn yíxià.",
+        "en": "Excuse me, may I ask something?",
+        "note": "The full opener: attention first, question marker second. The safest way to start with someone you do not know."
+      },
+      {
+        "zh": "打扰一下。",
+        "py": "Dǎrǎo yíxià.",
+        "en": "Sorry to bother you.",
+        "note": "Slightly more formal. Good when you need real help from someone at a desk or a service counter."
+      },
+      {
+        "zh": "对不起。",
+        "py": "Duìbuqǐ.",
+        "en": "I am sorry.",
+        "note": "The serious apology. 不好意思 is for brushing past somebody; 对不起 is for having actually done something wrong."
+      }
+    ],
+    "mistakes": [
+      "It is not only an apology. Most of the time it opens a conversation, so say it before the question rather than after you have been refused.",
+      "Do not spend it on something serious. Knock over a display or damage an item and 对不起 is the phrase; 不好意思 sounds far too light.",
+      "It doubles as a polite refusal: 不好意思，我不需要 is how you wave off a tout at a tourist site without being rude. Staff will also say it to you when they have no tables left, and it is a softener rather than bad news."
+    ],
+    "replies": [
+      {
+        "zh": "没事。",
+        "py": "Méi shì.",
+        "en": "It is fine."
+      },
+      {
+        "zh": "你说。",
+        "py": "Nǐ shuō.",
+        "en": "Go ahead."
+      },
+      {
+        "zh": "怎么了？",
+        "py": "Zěnme le?",
+        "en": "What is it?"
+      }
+    ]
+  },
+  "62": {
+    "when": [
+      "As the answer to a question built on 是: 这是你的吗？ (Is this yours?), 你是老师吗？ (Are you a teacher?). Here 是 means 'it is' or 'I am'.",
+      "Also to confirm something someone has just said about themselves or about the situation."
+    ],
+    "variants": [
+      {
+        "zh": "对。",
+        "py": "Duì.",
+        "en": "Right. / Correct.",
+        "note": "The most common way to say 'yes' to a statement in Chinese. When you are unsure which word to use, 对 is the safe one."
+      },
+      {
+        "zh": "是的。",
+        "py": "Shì de.",
+        "en": "Yes, it is.",
+        "note": "Softer and less clipped than a bare 是."
+      },
+      {
+        "zh": "对，是的。",
+        "py": "Duì, shì de.",
+        "en": "Yes, that's right."
+      }
+    ],
+    "mistakes": [
+      "Chinese has no single word for 'yes'. You answer by repeating the verb from the question: 有吗 → 有, 去吗 → 去, 可以吗 → 可以, 喜欢吗 → 喜欢. A bare 是 to a question that did not use 是 sounds wrong.",
+      "是 links two nouns: 他是老师 (he is a teacher). It is not used with adjectives — those take 很 instead. 她很漂亮 is right, 她是漂亮 is not. This is one of the most persistent habits carried over from English."
+    ]
+  },
+  "63": {
+    "when": [
+      "As the negative answer to a 是 question: 这是你的吗？ 不是。",
+      "Also to correct something wrong: 不是，我是英国人 (No — I'm British)."
+    ],
+    "variants": [
+      {
+        "zh": "不是的。",
+        "py": "Bú shì de.",
+        "en": "No, it isn't.",
+        "note": "Softer than a bare 不是, which can land bluntly in a conversation."
+      },
+      {
+        "zh": "没有。",
+        "py": "Méiyǒu.",
+        "en": "I don't have it. / It didn't happen.",
+        "note": "The right 'no' for 有 questions and for things that did not happen. Not interchangeable with 不是."
+      },
+      {
+        "zh": "不对。",
+        "py": "Bú duì.",
+        "en": "That's not right.",
+        "note": "For correcting information, not for answering a 是 question."
+      }
+    ],
+    "mistakes": [
+      "不是 negates 是 only. To refuse something offered — in a shop, a taxi, at a table — the polite form is 不用了，谢谢, not 不是.",
+      "Watch the tone. 不 is normally bù, but it turns into bú before a 4th tone: it is bú shì, not bù shì. The same happens in 不对 (bú duì) and 不用 (bú yòng).",
+      "不是 and 没 are not interchangeable. 没 (or 没有) is for things that did not happen or that you do not have; 不是 is for saying what something is not."
+    ]
+  },
+  "64": {
+    "when": [
+      "You put it in front of any question you ask a stranger — shop staff, a station attendant, somebody on the street — and a bare question turns into a polite opener.",
+      "It also works as the attention-getter on its own: say 请问 and pause, and the person will look up before you have said what you want."
+    ],
+    "variants": [
+      {
+        "zh": "请问一下。",
+        "py": "Qǐngwèn yíxià.",
+        "en": "May I ask you something?",
+        "note": "一下 softens it further and buys you a moment to finish the sentence. Very common when you are about to ask for directions."
+      },
+      {
+        "zh": "麻烦问一下。",
+        "py": "Máfan wèn yíxià.",
+        "en": "Sorry to trouble you, may I ask?",
+        "note": "麻烦 (to put somebody to trouble) makes the request more considerate. Good at a service counter where the person is already busy."
+      },
+      {
+        "zh": "问一下。",
+        "py": "Wèn yíxià.",
+        "en": "Quick question.",
+        "note": "The no-frills version, used between younger people and in shops where 请问 would sound stiff. 一下 does the softening instead."
+      }
+    ],
+    "mistakes": [
+      "It goes in front of a full question, not instead of one. 请问 alone means 'may I ask', so the other person stops and waits — have the question ready before you start.",
+      "It is polite, not warm. 请问 keeps an exchange businesslike, which is exactly right with staff and wrong with a friend: used on somebody you know it sounds like a call centre.",
+      "Tone, not volume, carries it. 请 is a full third tone and 问 is falling, so flattening the two into 'qing-wen' is the tell that you have read the phrase rather than heard it."
+    ],
+    "replies": [
+      {
+        "zh": "请讲。",
+        "py": "Qǐng jiǎng.",
+        "en": "Go ahead."
+      },
+      {
+        "zh": "什么事？",
+        "py": "Shénme shì?",
+        "en": "What is it?"
+      },
+      {
+        "zh": "不好意思，我也不知道。",
+        "py": "Bù hǎoyìsi, wǒ yě bù zhīdào.",
+        "en": "Sorry, I don't know either."
+      }
+    ]
+  },
+  "65": {
+    "when": [
+      "Before about 10 a.m. — to hotel staff, a shopkeeper, a taxi driver, your host.",
+      "On arriving somewhere in the morning: a shop, a waiting room, a friend's home. It is a greeting, never a goodbye."
+    ],
+    "variants": [
+      {
+        "zh": "早！",
+        "py": "Zǎo!",
+        "en": "Morning!",
+        "note": "The one-word version. Everyone understands it, and friends will often answer with it."
+      },
+      {
+        "zh": "下午好。",
+        "py": "Xiàwǔ hǎo.",
+        "en": "Good afternoon.",
+        "note": "Correct and understood, but 你好 is far more common in the afternoon — this one sounds deliberate."
+      },
+      {
+        "zh": "晚上好。",
+        "py": "Wǎnshang hǎo.",
+        "en": "Good evening.",
+        "note": "For arriving somewhere in the evening. Not a farewell."
+      },
+      {
+        "zh": "晚安。",
+        "py": "Wǎn'ān.",
+        "en": "Good night.",
+        "note": "Only when parting for the night or going to bed. Never a greeting."
+      }
+    ],
+    "mistakes": [
+      "早上好 has a window. Mid-morning onwards it sounds off — switch to 你好, which works at any hour.",
+      "Do not use 晚上好 to say goodbye. 晚安 is the farewell; 晚上好 is only for arriving.",
+      "Greeting a friend with 早上好 every single morning sounds formal. Friends often just acknowledge each other — 来了 (you're here) — and start talking."
+    ]
+  },
+  "66": {
+    "when": [
+      "You say it when you are going to bed, or when you are the one leaving late: it is a farewell, so it closes a conversation rather than opening one.",
+      "Chinese uses it less than English uses 'good night', so it can sound a little formal; among friends a plain 我先睡了 (I'm going to sleep first) is the everyday version."
+    ],
+    "variants": [
+      {
+        "zh": "我先睡了。",
+        "py": "Wǒ xiān shuì le.",
+        "en": "I'm going to sleep first.",
+        "note": "The way a chat actually ends at night. 先 makes it 'before you', which is what turns it into a soft exit rather than an announcement."
+      },
+      {
+        "zh": "早点休息。",
+        "py": "Zǎo diǎn xiūxi.",
+        "en": "Get some rest.",
+        "note": "What people say instead of good night when the other person is still working. It is a wish for their health, so it does not end the conversation."
+      },
+      {
+        "zh": "晚安，好梦。",
+        "py": "Wǎn'ān, hǎo mèng.",
+        "en": "Good night, sweet dreams.",
+        "note": "好梦 is the standard addition, used with family and close friends. The longer written form is 祝你做个好梦."
+      }
+    ],
+    "mistakes": [
+      "晚安 is not the evening greeting. Arriving at a hotel or meeting somebody after dark, the word is 晚上好 (wǎnshang hǎo) — 晚安 there would tell them you are going to bed.",
+      "Chinese greets by time of day: 早上好, 下午好, 晚上好. 晚安 is the only one of the four used at the end of the day rather than the start, which is why mixing it up is the classic slip.",
+      "In writing it is everywhere — messages, posts, customer-service sign-offs. In speech it is mostly between family and partners, so it lands warmer than 晚上好 does."
+    ],
+    "replies": [
+      {
+        "zh": "晚安。",
+        "py": "Wǎn'ān.",
+        "en": "Good night."
+      },
+      {
+        "zh": "好，你也早点睡。",
+        "py": "Hǎo, nǐ yě zǎodiǎn shuì.",
+        "en": "OK, you get some sleep too."
+      },
+      {
+        "zh": "明天见。",
+        "py": "Míngtiān jiàn.",
+        "en": "See you tomorrow."
+      }
+    ]
+  },
+  "67": {
+    "when": [
+      "When you accept an offer or agree to a plan: a driver checks the address, a waiter suggests a dish, a friend tells you where to meet.",
+      "Also a soft 'all right, go ahead' when someone is explaining something to you."
+    ],
+    "variants": [
+      {
+        "zh": "好。",
+        "py": "Hǎo.",
+        "en": "Okay.",
+        "note": "Shorter and more decisive. Common in quick exchanges, but can sound clipped with someone you have just met."
+      },
+      {
+        "zh": "行。",
+        "py": "Xíng.",
+        "en": "That works.",
+        "note": "Very common in northern China. 行 is about whether something is workable, so it answers 'is this OK?' rather than 'do you want it?'"
+      },
+      {
+        "zh": "可以。",
+        "py": "Kěyǐ.",
+        "en": "That works. / Sure.",
+        "note": "The safest 'yes' to a proposal — it carries permission rather than enthusiasm."
+      },
+      {
+        "zh": "没问题。",
+        "py": "Méi wèntí.",
+        "en": "No problem.",
+        "note": "For when someone is asking you to do something."
+      }
+    ],
+    "mistakes": [
+      "好的 and 好吧 are not the same. 好吧 means 'all right then' and carries reluctance — saying it when you mean 好的 sounds as though you were talked into something.",
+      "好的 agrees with a proposal. It is not a general 'yes': for a 是 question you need 是 or 对.",
+      "It is easy to overuse. After a while 好 on its own sounds more natural, and between friends a nod is enough."
+    ]
+  },
+  "68": {
+    "when": [
+      "When you genuinely have nothing to give — somebody asking you for directions, for a shop's opening hours, or about a place you are also visiting for the first time.",
+      "It is a plain statement, not a request for slower speech: 我不懂 asks for a rephrase, while 我不知道 says the answer is not in your hands."
+    ],
+    "variants": [
+      {
+        "zh": "我也不知道。",
+        "py": "Wǒ yě bù zhīdào.",
+        "en": "I don't know either.",
+        "note": "也 does a lot of work here. It tells the other person you are not withholding anything — you are in the same position they are."
+      },
+      {
+        "zh": "我不太清楚。",
+        "py": "Wǒ bú tài qīngchu.",
+        "en": "I'm not quite sure.",
+        "note": "清楚 is 'clear', so 不清楚 reports uncertainty rather than a flat blank. Softer than 不知道 without being vague."
+      },
+      {
+        "zh": "我帮你问问。",
+        "py": "Wǒ bāng nǐ wènwen.",
+        "en": "Let me ask someone for you.",
+        "note": "The closing move when you want to help anyway. Doubling the verb (问问) is what makes the errand sound casual rather than a favour you are owed."
+      }
+    ],
+    "mistakes": [
+      "不知道 answers a question you understood. If the words themselves did not land, it sounds like a refusal to answer and people will simply repeat the question louder — 我不懂 is the one that asks for a rephrase.",
+      "不太 needs a gradable word after it. 我不太清楚 is correct and softer, while 我不太知道 is a slip; it is a common one, because 不知道 is so frequent that it feels safe to soften.",
+      "There is no bare yes to fall back on when somebody checks something with you. If you mean 'I have heard of it' rather than 'I know', 我听说过 is the verb — and 我知道 as a two-word answer can sound like 'obviously I know'."
+    ],
+    "replies": [
+      {
+        "zh": "没关系，我再问问。",
+        "py": "Méiguānxi, wǒ zài wènwen.",
+        "en": "No problem, I'll ask someone else."
+      },
+      {
+        "zh": "你可以去前台问。",
+        "py": "Nǐ kěyǐ qù qiántái wèn.",
+        "en": "You can ask at the front desk."
+      },
+      {
+        "zh": "我也不太清楚。",
+        "py": "Wǒ yě bú tài qīngchu.",
+        "en": "I'm not too sure either."
+      }
+    ]
+  },
+  "69": {
+    "when": [
+      "When you want to set expectations before the conversation goes wrong — a hotel desk, a clinic, a bank counter, or anyone who starts at full speed.",
+      "Saying it up front works better than asking for a repeat later, because it changes how the other person picks their words from the first sentence."
+    ],
+    "variants": [
+      {
+        "zh": "我的中文一般。",
+        "py": "Wǒ de Zhōngwén yìbān.",
+        "en": "My Chinese is so-so.",
+        "note": "一般 is the standard Chinese way of saying 'nothing special'. It is more understated, and more native-sounding, than 不好."
+      },
+      {
+        "zh": "我听得懂一点。",
+        "py": "Wǒ tīng de dǒng yìdiǎn.",
+        "en": "I understand a little.",
+        "note": "听得懂 is 'hear and understand'. Splitting 听 (hear) from 懂 (understand) is what lets you tell people which half is failing."
+      },
+      {
+        "zh": "请说慢一点可以吗？",
+        "py": "Qǐng shuō màn yìdiǎn kěyǐ ma?",
+        "en": "Could you speak a little more slowly?",
+        "note": "The slow-down request framed as a question, which gives the other person room to decline. Easier to say to a stranger than a bare 请说慢一点."
+      }
+    ],
+    "mistakes": [
+      "The 得 is doing real work. It links 说 to how well the speaking is done, so 说得不好 reports on this conversation rather than on your ceiling. Drop it and 我说不好 starts to sound like a verdict on yourself.",
+      "The answer you will get is 你中文说得很好, and it is politeness rather than a measurement. Agreeing looks odd and arguing looks worse; 谢谢，还在学 is what the line expects.",
+      "No apology is needed. Chinese has no fixed version of 'sorry, my Chinese is bad' as an opener, and adding 对不起 turns a neutral request into a confession about a language you are still learning."
+    ],
+    "replies": [
+      {
+        "zh": "没关系，慢慢说。",
+        "py": "Méiguānxi, mànman shuō.",
+        "en": "No problem, take your time."
+      },
+      {
+        "zh": "你中文说得很好！",
+        "py": "Nǐ Zhōngwén shuō de hěn hǎo!",
+        "en": "Your Chinese is really good!"
+      },
+      {
+        "zh": "我说英文可以吗？",
+        "py": "Wǒ shuō Yīngwén kěyǐ ma?",
+        "en": "Can I speak English?"
+      }
+    ]
+  },
+  "70": {
+    "when": [
+      "When you need to know whether the person across the counter can switch to English — a station ticket window, a hotel desk, a hospital reception.",
+      "会 asks about a learned skill, so this is a question about their English rather than a request for it; swapping in 能 turns it into 'could you say it in English right now'."
+    ],
+    "variants": [
+      {
+        "zh": "你会说英文吗？",
+        "py": "Nǐ huì shuō Yīngwén ma?",
+        "en": "Do you speak English?",
+        "note": "英语 and 英文 both mean English. 英文 is the more common word in speech; 英语 is the one on school timetables."
+      },
+      {
+        "zh": "可以用英语吗？",
+        "py": "Kěyǐ yòng Yīngyǔ ma?",
+        "en": "Can we do this in English?",
+        "note": "Frames it as the situation rather than the person's ability, which is an easier yes to give."
+      },
+      {
+        "zh": "有会说英语的人吗？",
+        "py": "Yǒu huì shuō Yīngyǔ de rén ma?",
+        "en": "Is there anyone who speaks English?",
+        "note": "The escalator question. At a counter this gets you handed to a colleague instead of a shrug."
+      }
+    ],
+    "mistakes": [
+      "A no from one person says nothing about the next one. English is a school subject in China and how much of it stayed varies a lot from person to person, so asking again down the queue is normal rather than rude.",
+      "Do not drop the 会. 你说英语吗 asks whether they are speaking English at this moment, which lands like a complaint about the language they just used; 你会说英语吗 asks about the skill.",
+      "It is a question, not an order. The tone people hear is 'is English possible here?', so a shrug at the answer is normal — the useful follow-up is 那请说慢一点 rather than the same sentence louder."
+    ],
+    "replies": [
+      {
+        "zh": "会一点。",
+        "py": "Huì yīdiǎn.",
+        "en": "A little."
+      },
+      {
+        "zh": "不好意思，我不会。",
+        "py": "Bù hǎoyìsi, wǒ bú huì.",
+        "en": "Sorry, I don't."
+      },
+      {
+        "zh": "这里没人会说。",
+        "py": "Zhèlǐ méi rén huì shuō.",
+        "en": "Nobody here speaks it."
+      }
+    ]
+  },
+  "73": {
+    "when": [
+      "You say it to a partner, a parent, or your own child — 爱 covers family love as much as romantic love, so it is not reserved for one relationship.",
+      "Chinese uses it far less often than English uses 'I love you', so it carries weight: saying it out of the blue, rather than on an occasion, is itself the message."
+    ],
+    "variants": [
+      {
+        "zh": "我真的很爱你。",
+        "py": "Wǒ zhēn de hěn ài nǐ.",
+        "en": "I really love you.",
+        "note": "真的很 is how Chinese adds 'really'. English puts the word in the same place, so this is the one line that maps almost word for word."
+      },
+      {
+        "zh": "我很爱你。",
+        "py": "Wǒ hěn ài nǐ.",
+        "en": "I love you a lot.",
+        "note": "很 before 爱 adds intensity rather than being the flat 'very' of 很好. Order matters: 很 comes before the verb, so 我爱你很 is not a sentence."
+      },
+      {
+        "zh": "我喜欢你。",
+        "py": "Wǒ xǐhuan nǐ.",
+        "en": "I like you.",
+        "note": "The everyday word for liking, and what you say to a friend or early on. 喜欢 does not carry the weight of 爱, which is exactly why it is the safer choice."
+      }
+    ],
+    "mistakes": [
+      "Saying it to a friend can land oddly. 爱 is the word for partners, parents and children; with a friend the natural phrase is 我很喜欢你 (I really like you), and 我爱你 between friends may be taken as a confession.",
+      "爱 takes things as well as people. 我爱吃辣 (I love spicy food) and 我爱这个地方 are ordinary, so hearing 爱 does not by itself signal romance — what signals it is the object being 你.",
+      "Chinese does not change the verb for the subject or the object, so 我爱你 is the same sentence whoever says it. 'I love you too' is therefore 我也爱你, with 也 before 爱."
+    ],
+    "replies": [
+      {
+        "zh": "我也爱你。",
+        "py": "Wǒ yě ài nǐ.",
+        "en": "I love you too."
+      },
+      {
+        "zh": "我也是。",
+        "py": "Wǒ yě shì.",
+        "en": "Me too."
+      },
+      {
+        "zh": "怎么突然说这个？",
+        "py": "Zěnme tūrán shuō zhège?",
+        "en": "What's brought this on?"
+      }
+    ]
+  },
+  "74": {
+    "when": [
+      "At a table when the glasses come together: the same two words work as the invitation to drink and as the answer to one.",
+      "Not only formal dinners. It is the ordinary toast among friends, colleagues and family, and you will hear it several times in an evening."
+    ],
+    "variants": [
+      {
+        "zh": "干！",
+        "py": "Gān!",
+        "en": "Down it!",
+        "note": "The short form of the same word. Very common at lively tables and it means exactly the same thing."
+      },
+      {
+        "zh": "我干了，你随意。",
+        "py": "Wǒ gàn le, nǐ suíyì.",
+        "en": "I will finish mine, you drink as you like.",
+        "note": "The polite way to toast somebody who may not want to match you glass for glass."
+      },
+      {
+        "zh": "敬你一杯。",
+        "py": "Jìng nǐ yì bēi.",
+        "en": "Here is to you.",
+        "note": "敬 is the verb for toasting a person, used to a host, an elder or a guest of honour."
+      }
+    ],
+    "mistakes": [
+      "干杯 means empty the glass, not clink and sip. If you are not drinking alcohol, 我以茶代酒 (I will drink tea instead) is understood and accepted, and your glass stops being refilled.",
+      "There is an order to it. The host toasts first, and when a younger person toasts somebody older the glass is held slightly lower. Getting that right matters more than the word.",
+      "Toasting here is social rather than competitive. 随意 (as you like) is the standard escape hatch, and saying it once protects you for the rest of the evening."
+    ],
+    "replies": [
+      {
+        "zh": "好，干！",
+        "py": "Hǎo, gān!",
+        "en": "OK, down it!"
+      },
+      {
+        "zh": "你随意。",
+        "py": "Nǐ suíyì.",
+        "en": "Take it easy."
+      },
+      {
+        "zh": "来，再来一杯。",
+        "py": "Lái, zài lái yì bēi.",
+        "en": "Come on, one more."
+      }
+    ]
+  },
+  "75": {
+    "when": [
+      "To anyone on their birthday — a friend, a colleague, someone at the next table.",
+      "Very often written rather than spoken: on a card, on a red envelope, or in a chat message."
+    ],
+    "variants": [
+      {
+        "zh": "祝你生日快乐！",
+        "py": "Zhù nǐ shēngrì kuàilè!",
+        "en": "Wishing you a happy birthday!",
+        "note": "The fuller form. 祝 is the verb 'to wish', so this reads as a formal wish rather than a shout."
+      },
+      {
+        "zh": "生日快乐，身体健康！",
+        "py": "Shēngrì kuàilè, shēntǐ jiànkāng!",
+        "en": "Happy birthday, and good health!",
+        "note": "Common with older people, where a wish for health carries more weight than the birthday itself."
+      },
+      {
+        "zh": "生日快乐啊！",
+        "py": "Shēngrì kuàilè a!",
+        "en": "Happy birthday!",
+        "note": "The 啊 at the end makes it sound spoken and warm rather than read off a card."
+      }
+    ],
+    "mistakes": [
+      "生日快乐 is only for birthdays. The formula is occasion + 快乐: 新年快乐 (Happy New Year), 节日快乐 (happy holiday), 周末快乐 (have a good weekend). 快乐 always comes second.",
+      "It is said on the day, not in advance — there is no Chinese equivalent of 'many happy returns'.",
+      "The short version is the common one. Adding 祝你 makes it warmer in writing, not more correct in speech."
+    ],
+    "replies": [
+      {
+        "zh": "谢谢！",
+        "py": "Xièxie!",
+        "en": "Thank you!"
+      }
+    ]
+  },
+  "76": {
+    "when": [
+      "You say it as the answer to 对不起, and when somebody apologises for a small accident — bumping into you, stepping on your foot, knocking your bag.",
+      "It also closes a problem rather than accepting an apology: it says the whole thing has stopped mattering, so use it to end a complaint rather than to open one."
+    ],
+    "variants": [
+      {
+        "zh": "没事。",
+        "py": "Méi shì.",
+        "en": "It's OK.",
+        "note": "The short everyday version, used constantly in speech. Fine after a bump in a crowd; too light for an apology that was meant seriously."
+      },
+      {
+        "zh": "不要紧。",
+        "py": "Bú yàojǐn.",
+        "en": "It's not a problem.",
+        "note": "The warmer twin of 没关系. 要紧 means 'to matter', so 不要紧 is 'it doesn't matter' — you will hear staff use it to wave off an apology."
+      },
+      {
+        "zh": "别放在心上。",
+        "py": "Bié fàng zài xīnshàng.",
+        "en": "Don't give it another thought.",
+        "note": "For something the other person feels genuinely bad about. 放在心上 is literally 'put it in your heart', so this is the phrase that actually forgives."
+      }
+    ],
+    "mistakes": [
+      "It answers 对不起, not 谢谢. Reply to thanks with 不客气 — 没关系 after 谢谢 sounds as though you are forgiving the person rather than accepting their gratitude.",
+      "It dismisses the incident, not the person's feeling. If you want to say 'no harm done, but please be careful', 没关系 will not carry it, because it closes the topic.",
+      "Tone decides whether it lands. A flat 没关系 after a real apology reads as cold; the same words with 真 in front (真没关系) are what make the other person believe you."
+    ],
+    "replies": [
+      {
+        "zh": "谢谢。",
+        "py": "Xièxie.",
+        "en": "Thank you."
+      },
+      {
+        "zh": "真的很抱歉。",
+        "py": "Zhēn de hěn bàoqiàn.",
+        "en": "I'm really sorry."
+      },
+      {
+        "zh": "那我走了。",
+        "py": "Nà wǒ zǒu le.",
+        "en": "I'll be on my way then."
+      }
+    ]
+  },
+  "77": {
+    "when": [
+      "Say it when you need a few seconds — to find the word you want, to open a payment app, or to check the change. 请 in front keeps it a request and 一下 keeps it short.",
+      "It is the phrase for someone who is mid-task: a cashier ringing up your basket, a clerk already serving another customer, a driver stopped at a light."
+    ],
+    "variants": [
+      {
+        "zh": "等一下。",
+        "py": "Děng yíxià.",
+        "en": "Wait a moment.",
+        "note": "Drop the 请 and this is what friends and colleagues say to each other all day. To a stranger it can land as abrupt, so keep the 请 there."
+      },
+      {
+        "zh": "请稍等。",
+        "py": "Qǐng shāo děng.",
+        "en": "Please hold on briefly.",
+        "note": "The service-counter version. 稍 is the 稍 of 稍微 (slightly); you will hear it in shops, banks and on customer-service lines."
+      },
+      {
+        "zh": "让我想想。",
+        "py": "Ràng wǒ xiǎngxiang.",
+        "en": "Let me think.",
+        "note": "Buying time for a decision rather than for a task. The doubled 想想 makes it \"think a little\", which is softer than a flat 想."
+      }
+    ],
+    "mistakes": [
+      "等一下 is not rude on its own — tone carries it. Said flatly to a stranger it reads as an order; with 请 in front it is a request.",
+      "等一下 points at the task, not at you. To mean \"wait for me\" while you are the one walking ahead, Chinese says 等我一下 — 等我 (wait for me) plus 一下.",
+      "一 changes tone here: it is yī standing alone but yí before a fourth tone like xià. The same shift gives 一个 (yí ge) and 一次 (yí cì)."
+    ],
+    "replies": [
+      {
+        "zh": "没问题。",
+        "py": "Méi wèntí.",
+        "en": "No problem."
+      },
+      {
+        "zh": "慢慢来。",
+        "py": "Mànman lái.",
+        "en": "Take your time."
+      },
+      {
+        "zh": "马上好。",
+        "py": "Mǎshàng hǎo.",
+        "en": "Almost done."
+      }
+    ]
+  },
+  "78": {
+    "when": [
+      "Say it to turn down something that is being offered — a tout at a station exit, a driver quoting a fare, an assistant holding up a second item.",
+      "The 谢谢 on the end matters more than it looks: it marks the refusal as a decision about the offer rather than a judgement about the person, and it gives them a clean place to stop."
+    ],
+    "variants": [
+      {
+        "zh": "不要，谢谢。",
+        "py": "Bú yào, xièxie.",
+        "en": "I don't want it, thanks.",
+        "note": "Flatter and more final than 不用了. In a crowd it is the one that ends the exchange fastest."
+      },
+      {
+        "zh": "我不需要。",
+        "py": "Wǒ bù xūyào.",
+        "en": "I don't need it.",
+        "note": "Turns the refusal into a fact about you rather than a verdict on the offer — useful when the same person asks a second and third time."
+      },
+      {
+        "zh": "下次吧。",
+        "py": "Xià cì ba.",
+        "en": "Maybe next time.",
+        "note": "A soft brush-off for the second or third ask. 吧 makes it a suggestion rather than a closed door, which suits a street you might walk down again."
+      }
+    ],
+    "mistakes": [
+      "不用 is not a word-for-word \"no thanks\": 用 is \"to need\", so 不用 is \"not needed\". The literal sense is firmer than the English sounds, and the 谢谢 is what keeps it polite.",
+      "Chinese has no single word for \"no\". A flat 不 on its own sounds like a challenge; refusals come as 不用了, 不要了 or 不行, one situation at a time.",
+      "The 了 in 不用了 is doing work: it marks a decision being made now. 不用 without it can read as a general statement — \"not needed\" — rather than a reply to the offer in front of you."
+    ],
+    "replies": [
+      {
+        "zh": "好的。",
+        "py": "Hǎo de.",
+        "en": "OK."
+      },
+      {
+        "zh": "没事。",
+        "py": "Méi shì.",
+        "en": "No worries."
+      },
+      {
+        "zh": "有需要再找我。",
+        "py": "Yǒu xūyào zài zhǎo wǒ.",
+        "en": "Come find me if you need anything."
+      }
+    ]
+  },
+  "79": {
+    "when": [
+      "Use it the moment you are introduced to someone — right after the handshake or the nod — as the standard way to open a new acquaintance in Chinese.",
+      "It also fits hosts, guides, hotel managers and a friend's parents, though people of your own age usually just say 你好 again and get straight to talking."
+    ],
+    "variants": [
+      {
+        "zh": "很高兴认识你。",
+        "py": "Hěn gāoxìng rènshi nǐ.",
+        "en": "Very happy to meet you.",
+        "note": "The same words with the feeling first — this is the order you will hear most often."
+      },
+      {
+        "zh": "幸会幸会。",
+        "py": "Xìnghuì xìnghuì.",
+        "en": "A pleasure, a pleasure.",
+        "note": "Short and slightly formal; it belongs to exchanged business cards rather than parties."
+      },
+      {
+        "zh": "很高兴见到你。",
+        "py": "Hěn gāoxìng jiàndào nǐ.",
+        "en": "Glad to finally see you.",
+        "note": "见到 is about the meeting itself, so it fits the moment you go from messages to face to face."
+      }
+    ],
+    "mistakes": [
+      "Not for service staff. You are not introduced to a waiter or a cashier, so 认识你很高兴 lands as oddly weighty there — a plain 你好 is what people actually say.",
+      "认识 is for people, 知道 is for facts. 我知道你 means \"I know of you\", which is a very different thing to say to someone you have just met.",
+      "幸会 does not mix with 很高兴. Pick one register and stay in it: 幸会幸会 for a card exchange, 很高兴认识你 for everybody else."
+    ],
+    "replies": [
+      {
+        "zh": "我也很高兴。",
+        "py": "Wǒ yě hěn gāoxìng.",
+        "en": "I'm happy too."
+      },
+      {
+        "zh": "彼此彼此。",
+        "py": "Bǐcǐ bǐcǐ.",
+        "en": "Likewise."
+      },
+      {
+        "zh": "以后常联系。",
+        "py": "Yǐhòu cháng liánxì.",
+        "en": "Let's keep in touch."
+      }
+    ]
+  },
+  "80": {
+    "when": [
+      "Say it early in a conversation you are struggling through. It reframes the whole exchange: once the person knows you are a visitor, they stop testing whether you understood and start explaining instead.",
+      "It is also the sentence that opens the door for help — knowing you do not know the local routine makes a follow-up question expected rather than an imposition."
+    ],
+    "variants": [
+      {
+        "zh": "我不是本地人。",
+        "py": "Wǒ bú shì běndì rén.",
+        "en": "I'm not from around here.",
+        "note": "Works in the same places as 我是游客 but carries no holiday context — useful at a bank, a clinic or anywhere a clerk is deciding how much to explain."
+      },
+      {
+        "zh": "我刚到中国。",
+        "py": "Wǒ gāng dào Zhōngguó.",
+        "en": "I just arrived in China.",
+        "note": "刚 marks \"only just\". Adding it explains why you have no local number, no payment app set up and no idea of the routine yet."
+      },
+      {
+        "zh": "我第一次来。",
+        "py": "Wǒ dì yī cì lái.",
+        "en": "This is my first time here.",
+        "note": "The one that reliably gets patience and invites recommendations. 第一次 is the frame for any first time — 第一次来中国, 第一次吃火锅."
+      }
+    ],
+    "mistakes": [
+      "游客 means a sightseeing visitor. A business traveller is 出差 (chūchāi) and a student is 留学生, so 我是游客 is the wrong label on a work trip.",
+      "Saying it is a strategy, not a confession. Staff change register when they hear it: instructions get repeated, and answers come with the extra step that a local would have been expected to know.",
+      "It is a label, not an apology, so no 不好意思 is needed. English adds \"sorry, I'm just a tourist\"; in Chinese the sorry makes it sound like you are apologising for being there."
+    ],
+    "replies": [
+      {
+        "zh": "欢迎来中国！",
+        "py": "Huānyíng lái Zhōngguó!",
+        "en": "Welcome to China!"
+      },
+      {
+        "zh": "你会说中文吗？",
+        "py": "Huì shuō Zhōngwén ma?",
+        "en": "Do you speak Chinese?"
+      },
+      {
+        "zh": "需要帮忙吗？",
+        "py": "Xūyào bāngmáng ma?",
+        "en": "Do you need help?"
+      }
+    ]
+  },
+  "81": {
+    "when": [
+      "You say it reacting to good news: a table found, a plan confirmed, a problem somebody else just solved. It is genuine enthusiasm, not politeness.",
+      "It is also how you praise something you were given or shown — a dish, a photo, somebody's Chinese — where a plain 很好 would sound flat."
+    ],
+    "variants": [
+      {
+        "zh": "太好了！",
+        "py": "Tài hǎo le!",
+        "en": "That's great!",
+        "note": "The plain version of the same frame, and the one you will hear most. 好 is safe anywhere; 棒 is louder and younger."
+      },
+      {
+        "zh": "真不错！",
+        "py": "Zhēn búcuò!",
+        "en": "That's really good!",
+        "note": "A little more measured than 太棒了. 不错 is 'not bad', and with 真 in front it turns into real praise."
+      },
+      {
+        "zh": "太厉害了！",
+        "py": "Tài lìhai le!",
+        "en": "That's impressive!",
+        "note": "For a person's skill or effort rather than a piece of news. 厉害 is the standard compliment for somebody who just did something difficult."
+      }
+    ],
+    "mistakes": [
+      "太…了 needs the 了. 太棒 on its own is not a sentence; the unit is 太 + adjective + 了, which covers 太好了, 太贵了 and 太辣了 alike.",
+      "太 means both 'so' and 'too much', and the adjective decides which. 太棒了 is praise while 太贵了 (too expensive) and 太辣了 (too spicy) are complaints — same frame, opposite job.",
+      "很棒 and 太棒了 do not sit in the same place. 很棒 describes something (this place is great); 太棒了 reacts to something (that's great!). Using 太棒了 as a description is what makes it sound over the top."
+    ],
+    "replies": [
+      {
+        "zh": "谢谢！",
+        "py": "Xièxie!",
+        "en": "Thank you!"
+      },
+      {
+        "zh": "哪里哪里。",
+        "py": "Nǎlǐ nǎlǐ.",
+        "en": "You flatter me."
+      },
+      {
+        "zh": "真的吗？",
+        "py": "Zhēn de ma?",
+        "en": "Really?"
+      }
+    ]
+  },
+  "82": {
+    "when": [
+      "Only when someone is in real danger — a medical emergency, a fire, a serious accident, or harassment.",
+      "Shout it to draw the attention of anyone nearby. It is the one word that reliably stops people in a crowd."
+    ],
+    "variants": [
+      {
+        "zh": "帮忙！",
+        "py": "Bāngmáng!",
+        "en": "Help!",
+        "note": "A request for help, but nowhere near as urgent as 救命. For being stuck, overloaded or lost rather than in danger."
+      },
+      {
+        "zh": "帮帮我！",
+        "py": "Bāng bāng wǒ!",
+        "en": "Please help me!",
+        "note": "The everyday request. Perfectly fine when you simply cannot manage on your own."
+      },
+      {
+        "zh": "请叫救护车！",
+        "py": "Qǐng jiào jiùhùchē!",
+        "en": "Please call an ambulance!",
+        "note": "The follow-up that matters in a medical emergency."
+      }
+    ],
+    "mistakes": [
+      "救命 is not 'help me with this bag'. Spending it on a small problem wastes the one word that makes people act — for everything else use 帮忙 or 帮帮我.",
+      "Keep it for danger. A bystander who believes you are in danger may well call the police (110) on your behalf, which turns a small problem into a long one.",
+      "Emergency numbers in China: 110 police, 120 ambulance, 119 fire. Hotel staff and passers-by can also place the call for you."
+    ],
+    "replies": [
+      {
+        "zh": "怎么了？",
+        "py": "Zěnme le?",
+        "en": "What's wrong?"
+      },
+      {
+        "zh": "我帮你叫救护车。",
+        "py": "Wǒ bāng nǐ jiào jiùhùchē.",
+        "en": "I'll call an ambulance for you."
+      }
+    ]
+  },
+  "83": {
+    "when": [
+      "When something has genuinely gone wrong: a lost passport, a stolen bag, or a phone that has died before you have anywhere to stay.",
+      "Say it to staff rather than to a passer-by. Hotel front desks, station service counters and shop assistants can make calls and check records, which strangers cannot."
+    ],
+    "variants": [
+      {
+        "zh": "你能帮我吗？",
+        "py": "Nǐ néng bāng wǒ ma?",
+        "en": "Can you help me?",
+        "note": "The direct question form. Works well straight after 不好意思 when you are already talking to somebody."
+      },
+      {
+        "zh": "请帮我一下。",
+        "py": "Qǐng bāng wǒ yíxià.",
+        "en": "Please give me a hand.",
+        "note": "Much lighter, for a small immediate favour such as reading a sign or lifting a bag."
+      },
+      {
+        "zh": "我需要看医生。",
+        "py": "Wǒ xūyào kàn yīshēng.",
+        "en": "I need to see a doctor.",
+        "note": "The same 我需要 frame carries any need: 我需要充电器 (a charger), 我需要一张地图 (a map)."
+      }
+    ],
+    "mistakes": [
+      "Do not reach for 救命 here. 救命 means somebody's life is in danger, and spending it on a lost phone empties the word for the moment it is really needed.",
+      "Name the person you need if you can. 前台 is the hotel front desk and 服务台 is the service counter in a station or a mall, so pointing at it plus 我需要帮助 covers the gap when the sentence runs out.",
+      "帮助 is the written and formal word. In speech people say 帮我, which is why 请帮我一下 sounds far more natural at a shop counter."
+    ],
+    "replies": [
+      {
+        "zh": "怎么了？",
+        "py": "Zěnme le?",
+        "en": "What is wrong?"
+      },
+      {
+        "zh": "我帮你。",
+        "py": "Wǒ bāng nǐ.",
+        "en": "I will help you."
+      },
+      {
+        "zh": "请稍等，我找个人。",
+        "py": "Qǐng shāoděng, wǒ zhǎo gè rén.",
+        "en": "One moment, let me find someone."
+      }
+    ]
+  },
+  "84": {
+    "when": [
+      "You say it when something illegal has happened to you — a theft, a pickpocket, an assault, or a driver who will not settle after an accident.",
+      "Say it to hotel staff, a shop assistant or a station attendant rather than to a passer-by: they can place the call and can tell the operator where you are."
+    ],
+    "variants": [
+      {
+        "zh": "打 110！",
+        "py": "Dǎ yāo yāo líng!",
+        "en": "Call 110!",
+        "note": "The number by itself is an instruction, and every adult in China knows it. 一 is read yāo on the phone, so it carries over a noisy line."
+      },
+      {
+        "zh": "我要报警。",
+        "py": "Wǒ yào bàojǐng.",
+        "en": "I want to report a crime.",
+        "note": "What you say once the call connects, or to a staff member who asks what you need. 报警 is the standard verb for calling the police."
+      },
+      {
+        "zh": "我需要报案证明。",
+        "py": "Wǒ xūyào bào'àn zhèngmíng.",
+        "en": "I need a copy of the police report.",
+        "note": "Ask for it before you leave the station. Travel insurers usually want written proof that a report was filed, and it is issued on the spot."
+      }
+    ],
+    "mistakes": [
+      "110 is the police, 120 the ambulance and 119 the fire service. Dialling the wrong one is not a disaster because the operators transfer you, but naming the right number gets you there faster.",
+      "On the phone 一 is read yāo, not yī. That is why 110 comes out as yāo-yāo-líng and 120 as yāo-èr-líng — and why a number shouted over traffic is still understood.",
+      "Police in China take identification from the person reporting. Carry your passport, and for anything involving a hotel room or an insured item keep the registration slip or the receipt with it."
+    ],
+    "replies": [
+      {
+        "zh": "好的，马上到。",
+        "py": "Hǎo de, mǎshàng dào.",
+        "en": "OK, we're on our way."
+      },
+      {
+        "zh": "请说地址。",
+        "py": "Qǐng shuō dìzhǐ.",
+        "en": "Please give the address."
+      },
+      {
+        "zh": "出了什么事？",
+        "py": "Chū le shénme shì?",
+        "en": "What happened?"
+      }
+    ]
+  },
+  "85": {
+    "when": [
+      "A medical emergency where somebody cannot get to hospital on their own.",
+      "Say it to whoever is nearest. A clear instruction moves strangers to act far faster than a general cry for help."
+    ],
+    "variants": [
+      {
+        "zh": "快叫救护车！",
+        "py": "Kuài jiào jiùhùchē!",
+        "en": "Call an ambulance, quickly!",
+        "note": "快 in front is what makes it urgent. This is the version to shout across a street."
+      },
+      {
+        "zh": "打 120！",
+        "py": "Dǎ yāo èr líng!",
+        "en": "Call 120!",
+        "note": "The number alone is an instruction. 120 is the ambulance line and everyone in China knows it."
+      },
+      {
+        "zh": "有人受伤了。",
+        "py": "Yǒu rén shòushāng le.",
+        "en": "Somebody is hurt.",
+        "note": "Explains why you are asking, and gives whoever is listening something to act on."
+      }
+    ],
+    "mistakes": [
+      "On the phone, 一 is read yāo and not yī. 120 is yāo-èr-líng, which is what makes the number clear over traffic noise.",
+      "An ambulance in China is not free: the ride is charged for separately from the hospital bill. Cost should not decide anything in a real emergency, but it is worth knowing this is a paid service.",
+      "If the person can walk, a taxi is usually faster. 医院在哪里 plus the nearest driver gets you there sooner than waiting for a crew, and the hospital 急诊 (emergency department) is open all night."
+    ],
+    "replies": [
+      {
+        "zh": "在哪儿？",
+        "py": "Zài nǎr?",
+        "en": "Where are you?"
+      },
+      {
+        "zh": "马上派车。",
+        "py": "Mǎshàng pài chē.",
+        "en": "We are sending one now."
+      },
+      {
+        "zh": "地址说一下。",
+        "py": "Dìzhǐ shuō yíxià.",
+        "en": "Give me the address."
+      }
+    ]
+  },
+  "87": {
+    "when": [
+      "When you need care yourself and can still move: a fever that will not break, a sprained ankle, a cut that needs stitches.",
+      "Ask a hotel front desk, a pharmacy or a taxi driver. The same question gets you a hospital name, a direction, or a ride."
+    ],
+    "variants": [
+      {
+        "zh": "附近有医院吗？",
+        "py": "Fùjìn yǒu yīyuàn ma?",
+        "en": "Is there a hospital nearby?",
+        "note": "The better question when you have no idea how far it is. 附近 means nearby, and the answer may be a pharmacy instead."
+      },
+      {
+        "zh": "药店在哪里？",
+        "py": "Yàodiàn zài nǎlǐ?",
+        "en": "Where is the pharmacy?",
+        "note": "For anything small, start here. Pharmacies are everywhere and the staff will point you to a hospital if the problem is beyond them."
+      },
+      {
+        "zh": "急诊在哪里？",
+        "py": "Jízhěn zài nǎlǐ?",
+        "en": "Where is the emergency department?",
+        "note": "Large Chinese hospitals are several buildings with departments split across them. 急诊 is the one that never closes."
+      }
+    ],
+    "mistakes": [
+      "The 在哪里 frame takes any place, so learn it once: 药店 pharmacy, 派出所 local police station, 地铁站 metro station, 洗手间 washroom.",
+      "Go to a large hospital rather than a small clinic. The biggest hospitals in a city have an international clinic (国际部) used to foreign patients, and 三甲 on the sign is the shorthand for a top-tier hospital.",
+      "The emergency department is the right door at night or at a weekend. Registration comes first when you arrive, and the passport is what the desk asks for."
+    ],
+    "replies": [
+      {
+        "zh": "前面路口右转。",
+        "py": "Qiánmiàn lùkǒu yòu zhuǎn.",
+        "en": "Turn right at the junction ahead."
+      },
+      {
+        "zh": "打车十分钟。",
+        "py": "Dǎ chē shí fēnzhōng.",
+        "en": "Ten minutes by taxi."
+      },
+      {
+        "zh": "就在这条街上。",
+        "py": "Jiù zài zhè tiáo jiē shàng.",
+        "en": "It is on this street."
+      }
+    ]
+  },
+  "89": {
+    "when": [
+      "Say it before you order, not after, and name the thing with 对…过敏 — 我过敏 on its own leaves everyone guessing what you need to avoid.",
+      "It is the line that gets you a real answer: staff usually know what is in a dish, but the safest version is to show the allergen written in Chinese and confirm it before anything is cooked."
+    ],
+    "variants": [
+      {
+        "zh": "我对海鲜过敏。",
+        "py": "Wǒ duì hǎixiān guòmǐn.",
+        "en": "I'm allergic to seafood.",
+        "note": "Swap in 牛奶 (milk), 鸡蛋 (egg) or 坚果 (nuts) for the same frame. 海鲜 covers fish, prawns, crab and shellfish in one word."
+      },
+      {
+        "zh": "我吃了会很难受。",
+        "py": "Wǒ chī le huì hěn nánshòu.",
+        "en": "It makes me very ill if I eat it.",
+        "note": "Some kitchens hear 过敏 as a preference. Saying what happens to you moves it into the safety column, and that is the part that changes how they cook."
+      },
+      {
+        "zh": "这个里面有花生吗？",
+        "py": "Zhège lǐmiàn yǒu huāshēng ma?",
+        "en": "Does this contain peanuts?",
+        "note": "The checkable question, and the one worth asking again at the table — 花生油 (peanut oil) is common in Chinese cooking and never appears in a dish name."
+      }
+    ],
+    "mistakes": [
+      "Allergy is a known idea in China but not a routine one, so 过敏 on its own is often heard as a mild dislike. Adding what happens to you is what turns it into a kitchen instruction.",
+      "过敏 needs its target: 我对…过敏 is the frame. 我过敏 by itself is what you say to a doctor, not to someone taking your order.",
+      "The riskiest ingredient is the one missing from the name — peanut oil in a stir-fry, sesame paste in a sauce, shrimp paste in a broth. Naming the dish is not enough; name the ingredient."
+    ],
+    "replies": [
+      {
+        "zh": "知道了。",
+        "py": "Zhīdào le.",
+        "en": "Understood."
+      },
+      {
+        "zh": "这个里面有。",
+        "py": "Zhège lǐmiàn yǒu.",
+        "en": "There is — in this one."
+      },
+      {
+        "zh": "那给您换一个。",
+        "py": "Nà gěi nín huàn yí ge.",
+        "en": "Then let me swap it for something else."
+      }
+    ]
+  },
+  "91": {
+    "when": [
+      "When you need somebody to understand that you are unwell right now — a hotel front desk, a pharmacy counter, or a colleague you have to cancel on.",
+      "Name the symptom straight after it, because 我生病了 on its own says only that something is wrong; 我发烧了 or 我头疼 is what gets a specific answer."
+    ],
+    "variants": [
+      {
+        "zh": "我发烧了。",
+        "py": "Wǒ fāshāo le.",
+        "en": "I have a fever.",
+        "note": "The specific one that moves things fastest. A fever is what pharmacies and clinics act on, and it is worth saying before anything else."
+      },
+      {
+        "zh": "我不舒服。",
+        "py": "Wǒ bù shūfu.",
+        "en": "I don't feel well.",
+        "note": "Softer and vaguer than 生病了 — 不舒服 covers everything from a headache to an upset stomach without naming it."
+      },
+      {
+        "zh": "我头疼。",
+        "py": "Wǒ tóuténg.",
+        "en": "I have a headache.",
+        "note": "我 plus a body part plus 疼 builds any ache: 肚子疼 (stomach), 嗓子疼 (throat), 牙疼 (tooth)."
+      }
+    ],
+    "mistakes": [
+      "Chinese usually names the symptom rather than the general state. The English 'I'm sick' is a complete answer; 我生病了 is a door-opener, and the next question will be 哪里不舒服？ — so have the body part ready.",
+      "了 marks a change, so 我生病了 means you were fine and now you are not. For something long-standing you drop it and say 我身体不好, and the two are not interchangeable.",
+      "药店 is where you buy medicine and 医院 is where you are treated. Saying 我要去医院 for a headache will be heard as an emergency, so point yourself at 药店 for anything you would fix with over-the-counter medicine."
+    ],
+    "replies": [
+      {
+        "zh": "哪里不舒服？",
+        "py": "Nǎlǐ bù shūfu?",
+        "en": "Where does it hurt?"
+      },
+      {
+        "zh": "要不要去医院？",
+        "py": "Yào bú yào qù yīyuàn?",
+        "en": "Do you need to go to a hospital?"
+      },
+      {
+        "zh": "多喝热水，早点休息。",
+        "py": "Duō hē rè shuǐ, zǎodiǎn xiūxi.",
+        "en": "Drink more hot water and get some rest."
+      }
+    ]
+  },
+  "98": {
+    "when": [
+      "Say it as the bill arrives and you intend to be the one who pays. Reaching for the QR code while you say it is what makes it land, since the words alone can sound like an offer rather than a decision.",
+      "It is also what you say to a friend who is already holding a phone up to the scanner, because 来 means \"let me do it\" — 我来 claims the action instead of asking permission to do it."
+    ],
+    "variants": [
+      {
+        "zh": "这次我付。",
+        "py": "Zhè cì wǒ fù.",
+        "en": "I'll pay this time.",
+        "note": "次 counts occasions, so it leaves the next round to the other person."
+      },
+      {
+        "zh": "你来点，我来付。",
+        "py": "Nǐ lái diǎn, wǒ lái fù.",
+        "en": "You order, I'll pay.",
+        "note": "The doubled 来 splits the two jobs neatly, and it settles things before the food even arrives."
+      },
+      {
+        "zh": "我转给你。",
+        "py": "Wǒ zhuǎn gěi nǐ.",
+        "en": "I'll transfer it to you.",
+        "note": "转 is the verb for moving money in WeChat or Alipay, and it is the fallback when you are not next to the scanner."
+      }
+    ],
+    "mistakes": [
+      "付 is only about handing over money. 我来付 is about the bill, while 我来买 is about buying something, so swapping them turns \"I'll pay\" into \"I'll buy this\".",
+      "There is no single word that means splitting the bill. 我来付 claims the whole thing; to share it you say 我们 AA (spoken as the two English letters) or 各付各的 (gè fù gè de).",
+      "Expect to argue. The other person will say 我来我来 and mean it, and refusing twice before giving in is the script rather than a real conflict."
+    ],
+    "replies": [
+      {
+        "zh": "不行不行，我来。",
+        "py": "Bù xíng bù xíng, wǒ lái.",
+        "en": "No, no, I'll pay."
+      },
+      {
+        "zh": "下次你请。",
+        "py": "Xià cì nǐ qǐng.",
+        "en": "You get the next one."
+      },
+      {
+        "zh": "那谢谢了。",
+        "py": "Nà xièxie le.",
+        "en": "Thanks, then."
+      }
+    ]
+  },
+  "99": {
+    "when": [
+      "When you are the one paying for everyone — a meal, a round of drinks, or the shared taxi at the end of the night.",
+      "Say it as you sit down or reach for the menu, because the offer to host is a claim you stake early rather than an answer you give when the bill arrives."
+    ],
+    "variants": [
+      {
+        "zh": "这顿我请。",
+        "py": "Zhè dùn wǒ qǐng.",
+        "en": "This meal is on me.",
+        "note": "顿 is the measure word for meals, so 这顿 pins the treat to this one sitting rather than to a general habit."
+      },
+      {
+        "zh": "这顿算我的。",
+        "py": "Zhè dùn suàn wǒ de.",
+        "en": "This one counts as mine.",
+        "note": "算我的 claims the cost without the formal ring of 请客, which is useful when the other person is already reaching for their wallet."
+      },
+      {
+        "zh": "别客气，我请。",
+        "py": "Bié kèqi, wǒ qǐng.",
+        "en": "Don't stand on ceremony, it's on me.",
+        "note": "别客气 is what you say when somebody pushes back. 我请 is 我请客 shortened, which is how it comes out in speech."
+      }
+    ],
+    "mistakes": [
+      "请客 is to host, not simply to pay. It carries the idea that you invited them, so announcing it after somebody else picked the restaurant can sound like you are taking over their occasion.",
+      "The first offer is usually waved away. Refusing once is the polite move rather than a real no, so 我请客 expects a second or third round before it settles — stopping after one refusal reads as not meaning it.",
+      "Do not translate 'split the bill' as 分钱. 分钱 is dividing money in general and can sound like haggling; 各付各的 or AA制 is the phrase for going Dutch."
+    ],
+    "replies": [
+      {
+        "zh": "那怎么行！",
+        "py": "Nà zěnme xíng!",
+        "en": "I can't let you do that!"
+      },
+      {
+        "zh": "下次我请。",
+        "py": "Xià cì wǒ qǐng.",
+        "en": "Next time it's on me."
+      },
+      {
+        "zh": "行，那谢谢了。",
+        "py": "Xíng, nà xièxie le.",
+        "en": "Alright, thank you then."
+      }
+    ]
+  },
+  "_comment": "单句页的深度内容块，按 phrase id 挂载。与 phrases.json 分开：这里是编辑素材，会随用户反馈持续增长，而 phrases.json 是手工排版的短语清单，不该被频繁改动。字段定义见 lib/types.ts 的 PhraseDeep。全部可选 —— 没写的 id 按原样渲染。"
+}

@@ -1,0 +1,18 @@
+﻿MATCHES for 'a everyday': 4
+[1] pe":"Answer","text":"\"Thank you\" in Chinese is 谢谢。 — written in pinyin as Xièxie. It is a everyday phrase you would use in China."}},{"@type":"Question","name":"What does 谢谢。 mean in Chine
+
+[2]  text-muted">&quot;Thank you&quot; in Chinese is 谢谢。 — written in pinyin as Xièxie. It is a everyday phrase you would use in China.</dd></div><div class="rounded-2xl border border-line bg-ca
+
+[3] wer\",\"text\":\"\\\"Thank you\\\" in Chinese is 谢谢。 — written in pinyin as Xièxie. It is a everyday phrase you would use in China.\"}},{\"@type\":\"Question\",\"name\":\"What does 谢谢。 mean 
+
+[4] ",\"children\":\"\\\"Thank you\\\" in Chinese is 谢谢。 — written in pinyin as Xièxie. It is a everyday phrase you would use in China.\"}]]}],\"$L16\",\"$L17\"]}]]}],false,\"$L18\",\"$L19\"]}]\
+
+MATCHES for 'everyday phrase': 4
+[1] ":"Answer","text":"\"Thank you\" in Chinese is 谢谢。 — written in pinyin as Xièxie. It is a everyday phrase you would use in China."}},{"@type":"Question","name":"What does 谢谢。 mean in Chinese?","a
+
+[2] ext-muted">&quot;Thank you&quot; in Chinese is 谢谢。 — written in pinyin as Xièxie. It is a everyday phrase you would use in China.</dd></div><div class="rounded-2xl border border-line bg-card p-4"
+
+[3] r\",\"text\":\"\\\"Thank you\\\" in Chinese is 谢谢。 — written in pinyin as Xièxie. It is a everyday phrase you would use in China.\"}},{\"@type\":\"Question\",\"name\":\"What does 谢谢。 mean in Chin
+
+[4] \"children\":\"\\\"Thank you\\\" in Chinese is 谢谢。 — written in pinyin as Xièxie. It is a everyday phrase you would use in China.\"}]]}],\"$L16\",\"$L17\"]}]]}],false,\"$L18\",\"$L19\"]}]\n"])</s
+
