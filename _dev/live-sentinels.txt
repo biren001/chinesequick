@@ -4,10 +4,10 @@ local    : C:\Users\Administrator\WorkBuddy\2026-09-25-20-49-31\real-life-chines
 -- 哨兵自检（本地命中 / 线上抽样命中）--
   · 冠词修复（a everyday → an everyday） → 本地 30/136 页
       命中：/how-to-say-cheers-in-chinese/ /how-to-say-do-you-speak-english-in-chinese/ /how-to-say-excuse-me-in-chinese/ /how-to-say-good-morning-in-chinese/ /how-to-say-good-night-in-chinese/ …共 30 页
-  · P1 深化内容：更自然的说法（全部批次） → 本地 72/136 页
-      命中：/how-to-say-a-towel-please-in-chinese/ /how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-pay-by-card-in-chinese/ /how-to-say-can-i-try-it-on-in-chinese/ /how-to-say-can-you-make-it-cheaper-in-chinese/ …共 72 页
-  · P1 深化内容：新手常见坑（全部批次） → 本地 72/136 页
-      命中：/how-to-say-a-towel-please-in-chinese/ /how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-pay-by-card-in-chinese/ /how-to-say-can-i-try-it-on-in-chinese/ /how-to-say-can-you-make-it-cheaper-in-chinese/ …共 72 页
+  · P1 深化内容：更自然的说法（全部批次） → 本地 80/136 页
+      命中：/how-to-say-a-towel-please-in-chinese/ /how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-pay-by-card-in-chinese/ /how-to-say-can-i-try-it-on-in-chinese/ /how-to-say-can-you-make-it-cheaper-in-chinese/ …共 80 页
+  · P1 深化内容：新手常见坑（全部批次） → 本地 80/136 页
+      命中：/how-to-say-a-towel-please-in-chinese/ /how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-pay-by-card-in-chinese/ /how-to-say-can-i-try-it-on-in-chinese/ /how-to-say-can-you-make-it-cheaper-in-chinese/ …共 80 页
   · P1 深化第二批：告别页 → 本地 1/136 页
       命中：/how-to-say-goodbye-in-chinese/
   · P1 深化第二批：问候页（含 FAQ 改读正文） → 本地 1/136 页
@@ -50,5 +50,9 @@ local    : C:\Users\Administrator\WorkBuddy\2026-09-25-20-49-31\real-life-chines
       命中：/how-to-say-do-you-have-a-small-size-in-chinese/
   · P1 深化第九批：看医生（emergency） → 本地 1/136 页
       命中：/how-to-say-i-need-to-see-a-doctor-in-chinese/
+  · P1 深化第十批：护照丢了（emergency） → 本地 1/136 页
+      命中：/how-to-say-i-lost-my-passport-in-chinese/
+  · P1 深化第十批：一共多少钱（money） → 本地 1/136 页
+      命中：/how-to-say-how-much-is-it-altogether-in-chinese/
 
-VERDICT PASS —— 24 条哨兵都活着且有区分度
+VERDICT PASS —— 26 条哨兵都活着且有区分度

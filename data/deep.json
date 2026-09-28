@@ -478,6 +478,54 @@
       }
     ]
   },
+  "13": {
+    "when": [
+      "Say it as you hand your phone over to a taxi driver or a hotel front desk clerk, with the address already open on the screen — reading a Chinese address aloud is far harder than showing it.",
+      "It confirms the reading rather than the number: Chinese addresses run from big to small, city then district then street then building, so the part that matters to the person looking at your screen is the last line, not the first."
+    ],
+    "variants": [
+      {
+        "zh": "就是这里。",
+        "py": "Jiùshì zhèlǐ.",
+        "en": "It's right here.",
+        "note": "Said when you are already standing at the door, or when the pin on the map is exactly where you are."
+      },
+      {
+        "zh": "请送到这个地方。",
+        "py": "Qǐng sòng dào zhège dìfang.",
+        "en": "Please take me to this place.",
+        "note": "The opening line for a driver when nothing is open on your screen yet."
+      },
+      {
+        "zh": "到这儿就行。",
+        "py": "Dào zhèr jiù xíng.",
+        "en": "Here is fine.",
+        "note": "Tells a driver to stop where you are, instead of hunting for a numbered gate."
+      }
+    ],
+    "mistakes": [
+      "地址 is the written address and 这个地方 is \"this place\": a driver who cannot read your English screen still understands 这个地方 the moment you point at the map.",
+      "Pinyin letters such as X, Q and Z are not read the way an English speaker expects, so spelling a street name out loud usually lands worse than handing the phone over.",
+      "Chinese addresses put city and district first and the building number last, the opposite of the English order — that reversal is where an address copied from an English form stops matching the sign on the building."
+    ],
+    "replies": [
+      {
+        "zh": "好的，到了我告诉您。",
+        "py": "Hǎo de, dào le wǒ gàosù nín.",
+        "en": "Okay, I'll tell you when we get there."
+      },
+      {
+        "zh": "是这儿吗？",
+        "py": "Shì zhèr ma?",
+        "en": "Is it here?"
+      },
+      {
+        "zh": "这边不能停车。",
+        "py": "Zhèbiān bù néng tíng chē.",
+        "en": "You can't stop on this side."
+      }
+    ]
+  },
   "15": {
     "when": [
       "Ask it of a passer-by, a hotel front desk or a taxi driver when you know the station is nearby but not which direction it lies in.",
@@ -622,6 +670,52 @@
       }
     ]
   },
+  "18": {
+    "when": [
+      "Say it at a ticket window when the destination is obvious from the sign above you or the screen in your hand, and be ready for the two questions that always follow: 几张 and 去哪儿.",
+      "买票 buys the ticket, it does not collect one: 取票 is picking up something already paid for online, and at a station the two words send you to different queues."
+    ],
+    "variants": [
+      {
+        "zh": "我要两张票。",
+        "py": "Wǒ yào liǎng zhāng piào.",
+        "en": "I want two tickets.",
+        "note": "张 is the counter word for tickets, and the number sits between 要 and 票."
+      },
+      {
+        "zh": "在哪儿买票？",
+        "py": "Zài nǎr mǎi piào?",
+        "en": "Where do I buy tickets?"
+      },
+      {
+        "zh": "还有票吗？",
+        "py": "Hái yǒu piào ma?",
+        "en": "Are there any tickets left?"
+      }
+    ],
+    "mistakes": [
+      "张 is the counter for tickets and it goes between the number and the noun: 一张票, 两张票. Dropping it — 我要一票 — is the most common slip in this sentence.",
+      "At the window the staff usually ask 几张 first, so the fast answer is a number plus 张 — 两张 — rather than another full sentence; the counter word alone carries the noun.",
+      "买票 gets you a ticket from a person or a machine that sells them; a 取票机 only prints tickets that were already bought, so queueing at one without a booking wastes the wait."
+    ],
+    "replies": [
+      {
+        "zh": "几张？",
+        "py": "Jǐ zhāng?",
+        "en": "How many?"
+      },
+      {
+        "zh": "去哪儿？",
+        "py": "Qù nǎr?",
+        "en": "Where to?"
+      },
+      {
+        "zh": "今天的票卖完了。",
+        "py": "Jīntiān de piào mài wán le.",
+        "en": "Today's tickets are sold out."
+      }
+    ]
+  },
   "19": {
     "when": [
       "Use it on a tour, in a hired car or with a group when nobody has told you the departure time yet and you need to plan your morning around it.",
@@ -667,6 +761,53 @@
         "zh": "等人齐了再说。",
         "py": "Děng rén qí le zài shuō.",
         "en": "Once everyone's here."
+      }
+    ]
+  },
+  "21": {
+    "when": [
+      "Say it at the front desk as your opening line, before anyone asks you anything — it moves the conversation from \"do you have a room\" to \"find my booking\".",
+      "Booking name and a confirmation number should be ready the moment you finish the sentence, because the next question is 您贵姓 or 订单号是多少: the room is filed under a name in the system, not under the words you just said."
+    ],
+    "variants": [
+      {
+        "zh": "我在网上订的。",
+        "py": "Wǒ zài wǎng shang dìng de.",
+        "en": "I booked it online."
+      },
+      {
+        "zh": "这是订单号。",
+        "py": "Zhè shì dìngdān hào.",
+        "en": "This is the booking number.",
+        "note": "Showing the number beats saying it — digits survive a noisy lobby far better than speech."
+      },
+      {
+        "zh": "我用护照订的。",
+        "py": "Wǒ yòng hùzhào dìng de.",
+        "en": "I booked it under my passport.",
+        "note": "Answers the 您贵姓 question before it is asked."
+      }
+    ],
+    "mistakes": [
+      "订 (to book) and 定 (to fix, to settle) are pronounced identically, so the clerk works out which one you mean from context — 订 is the one for rooms, tickets and tables.",
+      "房间 is the room itself, and the type goes in front of it: 双人间 is a twin, 单人间 is a single, so 我订了一个双人间 answers the desk when it asks which room was booked.",
+      "A booking made on a foreign site may simply not be in the hotel's system, which is not the same as it being cancelled — hand over the confirmation and let staff search by number instead of by name."
+    ],
+    "replies": [
+      {
+        "zh": "请出示护照。",
+        "py": "Qǐng chūshì hùzhào.",
+        "en": "Your passport, please."
+      },
+      {
+        "zh": "您贵姓？",
+        "py": "Nín guìxìng?",
+        "en": "What name is the booking under?"
+      },
+      {
+        "zh": "没查到您的预订。",
+        "py": "Méi chá dào nín de yùdìng.",
+        "en": "I can't find your booking."
       }
     ]
   },
@@ -1099,6 +1240,54 @@
         "zh": "这个可以试。",
         "py": "Zhège kěyǐ shì.",
         "en": "You can try this one on."
+      }
+    ]
+  },
+  "35": {
+    "when": [
+      "Ask it while you are still standing at the rack with the item in your hand, before anyone starts writing anything up — the answer decides whether this shop is worth staying in at all.",
+      "别的 asks for a different one of the same kind, so the assistant hears \"another colorway of this item\" rather than a different product, a different size, or another branch."
+    ],
+    "variants": [
+      {
+        "zh": "还有其他颜色吗？",
+        "py": "Hái yǒu qítā yánsè ma?",
+        "en": "Are there any other colors?",
+        "note": "别的 and 其他 both mean \"other\"; 其他 is the slightly more formal one."
+      },
+      {
+        "zh": "有没有别的颜色？",
+        "py": "Yǒu méiyǒu bié de yánsè?",
+        "en": "Do you have any other colors at all?",
+        "note": "The 有没有 frame is the everyday spoken version of 有…吗."
+      },
+      {
+        "zh": "可以换一个颜色吗？",
+        "py": "Kěyǐ huàn yí gè yánsè ma?",
+        "en": "Can I switch to another color?",
+        "note": "The exchange version — said after you have already bought the thing."
+      }
+    ],
+    "mistakes": [
+      "别的 is not 再拿一个: 别的颜色 means another color of the same item, while 再拿一个 asks for one more of the thing in your hand. Mixing them up turns a color question into a quantity request.",
+      "Colors take 颜色 plus the color word, and 的 comes before the noun when you name one — 有红色的吗 is the specific version of this sentence, and it usually gets a straight yes or no.",
+      "尺码 (size) drops into exactly the same slot, which is the substitution the tip mentions — but 号码 is the number printed on a label, not something you ask a person for."
+    ],
+    "replies": [
+      {
+        "zh": "有，您要什么颜色？",
+        "py": "Yǒu, nín yào shénme yánsè?",
+        "en": "We do — which color would you like?"
+      },
+      {
+        "zh": "只有这个颜色了。",
+        "py": "Zhǐyǒu zhège yánsè le.",
+        "en": "Only this color is left."
+      },
+      {
+        "zh": "我帮您查一下。",
+        "py": "Wǒ bāng nín chá yíxià.",
+        "en": "Let me check for you."
       }
     ]
   },
@@ -1797,6 +1986,53 @@
       }
     ]
   },
+  "54": {
+    "when": [
+      "Say it after the dish is on the table and you have actually tasted it — 太…了 reports what you just found, and this is the sentence that gets the plate taken away or replaced.",
+      "太…了 marks a degree you cannot live with, so the same frame works for a price (太贵了) or a room (太小了); 有点辣, by contrast, is mild enough that you can keep eating."
+    ],
+    "variants": [
+      {
+        "zh": "有点辣。",
+        "py": "Yǒudiǎn là.",
+        "en": "It's a bit spicy.",
+        "note": "Softer than 太辣了 — you are flagging it, not rejecting the dish."
+      },
+      {
+        "zh": "太辣了，我吃不了。",
+        "py": "Tài là le, wǒ chī bù liǎo.",
+        "en": "This is too spicy — I can't eat it."
+      },
+      {
+        "zh": "可以少放辣吗？",
+        "py": "Kěyǐ shǎo fàng là ma?",
+        "en": "Could you use less chili?",
+        "note": "An ordering-time instruction — say it before the cooking starts, not after."
+      }
+    ],
+    "mistakes": [
+      "太辣了 is about the dish, not about you: it does not mean 我不能吃辣, which is the sentence for a lasting limit you want the kitchen to plan around.",
+      "辣椒 is the chili itself and 辣 is the taste, so 少放辣 asks for less chili in the wok; 不放辣 is the harder version and usually gets you a plainer plate of the same dish.",
+      "Sichuan cooking separates 辣 (hot) from 麻 (numbing, from 花椒), so asking 辣不辣 tells you nothing about 麻 — both have to be asked about, and they are asked about separately."
+    ],
+    "replies": [
+      {
+        "zh": "我给您换一个。",
+        "py": "Wǒ gěi nín huàn yí gè.",
+        "en": "I'll bring you another one."
+      },
+      {
+        "zh": "这个不辣。",
+        "py": "Zhège bú là.",
+        "en": "This one isn't spicy."
+      },
+      {
+        "zh": "要不要开水？",
+        "py": "Yào bú yào kāishuǐ?",
+        "en": "Would you like some hot water?"
+      }
+    ]
+  },
   "62": {
     "when": [
       "As the answer to a question built on 是: 这是你的吗？ (Is this yours?), 你是老师吗？ (Are you a teacher?). Here 是 means 'it is' or 'I am'.",
@@ -2168,6 +2404,53 @@
         "zh": "这里没人会说。",
         "py": "Zhèlǐ méi rén huì shuō.",
         "en": "Nobody here speaks it."
+      }
+    ]
+  },
+  "72": {
+    "when": [
+      "Say it the moment a conversation stops being about words you know — a pharmacy counter, a ticket window, a repair shop — and you need the answer in characters you can carry away.",
+      "写下来 puts the writing down on paper or on a screen, and that is the point: written characters become something to copy, photograph or type into a dictionary, instead of something you have to catch by ear."
+    ],
+    "variants": [
+      {
+        "zh": "请写在纸上。",
+        "py": "Qǐng xiě zài zhǐ shang.",
+        "en": "Please write it on paper."
+      },
+      {
+        "zh": "请写汉字。",
+        "py": "Qǐng xiě Hànzì.",
+        "en": "Please write it in characters.",
+        "note": "Asking for 汉字 rather than 拼音 is the difference between something you can read and something you can only sound out."
+      },
+      {
+        "zh": "可以用手机打出来吗？",
+        "py": "Kěyǐ yòng shǒujī dǎ chūlái ma?",
+        "en": "Could you type it on your phone?",
+        "note": "Typed characters are easier to copy than handwriting — most people reach for the phone anyway."
+      }
+    ],
+    "mistakes": [
+      "写下来 is one action with a result: 下 marks the thing as now written down, so it is not 请写字, which sounds like a schoolroom instruction to practise characters.",
+      "Handwritten 汉字 from a stranger can be hard to read, while a typed line can be copied character by character — 打出来 (type it out) often gets you a clearer answer than 写下来 does.",
+      "Characters you cannot read are still useful: photograph the screen or the slip and look them up later, because 这是什么意思 restarts the whole conversation in words you did not follow the first time."
+    ],
+    "replies": [
+      {
+        "zh": "好的，我写给您。",
+        "py": "Hǎo de, wǒ xiě gěi nín.",
+        "en": "Okay, I'll write it for you."
+      },
+      {
+        "zh": "我不会写英文。",
+        "py": "Wǒ bú huì xiě Yīngwén.",
+        "en": "I can't write English."
+      },
+      {
+        "zh": "您拍下来吧。",
+        "py": "Nín pāi xiàlái ba.",
+        "en": "Take a photo of it."
       }
     ]
   },
@@ -3068,6 +3351,53 @@
       }
     ]
   },
+  "92": {
+    "when": [
+      "Say it at a hotel front desk or a police station as soon as you notice, because the sentence starts two things at once: a report where you are, and a call to your own embassy.",
+      "丢 marks a loss that has already happened and 了 closes it, so 护照丢了 says the passport is gone rather than misplaced — while 我找不到护照了 says only that you cannot put your hands on it right now."
+    ],
+    "variants": [
+      {
+        "zh": "我的护照不见了。",
+        "py": "Wǒ de hùzhào bú jiàn le.",
+        "en": "My passport has gone missing.",
+        "note": "Softer than 丢了 — the right first sentence in a hotel room, where it may still turn up."
+      },
+      {
+        "zh": "我找不到护照了。",
+        "py": "Wǒ zhǎo bú dào hùzhào le.",
+        "en": "I can't find my passport."
+      },
+      {
+        "zh": "我需要补办护照。",
+        "py": "Wǒ xūyào bǔbàn hùzhào.",
+        "en": "I need to replace my passport.",
+        "note": "补办 is the word for reissuing a lost document, and it is the one the paperwork is filed under."
+      }
+    ],
+    "mistakes": [
+      "丢了 and 不见了 both say the passport is not with you, but 不见了 leaves room for it turning up — at a hotel it is worth starting there and treating it as lost only after the room has been searched.",
+      "身份证 is the document Chinese nationals carry and 护照 is the one you carry, so keeping to 护照 keeps the questions away from an ID you will never have.",
+      "The passport number and a photo of the data page are what speed up the replacement: with them, 这是我的护照号码 gets the paperwork moving; without them, the process starts back at proving who you are."
+    ],
+    "replies": [
+      {
+        "zh": "什么时候丢的？",
+        "py": "Shénme shíhou diū de?",
+        "en": "When did you lose it?"
+      },
+      {
+        "zh": "您住哪个房间？",
+        "py": "Nín zhù nǎge fángjiān?",
+        "en": "Which room are you staying in?"
+      },
+      {
+        "zh": "请去派出所登记。",
+        "py": "Qǐng qù pàichūsuǒ dēngjì.",
+        "en": "Please file a report at the local police station."
+      }
+    ]
+  },
   "97": {
     "when": [
       "Use it at any counter when you cannot tell how payment works here — no card reader in sight, no QR code propped up, and nobody has asked you for money yet.",
@@ -3209,6 +3539,52 @@
         "zh": "行，那谢谢了。",
         "py": "Xíng, nà xièxie le.",
         "en": "Alright, thank you then."
+      }
+    ]
+  },
+  "100": {
+    "when": [
+      "Ask it at the till with a basket of things, or at the end of a meal when nobody has added anything up yet — 一共 is what turns a price question into a total question.",
+      "It comes just before payment, where 分开付 or 一起付 decides whether that total becomes several bills, so saying 一共 first is what makes the answer arrive as one number."
+    ],
+    "variants": [
+      {
+        "zh": "总共多少钱？",
+        "py": "Zǒnggòng duōshao qián?",
+        "en": "What's the total?"
+      },
+      {
+        "zh": "加起来多少钱？",
+        "py": "Jiā qǐlái duōshao qián?",
+        "en": "What does it all come to?",
+        "note": "Literally \"added up\" — handy when the items are spread out on the counter."
+      },
+      {
+        "zh": "帮我算一下。",
+        "py": "Bāng wǒ suàn yíxià.",
+        "en": "Please add it up for me."
+      }
+    ],
+    "mistakes": [
+      "多少钱 asks what one thing costs; 一共多少钱 is the sentence for a pile of things or a shared meal, and the two are not interchangeable at a till.",
+      "总共 and 一共 both mean \"in total\" and swap freely in speech, while 合计 is the word printed on receipts — which is why you read it more often than you hear it.",
+      "Some restaurants add a per-person 茶位费 or 餐位费 on top of what you ordered, so 还有别的费用吗 is the sentence that finds the gap between the menu prices and the number on the bill."
+    ],
+    "replies": [
+      {
+        "zh": "一共一百二十块。",
+        "py": "Yígòng yì bǎi èrshí kuài.",
+        "en": "That's 120 yuan altogether."
+      },
+      {
+        "zh": "我算一下。",
+        "py": "Wǒ suàn yíxià.",
+        "en": "Let me work it out."
+      },
+      {
+        "zh": "请到收银台。",
+        "py": "Qǐng dào shōuyíntái.",
+        "en": "Please pay at the cashier."
       }
     ]
   },

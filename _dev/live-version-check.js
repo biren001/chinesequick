@@ -232,6 +232,12 @@ const SENTINELS = [
   // 两条 needle 落在**不同分类**且都会进 MUST：shopping（37）与 emergency（88）。
   { label: "P1 深化第九批：小号（shopping）", needle: "may pinch here" },
   { label: "P1 深化第九批：看医生（emergency）", needle: "without a number no doctor will call you" },
+  // P1 第十批（13/18/21/35/54/72/92/100 八页）—— 挑法：GSC 已曝光页插队（id 13「这就是地址」）
+  // + 最薄 15 页 + 分类分散（travel 2 / shopping 1 / everyday 1 / hotel 1 / restaurant 1 / money 1 / emergency 1）。
+  // 两条 needle 落在**不同分类**且都会进 MUST：emergency（92）与 money（100，money 分类首次当哨兵）。
+  // 两条都是先从构建产物 HTML 里现查现抄（HIT）才写进来的，不凭写稿记忆。
+  { label: "P1 深化第十批：护照丢了（emergency）", needle: "the sentence starts two things at once" },
+  { label: "P1 深化第十批：一共多少钱（money）", needle: "the word printed on receipts" },
 ];
 
 /* ---------------- 哨兵体检：按【全部本地页】统计，不联网 ---------------- */
@@ -366,6 +372,10 @@ const MUST = [
   // i-need-to-see-a-doctor（emergency）。目录已用 existsSync 核实过，不是摆设。
   "/how-to-say-do-you-have-a-small-size-in-chinese/",
   "/how-to-say-i-need-to-see-a-doctor-in-chinese/",
+  // P1 第十批：两条哨兵分别落在 i-lost-my-passport（emergency）与
+  // how-much-is-it-altogether（money）。目录已用 existsSync 核实过，不是摆设。
+  "/how-to-say-i-lost-my-passport-in-chinese/",
+  "/how-to-say-how-much-is-it-altogether-in-chinese/",
 ];
 
 /* MUST 里对不上任何本地页的路径。非空 = 「必检」这个承诺已经被悄悄打折，必须当失败处理。 */
