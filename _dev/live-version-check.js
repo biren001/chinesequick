@@ -125,6 +125,15 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const sha = (s) => crypto.createHash("sha256").update(s, "utf8").digest("hex").slice(0, 12);
 
 /**
+ * 取 <html data-build="…"> 里的版本号（lib/build.ts，格式 `YYYY.MM.DD·gitshortsha`）。
+ * 这是「线上是不是这一份产物」最快的判据：一次请求、一句断言，比逐页比对快两个数量级。
+ */
+function buildAttr(html) {
+  const m = /data-build="([^"]*)"/.exec(html || "");
+  return m ? m[1] : "";
+}
+
+/**
  * 判断「同不同版」只能比【用户看得见的文本】，不能比整份 HTML 字节。
  *
  * 【为什么】Next 每次构建会在 HTML 里撒一堆构建相关字节，实测逐字节比对的结果是
@@ -458,6 +467,24 @@ function pickSample(pages) {
   }
   say(``);
 
+  /* build 号比对 —— 先做这一步：它只要一次请求，就能回答「线上是不是我刚构建的这份」。
+     ⚠ 本地值只取**本地产物**里的标记，绝不拿 `git rev-parse HEAD` 当本地值：
+        发版流程是 build → deploy → 之后才 commit，commit 一落地 HEAD 就变了，
+        用 git 当本地值会在每次提交后误报「线上落后」，而线上其实是对的。 */
+  const localBuild = buildAttr(fs.readFileSync(path.join(OUT, "index.html"), "utf8"));
+  const liveHome = await get(raw + "/");
+  const liveBuild = buildAttr(liveHome.body);
+  const buildOk = Boolean(localBuild) && localBuild === liveBuild;
+  say(`-- build 号（<html data-build>）--`);
+  say(`本地产物 : ${localBuild || "(产物里没有标记 —— 构建早于 lib/build.ts)"}`);
+  say(`线上首页 : ${liveBuild || "(取不到，或线上那一份还没有版本标记)"}`);
+  say(
+    buildOk
+      ? `判定     : 一致 ✅ 线上就是本地这份`
+      : `判定     : 不一致 ⚠ 线上不是本地这份（部署没生效 / CDN 还挂着旧份 / 构建后没上传）`
+  );
+  say(``);
+
   let same = 0;
   let diff = [];
   let missing = [];
@@ -511,7 +538,7 @@ function pickSample(pages) {
   }
 
   const missingBatches = [...new Set(diff.flatMap((d) => d.lacking))];
-  const ok = diff.length === 0 && missing.length === 0 && MUST_MISSING.length === 0;
+  const ok = diff.length === 0 && missing.length === 0 && MUST_MISSING.length === 0 && buildOk;
   say(``);
   reportSentinels(hitPages, all.length, liveHits, sample.length, false, say);
   say(``);

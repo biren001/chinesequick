@@ -3,6 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 import FeedbackFooter from "@/components/FeedbackFooter";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/site";
+import { buildId } from "@/lib/build";
 
 /** 配置 NEXT_PUBLIC_GA_ID 即开启 Google Analytics，不配则站点功能完全不变。 */
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
@@ -75,7 +76,9 @@ export default function RootLayout({
     // 让 React 在 commit 阶段找不到锚点节点而抛 NotFoundError → 整页白屏。
     // 已用 _dev/repro-client-error.js 实测复现：只要 DOM 被这样改写，本页必抛 React #418。
     // 关掉翻译后这类改写从源头消失；用户仍可用扩展自行翻译（那是他们自担风险的显式选择）。
-    <html lang="en" translate="no">
+    // data-build：机器可读的版本号（日期·git 短 sha）。给 _dev/live-version-check.js
+    // 当「线上是哪一份」的断言用 —— 比逐页比对快得多，落到人工一眼也能核对。
+    <html lang="en" translate="no" data-build={buildId()}>
       <body className="min-h-dvh antialiased">
         {children}
         <FeedbackFooter />

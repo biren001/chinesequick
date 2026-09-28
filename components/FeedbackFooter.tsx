@@ -1,5 +1,6 @@
 import Link from "next/link";
 import FeedbackLink from "@/components/FeedbackLink";
+import { BUILD_SHA, buildDateLabel } from "@/lib/build";
 
 /** 全站页脚。反馈入口没配置就不占任何空间。 */
 export default function FeedbackFooter() {
@@ -37,6 +38,10 @@ export default function FeedbackFooter() {
       </p>
       <p className="mt-2 text-xs text-muted">
         ChineseQuick · get by in China
+      </p>
+      {/* 版本号：任何页面滚到底都能确认「看到的这份是哪一次构建」，不用查源码、不用跑脚本。 */}
+      <p className="mt-1 text-[11px] text-muted">
+        {`build ${BUILD_SHA}${buildDateLabel() ? ` · ${buildDateLabel()}` : ""}`}
       </p>
     </footer>
   );

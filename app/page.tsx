@@ -7,6 +7,7 @@ import { getCategoriesWithCount, PHRASES } from "@/lib/phrases";
 import { SCENARIOS } from "@/lib/scenarios";
 import { urlOf, organizationSchema, websiteSchema } from "@/lib/jsonld";
 import { SITE_NAME, SITE_TAGLINE } from "@/lib/site";
+import { BUILD_SHA, buildDateLabel } from "@/lib/build";
 import StartLearning from "@/components/StartLearning";
 import PhraseSearch from "@/components/PhraseSearch";
 
@@ -34,6 +35,13 @@ export default function HomePage() {
         <p className="mt-3 text-sm text-muted">
           {PHRASES.length} useful phrases · no sign-up · works offline
         </p>
+
+        {/* 版本号：第一屏就能看见，不用滚到页脚、不用查源码，就能确认看到的是哪一份构建。 */}
+        {buildDateLabel() && (
+          <p className="mt-1.5 text-xs text-muted">
+            {`Updated ${buildDateLabel()} · build ${BUILD_SHA}`}
+          </p>
+        )}
 
         <PhraseSearch />
       </section>

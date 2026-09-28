@@ -1,5 +1,5 @@
 {
- "at": "2026-09-28T13:54:31.261Z",
+ "at": "2026-09-28T14:30:09.843Z",
  "dir": "C:\\Users\\Administrator\\WorkBuddy\\2026-09-25-20-49-31\\real-life-chinese\\out",
  "project": "chinesequick",
  "dryRun": false,
@@ -28,15 +28,15 @@
   "problems": []
  },
  "fileCount": 727,
- "totalBytes": 15526012,
+ "totalBytes": 15587797,
  "manifestEntries": 727,
- "prevDeployment": "9b78e2ca-315c-401f-ae87-cf6fdf081383",
+ "prevDeployment": "492bebab-0da3-44e5-84de-27eec455c6a0",
  "knownDeployments": 10,
  "rounds": [
   {
    "round": 1,
    "newDeployment": true,
-   "id": "492bebab",
+   "id": "67e3235e",
    "fileCount": 727,
    "fileCountSource": "deployment",
    "servedOk": true,
@@ -51,15 +51,15 @@
  "settle": {
   "changed": true,
   "servedOk": true,
-  "id": "492bebab-0da3-44e5-84de-27eec455c6a0",
-  "shortId": "492bebab",
-  "url": "https://492bebab.chinesequick.pages.dev",
+  "id": "67e3235e-32ec-4d67-b943-ce74d36dec2c",
+  "shortId": "67e3235e",
+  "url": "https://67e3235e.chinesequick.pages.dev",
   "fileCount": 727,
   "fileCountKnown": true,
   "stages": [
    {
     "name": "queued",
-    "started_on": "2026-09-28T13:58:03.246471Z",
+    "started_on": "2026-09-28T14:33:04.470307Z",
     "ended_on": null,
     "status": "active"
    },
@@ -90,7 +90,7 @@
   ],
   "fileCountSource": "deployment",
   "served": {
-   "base": "https://492bebab.chinesequick.pages.dev",
+   "base": "https://67e3235e.chinesequick.pages.dev",
    "checks": [
     {
      "path": "/",
@@ -98,7 +98,7 @@
      "type": "text/html"
     },
     {
-     "path": "/_next/static/JoTe4xov8QIQutumu4EnX/_buildManifest.js",
+     "path": "/_next/static/DKr5xfKnfOLoElqZq49An/_buildManifest.js",
      "status": 200,
      "type": "application/javascript"
     },
@@ -112,7 +112,7 @@
   }
  },
  "served": {
-  "base": "https://492bebab.chinesequick.pages.dev",
+  "base": "https://67e3235e.chinesequick.pages.dev",
   "checks": [
    {
     "path": "/",
@@ -120,7 +120,7 @@
     "type": "text/html"
    },
    {
-    "path": "/_next/static/JoTe4xov8QIQutumu4EnX/_buildManifest.js",
+    "path": "/_next/static/DKr5xfKnfOLoElqZq49An/_buildManifest.js",
     "status": 200,
     "type": "application/javascript"
    },
@@ -133,7 +133,7 @@
   "ok": true
  },
  "transport": "direct",
- "url": "https://492bebab.chinesequick.pages.dev",
- "deploymentId": "492bebab-0da3-44e5-84de-27eec455c6a0",
+ "url": "https://67e3235e.chinesequick.pages.dev",
+ "deploymentId": "67e3235e-32ec-4d67-b943-ce74d36dec2c",
  "ok": true
 }
