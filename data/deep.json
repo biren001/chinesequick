@@ -124,6 +124,54 @@
       }
     ]
   },
+  "4": {
+    "when": [
+      "Use it the moment you sit down, or at the door when you cannot see a single menu on any table.",
+      "In many restaurants the menu is not on paper at all — you order by scanning a QR code on the table, so if the answer is a pointed finger at a code, that is normal, not a refusal."
+    ],
+    "variants": [
+      {
+        "zh": "请给我菜单。",
+        "py": "Qǐng gěi wǒ càidān.",
+        "en": "The menu, please.",
+        "note": "The same request as a direct ask — 有…吗 asks whether it exists, 给… asks for it straight out. Either works; this one is shorter."
+      },
+      {
+        "zh": "有英文菜单吗？",
+        "py": "Yǒu Yīngwén càidān ma?",
+        "en": "Do you have an English menu?",
+        "note": "Many restaurants keep a second menu just for visitors, but it is often kept behind the counter — you have to ask for it."
+      },
+      {
+        "zh": "有图片的菜单吗？",
+        "py": "Yǒu túpiàn de càidān ma?",
+        "en": "Do you have a menu with pictures?",
+        "note": "A picture menu solves ordering even with zero Chinese — pointing works, and the photos also show you the real portion size."
+      }
+    ],
+    "mistakes": [
+      "菜单 (càidān) is the physical menu; 点菜 (diǎncài) is the act of ordering. 有菜单吗 asks for the booklet — when you are ready to order, the word is 点菜 or 我要点菜.",
+      "In QR-code restaurants there may be no paper menu anywhere, so 有菜单吗 can earn a puzzled look. The question that always works is 扫码点菜吗？ (do I order by scanning the code?)",
+      "Small eateries often paint the menu on the wall behind the counter. Staff will answer 有 with a nod and a pointed finger — look up before you conclude they have no menu."
+    ],
+    "replies": [
+      {
+        "zh": "有，马上来。",
+        "py": "Yǒu, mǎshàng lái.",
+        "en": "Yes — coming right up."
+      },
+      {
+        "zh": "扫桌上的码就行。",
+        "py": "Sǎo zhuō shàng de mǎ jiù xíng.",
+        "en": "Just scan the code on the table."
+      },
+      {
+        "zh": "只有中文的。",
+        "py": "Zhǐyǒu Zhōngwén de.",
+        "en": "There is only the Chinese one."
+      }
+    ]
+  },
   "5": {
     "when": [
       "Said while eating, about the food in front of you — to the cook, your host, or whoever chose the restaurant.",
@@ -574,6 +622,54 @@
       }
     ]
   },
+  "23": {
+    "when": [
+      "Use it at the hotel front desk, ideally while laying your passport on the counter — hotels in China must register every guest, foreigners included, so the passport comes out either way.",
+      "It works with or without a booking: add 我有预订 (I have a reservation) if you booked ahead, or just say it as-is and the desk will ask what kind of room you want."
+    ],
+    "variants": [
+      {
+        "zh": "我有预订。",
+        "py": "Wǒ yǒu yùdìng.",
+        "en": "I have a reservation.",
+        "note": "预订 is the booking you made ahead; pair it with your name — the name on the passport is how the desk will look it up."
+      },
+      {
+        "zh": "请帮我办理入住。",
+        "py": "Qǐng bāng wǒ bànlǐ rùzhù.",
+        "en": "Please check me in.",
+        "note": "办理入住 is the full formal collocation, the one printed on the desk sign — the polite, slightly ceremonial way to say it."
+      },
+      {
+        "zh": "押金是多少？",
+        "py": "Yājīn shì duōshao?",
+        "en": "How much is the deposit?",
+        "note": "Many hotels take a refundable cash deposit (押金) at check-in and hand it back at check-out — asking first avoids the surprise."
+      }
+    ],
+    "mistakes": [
+      "入住 (rùzhù) is the check-in verb; 住宿 (zhùsù) means lodging in general and is what you see on signs and receipts. Check in with 入住, talk about lodging with 住宿.",
+      "Registration covers every guest, not just the one paying — all companions need their passports at the desk, even for a room booked for two.",
+      "The room key is 房卡 (fángkǎ, room card) in most hotels, not 钥匙 (yàoshi, key) — and when the card later fails to open the door, 房卡刷不开 (the room card won't swipe) is the phrase that brings you back to the desk."
+    ],
+    "replies": [
+      {
+        "zh": "请出示护照。",
+        "py": "Qǐng chūshì hùzhào.",
+        "en": "Please show your passport."
+      },
+      {
+        "zh": "您住几晚？",
+        "py": "Nín zhù jǐ wǎn?",
+        "en": "How many nights will you stay?"
+      },
+      {
+        "zh": "这是您的房卡，早餐在二楼。",
+        "py": "Zhè shì nín de fángkǎ, zǎocān zài èrlóu.",
+        "en": "Here is your room card — breakfast is on the second floor."
+      }
+    ]
+  },
   "27": {
     "when": [
       "Say it at the front desk when the room is too hot or too cold and you have worked out that the machine is not responding at all, rather than that you cannot find the remote.",
@@ -619,6 +715,54 @@
         "zh": "今天维修师傅不在。",
         "py": "Jīntiān wéixiū shīfu bú zài.",
         "en": "The repairman isn't in today."
+      }
+    ]
+  },
+  "28": {
+    "when": [
+      "Use it in your hotel room when the towels are missing or you want a fresh set — call the front desk or catch housekeeping in the corridor, either way the phrase is the same.",
+      "Chinese hotels normally stock bath towels as standard, so if there are none the request is completely ordinary; it is housekeeping's job, not a favor."
+    ],
+    "variants": [
+      {
+        "zh": "请再给我一条毛巾。",
+        "py": "Qǐng zài gěi wǒ yì tiáo máojīn.",
+        "en": "Please bring me one more towel.",
+        "note": "再 (again, more) plus the measure word 条 — towels are counted with 条, and this is the phrase for a second one."
+      },
+      {
+        "zh": "浴巾没有了。",
+        "py": "Yùjīn méiyǒu le.",
+        "en": "There is no bath towel.",
+        "note": "浴巾 (yùjīn) is the big bath towel; plain 毛巾 can mean the small face towel. Naming the right one saves a trip."
+      },
+      {
+        "zh": "请送一条浴巾来。",
+        "py": "Qǐng sòng yì tiáo yùjīn lái.",
+        "en": "Please send up a bath towel.",
+        "note": "送 is the natural verb on the phone — it means deliver to the room. 请给我毛巾 works face to face; 送 works across the building."
+      }
+    ],
+    "mistakes": [
+      "Towels take the measure word 条 (tiáo), not 个 (gè). 一条毛巾 is right; 一个毛巾 marks you instantly.",
+      "毛巾 is the generic word and leans small — the bath sheet is 浴巾. Hotels provide bath towels but rarely washcloths, so a request for a tiny one may genuinely have no answer.",
+      "On the phone, the shape locals use is 请送一条到 808 房 (please send one to room 808) — 请给我毛巾 with no room number just leaves the desk asking which room you are in."
+    ],
+    "replies": [
+      {
+        "zh": "马上给您送来。",
+        "py": "Mǎshàng gěi nín sòng lái.",
+        "en": "We'll bring it up right away."
+      },
+      {
+        "zh": "您的房间号是多少？",
+        "py": "Nín de fángjiān hào shì duōshao?",
+        "en": "What is your room number?"
+      },
+      {
+        "zh": "毛巾在浴室架子上。",
+        "py": "Máojīn zài yùshì jiàzi shàng.",
+        "en": "The towels are on the rack in the bathroom."
       }
     ]
   },
@@ -811,6 +955,102 @@
         "zh": "这个可以试。",
         "py": "Zhège kěyǐ shì.",
         "en": "You can try this one on."
+      }
+    ]
+  },
+  "36": {
+    "when": [
+      "Use it at the counter before you open your wallet, when you cannot see a card machine and want to know whether one exists at all.",
+      "In China the answer is often neither card nor cash but a QR code — Alipay and WeChat Pay dominate daily payments, and small shops may have no card reader at all."
+    ],
+    "variants": [
+      {
+        "zh": "刷卡机在哪儿？",
+        "py": "Shuākǎ jī zài nǎr?",
+        "en": "Where is the card machine?",
+        "note": "Asking where rather than whether already assumes the answer is yes — useful in supermarkets, where a machine certainly exists but is hidden around a pillar."
+      },
+      {
+        "zh": "手机付可以吗？",
+        "py": "Shǒujī fù kěyǐ ma?",
+        "en": "Can I pay by phone?",
+        "note": "The everyday question in China. It covers Alipay, WeChat Pay and phone wallets in one phrase, without naming any app."
+      },
+      {
+        "zh": "扫这个码可以吗？",
+        "py": "Sǎo zhège mǎ kěyǐ ma?",
+        "en": "Can I scan this code?",
+        "note": "When the counter only shows a QR code, this asks whether pointing your camera at it really is the whole payment."
+      }
+    ],
+    "mistakes": [
+      "刷卡 literally means brush a card — the verb for using a card is 刷 (shuā), so 刷卡机 is the card machine and 刷卡 is the act. 用卡 is understandable but nobody says it at a counter.",
+      "Card usually means UnionPay (银联 yínlián) in China. Many readers take nothing else, so a foreign Visa or Mastercard can fail even when the answer to 可以刷卡吗 is yes — which is exactly why Alipay and WeChat Pay are the safer default.",
+      "刷卡 covers debit cards too, not just credit. If you specifically mean the credit kind, that word is 信用卡 (xìnyòngkǎ)."
+    ],
+    "replies": [
+      {
+        "zh": "可以，刷这边。",
+        "py": "Kěyǐ, shuā zhèbiān.",
+        "en": "Yes, swipe here."
+      },
+      {
+        "zh": "不行，只能给现金。",
+        "py": "Bùxíng, zhǐ néng gěi xiànjīn.",
+        "en": "No — cash only."
+      },
+      {
+        "zh": "扫码吧。",
+        "py": "Sǎo mǎ ba.",
+        "en": "Just scan the QR code."
+      }
+    ]
+  },
+  "39": {
+    "when": [
+      "Use it at the shop counter when you are handing back something you bought and want your money back, receipt in hand.",
+      "Chinese shops rarely take returns without the receipt (发票 fāpiào), so keep it until you are sure you are keeping the item — no receipt usually means no return."
+    ],
+    "variants": [
+      {
+        "zh": "我想退掉这个。",
+        "py": "Wǒ xiǎng tuì diào zhège.",
+        "en": "I'd like to return this.",
+        "note": "退掉 adds 掉, the completive ending — it sounds slightly more decided, like the matter is closed once you say it."
+      },
+      {
+        "zh": "这个有问题，我要退。",
+        "py": "Zhège yǒu wèntí, wǒ yào tuì.",
+        "en": "There is a problem with this — I'm returning it.",
+        "note": "Stating the reason in the same breath makes the request harder to wave away; 有问题 (there is a problem) is all the explanation you need."
+      },
+      {
+        "zh": "能换一个吗？",
+        "py": "Néng huàn yí ge ma?",
+        "en": "Can I exchange it for another one?",
+        "note": "换 is exchange. Exchanges are easier than refunds in China, so if you only want a working item, ask with 换 before saying 退."
+      }
+    ],
+    "mistakes": [
+      "The word on the shop sign is 退货 (tuìhuò, return goods). 退这个 works fine in conversation, but if staff look uncertain, 退货 is the category word that settles what you want.",
+      "退 is for giving something back to a shop; 还 (huán) is for returning something you borrowed from a person. 还给朋友 means give it back to my friend — using 退 there turns a favor into a business dispute.",
+      "If you specifically want money back rather than a replacement, that word is 退款 (tuìkuǎn, refund). 我要退款 tells the staff you are not interested in exchanging."
+    ],
+    "replies": [
+      {
+        "zh": "有发票吗？",
+        "py": "Yǒu fāpiào ma?",
+        "en": "Do you have the receipt?"
+      },
+      {
+        "zh": "可以退。",
+        "py": "Kěyǐ tuì.",
+        "en": "Yes, you can return it."
+      },
+      {
+        "zh": "只能换，不能退。",
+        "py": "Zhǐ néng huàn, bù néng tuì.",
+        "en": "Exchange only — no refunds."
       }
     ]
   },
@@ -1218,6 +1458,54 @@
         "zh": "怎么了？",
         "py": "Zěnme le?",
         "en": "What is it?"
+      }
+    ]
+  },
+  "52": {
+    "when": [
+      "Use it while ordering, before any dish is chosen, so the waiter can point you at the 素菜 (vegetarian) part of the menu instead of watching you reject dishes one by one.",
+      "One short syllable of 素 is easy to miss in a noisy room, so add 不要肉 (no meat) if the first answer looks uncertain — the two together are what staff actually act on."
+    ],
+    "variants": [
+      {
+        "zh": "我是素食者。",
+        "py": "Wǒ shì sùshí zhě.",
+        "en": "I am a vegetarian.",
+        "note": "The full, explicit version. 素食 (vegetarian food) is also the word printed on menus and product labels, so you will see it even if you never say it."
+      },
+      {
+        "zh": "我要素菜。",
+        "py": "Wǒ yào sùcài.",
+        "en": "I'll have the vegetarian dishes.",
+        "note": "素菜 is the menu category — it skips the statement about yourself and goes straight to what you want on the table."
+      },
+      {
+        "zh": "麻烦不要放肉。",
+        "py": "Máfan bú yào fàng ròu.",
+        "en": "Please don't add any meat.",
+        "note": "放 is the cooking verb to add. Say this when a dish you otherwise want sounds like it might have meat stirred in."
+      }
+    ],
+    "mistakes": [
+      "On Chinese menus, 肉 by itself usually means pork. Chicken is 鸡肉 and fish is just 鱼, and staff may not count either as 肉 — if you avoid them too, name them: 不吃鸡肉和鱼.",
+      "素菜 usually means no meat in the dish, but it may still be cooked with 蚝油 (háoyóu, oyster sauce) or meat stock. If that matters to you, ask 有蚝油吗？ (does it have oyster sauce?)",
+      "Say it at ordering time, not when the dish lands. Kitchens rarely rebuild a plate mid-meal, and the vegetarian dishes often need to be ordered as their own dish in the first place."
+    ],
+    "replies": [
+      {
+        "zh": "好的，素菜在这儿。",
+        "py": "Hǎo de, sùcài zài zhèr.",
+        "en": "Sure — the vegetarian dishes are here."
+      },
+      {
+        "zh": "豆腐可以吗？",
+        "py": "Dòufu kěyǐ ma?",
+        "en": "Is tofu all right?"
+      },
+      {
+        "zh": "这道是素的。",
+        "py": "Zhè dào shì sù de.",
+        "en": "This dish is vegetarian."
       }
     ]
   },
@@ -2300,6 +2588,54 @@
       }
     ]
   },
+  "90": {
+    "when": [
+      "Use it before any dish is chosen — the moment you sit down or open the menu — because peanut oil is common in Chinese kitchens and peanuts hide in dishes that do not look nutty.",
+      "过敏 (allergic) is what makes it medical: it is stronger than 我不吃花生 (I don't eat peanuts), which staff will hear as a preference they can talk you out of."
+    ],
+    "variants": [
+      {
+        "zh": "我不能吃花生。",
+        "py": "Wǒ bù néng chī huāshēng.",
+        "en": "I cannot eat peanuts.",
+        "note": "不能 (cannot) beats 不 (don't) here — 不 sounds like a choice, 不能 sounds like a rule, and kitchens take rules more seriously."
+      },
+      {
+        "zh": "菜里有花生吗？",
+        "py": "Cài lǐ yǒu huāshēng ma?",
+        "en": "Do the dishes contain peanuts?",
+        "note": "Ask it per dish at the same time as you order it — blanket questions about the whole menu get vague answers."
+      },
+      {
+        "zh": "不要放花生油。",
+        "py": "Bú yào fàng huāshēngyóu.",
+        "en": "Don't use peanut oil.",
+        "note": "花生油 (peanut oil) is the default frying oil in many kitchens, and 放 is the cooking verb for adding it — this targets the oil, not just whole peanuts."
+      }
+    ],
+    "mistakes": [
+      "The general allergy phrase 我过敏 (I'm allergic) names no trigger and often gets nothing but a nod. Naming it — 花生, 海鲜 (seafood), 牛奶 (milk), 坚果 (nuts) — is what makes the kitchen act.",
+      "Peanuts hide under famous names: 宫保鸡丁 (Kung Pao Chicken) is cooked with peanuts, and so are many cold starters. Ask even for dishes that sound safely meaty.",
+      "No visible peanuts is not the same as peanut-free — peanut oil leaves no trace to see. 不放花生油 (no peanut oil) covers the oil, because 没有花生 alone only rules out the nuts themselves."
+    ],
+    "replies": [
+      {
+        "zh": "没有，您放心。",
+        "py": "Méiyǒu, nín fàngxīn.",
+        "en": "None at all — don't worry."
+      },
+      {
+        "zh": "里面有一点花生。",
+        "py": "Lǐmiàn yǒu yìdiǎn huāshēng.",
+        "en": "There are some peanuts in it."
+      },
+      {
+        "zh": "我们用花生油炒菜。",
+        "py": "Wǒmen yòng huāshēngyóu chǎocài.",
+        "en": "We cook with peanut oil."
+      }
+    ]
+  },
   "91": {
     "when": [
       "When you need somebody to understand that you are unwell right now — a hotel front desk, a pharmacy counter, or a colleague you have to cancel on.",
@@ -2345,6 +2681,54 @@
         "zh": "多喝热水，早点休息。",
         "py": "Duō hē rè shuǐ, zǎodiǎn xiūxi.",
         "en": "Drink more hot water and get some rest."
+      }
+    ]
+  },
+  "97": {
+    "when": [
+      "Use it at any counter when you cannot tell how payment works here — no card reader in sight, no QR code propped up, and nobody has asked you for money yet.",
+      "The usual answer is 扫码 (sǎo mǎ, scan the code): either you scan their code with your phone, or they scan the code your app shows, and both directions are called the same thing."
+    ],
+    "variants": [
+      {
+        "zh": "在哪儿付钱？",
+        "py": "Zài nǎr fù qián?",
+        "en": "Where do I pay?",
+        "note": "For markets and canteens where paying happens at a specific spot — this asks the place rather than the method."
+      },
+      {
+        "zh": "收银台在哪儿？",
+        "py": "Shōuyíntái zài nǎr?",
+        "en": "Where is the checkout counter?",
+        "note": "收银台 is the cash register counter in shops and supermarkets — the landmark question when you are standing in the wrong aisle with an armful of goods."
+      },
+      {
+        "zh": "可以扫您的码吗？",
+        "py": "Kěyǐ sǎo nín de mǎ ma?",
+        "en": "May I scan your code?",
+        "note": "Their printed code scanned by your app is one of the two QR directions; asking before pointing your camera keeps the moment friendly."
+      }
+    ],
+    "mistakes": [
+      "付款 and 付钱 are the shop verbs; restaurants have their own — 结账 (jiézhàng) or 买单 (mǎidān) is what you say when you want the bill, so in a restaurant the question becomes 怎么结账？",
+      "The two QR directions are easy to mix: scanning their code opens a payment page on your phone, while showing your code lets their scanner take money from you. If a staff member grabs your phone, they are doing the second one.",
+      "扣款 (kòukuǎn) on a banking app means an automatic deduction — it is not the counter word, and nobody says it when asking you to pay."
+    ],
+    "replies": [
+      {
+        "zh": "扫这个码。",
+        "py": "Sǎo zhège mǎ.",
+        "en": "Scan this code."
+      },
+      {
+        "zh": "现金也行。",
+        "py": "Xiànjīn yě xíng.",
+        "en": "Cash works too."
+      },
+      {
+        "zh": "到那边收银台。",
+        "py": "Dào nàbiān shōuyíntái.",
+        "en": "The checkout is over there."
       }
     ]
   },

@@ -4,10 +4,10 @@ local    : C:\Users\Administrator\WorkBuddy\2026-09-25-20-49-31\real-life-chines
 -- 哨兵自检（本地命中 / 线上抽样命中）--
   · 冠词修复（a everyday → an everyday） → 本地 30/136 页
       命中：/how-to-say-cheers-in-chinese/ /how-to-say-do-you-speak-english-in-chinese/ /how-to-say-excuse-me-in-chinese/ /how-to-say-good-morning-in-chinese/ /how-to-say-good-night-in-chinese/ …共 30 页
-  · P1 深化内容：更自然的说法（全部批次） → 本地 56/136 页
-      命中：/how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-try-it-on-in-chinese/ /how-to-say-can-you-make-it-cheaper-in-chinese/ /how-to-say-cheers-in-chinese/ /how-to-say-delicious-in-chinese/ …共 56 页
-  · P1 深化内容：新手常见坑（全部批次） → 本地 56/136 页
-      命中：/how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-try-it-on-in-chinese/ /how-to-say-can-you-make-it-cheaper-in-chinese/ /how-to-say-cheers-in-chinese/ /how-to-say-delicious-in-chinese/ …共 56 页
+  · P1 深化内容：更自然的说法（全部批次） → 本地 64/136 页
+      命中：/how-to-say-a-towel-please-in-chinese/ /how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-pay-by-card-in-chinese/ /how-to-say-can-i-try-it-on-in-chinese/ /how-to-say-can-you-make-it-cheaper-in-chinese/ …共 64 页
+  · P1 深化内容：新手常见坑（全部批次） → 本地 64/136 页
+      命中：/how-to-say-a-towel-please-in-chinese/ /how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-pay-by-card-in-chinese/ /how-to-say-can-i-try-it-on-in-chinese/ /how-to-say-can-you-make-it-cheaper-in-chinese/ …共 64 页
   · P1 深化第二批：告别页 → 本地 1/136 页
       命中：/how-to-say-goodbye-in-chinese/
   · P1 深化第二批：问候页（含 FAQ 改读正文） → 本地 1/136 页
@@ -42,5 +42,9 @@ local    : C:\Users\Administrator\WorkBuddy\2026-09-25-20-49-31\real-life-chines
       命中：/how-to-say-water-please-in-chinese/
   · P1 深化第七批：空调（hotel） → 本地 1/136 页
       命中：/how-to-say-the-air-conditioner-is-broken-in-chinese/
+  · P1 深化第八批：菜单（restaurant） → 本地 1/136 页
+      命中：/how-to-say-do-you-have-a-menu-in-chinese/
+  · P1 深化第八批：花生过敏（emergency） → 本地 1/136 页
+      命中：/how-to-say-im-allergic-to-peanuts-in-chinese/
 
-VERDICT PASS —— 20 条哨兵都活着且有区分度
+VERDICT PASS —— 22 条哨兵都活着且有区分度

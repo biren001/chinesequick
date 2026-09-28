@@ -220,6 +220,12 @@ const SENTINELS = [
   // 两条 needle 落在**不同分类**且都会进 MUST：restaurant（7）与 hotel（27）。
   { label: "P1 深化第七批：水（restaurant）", needle: "water is not poured automatically" },
   { label: "P1 深化第七批：空调（hotel）", needle: "reports a fault without blaming anyone for it" },
+  // P1 第八批（4/23/28/36/39/52/90/97 八页）—— 挑法同第七批：最薄 15 页 + 分类分散。
+  // 分类：restaurant 2（4 菜单 / 52 吃素）、shopping 2（39 退货 / 36 刷卡）、
+  // hotel 2（28 毛巾 / 23 入住）、money 1（97 怎么付款）、emergency 1（90 花生过敏）。
+  // 两条 needle 落在**不同分类**且都会进 MUST：restaurant（4）与 emergency（90）。
+  { label: "P1 深化第八批：菜单（restaurant）", needle: "a pointed finger at a code" },
+  { label: "P1 深化第八批：花生过敏（emergency）", needle: "is cooked with peanuts" },
 ];
 
 /* ---------------- 哨兵体检：按【全部本地页】统计，不联网 ---------------- */
@@ -346,6 +352,10 @@ const MUST = [
   // 这两页同时也是这批里搜索意图最清楚的两条 → 常驻必检既盯哨兵也盯厚度。
   "/how-to-say-water-please-in-chinese/",
   "/how-to-say-the-air-conditioner-is-broken-in-chinese/",
+  // P1 第八批：两条哨兵分别落在 do-you-have-a-menu（restaurant）与
+  // im-allergic-to-peanuts（emergency）。目录已用 existsSync 核实过，不是摆设。
+  "/how-to-say-do-you-have-a-menu-in-chinese/",
+  "/how-to-say-im-allergic-to-peanuts-in-chinese/",
 ];
 
 /* MUST 里对不上任何本地页的路径。非空 = 「必检」这个承诺已经被悄悄打折，必须当失败处理。 */
