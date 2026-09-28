@@ -247,6 +247,12 @@ const SENTINELS = [
   // 两条都是先从构建产物 HTML 里现查现抄（HIT）才写进来的，不凭写稿记忆。
   { label: "P1 深化第十批：护照丢了（emergency）", needle: "the sentence starts two things at once" },
   { label: "P1 深化第十批：一共多少钱（money）", needle: "the word printed on receipts" },
+  // P1 第十一批（41/42/44/45/48/62/63/65/67/75 十页）—— 这批性质不同：**不是新增页**，
+  // 而是给首批/第二批那 17 条老格式补到标准厚度（replies 从 0 补到 3、mistakes 补到 3）。
+  // 十页全在 everyday（问候类），**跨分类做不到** → 改用两条落在不同页的 needle 互相印证。
+  // 挑 hello（GSC 曝光最高）与 yes（是/不是 那一组）。两条都先从产物现查现抄（HIT）才写入。
+  { label: "P1 深化第十一批：你好（三声变调）", needle: "with two separate dips" },
+  { label: "P1 深化第十一批：是的语气", needle: "can sound clipped, even impatient" },
 ];
 
 /* ---------------- 哨兵体检：按【全部本地页】统计，不联网 ---------------- */
@@ -385,6 +391,10 @@ const MUST = [
   // how-much-is-it-altogether（money）。目录已用 existsSync 核实过，不是摆设。
   "/how-to-say-i-lost-my-passport-in-chinese/",
   "/how-to-say-how-much-is-it-altogether-in-chinese/",
+  // P1 第十一批：两条哨兵分别落在 hello 与 yes —— 这两条都是 GSC 正在曝光的问候类查询，
+  // 常驻必检顺便盯住「补齐的内容有没有真的上线」。
+  "/how-to-say-hello-in-chinese/",
+  "/how-to-say-yes-in-chinese/",
 ];
 
 /* MUST 里对不上任何本地页的路径。非空 = 「必检」这个承诺已经被悄悄打折，必须当失败处理。 */

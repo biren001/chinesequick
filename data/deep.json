@@ -1548,11 +1548,35 @@
         "py": "Hāi.",
         "en": "Hi.",
         "note": "Casual. Common among younger people and in messaging."
+      },
+      {
+        "zh": "大家好。",
+        "py": "Dàjiā hǎo.",
+        "en": "Hello everyone.",
+        "note": "The same pattern with 大家 (everyone) in front — for a room, a table, or a group you are addressing at once."
       }
     ],
     "mistakes": [
       "你好 is for first meetings and formal moments. Greeting a friend with it every morning sounds distant — friends often greet each other with a comment or nothing at all.",
-      "Do not treat it as 'how are you'. 你好吗 is a literal question people rarely ask; everyday greetings are usually observations about what you can see."
+      "Do not treat it as 'how are you'. 你好吗 is a literal question people rarely ask; everyday greetings are usually observations about what you can see.",
+      "Two third tones run together into one rising tone, so 你好 is said ní hǎo, not nǐ hǎo with two separate dips. Reading each syllable in its dictionary tone sounds wooden to a Chinese ear."
+    ],
+    "replies": [
+      {
+        "zh": "你好，请问需要什么？",
+        "py": "Nǐ hǎo, qǐng wèn xūyào shénme?",
+        "en": "Hello — what can I do for you?"
+      },
+      {
+        "zh": "你好，请问几位？",
+        "py": "Nǐ hǎo, qǐng wèn jǐ wèi?",
+        "en": "Hello — table for how many?"
+      },
+      {
+        "zh": "喂，你好。",
+        "py": "Wéi, nǐ hǎo.",
+        "en": "Hello? (the way a phone is answered)"
+      }
     ]
   },
   "42": {
@@ -1581,7 +1605,25 @@
     ],
     "mistakes": [
       "Say it once, at the end. English speakers tend to sprinkle thanks through a sentence; in Chinese one 谢谢 at the close is plenty.",
-      "谢谢 never means 'please'. To ask for something politely use 请 (qǐng), or just state what you want with a calm tone."
+      "谢谢 never means 'please'. To ask for something politely use 请 (qǐng), or just state what you want with a calm tone.",
+      "Close friends and family rarely thank each other over small things. A steady stream of 谢谢 between people who are close can sound formal — they tend to do something back instead of saying it."
+    ],
+    "replies": [
+      {
+        "zh": "不客气。",
+        "py": "Bú kèqi.",
+        "en": "You're welcome."
+      },
+      {
+        "zh": "没事儿。",
+        "py": "Méi shìr.",
+        "en": "It's nothing."
+      },
+      {
+        "zh": "不用谢，慢走。",
+        "py": "Bú yòng xiè, màn zǒu.",
+        "en": "No need to thank me — take care."
+      }
     ]
   },
   "43": {
@@ -1637,11 +1679,35 @@
         "py": "Méi shìr.",
         "en": "It's nothing.",
         "note": "Casual. Good among friends and younger people."
+      },
+      {
+        "zh": "不客气，应该的。",
+        "py": "Bú kèqi, yīnggāi de.",
+        "en": "You're welcome — it's what anyone would do.",
+        "note": "The fuller formula after somebody thanks you for real help: it says the help was ordinary, not a favour owed."
       }
     ],
     "mistakes": [
       "The most useful thing to know: many people in China answer 谢谢 with no words at all, or with a small gesture or nod. Silence here is not rudeness.",
-      "Do not answer thanks with 哪里哪里 (nǎlǐ nǎlǐ). That is a modest reply to a compliment — using it after 谢谢 would be answering the wrong kind of remark."
+      "Do not answer thanks with 哪里哪里 (nǎlǐ nǎlǐ). That is a modest reply to a compliment — using it after 谢谢 would be answering the wrong kind of remark.",
+      "不客气 answers thanks, not apologies. When someone says 对不起, the reply is 没关系 — answering with 不客气 there sounds like you accepted an apology you were never owed."
+    ],
+    "replies": [
+      {
+        "zh": "谢谢！",
+        "py": "Xièxie!",
+        "en": "Thank you!"
+      },
+      {
+        "zh": "你人真好。",
+        "py": "Nǐ rén zhēn hǎo.",
+        "en": "You're really kind."
+      },
+      {
+        "zh": "太感谢了。",
+        "py": "Tài gǎnxiè le.",
+        "en": "Thank you so much."
+      }
     ]
   },
   "45": {
@@ -1671,7 +1737,25 @@
     ],
     "mistakes": [
       "再见 works when both sides are leaving. To step away for a moment — leaving your table to ask a question — say 我去问一下 (wǒ qù wèn yíxià, \"I'll go and ask\") and come back.",
-      "Do not overuse it. Chinese speakers often leave a shop with a nod, or with 谢谢, and nothing else. 再见 every single time sounds earnest rather than wrong."
+      "Do not overuse it. Chinese speakers often leave a shop with a nod, or with 谢谢, and nothing else. 再见 every single time sounds earnest rather than wrong.",
+      "拜拜 stays casual. With someone much older, or in a formal setting, use 再见 — it carries none of the playful tone that 拜拜 borrowed from English 'bye-bye'."
+    ],
+    "replies": [
+      {
+        "zh": "再见，慢走！",
+        "py": "Zàijiàn, màn zǒu!",
+        "en": "Goodbye — take care!"
+      },
+      {
+        "zh": "拜拜！",
+        "py": "Báibái!",
+        "en": "Bye!"
+      },
+      {
+        "zh": "路上小心。",
+        "py": "Lùshang xiǎoxīn.",
+        "en": "Be careful on the road."
+      }
     ]
   },
   "46": {
@@ -1791,7 +1875,25 @@
     ],
     "mistakes": [
       "不懂 is about understanding, not ability. 'I can't speak Chinese' is 我不会说中文 (wǒ bú huì shuō Zhōngwén). Saying 我不懂中文 says you understand nothing at all, which understates you.",
-      "If you are interrupting someone to say it, lead with 不好意思."
+      "If you are interrupting someone to say it, lead with 不好意思.",
+      "不懂 is about meaning, not hearing. If you simply missed the sound in a noisy room, 我没听清 (I didn't catch that) is the honest answer — 我不懂 there tells them the words themselves are beyond you."
+    ],
+    "replies": [
+      {
+        "zh": "不好意思，我再说一遍。",
+        "py": "Bù hǎoyìsi, wǒ zài shuō yí biàn.",
+        "en": "Sorry — let me say it again."
+      },
+      {
+        "zh": "我换个说法。",
+        "py": "Wǒ huàn ge shuōfǎ.",
+        "en": "Let me put it another way."
+      },
+      {
+        "zh": "那我说慢一点。",
+        "py": "Nà wǒ shuō màn yìdiǎn.",
+        "en": "Then I'll say it slower."
+      }
     ]
   },
   "49": {
@@ -2059,7 +2161,25 @@
     ],
     "mistakes": [
       "Chinese has no single word for 'yes'. You answer by repeating the verb from the question: 有吗 → 有, 去吗 → 去, 可以吗 → 可以, 喜欢吗 → 喜欢. A bare 是 to a question that did not use 是 sounds wrong.",
-      "是 links two nouns: 他是老师 (he is a teacher). It is not used with adjectives — those take 很 instead. 她很漂亮 is right, 她是漂亮 is not. This is one of the most persistent habits carried over from English."
+      "是 links two nouns: 他是老师 (he is a teacher). It is not used with adjectives — those take 很 instead. 她很漂亮 is right, 她是漂亮 is not. This is one of the most persistent habits carried over from English.",
+      "A bare 是 can sound clipped, even impatient. With someone you have just met, 是的 or 对，是的 carries the same meaning with a softer tone."
+    ],
+    "replies": [
+      {
+        "zh": "好的，给您。",
+        "py": "Hǎo de, gěi nín.",
+        "en": "OK — here you are."
+      },
+      {
+        "zh": "请看一下。",
+        "py": "Qǐng kàn yí xià.",
+        "en": "Please take a look."
+      },
+      {
+        "zh": "那没问题。",
+        "py": "Nà méi wèntí.",
+        "en": "Then there's no problem."
+      }
     ]
   },
   "63": {
@@ -2091,6 +2211,23 @@
       "不是 negates 是 only. To refuse something offered — in a shop, a taxi, at a table — the polite form is 不用了，谢谢, not 不是.",
       "Watch the tone. 不 is normally bù, but it turns into bú before a 4th tone: it is bú shì, not bù shì. The same happens in 不对 (bú duì) and 不用 (bú yòng).",
       "不是 and 没 are not interchangeable. 没 (or 没有) is for things that did not happen or that you do not have; 不是 is for saying what something is not."
+    ],
+    "replies": [
+      {
+        "zh": "哦，好的。",
+        "py": "Ó, hǎo de.",
+        "en": "Oh, okay."
+      },
+      {
+        "zh": "那这个是谁的？",
+        "py": "Nà zhège shì shéi de?",
+        "en": "Then whose is this?"
+      },
+      {
+        "zh": "没关系，谢谢。",
+        "py": "Méi guānxi, xièxie.",
+        "en": "That's all right — thanks."
+      }
     ]
   },
   "64": {
@@ -2176,6 +2313,23 @@
       "早上好 has a window. Mid-morning onwards it sounds off — switch to 你好, which works at any hour.",
       "Do not use 晚上好 to say goodbye. 晚安 is the farewell; 晚上好 is only for arriving.",
       "Greeting a friend with 早上好 every single morning sounds formal. Friends often just acknowledge each other — 来了 (you're here) — and start talking."
+    ],
+    "replies": [
+      {
+        "zh": "你好，早。",
+        "py": "Nǐ hǎo, zǎo.",
+        "en": "Hello — morning."
+      },
+      {
+        "zh": "早上好，请问几位？",
+        "py": "Zǎoshang hǎo, qǐng wèn jǐ wèi?",
+        "en": "Good morning — table for how many?"
+      },
+      {
+        "zh": "你好，吃点什么？",
+        "py": "Nǐ hǎo, chī diǎn shénme?",
+        "en": "Hello — what would you like to eat?"
+      }
     ]
   },
   "66": {
@@ -2261,6 +2415,23 @@
       "好的 and 好吧 are not the same. 好吧 means 'all right then' and carries reluctance — saying it when you mean 好的 sounds as though you were talked into something.",
       "好的 agrees with a proposal. It is not a general 'yes': for a 是 question you need 是 or 对.",
       "It is easy to overuse. After a while 好 on its own sounds more natural, and between friends a nod is enough."
+    ],
+    "replies": [
+      {
+        "zh": "那我们走吧。",
+        "py": "Nà wǒmen zǒu ba.",
+        "en": "Then let's go."
+      },
+      {
+        "zh": "好，我这就去。",
+        "py": "Hǎo, wǒ zhè jiù qù.",
+        "en": "OK — I'm on it."
+      },
+      {
+        "zh": "那我等你。",
+        "py": "Nà wǒ děng nǐ.",
+        "en": "Then I'll wait for you."
+      }
     ]
   },
   "68": {
@@ -2585,6 +2756,16 @@
         "zh": "谢谢！",
         "py": "Xièxie!",
         "en": "Thank you!"
+      },
+      {
+        "zh": "谢谢大家！",
+        "py": "Xièxie dàjiā!",
+        "en": "Thank you everyone!"
+      },
+      {
+        "zh": "谢谢，太客气了！",
+        "py": "Xièxie, tài kèqi le!",
+        "en": "Thanks — you're too kind!"
       }
     ]
   },

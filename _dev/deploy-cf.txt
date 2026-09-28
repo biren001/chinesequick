@@ -1,5 +1,5 @@
 {
- "at": "2026-09-28T14:30:09.843Z",
+ "at": "2026-09-28T14:57:42.131Z",
  "dir": "C:\\Users\\Administrator\\WorkBuddy\\2026-09-25-20-49-31\\real-life-chinese\\out",
  "project": "chinesequick",
  "dryRun": false,
@@ -28,15 +28,15 @@
   "problems": []
  },
  "fileCount": 727,
- "totalBytes": 15587797,
+ "totalBytes": 15687526,
  "manifestEntries": 727,
- "prevDeployment": "492bebab-0da3-44e5-84de-27eec455c6a0",
+ "prevDeployment": "67e3235e-32ec-4d67-b943-ce74d36dec2c",
  "knownDeployments": 10,
  "rounds": [
   {
    "round": 1,
    "newDeployment": true,
-   "id": "67e3235e",
+   "id": "fb2523c8",
    "fileCount": 727,
    "fileCountSource": "deployment",
    "servedOk": true,
@@ -51,15 +51,15 @@
  "settle": {
   "changed": true,
   "servedOk": true,
-  "id": "67e3235e-32ec-4d67-b943-ce74d36dec2c",
-  "shortId": "67e3235e",
-  "url": "https://67e3235e.chinesequick.pages.dev",
+  "id": "fb2523c8-f877-4752-8bda-e9e598a02813",
+  "shortId": "fb2523c8",
+  "url": "https://fb2523c8.chinesequick.pages.dev",
   "fileCount": 727,
   "fileCountKnown": true,
   "stages": [
    {
     "name": "queued",
-    "started_on": "2026-09-28T14:33:04.470307Z",
+    "started_on": "2026-09-28T15:00:38.12305Z",
     "ended_on": null,
     "status": "active"
    },
@@ -90,7 +90,7 @@
   ],
   "fileCountSource": "deployment",
   "served": {
-   "base": "https://67e3235e.chinesequick.pages.dev",
+   "base": "https://fb2523c8.chinesequick.pages.dev",
    "checks": [
     {
      "path": "/",
@@ -98,7 +98,7 @@
      "type": "text/html"
     },
     {
-     "path": "/_next/static/DKr5xfKnfOLoElqZq49An/_buildManifest.js",
+     "path": "/_next/static/GcjBfA7-Qj9xBe304VCwB/_buildManifest.js",
      "status": 200,
      "type": "application/javascript"
     },
@@ -112,7 +112,7 @@
   }
  },
  "served": {
-  "base": "https://67e3235e.chinesequick.pages.dev",
+  "base": "https://fb2523c8.chinesequick.pages.dev",
   "checks": [
    {
     "path": "/",
@@ -120,7 +120,7 @@
     "type": "text/html"
    },
    {
-    "path": "/_next/static/DKr5xfKnfOLoElqZq49An/_buildManifest.js",
+    "path": "/_next/static/GcjBfA7-Qj9xBe304VCwB/_buildManifest.js",
     "status": 200,
     "type": "application/javascript"
    },
@@ -133,7 +133,7 @@
   "ok": true
  },
  "transport": "direct",
- "url": "https://67e3235e.chinesequick.pages.dev",
- "deploymentId": "67e3235e-32ec-4d67-b943-ce74d36dec2c",
+ "url": "https://fb2523c8.chinesequick.pages.dev",
+ "deploymentId": "fb2523c8-f877-4752-8bda-e9e598a02813",
  "ok": true
 }

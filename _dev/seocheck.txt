@@ -25,10 +25,10 @@
    "FAQPage"
   ],
   "jsonldErrors": [],
-  "textLen": 2071,
+  "textLen": 2416,
   "hasWordTable": false,
   "hasFaq": true,
-  "h2Count": 5,
+  "h2Count": 6,
   "faqCount": 3
  },
  "category": {
