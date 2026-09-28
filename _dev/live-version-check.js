@@ -226,6 +226,12 @@ const SENTINELS = [
   // 两条 needle 落在**不同分类**且都会进 MUST：restaurant（4）与 emergency（90）。
   { label: "P1 深化第八批：菜单（restaurant）", needle: "a pointed finger at a code" },
   { label: "P1 深化第八批：花生过敏（emergency）", needle: "is cooked with peanuts" },
+  // P1 第九批（6/24/26/37/38/51/86/88 八页）—— 挑法同前：最薄 15 页 + 分类分散。
+  // 分类：shopping 2（37 小号 / 38 袋子）、restaurant 2（6 不吃肉 / 51 推荐）、
+  // hotel 2（26 Wi-Fi / 24 退房）、emergency 2（86 迷路 / 88 看医生）。
+  // 两条 needle 落在**不同分类**且都会进 MUST：shopping（37）与 emergency（88）。
+  { label: "P1 深化第九批：小号（shopping）", needle: "may pinch here" },
+  { label: "P1 深化第九批：看医生（emergency）", needle: "without a number no doctor will call you" },
 ];
 
 /* ---------------- 哨兵体检：按【全部本地页】统计，不联网 ---------------- */
@@ -356,6 +362,10 @@ const MUST = [
   // im-allergic-to-peanuts（emergency）。目录已用 existsSync 核实过，不是摆设。
   "/how-to-say-do-you-have-a-menu-in-chinese/",
   "/how-to-say-im-allergic-to-peanuts-in-chinese/",
+  // P1 第九批：两条哨兵分别落在 do-you-have-a-small-size（shopping）与
+  // i-need-to-see-a-doctor（emergency）。目录已用 existsSync 核实过，不是摆设。
+  "/how-to-say-do-you-have-a-small-size-in-chinese/",
+  "/how-to-say-i-need-to-see-a-doctor-in-chinese/",
 ];
 
 /* MUST 里对不上任何本地页的路径。非空 = 「必检」这个承诺已经被悄悄打折，必须当失败处理。 */

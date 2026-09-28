@@ -201,6 +201,54 @@
       "Compliment the specific dish, not 'the food' in general. 好吃 is about what is in your mouth right now."
     ]
   },
+  "6": {
+    "when": [
+      "Say it while ordering or when a host is putting food on your plate, and it rules out meat in one sentence without naming every animal.",
+      "肉 covers pork, beef and lamb all at once, so the sentence stays short even when your reason — diet, religion or taste — is a long story."
+    ],
+    "variants": [
+      {
+        "zh": "我不吃猪肉。",
+        "py": "Wǒ bù chī zhūròu.",
+        "en": "I don't eat pork.",
+        "note": "Pork is the default meat in Chinese cooking, so this one word unblocks most menus."
+      },
+      {
+        "zh": "鸡肉可以，牛肉不吃。",
+        "py": "Jīròu kěyǐ, niúròu bù chī.",
+        "en": "Chicken is fine, but no beef.",
+        "note": "Carve exceptions in one breath with 可以…不吃 — no need for a second sentence."
+      },
+      {
+        "zh": "一点肉都不要。",
+        "py": "Yìdiǎn ròu dōu bú yào.",
+        "en": "Not a bit of meat at all.",
+        "note": "一点…都 makes it emphatic — stronger than a plain 不吃 when you want no meat anywhere."
+      }
+    ],
+    "mistakes": [
+      "Meat hides in the stock as well as on the plate — soup, congee and even vegetable stir-fries are often cooked with pork broth, so ask 汤里有肉吗？ about anything liquid.",
+      "肉 by itself defaults to pork in dish names: 鱼香肉丝 contains no fish — it is shredded pork in a fish-fragrant sauce, one of the most famous dishes in China.",
+      "不吃 is heard as a preference, and the kitchen may try to talk you out of it. If it is a hard rule — medical or religious — switch to 不能吃, which sounds like a law rather than a wish."
+    ],
+    "replies": [
+      {
+        "zh": "好的，知道了。",
+        "py": "Hǎo de, zhīdào le.",
+        "en": "Okay, understood."
+      },
+      {
+        "zh": "这个菜里没有肉。",
+        "py": "Zhège cài lǐ méiyǒu ròu.",
+        "en": "There is no meat in this dish."
+      },
+      {
+        "zh": "那给您上青菜吧？",
+        "py": "Nà gěi nín shàng qīngcài ba?",
+        "en": "Then how about we bring you greens?"
+      }
+    ]
+  },
   "7": {
     "when": [
       "Say it once the order is in but no drinks have arrived — in most Chinese restaurants water is not poured automatically, it has to be asked for.",
@@ -670,6 +718,102 @@
       }
     ]
   },
+  "24": {
+    "when": [
+      "Say it at the front desk when your stay is over and your bags are packed, and hand the key card across while you say it.",
+      "退 means to hand back, so 退房 is literally return the room — the same 退 you use in 退货 when returning goods to a shop."
+    ],
+    "variants": [
+      {
+        "zh": "我现在退房。",
+        "py": "Wǒ xiànzài tuìfáng.",
+        "en": "I am checking out now.",
+        "note": "现在 pins the moment — useful when the desk assumes you have one more night."
+      },
+      {
+        "zh": "这是房卡。",
+        "py": "Zhè shì fángkǎ.",
+        "en": "Here is the key card.",
+        "note": "房卡 (room card) is the electronic key; older places may still hand you a metal 钥匙."
+      },
+      {
+        "zh": "能帮我叫辆出租车吗？",
+        "py": "Néng bāng wǒ jiào liàng chūzūchē ma?",
+        "en": "Can you call me a taxi?",
+        "note": "Front desks call taxis all morning — the natural next sentence after handing over the card."
+      }
+    ],
+    "mistakes": [
+      "退房 is only for the end of a stay — arriving is 入住. Walk up to the desk saying 退房 at check-in and it will assume you have lost a night somewhere.",
+      "A deposit paid at check-in comes back at this desk, not into your bank account — keep the deposit receipt, because the clerk may ask for it before handing back the cash.",
+      "Some hotels run a quick 查房 (room check) for the minibar before returning the deposit — it is routine housekeeping, not an accusation, and usually takes only a few minutes."
+    ],
+    "replies": [
+      {
+        "zh": "好的，房卡收一下。",
+        "py": "Hǎo de, fángkǎ shōu yíxià.",
+        "en": "Okay, let me take your key card."
+      },
+      {
+        "zh": "需要帮您叫车吗？",
+        "py": "Xūyào bāng nín jiào chē ma?",
+        "en": "Do you need me to call a car?"
+      },
+      {
+        "zh": "欢迎再次光临。",
+        "py": "Huānyíng zài cì guānglín.",
+        "en": "Welcome back any time."
+      }
+    ]
+  },
+  "26": {
+    "when": [
+      "Ask it at a hotel desk, café or restaurant the moment you need to get online, and staff will usually point at the password on a card or read it out.",
+      "Wi-Fi is said almost exactly as in English, so the only new word here is 有 — the all-purpose is-there question that starts thousands of Chinese sentences."
+    ],
+    "variants": [
+      {
+        "zh": "Wi-Fi 密码是多少？",
+        "py": "Wi-Fi mìmǎ shì duōshao?",
+        "en": "What is the Wi-Fi password?",
+        "note": "密码 covers every password you will type — Wi-Fi, phone unlock and payment PIN alike."
+      },
+      {
+        "zh": "有无线网吗？",
+        "py": "Yǒu wúxiàn wǎng ma?",
+        "en": "Is there wireless internet?",
+        "note": "无线网 is the fully Chinese name for Wi-Fi — useful when the English letters alone stall the conversation."
+      },
+      {
+        "zh": "网连不上。",
+        "py": "Wǎng lián bú shàng.",
+        "en": "I can't get connected.",
+        "note": "不上 after a verb means the action will not complete — the same pattern as 买不到 (can't buy)."
+      }
+    ],
+    "mistakes": [
+      "密码 (mìmǎ) is every kind of password or PIN — the card reader at checkout will ask for 密码 too, so hearing it at the register is not another Wi-Fi question.",
+      "Many cafés hand out the code printed on the receipt after you order, and hotel passwords usually live on the card in the room — looking there first can save the question entirely.",
+      "网 is not one fixed word: 无线网 is wireless internet, 上网 is to go online, and 网上 means online — the same character doing three different jobs."
+    ],
+    "replies": [
+      {
+        "zh": "密码在桌上的小牌子上。",
+        "py": "Mìmǎ zài zhuō shàng de xiǎo páizi shàng.",
+        "en": "The password is on the little card on the table."
+      },
+      {
+        "zh": "密码是房号。",
+        "py": "Mìmǎ shì fáng hào.",
+        "en": "The password is your room number."
+      },
+      {
+        "zh": "这边信号不好，您坐那边吧。",
+        "py": "Zhèbiān xìnhào bù hǎo, nín zuò nàbiān ba.",
+        "en": "The signal is weak on this side — sit over there."
+      }
+    ]
+  },
   "27": {
     "when": [
       "Say it at the front desk when the room is too hot or too cold and you have worked out that the machine is not responding at all, rather than that you cannot find the remote.",
@@ -1003,6 +1147,102 @@
         "zh": "扫码吧。",
         "py": "Sǎo mǎ ba.",
         "en": "Just scan the QR code."
+      }
+    ]
+  },
+  "37": {
+    "when": [
+      "Say it while holding up the garment whose size does not fit, so the staff can see which piece you mean and fetch the next size from the stockroom.",
+      "Clothing sizes are 小号 (small), 中号 (medium) and 大号 (large), and most shops keep other sizes in the back rather than on the rack."
+    ],
+    "variants": [
+      {
+        "zh": "有中号吗？",
+        "py": "Yǒu zhōng hào ma?",
+        "en": "Do you have a medium?",
+        "note": "The three rack grades are fixed: 小号 S, 中号 M, 大号 L — learn one and you have learned all three."
+      },
+      {
+        "zh": "有大一号的吗？",
+        "py": "Yǒu dà yí hào de ma?",
+        "en": "Do you have one size up?",
+        "note": "号 counts size steps: 大一号 is one size bigger, 小一号 is one size smaller."
+      },
+      {
+        "zh": "有别的尺码吗？",
+        "py": "Yǒu biéde chǐmǎ ma?",
+        "en": "Does it come in other sizes?",
+        "note": "尺码 is the general word for garment sizes, useful when you want the whole range rather than one grade."
+      }
+    ],
+    "mistakes": [
+      "小号 means size S on a clothing rack, but the same word is also a small cup at a drink stand or a trumpet in an orchestra — holding up the garment removes every doubt about which you mean.",
+      "Size racks and size labels are always the grade names 小号 / 中号 / 大号, not adjectives — asking 这个有小的吗 points at small things in sight, not at the size grade.",
+      "Chinese sizes usually run smaller than US or EU sizes, so the 中号 that fits you at home may pinch here — check the numbered label (the 165/88A style) or try the piece on before paying."
+    ],
+    "replies": [
+      {
+        "zh": "我去后面拿一下。",
+        "py": "Wǒ qù hòumiàn ná yíxià.",
+        "en": "Let me grab one from the back."
+      },
+      {
+        "zh": "就剩这一件了。",
+        "py": "Jiù shèng zhè yí jiàn le.",
+        "en": "This is the only one left."
+      },
+      {
+        "zh": "这个码正合适。",
+        "py": "Zhège mǎ zhèng héshì.",
+        "en": "That size fits just right."
+      }
+    ]
+  },
+  "38": {
+    "when": [
+      "Say it at the checkout after paying, when the cashier is about to hand over your things loose and you need something to carry them in.",
+      "Supermarkets often give bags free, while many smaller shops charge a few cents for one — the cashier will ask 要袋子吗 at the register, and this sentence answers that question before it comes."
+    ],
+    "variants": [
+      {
+        "zh": "要一个塑料袋。",
+        "py": "Yào yí ge sùliàodài.",
+        "en": "I need a plastic bag.",
+        "note": "塑料袋 names the plastic bag specifically — the kind you get at a checkout."
+      },
+      {
+        "zh": "不用袋子，谢谢。",
+        "py": "Bú yòng dàizi, xièxie.",
+        "en": "No bag, thanks.",
+        "note": "Refusing saves the bag fee where shops charge, and it is the answer to 要袋子吗 when you already have one."
+      },
+      {
+        "zh": "有免费的袋子吗？",
+        "py": "Yǒu miǎnfèi de dàizi ma?",
+        "en": "Are there free bags?",
+        "note": "免费 (free of charge) is worth knowing everywhere, not just at a checkout."
+      }
+    ],
+    "mistakes": [
+      "The bag you carry is 袋子, but 袋 alone is a measure word: 一袋米 is a bag of rice. The 子 ending is what turns the measure word into the object itself.",
+      "要袋子吗 at the register is a routine checkout question, not an upsell — answer 要 or 不用 and nothing more is needed.",
+      "For takeaway food the word is 打包, not 袋子 — leftovers leave a restaurant in a 打包盒, shopping bags come from shop checkouts, and each scene keeps its own word."
+    ],
+    "replies": [
+      {
+        "zh": "要大的还是小的？",
+        "py": "Yào dà de háishi xiǎo de?",
+        "en": "Big one or small one?"
+      },
+      {
+        "zh": "袋子要加一块钱。",
+        "py": "Dàizi yào jiā yí kuài qián.",
+        "en": "The bag costs one yuan extra."
+      },
+      {
+        "zh": "帮您放一起吗？",
+        "py": "Bāng nín fàng yìqǐ ma?",
+        "en": "Shall I put them together?"
       }
     ]
   },
@@ -1458,6 +1698,54 @@
         "zh": "怎么了？",
         "py": "Zěnme le?",
         "en": "What is it?"
+      }
+    ]
+  },
+  "51": {
+    "when": [
+      "Ask it when the menu is long, the characters are unfamiliar and you would rather trust the server than guess.",
+      "推荐 means to recommend, and in a busy restaurant the answer is usually one or two dishes the kitchen is known for, not a tour of the whole menu."
+    ],
+    "variants": [
+      {
+        "zh": "招牌菜是什么？",
+        "py": "Zhāopái cài shì shénme?",
+        "en": "What is the signature dish?",
+        "note": "招牌 is the shop's signboard — 招牌菜 is literally the dish they hang their name on."
+      },
+      {
+        "zh": "有特色菜吗？",
+        "py": "Yǒu tèsè cài ma?",
+        "en": "Any local specialties?",
+        "note": "特色 highlights what is distinctive about this kitchen, often what is local to the region."
+      },
+      {
+        "zh": "哪个点的人最多？",
+        "py": "Nǎge diǎn de rén zuì duō?",
+        "en": "Which gets ordered the most?",
+        "note": "The best-seller question — crowd wisdom instead of one person's taste, and the easiest for a busy server to answer."
+      }
+    ],
+    "mistakes": [
+      "推荐 is not only about food — hotels, apps and walking routes all take it, so the pattern 有什么推荐 works again the next day at the hotel desk.",
+      "“What's good here” maps to two different questions — 哪个最好卖 (which sells best) and 什么最好吃 (which tastes best) — and the honest answers can differ.",
+      "If the recommendation is expensive, the server will usually say so outright; following up with 有便宜一点的吗 is a normal question in China, not an insult to the kitchen."
+    ],
+    "replies": [
+      {
+        "zh": "我们的招牌是红烧肉。",
+        "py": "Wǒmen de zhāopái shì hóngshāoròu.",
+        "en": "Our signature is red-braised pork."
+      },
+      {
+        "zh": "这个点的人最多。",
+        "py": "Zhège diǎn de rén zuì duō.",
+        "en": "This one gets ordered the most."
+      },
+      {
+        "zh": "今天的鱼很新鲜。",
+        "py": "Jīntiān de yú hěn xīnxiān.",
+        "en": "Today's fish is very fresh."
       }
     ]
   },
@@ -2492,6 +2780,54 @@
       }
     ]
   },
+  "86": {
+    "when": [
+      "Say it while showing someone the Chinese name of your hotel on your phone — names and pictures get you found far faster than any spoken description.",
+      "迷路 means to lose your way, and 了 marks the change of state: you were fine a moment ago, and now you are lost."
+    ],
+    "variants": [
+      {
+        "zh": "我走丢了。",
+        "py": "Wǒ zǒudiū le.",
+        "en": "I got separated and lost.",
+        "note": "走丢 is the everyday word for someone who drifted away from their group — also what parents shout about children in a crowd."
+      },
+      {
+        "zh": "我要回酒店。",
+        "py": "Wǒ yào huí jiǔdiàn.",
+        "en": "I want to go back to my hotel.",
+        "note": "Swap in your hotel's name — 我要回香格里拉 works the same way and names the destination in one go."
+      },
+      {
+        "zh": "这是哪里？",
+        "py": "Zhè shì nǎlǐ?",
+        "en": "Where is this?",
+        "note": "Point at the ground under your feet — it makes any local open their map app for you."
+      }
+    ],
+    "mistakes": [
+      "迷路 means you yourself are lost; 找不到 means you cannot find something you are looking for. You 迷路 on the street, but you 找不到 your hotel entrance even on a street you know.",
+      "Street names in China often change along one road, and building numbers restart at each crossing — directions by address numbers fail fast, so landmarks and shop-front photos beat any verbal description.",
+      "For a companion missing in a crowd, use 走丢 too: 我朋友走丢了 (my friend got lost) is understood instantly at any information desk — and loud enough to gather help."
+    ],
+    "replies": [
+      {
+        "zh": "别急，我帮您看看。",
+        "py": "Bié jí, wǒ bāng nín kànkan.",
+        "en": "Don't worry, let me take a look."
+      },
+      {
+        "zh": "您要去哪个酒店？",
+        "py": "Nín yào qù nǎge jiǔdiàn?",
+        "en": "Which hotel are you going to?"
+      },
+      {
+        "zh": "前面路口右转就到了。",
+        "py": "Qiánmiàn lùkǒu yòu zhuǎn jiù dào le.",
+        "en": "Turn right at the crossing ahead and you are there."
+      }
+    ]
+  },
   "87": {
     "when": [
       "When you need care yourself and can still move: a fever that will not break, a sprained ankle, a cut that needs stitches.",
@@ -2537,6 +2873,54 @@
         "zh": "就在这条街上。",
         "py": "Jiù zài zhè tiáo jiē shàng.",
         "en": "It is on this street."
+      }
+    ]
+  },
+  "88": {
+    "when": [
+      "Say it at a hotel front desk or to anyone nearby when you feel unwell and need medical help rather than a pharmacy.",
+      "Chinese hospitals usually take a sudden illness straight into 急诊 (the emergency department), instead of asking you to book a clinic appointment first."
+    ],
+    "variants": [
+      {
+        "zh": "我要挂号。",
+        "py": "Wǒ yào guàhào.",
+        "en": "I need to register.",
+        "note": "挂号 is the first step of every hospital visit — pay a small fee, get a number, then wait to be called."
+      },
+      {
+        "zh": "这里有诊所吗？",
+        "py": "Zhèlǐ yǒu zhěnsuǒ ma?",
+        "en": "Is there a clinic here?",
+        "note": "A 诊所 handles small problems; a 医院 handles everything else."
+      },
+      {
+        "zh": "我拉肚子了。",
+        "py": "Wǒ lā dùzi le.",
+        "en": "I have diarrhea.",
+        "note": "The traveler's most common complaint, and the colloquial 拉肚子 is exactly what triage staff expect to hear."
+      }
+    ],
+    "mistakes": [
+      "The patient 看医生 (sees the doctor) and the doctor 看病 (sees the illness) — the same 看 points both ways, and 我看病 said by a patient is understood as the same thing.",
+      "Registering (挂号) is not optional — skip the window and there is no number, and without a number no doctor will call you, however empty the waiting room looks.",
+      "A pharmacy (药店) is often the faster stop for minor problems, because pharmacists there recommend and sell medicine directly — more street corners have one than have a clinic."
+    ],
+    "replies": [
+      {
+        "zh": "急诊在一楼。",
+        "py": "Jízhěn zài yì lóu.",
+        "en": "The emergency department is on the first floor."
+      },
+      {
+        "zh": "先去那边挂号。",
+        "py": "Xiān qù nàbiān guàhào.",
+        "en": "Go and register over there first."
+      },
+      {
+        "zh": "哪里不舒服？",
+        "py": "Nǎlǐ bù shūfu?",
+        "en": "Where do you feel unwell?"
       }
     ]
   },
