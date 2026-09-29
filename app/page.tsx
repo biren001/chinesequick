@@ -61,6 +61,20 @@ export default function HomePage() {
         </Link>
       </section>
 
+      <section className="mt-8 rounded-2xl border border-line bg-card p-5">
+        <h2 className="text-base font-medium text-ink">Learn Chinese in 7 days</h2>
+        <p className="mt-1.5 text-sm text-muted">
+          A free course: 15 phrases a day with audio, ordered the way a trip unfolds — from hello
+          and thank you to taxis, hotels and emergencies.
+        </p>
+        <Link
+          href="/7-day-chinese-course"
+          className="mt-4 inline-block w-full rounded-xl bg-accent px-5 py-3 text-center text-base font-medium text-white transition hover:opacity-90 active:scale-[0.98]"
+        >
+          Start the free 7-day course
+        </Link>
+      </section>
+
       <section className="mt-8">
         <h2 className="mb-3 text-sm font-medium tracking-wide text-muted uppercase">
           Pick a situation

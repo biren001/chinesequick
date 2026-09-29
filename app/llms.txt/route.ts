@@ -23,6 +23,7 @@ export function GET() {
     "",
     "## Trip preparation",
     "",
+    `- [Learn Chinese in 7 days](${SITE_URL}/7-day-chinese-course/): a free course — 15 phrases a day built from this site's ${PHRASES.length} phrases, ordered the way a trip unfolds from greetings to emergencies.`,
     `- [China travel checklist](${SITE_URL}/china-travel-checklist/): ${CHECKLIST_TOTAL} things to prepare before a trip to China — passport and entry rules, payments, data, and which phrases to learn first.`,
     `- [Chinese numbers](${SITE_URL}/chinese-numbers/): how to count from 0 to 10,000 — ${NUMBERS.length} number sounds with audio, how ${numbersBySection("building").map((n) => n.zh).join("/")} are built, and how prices are read out in 块.`,
     `- [Emergency card](${SITE_URL}/emergency-card/): the 110/120/119/122 numbers, six help phrases with audio, and a fill-in card with blood type, allergies and emergency contact — printable, saved on the visitor's own device.`,

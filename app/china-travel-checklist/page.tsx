@@ -127,10 +127,10 @@ export default function ChinaTravelChecklistPage() {
           Start with the phrases you&apos;ll use on day one
         </p>
         <Link
-          href="/learn/everyday"
+          href="/7-day-chinese-course"
           className="mt-3 inline-block w-full rounded-xl bg-accent px-5 py-3 text-base font-medium text-white transition hover:opacity-90 active:scale-[0.98]"
         >
-          Learn the everyday phrases
+          Start the free 7-day course
         </Link>
       </div>
 

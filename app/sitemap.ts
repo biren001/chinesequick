@@ -23,6 +23,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: "/china-travel-checklist", priority: 0.9, changeFrequency: "monthly" },
     { url: "/chinese-numbers", priority: 0.9, changeFrequency: "monthly" },
     { url: "/scenarios", priority: 0.9, changeFrequency: "monthly" },
+    { url: "/7-day-chinese-course", priority: 0.9, changeFrequency: "monthly" },
     { url: "/emergency-card", priority: 0.8, changeFrequency: "monthly" },
     { url: "/address-card", priority: 0.8, changeFrequency: "monthly" },
     ...SCENARIOS.map((s) => ({

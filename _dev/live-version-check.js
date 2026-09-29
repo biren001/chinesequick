@@ -260,6 +260,9 @@ const SENTINELS = [
   // 行程卡（新页面类型）：needle 都先从产物现抄，且必须全站唯一。
   { label: "行程卡：紧急卡（四个号码）", needle: "nobody constructs sentences" },
   { label: "行程卡：地址卡（先出示再说）", needle: "that is the whole protocol" },
+  // 7 天课（新页面类型）：Day 1 的 H2 标题只出现在课程页；首页/清单页的入口文案
+  // 刻意避开这个串，保证这条哨兵「课程内容没上线 → 必假」。
+  { label: "7 天课（Day 1 标题）", needle: "Say hello, thank you, sorry" },
 ];
 
 /* ---------------- 哨兵体检：按【全部本地页】统计，不联网 ---------------- */
@@ -409,6 +412,8 @@ const MUST = [
   // 这两页也是最需要离线可用的入口 → 常驻必检。
   "/emergency-card/",
   "/address-card/",
+  // 7 天课（新页面类型）：Day 1 标题只在课程页出现 → 当哨兵用，见 SENTINELS。
+  "/7-day-chinese-course/",
 ];
 
 /* MUST 里对不上任何本地页的路径。非空 = 「必检」这个承诺已经被悄悄打折，必须当失败处理。 */
