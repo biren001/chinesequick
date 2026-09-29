@@ -3,6 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 import FeedbackFooter from "@/components/FeedbackFooter";
 import { RememberPlace } from "@/components/LastPlace";
+import SiteControls from "@/components/SiteControls";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/site";
 import { buildId } from "@/lib/build";
 
@@ -83,8 +84,16 @@ export default function RootLayout({
     // 当「线上是哪一份」的断言用 —— 比逐页比对快得多，落到人工一眼也能核对。
     <html lang="en" translate="no" data-build={buildId()}>
       <body className="min-h-dvh antialiased">
+        {/* 字号防闪烁：必须在任何内容绘制前同步执行。与 SiteControls 的写入格式保持一致
+            （只认 115/130 两个白名单值，其余一律当默认 100）。脚本失败不影响任何功能。 */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{var s=localStorage.getItem('rlc-fontscale-v1');if(s==='115'||s==='130'){document.documentElement.classList.add('fs-'+s)}}catch(e){}`,
+          }}
+        />
         {children}
         <RememberPlace />
+        <SiteControls />
         <FeedbackFooter />
       </body>
       {/* 离线支持：注册 /sw.js。注册失败不影响任何功能。 */}

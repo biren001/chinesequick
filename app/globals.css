@@ -21,6 +21,16 @@ html {
   -webkit-tap-highlight-color: transparent;
 }
 
+/* 用户手动放大字号（components/SiteControls.tsx 持久化，layout 内联脚本首屏前挂类防闪烁）。
+   Tailwind 全站用 rem，改根字号 = 所有文字/间距整体缩放；115%≈18px、130%≈21px 正文。 */
+html.fs-115 {
+  font-size: 115%;
+}
+
+html.fs-130 {
+  font-size: 130%;
+}
+
 body {
   background-color: var(--color-paper);
   color: var(--color-ink);
