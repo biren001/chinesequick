@@ -12,7 +12,7 @@
   ],
   "jsonldErrors": [],
   "titleLen": 55,
-  "textLen": 2032
+  "textLen": 2333
  },
  "phrase": {
   "canonical": "https://chinesequick.com/how-to-say-thank-you-in-chinese/",
@@ -25,7 +25,7 @@
    "FAQPage"
   ],
   "jsonldErrors": [],
-  "textLen": 2416,
+  "textLen": 2425,
   "hasWordTable": false,
   "hasFaq": true,
   "h2Count": 6,
@@ -39,8 +39,8 @@
    "ItemList"
   ],
   "jsonldErrors": [],
-  "textLen": 1652,
-  "itemCount": 14
+  "textLen": 1741,
+  "itemCount": 15
  },
  "learn": {
   "canonical": "https://chinesequick.com/learn/restaurant/",
@@ -51,7 +51,7 @@
   "jsonldErrors": []
  },
  "sitemap": {
-  "total": 135,
+  "total": 148,
   "allHttps": true,
   "allTrailingSlash": true,
   "noNoindexPage": true,
@@ -74,19 +74,19 @@
   ],
   "jsonldErrors": [],
   "faqCount": 5,
-  "textLen": 8915,
+  "textLen": 9002,
   "checkboxes": 17,
   "externalSources": 3,
   "lastCheckedShown": true,
   "stagesShown": 3,
   "topicLabelsShown": 3,
-  "internalLinks": 17
+  "internalLinks": 16
  },
  "robots": "User-Agent: Googlebot\nUser-Agent: Bingbot\nUser-Agent: DuckDuckBot\nUser-Agent: Applebot\nUser-Agent: OAI-SearchBot\nUser-Agent: ChatGPT-User\nUser-Agent: Claude-SearchBot\nUser-Agent: Claude-User\nUser-Agent: PerplexityBot\nUser-Agent: Amazonbot\nUser-Agent: meta-externalfetcher\nAllow: /\n\nUser-Agent: GPTBot\nUser-Agent: ClaudeBot\nUser-Agent: CCBot\nUser-Agent: Google-Extended\nUser-Agent: Applebot-Extended\nUser-Agent: meta-externalagent\nUser-Agent: Bytespider\nAllow: /\n\nUser-Agent: *\nAllow: /\n\nSitemap: https://chinesequick.com/sitemap.xml\n",
  "robotsUaCount": 19,
  "files": {
   "llms": true,
-  "llmsHead": "# ChineseQuick\n\n> Get by in China — real phrases, audio and trip prep. 105 free Mandarin Chinese phrases for travel, food, shopping, hotels, everyday conversati",
+  "llmsHead": "# ChineseQuick\n\n> Get by in China — real phrases, audio and trip prep. 115 free Mandarin Chinese phrases for travel, food, shopping, hotels, everyday conversati",
   "og": true,
   "ogSize": 60425,
   "icon": true,
@@ -95,8 +95,8 @@
   "thankYouNoindex": "noindex, nofollow"
  },
  "allPages": {
-  "pages": 144,
-  "jsonldBlocks": 131,
+  "pages": 157,
+  "jsonldBlocks": 144,
   "pagesWithBadJson": 0,
   "badList": [],
   "noTranslateMissing": []
@@ -126,14 +126,14 @@
   "titleLen": 44,
   "descLen": 112,
   "jsonldErrors": [],
-  "audioRefs": 11
+  "audioRefs": 13
  },
  "punctuation": {
   "doublePeriodFiles": 0,
   "doublePeriodList": []
  },
  "grammar": {
-  "articleChecked": 105,
+  "articleChecked": 115,
   "articleWrong": 0,
   "articleWrongList": []
  },

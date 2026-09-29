@@ -1,13 +1,13 @@
 {
-  "htmlFiles": 144,
-  "occurrences": 105,
-  "pagesWithFaqSentence": 105,
+  "htmlFiles": 157,
+  "occurrences": 115,
+  "pagesWithFaqSentence": 115,
   "variants": {
-    "a hotel": 10,
+    "a hotel": 13,
     "a shopping": 13,
-    "a restaurant": 14,
-    "a money": 11,
-    "a travel": 14,
+    "a restaurant": 15,
+    "a money": 13,
+    "a travel": 18,
     "an everyday": 30,
     "an emergency": 13
   },

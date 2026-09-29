@@ -1,11 +1,11 @@
 {
  "exit": 0,
- "size": 5701778,
- "count": 148,
+ "size": 6347101,
+ "count": 162,
  "precache": {
-  "audio": 401,
-  "assets": 41,
-  "pages": 22
+  "audio": 434,
+  "assets": 44,
+  "pages": 25
  },
  "stderr": ""
 }
