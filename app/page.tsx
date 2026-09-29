@@ -77,7 +77,7 @@ export default function HomePage() {
       <section className="mt-8 rounded-2xl border border-line bg-card p-5">
         <h2 className="text-base font-medium text-ink">Learn Chinese in 7 days</h2>
         <p className="mt-1.5 text-sm text-muted">
-          A free course: 15 phrases a day with audio, ordered the way a trip unfolds — from hello
+          A free course: about 15 phrases a day with audio, ordered the way a trip unfolds — from hello
           and thank you to taxis, hotels and emergencies.
         </p>
         <Link

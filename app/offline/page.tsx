@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CATEGORIES } from "@/lib/categories";
+import { PHRASES } from "@/lib/phrases";
 
 // 这是「断网兜底页」：Service Worker 在离线且页面没有缓存时，会把它返回给用户，
 // 而不是返回首页内容（那样 URL 与内容对不上，用户会以为页面坏了）。
@@ -28,7 +29,7 @@ export default function OfflinePage() {
         <ul className="mt-3 space-y-2.5 text-sm text-muted">
           <li>
             <Link className="text-accent underline-offset-4 hover:underline" href="/">
-              All 105 phrases
+              All {PHRASES.length} phrases
             </Link>{" "}
             — search by English, pinyin or Chinese
           </li>

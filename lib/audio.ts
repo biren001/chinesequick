@@ -108,6 +108,16 @@ export const phraseAudio: Record<string, string> = {
   "103": "/audio/103.mp3",
   "104": "/audio/104.mp3",
   "105": "/audio/105.mp3",
+  "106": "/audio/106.mp3",
+  "107": "/audio/107.mp3",
+  "108": "/audio/108.mp3",
+  "109": "/audio/109.mp3",
+  "110": "/audio/110.mp3",
+  "111": "/audio/111.mp3",
+  "112": "/audio/112.mp3",
+  "113": "/audio/113.mp3",
+  "114": "/audio/114.mp3",
+  "115": "/audio/115.mp3",
 };
 
 export const slowAudio: Record<string, string> = {
@@ -216,6 +226,16 @@ export const slowAudio: Record<string, string> = {
   "103": "/audio/slow/103.mp3",
   "104": "/audio/slow/104.mp3",
   "105": "/audio/slow/105.mp3",
+  "106": "/audio/slow/106.mp3",
+  "107": "/audio/slow/107.mp3",
+  "108": "/audio/slow/108.mp3",
+  "109": "/audio/slow/109.mp3",
+  "110": "/audio/slow/110.mp3",
+  "111": "/audio/slow/111.mp3",
+  "112": "/audio/slow/112.mp3",
+  "113": "/audio/slow/113.mp3",
+  "114": "/audio/slow/114.mp3",
+  "115": "/audio/slow/115.mp3",
 };
 
 export const wordAudio: Record<string, string> = {
@@ -386,6 +406,19 @@ export const wordAudio: Record<string, string> = {
   "发票": "/audio/words/fapiao.mp3",
   "成功": "/audio/words/chenggong.mp3",
   "卡": "/audio/words/ka.mp3",
+  "海鲜": "/audio/words/haixian.mp3",
+  "地铁": "/audio/words/ditie.mp3",
+  "站": "/audio/words/zhan.mp3",
+  "在这里": "/audio/words/zaizheli.mp3",
+  "停车": "/audio/words/tingche.mp3",
+  "关门": "/audio/words/guanmen.mp3",
+  "这里": "/audio/words/zheli.mp3",
+  "拍照": "/audio/words/paizhao.mp3",
+  "密码": "/audio/words/mima.mp3",
+  "晚点": "/audio/words/wandian.mp3",
+  "吵": "/audio/words/chao.mp3",
+  "换": "/audio/words/huan.mp3",
+  "汇率": "/audio/words/huilu.mp3",
 };
 
 export const numberAudio: Record<string, string> = {

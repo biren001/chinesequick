@@ -3,12 +3,11 @@ import { PHRASES } from "./phrases";
 /**
  * 「7 天旅行中文课」。
  *
- * 定位：把站上已有的 105 条短语按一次旅行的自然顺序排成 7 天课程，
- * **零新短语、零新音频** —— 每条都链到它自己的单句页（音频、逐词表、深化内容全复用）。
+ * 定位：把站上所有短语按一次旅行的自然顺序排成 7 天课程，
+ * **零新音频** —— 每条都链到它自己的单句页（音频、逐词表、深化内容全复用）。
  * 课程页本身卖的是"顺序"和"每天的推进感"，不是新内容。
  *
- * 105 ÷ 7 = 每天正好 15 条。下面 dayToDay 的分配刻意让总数精确成立，
- * 所以构建期自检（文件底部）会同时抓住"漏了某条"和"某条出现两次"。
+ * 新短语按主题归入对应的天（每天 15–18 条浮动，构建期自检抓漏抓重）。
  */
 export const COURSE_PATH = "/7-day-chinese-course";
 
@@ -60,7 +59,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Restaurants are where you will use Chinese most. Menus may have no photos, staff may have no English, and pointing alone will not get you less spicy or no meat. After today you can order, ask what is good, and pay for the meal.",
     mission:
       "Order one dish end to end: point at the menu, say 我要这个，and finish with 买单。",
-    ids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 51, 52, 53, 54, 99],
+    ids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 51, 52, 53, 54, 99, 106],
   },
   {
     day: 4,
@@ -71,7 +70,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Drivers and station staff often speak no English at all, which makes this the day that saves the most walking. The address card on this site plus 请带我去这个地址 handles the destination; the rest of today's phrases handle tickets, timing and directions.",
     mission:
       "Take one taxi or train using Chinese only — show the address, ask 多久能到？and pay with 不用找了。",
-    ids: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 55, 56, 57, 58, 102],
+    ids: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 55, 56, 57, 58, 102, 107, 108, 110],
   },
   {
     day: 5,
@@ -82,7 +81,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Hotels are also where mobile payments stop being optional: front desks, breakfast vouchers and luggage storage all move faster when you can ask for Alipay or WeChat Pay by name. Today ends with you checking in, sorting a room problem, and paying without opening your wallet for cash.",
     mission:
       "Check in by saying 我要入住 and 我订了房间，then pay once with 可以用支付宝吗？",
-    ids: [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 95, 96, 97, 98, 103],
+    ids: [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 95, 96, 97, 98, 103, 111, 112, 113],
   },
   {
     day: 6,
@@ -93,7 +92,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Markets and small shops run on two sentences: 这个多少钱 and 可以便宜一点吗。Everything else today is about getting the right size, the right color, and not buying the first thing you touch. Browse politely with 我随便看看 — sellers genuinely back off when you say it.",
     mission:
       "Buy something small: ask the price, try it on, and ask 可以便宜一点吗？ once. The worst case is a smile and a no.",
-    ids: [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 59, 60, 61, 100, 101],
+    ids: [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 59, 60, 61, 100, 101, 109, 114, 115],
   },
   {
     day: 7,
@@ -117,8 +116,10 @@ export function getCourseDayPhrases(ids: number[]) {
 }
 
 /* ---------------- 构建期自检 ---------------- */
-// 课程承诺的是「7 天 × 15 条 = 全站 105 条，一条不多一条不少」。
+// 课程承诺的是「7 天覆盖全站所有短语，一条不多一条不少」。
 // 增删短语时这里会立刻报错，而不是让课程页悄悄漏掉一条或重复一条。
+// 每天条数不强制均分（新词按主题归入对应天，天数会在 15–18 之间浮动），
+// 但每天不得低于 15 条 —— 低于它说明分堆失衡，课程节奏会垮。
 {
   const flat = COURSE_DAYS.flatMap((d) => d.ids);
   const seen = new Set<number>();
@@ -137,11 +138,11 @@ export function getCourseDayPhrases(ids: number[]) {
   }
   if (flat.length !== PHRASES.length) {
     throw new Error(
-      `7 天课条数 ${flat.length} ≠ 短语总数 ${PHRASES.length} —— 每天条数或分组需要重新平衡`
+      `7 天课条数 ${flat.length} ≠ 短语总数 ${PHRASES.length} —— 需要把新短语归入对应的天`
     );
   }
-  const badDay = COURSE_DAYS.find((d) => d.ids.length !== flat.length / COURSE_DAYS.length);
-  if (badDay) {
-    throw new Error(`Day ${badDay.day} 条数不是每天均分值（${flat.length / COURSE_DAYS.length} 条）`);
+  const thinDay = COURSE_DAYS.find((d) => d.ids.length < 15);
+  if (thinDay) {
+    throw new Error(`Day ${thinDay.day} 只有 ${thinDay.ids.length} 条 —— 每天至少 15 条`);
   }
 }

@@ -10,16 +10,16 @@ import { PHRASES } from "@/lib/phrases";
 import { phrasePath, phraseSlug } from "@/lib/slug";
 
 const TITLE = "Learn Chinese in 7 Days — Free Travel Course";
-const DESCRIPTION = `A free 7-day Chinese course for your trip: 15 practical phrases a day with pinyin and audio, ordered the way a trip unfolds — greetings, food, taxis, hotels, shopping and emergencies.`;
+const DESCRIPTION = `A free 7-day Chinese course for your trip: about 15 practical phrases a day with pinyin and audio, ordered the way a trip unfolds — greetings, food, taxis, hotels, shopping and emergencies.`;
 
 const FAQ = [
   {
     q: "Can you really learn Chinese in 7 days?",
-    a: "You will not be fluent in a week — nobody is. What seven days can do is put the right 105 phrases in your mouth, ordered the way a trip actually unfolds. That covers the situations where you cannot fall back on English: taxis, small restaurants, market stalls, pharmacy counters and emergencies. Every phrase here has been chosen because travelers use it more than once a day.",
+    a: "You will not be fluent in a week — nobody is. What seven days can do is put the right " + PHRASES.length + " phrases in your mouth, ordered the way a trip actually unfolds. That covers the situations where you cannot fall back on English: taxis, small restaurants, market stalls, pharmacy counters and emergencies. Every phrase here has been chosen because travelers use it more than once a day.",
   },
   {
     q: "How much time does each day take?",
-    a: "About 20 to 30 minutes. Fifteen phrases, each with audio you can replay three times with one tap, plus one short mission that makes you use the day's phrases out loud. The mission matters more than the minutes: a phrase you have said once sticks far better than one you have only heard.",
+    a: "About 20 to 30 minutes. Around fifteen phrases a day, each with audio you can replay three times with one tap, plus one short mission that makes you use the day's phrases out loud. The mission matters more than the minutes: a phrase you have said once sticks far better than one you have only heard.",
   },
   {
     q: "Do I need to learn Chinese characters or tones?",
@@ -88,7 +88,7 @@ export default function SevenDayCoursePage() {
           Learn Chinese in 7 days: the free travel course
         </h1>
         <p className="mt-3 text-base text-muted">
-          Fifteen phrases a day, about twenty minutes, and no sign-up. The course walks through
+          Around fifteen phrases a day, about twenty minutes, and no sign-up. The course walks through
           this site&apos;s {PHRASES.length} phrases in the order a trip unfolds — hello and thank
           you first, restaurants and taxis in the middle, emergencies last. Every phrase plays real
           audio and links to a full page with pinyin, word-by-word notes and common mistakes.

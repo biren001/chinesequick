@@ -3838,5 +3838,455 @@
       }
     ]
   },
+  "106": {
+    "when": [
+      "You are ordering at a restaurant and want to rule out seafood in every dish — stir-fries, soups and dumplings all hide shrimp or shellfish in them.",
+      "It matters even more if your reaction is severe, and in that case follow it with 我对海鲜过敏 so the kitchen treats it as an allergy, not a taste."
+    ],
+    "variants": [
+      {
+        "zh": "海鲜我不吃。",
+        "py": "Hǎixiān wǒ bù chī.",
+        "en": "Seafood — I don't eat it."
+      },
+      {
+        "zh": "我对海鲜过敏。",
+        "py": "Wǒ duì hǎixiān guòmǐn.",
+        "en": "I'm allergic to seafood."
+      },
+      {
+        "zh": "别放海鲜。",
+        "py": "Bié fàng hǎixiān.",
+        "en": "Don't put any seafood in it."
+      }
+    ],
+    "mistakes": [
+      "Saying 不要辣 instead — that only covers chili heat, and a seafood-heavy dish with no spice at all will still land you in trouble.",
+      "Assuming broth is safe. Dried shrimp and seafood stock show up in vegetable dishes, so name the rule rather than pointing at the obvious dishes.",
+      "Whispering the sentence apologetically — kitchen staff need a clear rule, so say it at normal volume and repeat it once when the dish arrives."
+    ],
+    "replies": [
+      {
+        "zh": "好的，这个没有海鲜。",
+        "py": "Hǎo de, zhège méiyǒu hǎixiān.",
+        "en": "Sure, this dish has no seafood."
+      },
+      {
+        "zh": "这个里面有虾。",
+        "py": "Zhège lǐmiàn yǒu xiā.",
+        "en": "This one has shrimp in it."
+      },
+      {
+        "zh": "那你点这个吧。",
+        "py": "Nà nǐ diǎn zhège ba.",
+        "en": "Then order this one instead."
+      }
+    ]
+  },
+  "107": {
+    "when": [
+      "You have stepped out of a station or hotel and want the metro instead of a taxi — in big cities the metro is faster than sitting in traffic at rush hour.",
+      "It works just as well for other transport hubs: swap 地铁站 for 汽车站 or 码头 and the sentence does not change shape."
+    ],
+    "variants": [
+      {
+        "zh": "最近的地铁站在哪儿？",
+        "py": "Zuìjìn de dìtiě zhàn zài nǎr?",
+        "en": "Where is the nearest metro station?"
+      },
+      {
+        "zh": "地铁口怎么走？",
+        "py": "Dìtiě kǒu zěnme zǒu?",
+        "en": "How do I get to the metro entrance?"
+      },
+      {
+        "zh": "这附近有地铁吗？",
+        "py": "Zhè fùjìn yǒu dìtiě ma?",
+        "en": "Is there a metro around here?"
+      }
+    ],
+    "mistakes": [
+      "Dropping 站 and asking where the metro is — people will answer with the line name, not the entrance you can actually walk to.",
+      "Trusting the English signage all the way: exits are numbered in Chinese and pinyin only, so screenshot the exit letter your map app gives you.",
+      "Saving the question for lost moments only: asking at the hotel before you head out gets you a walking route instead of a rescue mission."
+    ],
+    "replies": [
+      {
+        "zh": "往前走，红绿灯右转。",
+        "py": "Wǎng qián zǒu, hónglǜdēng yòu zhuǎn.",
+        "en": "Go straight ahead, turn right at the lights."
+      },
+      {
+        "zh": "就在前面，大概五分钟。",
+        "py": "Jiù zài qiánmiàn, dàgài wǔ fēnzhōng.",
+        "en": "It's just ahead, about five minutes."
+      },
+      {
+        "zh": "我带你去。",
+        "py": "Wǒ dài nǐ qù.",
+        "en": "I'll show you the way."
+      }
+    ]
+  },
+  "108": {
+    "when": [
+      "You have reached the corner, gate or curb where the ride actually ends — drivers often keep going past the obvious spot out of habit.",
+      "It also stops the awkward meter run-up: say it with 前面 (further ahead) if traffic makes pulling over right away difficult."
+    ],
+    "variants": [
+      {
+        "zh": "师傅，就在这儿停吧。",
+        "py": "Shīfu, jiù zài zhèr tíng ba.",
+        "en": "Driver, just stop here."
+      },
+      {
+        "zh": "前面路口停。",
+        "py": "Qiánmiàn lùkǒu tíng.",
+        "en": "Stop at the intersection ahead."
+      },
+      {
+        "zh": "靠边停一下。",
+        "py": "Kào biān tíng yíxià.",
+        "en": "Pull over to the side, please."
+      }
+    ],
+    "mistakes": [
+      "Shouting the destination name again instead — the driver hears a place, not an instruction, and keeps driving while looking for it.",
+      "Arguing about the drop-off point after the meter stops: the fix is to say where to stop before the ride ends, not to renegotiate afterwards.",
+      "Waiting for the driver to notice the spot — from the road he cannot see the small alley you mean, so give the instruction before the landmark passes."
+    ],
+    "replies": [
+      {
+        "zh": "好，这儿能停。",
+        "py": "Hǎo, zhèr néng tíng.",
+        "en": "OK, we can stop here."
+      },
+      {
+        "zh": "这里不让停。",
+        "py": "Zhèlǐ bù ràng tíng.",
+        "en": "Stopping's not allowed here."
+      },
+      {
+        "zh": "再往前一点吧。",
+        "py": "Zài wǎng qián yìdiǎn ba.",
+        "en": "Let's go a bit further ahead."
+      }
+    ]
+  },
+  "109": {
+    "when": [
+      "You are at the door of a museum, shop or scenic area and deciding whether to go in now or come back later.",
+      "Ticket offices at smaller sights often stop selling an hour before the site closes, so ask this before you queue — the same sentence with 开门 asks about opening."
+    ],
+    "variants": [
+      {
+        "zh": "几点开门？",
+        "py": "Jǐ diǎn kāimén?",
+        "en": "What time does it open?"
+      },
+      {
+        "zh": "今天开到几点？",
+        "py": "Jīntiān kāi dào jǐ diǎn?",
+        "en": "How late are you open today?"
+      },
+      {
+        "zh": "现在还进得去吗？",
+        "py": "Xiànzài hái jìn de qù ma?",
+        "en": "Can I still go in now?"
+      }
+    ],
+    "mistakes": [
+      "Reading closing times from a search result — holiday schedules change weekly at popular sights, and the ticket booth sign is the only truth.",
+      "Asking 关门吗 at the door — it sounds like you already assume the answer is no, and staff will just nod at you.",
+      "Pointing the question at a train station — stations stay open all day while the ticket windows shut, so aim it at sights and shops."
+    ],
+    "replies": [
+      {
+        "zh": "五点关门。",
+        "py": "Wǔ diǎn guānmén.",
+        "en": "We close at five."
+      },
+      {
+        "zh": "七点半就关门了。",
+        "py": "Qī diǎn bàn jiù guānmén le.",
+        "en": "We close as early as seven thirty."
+      },
+      {
+        "zh": "今天不关门。",
+        "py": "Jīntiān bù guānmén.",
+        "en": "We're open all day today."
+      }
+    ]
+  },
+  "110": {
+    "when": [
+      "You are about to raise your phone in a temple, museum or border area where photography rules are stricter than they look.",
+      "Asking also works in your favour at markets and with street performers — many will pose happily or wave you closer once you have been polite."
+    ],
+    "variants": [
+      {
+        "zh": "可以拍照吗？",
+        "py": "Kěyǐ pāizhào ma?",
+        "en": "Is it OK to take photos?"
+      },
+      {
+        "zh": "这里不让拍照吧？",
+        "py": "Zhèlǐ bù ràng pāizhào ba?",
+        "en": "No photos allowed here, right?"
+      },
+      {
+        "zh": "我能跟你合影吗？",
+        "py": "Wǒ néng gēn nǐ héyǐng ma?",
+        "en": "Can I take a photo with you?"
+      }
+    ],
+    "mistakes": [
+      "Mixing this up with the fitting-room sentence 我可以试试吗 — that one is for trying on clothes, and swapping them gets a puzzled laugh.",
+      "Shooting first at performances: the polite move is to ask, and to put the phone down immediately if someone waves you off.",
+      "Assuming one no covers the whole building — many places allow photos outside but never inside the main hall, so ask again at each threshold."
+    ],
+    "replies": [
+      {
+        "zh": "可以拍。",
+        "py": "Kěyǐ pāi.",
+        "en": "Yes, you can take photos."
+      },
+      {
+        "zh": "里面不让拍。",
+        "py": "Lǐmiàn bù ràng pāi.",
+        "en": "No photos inside."
+      },
+      {
+        "zh": "别用闪光灯。",
+        "py": "Bié yòng shǎnguāngdēng.",
+        "en": "No flash, please."
+      }
+    ]
+  },
+  "111": {
+    "when": [
+      "You have just checked in and the network card in the room is missing — the front desk keeps the password behind the counter and will read it out.",
+      "If the code is a long string of capitals and digits, follow up with 请写下来 and they will scribble it on the room card sleeve for you."
+    ],
+    "variants": [
+      {
+        "zh": "Wi-Fi 密码多少？",
+        "py": "Wi-Fi mìmǎ duōshao?",
+        "en": "What's the Wi-Fi password?"
+      },
+      {
+        "zh": "房间里有网络吗？",
+        "py": "Fángjiān lǐ yǒu wǎngluò ma?",
+        "en": "Is there internet in the room?"
+      },
+      {
+        "zh": "连不上 Wi-Fi。",
+        "py": "Lián bu shàng Wi-Fi.",
+        "en": "I can't connect to the Wi-Fi."
+      }
+    ],
+    "mistakes": [
+      "Pointing at your phone and smiling — staff will start a long explanation in Chinese when one set sentence gets you the code in five seconds.",
+      "Typing the password by ear: most hotel codes are case-sensitive, so ask the staff to type it into your phone directly instead of reading it out.",
+      "Trusting your memory for a 24-character code: even the staff retype it, so keep the card sleeve and take a photo of it as a backup."
+    ],
+    "replies": [
+      {
+        "zh": "密码是大写 A 开头。",
+        "py": "Mìmǎ shì dàxiě A kāitóu.",
+        "en": "The password starts with a capital A."
+      },
+      {
+        "zh": "在房卡套上。",
+        "py": "Zài fángkǎ tào shàng.",
+        "en": "It's on the key-card sleeve."
+      },
+      {
+        "zh": "我帮你连。",
+        "py": "Wǒ bāng nǐ lián.",
+        "en": "I'll connect it for you."
+      }
+    ]
+  },
+  "112": {
+    "when": [
+      "Your flight or train leaves in the evening and a noon checkout would strand you with your bags for hours.",
+      "Ask at the front desk the night before or at breakfast — hotels are far more flexible in the morning than at noon when the queue is forming."
+    ],
+    "variants": [
+      {
+        "zh": "我可以下午两点退房吗？",
+        "py": "Wǒ kěyǐ xiàwǔ liǎng diǎn tuìfáng ma?",
+        "en": "Can I check out at two in the afternoon?"
+      },
+      {
+        "zh": "行李可以寄存到晚上吗？",
+        "py": "Xínglǐ kěyǐ jìcún dào wǎnshang ma?",
+        "en": "Can my luggage stay until the evening?"
+      },
+      {
+        "zh": "晚退房要加钱吗？",
+        "py": "Wǎn tuìfáng yào jiā qián ma?",
+        "en": "Is there a charge for late checkout?"
+      }
+    ],
+    "mistakes": [
+      "Waiting until checkout time to ask — the answer at noon is almost always no, while a morning request often costs nothing at all.",
+      "Assuming late checkout is free everywhere: most hotels charge a half-day rate past a fixed hour, so ask about the fee before agreeing.",
+      "Mixing up late checkout with luggage storage — even when the room must be handed over at noon, bags almost always stay free at the desk."
+    ],
+    "replies": [
+      {
+        "zh": "可以，两点前退房。",
+        "py": "Kěyǐ, liǎng diǎn qián tuìfáng.",
+        "en": "Yes, check out by two."
+      },
+      {
+        "zh": "要加半天房费。",
+        "py": "Yào jiā bàn tiān fángfèi.",
+        "en": "There's a half-day charge."
+      },
+      {
+        "zh": "行李先存前台吧。",
+        "py": "Xínglǐ xiān cún qiántái ba.",
+        "en": "Leave your bags at the front desk first."
+      }
+    ]
+  },
+  "113": {
+    "when": [
+      "You have been kept up by street noise, thin walls or a late-night karaoke bar, and you want the hotel to fix it rather than endure it.",
+      "Front desks move guests before they admit a room is loud, so name the problem plainly and ask for another room in the same conversation."
+    ],
+    "variants": [
+      {
+        "zh": "能给我换个房间吗？",
+        "py": "Néng gěi wǒ huàn ge fángjiān ma?",
+        "en": "Can you move me to another room?"
+      },
+      {
+        "zh": "隔壁太吵了。",
+        "py": "Gébì tài chǎo le.",
+        "en": "The neighbours are too noisy."
+      },
+      {
+        "zh": "有没有安静一点的房间？",
+        "py": "Yǒu méiyǒu ānjìng yìdiǎn de fángjiān?",
+        "en": "Do you have a quieter room?"
+      }
+    ],
+    "mistakes": [
+      "Suffering through the night because you already checked in — Chinese hotels reassign rooms routinely, and asking at ten in the evening still works.",
+      "Explaining the noise in English at the desk: they act on what they can log, so give them the sentence plus your room number.",
+      "Making the request vague (a little noisy) — desks prioritise problems they can log, so name the source and ask for the room change outright."
+    ],
+    "replies": [
+      {
+        "zh": "给您换到八楼。",
+        "py": "Gěi nín huàn dào bā lóu.",
+        "en": "We'll move you to the eighth floor."
+      },
+      {
+        "zh": "现在没有空房了。",
+        "py": "Xiànzài méiyǒu kōngfáng le.",
+        "en": "There are no spare rooms now."
+      },
+      {
+        "zh": "给您送一副耳塞。",
+        "py": "Gěi nín sòng yìfù ěrsāi.",
+        "en": "We'll bring you a pair of earplugs."
+      }
+    ]
+  },
+  "114": {
+    "when": [
+      "You have arrived with cash in dollars, euros or yen and need yuan for the small vendors and taxis that still do not scan QR codes.",
+      "It is also the question for banks and train stations: exchange counters are rarer than they used to be, so asking at your hotel first saves a wild-goose chase."
+    ],
+    "variants": [
+      {
+        "zh": "这附近有银行吗？",
+        "py": "Zhè fùjìn yǒu yínháng ma?",
+        "en": "Is there a bank around here?"
+      },
+      {
+        "zh": "我想换一千块。",
+        "py": "Wǒ xiǎng huàn yìqiān kuài.",
+        "en": "I'd like to change 1,000 yuan."
+      },
+      {
+        "zh": "能用外币吗？",
+        "py": "Néng yòng wàibì ma?",
+        "en": "Do you take foreign currency?"
+      }
+    ],
+    "mistakes": [
+      "Changing money at the airport out of caution — the rates there are the worst in the city, and a small first exchange carries you to a bank.",
+      "Forgetting your passport: cash exchange is real-name registered in China, and no counter will start the process without it.",
+      "Carrying every dollar as cash: once Alipay is set up, cards and QR codes handle nearly everything, and leftover notes mean paying to change them back."
+    ],
+    "replies": [
+      {
+        "zh": "去柜台，在那边。",
+        "py": "Qù guìtái, zài nàbiān.",
+        "en": "Go to the counter, over there."
+      },
+      {
+        "zh": "要护照登记。",
+        "py": "Yào hùzhào dēngjì.",
+        "en": "We need your passport to register it."
+      },
+      {
+        "zh": "今天不收外币。",
+        "py": "Jīntiān bù shōu wàibì.",
+        "en": "We don't take foreign currency today."
+      }
+    ]
+  },
+  "115": {
+    "when": [
+      "You are at a licensed exchange counter and want to sanity-check the rate against your banking app before handing over any cash.",
+      "The same question works for anyone offering to change money privately — a rate noticeably worse than the app's is the signal to walk away."
+    ],
+    "variants": [
+      {
+        "zh": "今天的汇率是多少？",
+        "py": "Jīntiān de huìlǜ shì duōshao?",
+        "en": "What's today's exchange rate?"
+      },
+      {
+        "zh": "有手续费吗？",
+        "py": "Yǒu shǒuxùfèi ma?",
+        "en": "Is there a commission fee?"
+      },
+      {
+        "zh": "按哪个汇率算？",
+        "py": "Àn nǎge huìlǜ suàn?",
+        "en": "Which rate are you using?"
+      }
+    ],
+    "mistakes": [
+      "Comparing against the rate you remember from home — daily moves of one or two percent are normal, so check an app the same morning.",
+      "Ignoring the spread: counters show a buying and a selling rate side by side, and the gap between them is where a bad deal hides.",
+      "Confusing cash and transfer rates — banknotes exchange at the worse of the two, and the gap between them is bigger than most daily moves."
+    ],
+    "replies": [
+      {
+        "zh": "今天是一比七点二。",
+        "py": "Jīntiān shì yì bǐ qī diǎn èr.",
+        "en": "Today it's one to seven point two."
+      },
+      {
+        "zh": "汇率每天变。",
+        "py": "Huìlǜ měitiān biàn.",
+        "en": "The rate changes every day."
+      },
+      {
+        "zh": "收百分之零点五手续费。",
+        "py": "Shōu bǎifēnzhī língdiǎnwǔ shǒuxùfèi.",
+        "en": "There's a half-percent fee."
+      }
+    ]
+  },
   "_comment": "单句页的深度内容块，按 phrase id 挂载。与 phrases.json 分开：这里是编辑素材，会随用户反馈持续增长，而 phrases.json 是手工排版的短语清单，不该被频繁改动。字段定义见 lib/types.ts 的 PhraseDeep。全部可选 —— 没写的 id 按原样渲染。"
 }
