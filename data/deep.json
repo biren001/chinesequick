@@ -4288,5 +4288,455 @@
       }
     ]
   },
-  "_comment": "单句页的深度内容块，按 phrase id 挂载。与 phrases.json 分开：这里是编辑素材，会随用户反馈持续增长，而 phrases.json 是手工排版的短语清单，不该被频繁改动。字段定义见 lib/types.ts 的 PhraseDeep。全部可选 —— 没写的 id 按原样渲染。"
+  "116": {
+    "when": [
+      "Use it at a busy local restaurant where the menu has no photos and no English, and the waiter is already waiting with the order pad.",
+      "Also works when friends invite you to eat and the group hands the menu around — volunteering with this sentence saves everyone an awkward pause."
+    ],
+    "variants": [
+      {
+        "zh": "你帮我点吧。",
+        "py": "Nǐ bāng wǒ diǎn ba.",
+        "en": "You order for me."
+      },
+      {
+        "zh": "我不知道点什么。",
+        "py": "Wǒ bù zhīdào diǎn shénme.",
+        "en": "I don't know what to order."
+      },
+      {
+        "zh": "随便点，都行。",
+        "py": "Suíbiàn diǎn, dōu xíng.",
+        "en": "Order whatever, anything works."
+      }
+    ],
+    "mistakes": [
+      "Pointing at the menu and saying 此菜 — the word is not used in speech; 点菜 is the fixed verb for ordering, and the waiter fills in the rest.",
+      "Adding too many conditions to one breath — say your allergy or spice limit first as its own sentence (我不吃海鲜), then hand over the ordering, so nothing gets lost.",
+      "Skipping the budget hint — two or three dishes can mean lunch or a banquet; adding 一个人吃 (eating alone) or pointing at a price range keeps the pick sensible."
+    ],
+    "replies": [
+      {
+        "zh": "好，有没有忌口？",
+        "py": "Hǎo, yǒu méiyǒu jìkǒu?",
+        "en": "Sure — anything you can't eat?"
+      },
+      {
+        "zh": "几个人吃？",
+        "py": "Jǐ gè rén chī?",
+        "en": "How many people are eating?"
+      },
+      {
+        "zh": "那我给你们安排。",
+        "py": "Nà wǒ gěi nǐmen ānpái.",
+        "en": "Then I'll sort it out for you."
+      }
+    ]
+  },
+  "117": {
+    "when": [
+      "Use it in a restaurant when you want hot water instead of cold drinks, or in a hotel when refilling your bottle before a day out.",
+      "It is also the natural follow-up after the waiter pours you something iced and your stomach disagrees."
+    ],
+    "variants": [
+      {
+        "zh": "请给我热水。",
+        "py": "Qǐng gěi wǒ rè shuǐ.",
+        "en": "Hot water, please."
+      },
+      {
+        "zh": "有开水吗？",
+        "py": "Yǒu kāishuǐ ma?",
+        "en": "Do you have boiling water?"
+      },
+      {
+        "zh": "可以来壶热水吗？",
+        "py": "Kěyǐ lái hú rè shuǐ ma?",
+        "en": "Could we get a kettle of hot water?"
+      }
+    ],
+    "mistakes": [
+      "Saying 水 alone and expecting hot — plain water arrives cold or room-temperature in most restaurants; the word 热 is what carries your request.",
+      "Confusing 热水 with 开水 in the wrong direction — 开水 means freshly boiled (hotter, for tea or sterilizing); 热水 is the drinkable hot water you want at the table.",
+      "Bringing a closed bottle to the table instead of asking — in a sit-down restaurant hot water is free, so the staff would rather pour it than watch you pay for bottled water."
+    ],
+    "replies": [
+      {
+        "zh": "有，马上给您拿。",
+        "py": "Yǒu, mǎshàng gěi nín ná.",
+        "en": "Yes, I'll bring it right away."
+      },
+      {
+        "zh": "给您倒热水。",
+        "py": "Gěi nín dǎo rè shuǐ.",
+        "en": "Let me pour you hot water."
+      },
+      {
+        "zh": "热水壶在桌上。",
+        "py": "Rè shuǐ hú zài zhuō shàng.",
+        "en": "The kettle is on the table."
+      }
+    ]
+  },
+  "118": {
+    "when": [
+      "Use it while ordering anything braised, soupy or home-style, where salt is the main seasoning and Chinese kitchens season generously by local standard.",
+      "Also the right sentence for kids' meals and for anyone managing blood pressure on a long trip."
+    ],
+    "variants": [
+      {
+        "zh": "少放盐。",
+        "py": "Shǎo fàng yán.",
+        "en": "Use less salt."
+      },
+      {
+        "zh": "盐少一点。",
+        "py": "Yán shǎo yìdiǎn.",
+        "en": "A little less salt."
+      },
+      {
+        "zh": "不要太咸也不要太油。",
+        "py": "Bú yào tài xián yě bú yào tài yóu.",
+        "en": "Not too salty and not too oily."
+      }
+    ],
+    "mistakes": [
+      "Saying it after the dish lands — unlike steak culture, Chinese kitchens rarely re-season mid-service; salt requests only work at ordering time.",
+      "Confusing 咸 (salty) with 淡 (bland) — mixing them up requests the exact opposite, so double-check which side of the scale you are on.",
+      "Assuming broth-based dishes are safe by default — soups and noodle broths are often the saltiest items on the menu, so the request applies there most of all."
+    ],
+    "replies": [
+      {
+        "zh": "好，让厨房少放盐。",
+        "py": "Hǎo, ràng chúfáng shǎo fàng yán.",
+        "en": "Okay, I'll have the kitchen use less salt."
+      },
+      {
+        "zh": "清淡一点是吧？",
+        "py": "Qīngdàn yìdiǎn shì ba?",
+        "en": "Lighter flavor, right?"
+      },
+      {
+        "zh": "没问题，不咸的。",
+        "py": "Méi wèntí, bù xián de.",
+        "en": "No problem, it's not salty."
+      }
+    ]
+  },
+  "119": {
+    "when": [
+      "Use it in a taxi or didi ride when the driving feels genuinely unsafe — mountain roads, high-speed highway weaving, or rain-slicked streets at night.",
+      "Also the calm way to react to a driver racing to beat lights, before it becomes an argument."
+    ],
+    "variants": [
+      {
+        "zh": "师傅，慢点开。",
+        "py": "Shīfu, màn diǎn kāi.",
+        "en": "Driver, drive a bit slower."
+      },
+      {
+        "zh": "不着急，安全第一。",
+        "py": "Bú zháojí, ānquán dì yī.",
+        "en": "No rush — safety first."
+      },
+      {
+        "zh": "请小心一点开。",
+        "py": "Qǐng xiǎoxīn yìdiǎn kāi.",
+        "en": "Please drive more carefully."
+      }
+    ],
+    "mistakes": [
+      "Shouting 慢点 with an angry tone — the word 请 and a calm voice keep it a request; drivers respond to respect and ignore lectures.",
+      "Saying 开车慢点 to a didi app driver before the ride — the sentence belongs mid-ride; before pickup it reads as a complaint about nothing.",
+      "Grabbing the seat or door while saying it — physical alarm reads as panic, and the driver will talk to your words, not your hands."
+    ],
+    "replies": [
+      {
+        "zh": "好，我慢一点。",
+        "py": "Hǎo, wǒ màn yìdiǎn.",
+        "en": "Okay, I'll slow down."
+      },
+      {
+        "zh": "不好意思，马上注意。",
+        "py": "Bù hǎoyìsi, mǎshàng zhùyì.",
+        "en": "Sorry, I'll be careful right away."
+      },
+      {
+        "zh": "前面路滑，我小点声…不是，小点油门。",
+        "py": "Qiánmiàn lù huá, wǒ xiǎo diǎn yóumén.",
+        "en": "Road's slippery ahead — I'll ease off the accelerator."
+      }
+    ]
+  },
+  "120": {
+    "when": [
+      "Use it on any ride where you might doze off or get absorbed in your phone — long-distance buses, airport shuttles, night trains, or a didi heading to a station you do not know.",
+      "It is also worth saying when you cannot read the stop announcements at all."
+    ],
+    "variants": [
+      {
+        "zh": "到了叫我一声。",
+        "py": "Dào le jiào wǒ yìshēng.",
+        "en": "Give me a shout when we arrive."
+      },
+      {
+        "zh": "到站请提醒我。",
+        "py": "Dào zhàn qǐng tíxǐng wǒ.",
+        "en": "Please remind me at the stop."
+      },
+      {
+        "zh": "麻烦到了叫我。",
+        "py": "Máfan dào le jiào wǒ.",
+        "en": "Please trouble yourself to call me when we get there."
+      }
+    ],
+    "mistakes": [
+      "Waiting until you are already half-asleep — say it when you board or right after paying, while the driver still has you in working memory.",
+      "Pointing at a stop on a map as your only instruction — the sentence needs a destination already agreed (the address card or a named stop); it reminds, it does not define.",
+      "Saying it to nobody in particular on a big bus — aim it at the driver or conductor; on trains with conductors, 叫 works better than hoping for a PA announcement."
+    ],
+    "replies": [
+      {
+        "zh": "好，到了我叫你。",
+        "py": "Hǎo, dào le wǒ jiào nǐ.",
+        "en": "Sure, I'll call you when we arrive."
+      },
+      {
+        "zh": "放心，忘不了。",
+        "py": "Fàngxīn, wàngbuliǎo.",
+        "en": "Don't worry, I won't forget."
+      },
+      {
+        "zh": "还有二十分钟到。",
+        "py": "Hái yǒu èrshí fēnzhōng dào.",
+        "en": "Twenty more minutes to arrival."
+      }
+    ]
+  },
+  "121": {
+    "when": [
+      "Use it at the hotel front desk on check-in evening, when jet lag makes a 6 a.m. departure or an early tour real.",
+      "Also the backup for a phone alarm you do not trust on the first morning in a new time zone."
+    ],
+    "variants": [
+      {
+        "zh": "明早七点叫醒我。",
+        "py": "Míngzǎo qī diǎn jiàoxǐng wǒ.",
+        "en": "Wake me at 7 tomorrow morning."
+      },
+      {
+        "zh": "请明天早上六点半叫我起床。",
+        "py": "Qǐng míngtiān zǎoshang liù diǎn bàn jiào wǒ qǐchuáng.",
+        "en": "Please wake me at 6:30 tomorrow morning."
+      },
+      {
+        "zh": "帮我定个叫早。",
+        "py": "Bāng wǒ dìng gè jiàozǎo.",
+        "en": "Set up a morning call for me."
+      }
+    ],
+    "mistakes": [
+      "Saying the sentence without a time and walking away — wake-up calls are always logged with an hour; without one the desk either asks again or does nothing.",
+      "Confusing 叫醒 (wake up) with 叫 (call) alone — 叫我 alone can mean 'call my room by phone'; 叫醒 is the word that guarantees someone gets you out of bed.",
+      "Booking it for 明天 alone — 明天 spans all day, and 早上 or 明早 is the part that makes the desk schedule it before breakfast."
+    ],
+    "replies": [
+      {
+        "zh": "好，明早七点叫您。",
+        "py": "Hǎo, míngzǎo qī diǎn jiào nín.",
+        "en": "Okay, we'll wake you at 7 tomorrow."
+      },
+      {
+        "zh": "已经登记了。",
+        "py": "Yǐjīng dēngjì le.",
+        "en": "It's already logged."
+      },
+      {
+        "zh": "叫早是电话到房间。",
+        "py": "Jiàozǎo shì diànhuà dào fángjiān.",
+        "en": "The wake-up call is a phone call to your room."
+      }
+    ]
+  },
+  "122": {
+    "when": [
+      "Use it at check-in or once you are in the room and find none, since budget hotels often keep hairdryers at the front desk.",
+      "Also handy before an early morning when you cannot wait for housekeeping to open."
+    ],
+    "variants": [
+      {
+        "zh": "房间里有吹风机吗？",
+        "py": "Fángjiān lǐ yǒu chuīfēngjī ma?",
+        "en": "Is there a hairdryer in the room?"
+      },
+      {
+        "zh": "可以借一个吹风机吗？",
+        "py": "Kěyǐ jiè yí gè chuīfēngjī ma?",
+        "en": "Can I borrow a hairdryer?"
+      },
+      {
+        "zh": "吹风机在前台拿吗？",
+        "py": "Chuīfēngjī zài qiántái ná ma?",
+        "en": "Do I pick up a hairdryer at the front desk?"
+      }
+    ],
+    "mistakes": [
+      "Searching the closet in silence before asking — many hotels store hairdryers in drawers, but the front desk answer arrives faster than your second wardrobe check.",
+      "Confusing 吹风机 with 风扇 — a fan blows but does not heat; the 吹 character (blow-dry) is the one that means hairdryer.",
+      "Forgetting the deposit pattern — some desks lend electrical items against a cash deposit; asking 有吗 first and 借 second handles both cases."
+    ],
+    "replies": [
+      {
+        "zh": "房间里有。",
+        "py": "Fángjiān lǐ yǒu.",
+        "en": "It's in the room."
+      },
+      {
+        "zh": "在前台，交押金就能拿。",
+        "py": "Zài qiántái, jiāo yājīn jiù néng ná.",
+        "en": "At the front desk — leave a deposit and you can take it."
+      },
+      {
+        "zh": "没有吹风机，有风扇。",
+        "py": "Méiyǒu chuīfēngjī, yǒu fēngshàn.",
+        "en": "No hairdryer, but there's a fan."
+      }
+    ]
+  },
+  "123": {
+    "when": [
+      "Use it in the fitting room or right after trying a jacket over your clothes, when the size is close but one step too loose.",
+      "It keeps the sale moving — the seller immediately reaches for a smaller size instead of waiting for you to decide."
+    ],
+    "variants": [
+      {
+        "zh": "大了一点。",
+        "py": "Dà le yìdiǎn.",
+        "en": "It's a little big."
+      },
+      {
+        "zh": "太大了，有小一号的吗？",
+        "py": "Tài dà le, yǒu xiǎo yí hào de ma?",
+        "en": "Too big — do you have one size smaller?"
+      },
+      {
+        "zh": "有点松。",
+        "py": "Yǒudiǎn sōng.",
+        "en": "It's a bit loose."
+      }
+    ],
+    "mistakes": [
+      "Saying 不好看 (ugly) when you mean the fit — keep the judgment on size only; 有点大 gets a size swap, 不好看 ends the conversation.",
+      "Confusing 号 (size) with 大 alone — for shoes and clothes, asking for 小一号 (one size smaller) is the sentence sellers actually act on.",
+      "Swapping 大 and 小 under pressure — pause one second; this is the single most costly two-character mix-up in a Chinese fitting room."
+    ],
+    "replies": [
+      {
+        "zh": "给你换小一号。",
+        "py": "Gěi nǐ huàn xiǎo yí hào.",
+        "en": "I'll get you one size smaller."
+      },
+      {
+        "zh": "这还有个小码的。",
+        "py": "Zhè hái yǒu gè xiǎo mǎ de.",
+        "en": "Here's one in a small."
+      },
+      {
+        "zh": "这个版型偏大。",
+        "py": "Zhège bǎnxíng piān dà.",
+        "en": "This cut runs large."
+      }
+    ]
+  },
+  "124": {
+    "when": [
+      "Use it when checking last entry times at sights, catching the last metro, or syncing with a train departure when your phone is dead or buried.",
+      "Also the polite icebreaker before asking 请问… at a bus stop."
+    ],
+    "variants": [
+      {
+        "zh": "几点了？",
+        "py": "Jǐ diǎn le?",
+        "en": "What time is it?"
+      },
+      {
+        "zh": "请问现在几点钟？",
+        "py": "Qǐngwèn xiànzài jǐ diǎnzhōng?",
+        "en": "Excuse me, what time is it now?"
+      },
+      {
+        "zh": "现在几点，来得及吗？",
+        "py": "Xiànzài jǐ diǎn, láidejí ma?",
+        "en": "What time is it — is there still time?"
+      }
+    ],
+    "mistakes": [
+      "Understanding 点 but missing 半 — 半 means half past, so 五点半 is 5:30, and 差一刻 means a quarter to; these two words cover most real answers.",
+      "Asking without 请问 to a stranger — bare 现在几点 is fine among friends but abrupt to someone older; one soft word up front changes the tone completely.",
+      "Expecting a 24-hour answer — locals say 下午三点 (3 p.m.) and 早上八点 (8 a.m.); listening for those two words matters more than the number."
+    ],
+    "replies": [
+      {
+        "zh": "现在三点半。",
+        "py": "Xiànzài sān diǎn bàn.",
+        "en": "It's half past three now."
+      },
+      {
+        "zh": "差一刻四点。",
+        "py": "Chà yí kè sì diǎn.",
+        "en": "It's a quarter to four."
+      },
+      {
+        "zh": "快五点了。",
+        "py": "Kuài wǔ diǎn le.",
+        "en": "It's almost five."
+      }
+    ]
+  },
+  "125": {
+    "when": [
+      "Use it after a lost passport, a serious incident, or any situation where you need official help from your own country and local staff are your fastest path to a phone line.",
+      "It is the formal sentence — hotel desks, police stations and hospitals all recognize it instantly."
+    ],
+    "variants": [
+      {
+        "zh": "我想联系中国的大使馆。",
+        "py": "Wǒ xiǎng liánxì Zhōngguó de dàshǐguǎn.",
+        "en": "I want to contact the embassy in China."
+      },
+      {
+        "zh": "请帮我联系我的领事馆。",
+        "py": "Qǐng bāng wǒ liánxì wǒ de lǐngshìguǎn.",
+        "en": "Please help me contact my consulate."
+      },
+      {
+        "zh": "我需要大使馆的电话号码。",
+        "py": "Wǒ xūyào dàshǐguǎn de diànhuà hàomǎ.",
+        "en": "I need the embassy's phone number."
+      }
+    ],
+    "mistakes": [
+      "Saying it to taxi drivers on the street — 大使馆 matters to hotel staff and police; a random street ask wastes the sentence's authority.",
+      "Confusing 大使馆 (embassy, Beijing) with 领事馆 (consulate, other cities) — either word works, but knowing your city's version saves one explanation round.",
+      "Skipping your country's Chinese name — adding 美国 (USA), 英国 (UK) or 澳大利亚 (Australia) after the sentence gets you the right building on the first try."
+    ],
+    "replies": [
+      {
+        "zh": "我帮您查电话。",
+        "py": "Wǒ bāng nín chá diànhuà.",
+        "en": "I'll look up the number for you."
+      },
+      {
+        "zh": "大使馆在北京，领事馆在上海。",
+        "py": "Dàshǐguǎn zài Běijīng, lǐngshìguǎn zài Shànghǎi.",
+        "en": "The embassy is in Beijing; the consulate is in Shanghai."
+      },
+      {
+        "zh": "您是哪国公民？",
+        "py": "Nín shì nǎ guó gōngmín?",
+        "en": "Which country are you a citizen of?"
+      }
+    ]
+  },
+  "_comment": "扩词第二批（id 116-125）。结构：when x2 / variants x3 / mistakes x3 / replies x3。when 两条各自成句且连读通顺。"
 }
