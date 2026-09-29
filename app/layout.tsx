@@ -86,10 +86,15 @@ export default function RootLayout({
       {/* 离线支持：注册 /sw.js。注册失败不影响任何功能。 */}
       <Script id="sw-register" strategy="afterInteractive">
         {`
+          // 这里不能只写 window.addEventListener('load', ...) —— 本脚本是 afterInteractive，
+          // 注入时 load 往往已经触发过了，那个监听器永远不会执行，SW 就再也不注册了。
+          // 先看 readyState：已经 complete 就直接注册，否则等 load。
           if ('serviceWorker' in navigator) {
-            window.addEventListener('load', function () {
+            var register = function () {
               navigator.serviceWorker.register('/sw.js').catch(function () {});
-            });
+            };
+            if (document.readyState === 'complete') register();
+            else window.addEventListener('load', register);
           }
         `}
       </Script>

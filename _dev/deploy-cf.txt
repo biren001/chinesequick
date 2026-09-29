@@ -1,5 +1,5 @@
 {
- "at": "2026-09-28T14:57:42.131Z",
+ "at": "2026-09-29T00:32:27.089Z",
  "dir": "C:\\Users\\Administrator\\WorkBuddy\\2026-09-25-20-49-31\\real-life-chinese\\out",
  "project": "chinesequick",
  "dryRun": false,
@@ -7,8 +7,8 @@
  "token": "cfat… (len 53)",
  "projectPagesFetched": 1,
  "projects": [
-  "chinesequick",
   "imageprocessing",
+  "chinesequick",
   "aivisnap-en",
   "aivisnap"
  ],
@@ -27,17 +27,17 @@
   ],
   "problems": []
  },
- "fileCount": 727,
- "totalBytes": 15687526,
- "manifestEntries": 727,
- "prevDeployment": "67e3235e-32ec-4d67-b943-ce74d36dec2c",
+ "fileCount": 731,
+ "totalBytes": 15897994,
+ "manifestEntries": 731,
+ "prevDeployment": "fb2523c8-f877-4752-8bda-e9e598a02813",
  "knownDeployments": 10,
  "rounds": [
   {
    "round": 1,
    "newDeployment": true,
-   "id": "fb2523c8",
-   "fileCount": 727,
+   "id": "49ef6960",
+   "fileCount": 731,
    "fileCountSource": "deployment",
    "servedOk": true,
    "rolledBackTo": null,
@@ -46,20 +46,20 @@
   }
  ],
  "assetBuckets": 1,
- "assetUploaded": 727,
- "assetHashesDeclared": 727,
+ "assetUploaded": 731,
+ "assetHashesDeclared": 731,
  "settle": {
   "changed": true,
   "servedOk": true,
-  "id": "fb2523c8-f877-4752-8bda-e9e598a02813",
-  "shortId": "fb2523c8",
-  "url": "https://fb2523c8.chinesequick.pages.dev",
-  "fileCount": 727,
+  "id": "49ef6960-c119-4d29-970e-924118d2b639",
+  "shortId": "49ef6960",
+  "url": "https://49ef6960.chinesequick.pages.dev",
+  "fileCount": 731,
   "fileCountKnown": true,
   "stages": [
    {
     "name": "queued",
-    "started_on": "2026-09-28T15:00:38.12305Z",
+    "started_on": "2026-09-29T00:36:30.476833Z",
     "ended_on": null,
     "status": "active"
    },
@@ -84,13 +84,13 @@
    {
     "name": "deploy",
     "started_on": null,
-    "ended_on": null,
-    "status": "idle"
+    "ended_on": "2026-09-29T00:36:32.150959Z",
+    "status": "success"
    }
   ],
   "fileCountSource": "deployment",
   "served": {
-   "base": "https://fb2523c8.chinesequick.pages.dev",
+   "base": "https://49ef6960.chinesequick.pages.dev",
    "checks": [
     {
      "path": "/",
@@ -98,7 +98,7 @@
      "type": "text/html"
     },
     {
-     "path": "/_next/static/GcjBfA7-Qj9xBe304VCwB/_buildManifest.js",
+     "path": "/_next/static/chunks/139.7a5a8e93a21948c1.js",
      "status": 200,
      "type": "application/javascript"
     },
@@ -112,7 +112,7 @@
   }
  },
  "served": {
-  "base": "https://fb2523c8.chinesequick.pages.dev",
+  "base": "https://49ef6960.chinesequick.pages.dev",
   "checks": [
    {
     "path": "/",
@@ -120,7 +120,7 @@
     "type": "text/html"
    },
    {
-    "path": "/_next/static/GcjBfA7-Qj9xBe304VCwB/_buildManifest.js",
+    "path": "/_next/static/chunks/139.7a5a8e93a21948c1.js",
     "status": 200,
     "type": "application/javascript"
    },
@@ -133,7 +133,7 @@
   "ok": true
  },
  "transport": "direct",
- "url": "https://fb2523c8.chinesequick.pages.dev",
- "deploymentId": "fb2523c8-f877-4752-8bda-e9e598a02813",
+ "url": "https://49ef6960.chinesequick.pages.dev",
+ "deploymentId": "49ef6960-c119-4d29-970e-924118d2b639",
  "ok": true
 }

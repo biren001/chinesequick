@@ -95,7 +95,7 @@
   "thankYouNoindex": "noindex, nofollow"
  },
  "allPages": {
-  "pages": 141,
+  "pages": 142,
   "jsonldBlocks": 129,
   "pagesWithBadJson": 0,
   "badList": [],
