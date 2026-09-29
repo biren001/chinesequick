@@ -25,7 +25,25 @@
     ],
     "mistakes": [
       "Say duōshao, not duōshǎo — 少 loses its third tone inside this word.",
-      "In supermarkets and chain stores the price is printed on the shelf. This question belongs where prices are actually negotiated, not everywhere you buy something."
+      "In supermarkets and chain stores the price is printed on the shelf. This question belongs where prices are actually negotiated, not everywhere you buy something.",
+      "Prices are spoken with 块 (kuài) but written with 元 (yuán) — a tag says ¥10 or 10元, the seller says shí kuài. Same number, two words; 块 is the one you hear and say."
+    ],
+    "replies": [
+      {
+        "zh": "十块。",
+        "py": "Shí kuài.",
+        "en": "Ten yuan."
+      },
+      {
+        "zh": "六块五一斤。",
+        "py": "Liù kuài wǔ yì jīn.",
+        "en": "Six fifty per 500g."
+      },
+      {
+        "zh": "你要几斤？",
+        "py": "Nǐ yào jǐ jīn?",
+        "en": "How many jin do you want?"
+      }
     ]
   },
   "2": {
@@ -198,7 +216,25 @@
     ],
     "mistakes": [
       "Do not use it for drinks — that is 好喝 (hǎohē).",
-      "Compliment the specific dish, not 'the food' in general. 好吃 is about what is in your mouth right now."
+      "Compliment the specific dish, not 'the food' in general. 好吃 is about what is in your mouth right now.",
+      "好吃 is about food only. It is not a general 'good' — never use it for weather, a film or a plan; those take 好 or 不错."
+    ],
+    "replies": [
+      {
+        "zh": "多吃点。",
+        "py": "Duō chī diǎn.",
+        "en": "Have some more."
+      },
+      {
+        "zh": "别客气，趁热吃。",
+        "py": "Bié kèqi, chèn rè chī.",
+        "en": "Don't be shy — eat while it's hot."
+      },
+      {
+        "zh": "合你胃口就好。",
+        "py": "Hé nǐ wèikǒu jiù hǎo.",
+        "en": "Glad it suits your taste."
+      }
     ]
   },
   "6": {
@@ -385,6 +421,11 @@
         "zh": "已经是最低价了。",
         "py": "Yǐjīng shì zuì dī jià le.",
         "en": "That is already the lowest price."
+      },
+      {
+        "zh": "再低就亏本了。",
+        "py": "Zài dī jiù kuīběn le.",
+        "en": "Any lower and I'd be losing money."
       }
     ]
   },
@@ -463,7 +504,8 @@
     ],
     "mistakes": [
       "Ask about the room, not about yourself — do not translate 'I need to go to the bathroom' word for word.",
-      "哪里 (nǎlǐ) and 哪儿 (nǎr) are the same question word. The second carries an r-coloured ending and sounds more Beijing; both are understood everywhere."
+      "哪里 (nǎlǐ) and 哪儿 (nǎr) are the same question word. The second carries an r-coloured ending and sounds more Beijing; both are understood everywhere.",
+      "Do not translate 'restroom' as 休息室 — that means lounge. 厕所 and 洗手间 are direct but correct, and nobody expects a softer word."
     ],
     "replies": [
       {
@@ -475,6 +517,11 @@
         "zh": "二楼。",
         "py": "Èr lóu.",
         "en": "Second floor."
+      },
+      {
+        "zh": "出门左转。",
+        "py": "Chūmén zuǒzhuǎn.",
+        "en": "Out the door, then turn left."
       }
     ]
   },
@@ -1643,11 +1690,18 @@
         "py": "Bàoqiàn.",
         "en": "Sorry / apologise.",
         "note": "A step more formal. Frequent in writing and in semi-formal speech."
+      },
+      {
+        "zh": "对不住。",
+        "py": "Duìbuzhù.",
+        "en": "Sorry.",
+        "note": "The older, folksier apology. You hear it from vendors and taxi drivers more than from young people."
       }
     ],
     "mistakes": [
       "Do not reach for 对不起 every time English would use 'sorry'. For small daily friction — squeezing past someone, asking a stranger to repeat themselves — 不好意思 sounds natural where 对不起 feels heavy, as if you caused real trouble.",
-      "Do not confuse it with the reply. When someone apologises to you, the answer is 没关系 (méi guānxi, \"it's fine\"), not another apology."
+      "Do not confuse it with the reply. When someone apologises to you, the answer is 没关系 (méi guānxi, \"it's fine\"), not another apology.",
+      "It is duìbuqǐ with an unstressed 不 — pronouncing every syllable at full volume (duì bù qǐ) is the fastest way to sound like a textbook."
     ],
     "replies": [
       {
@@ -1659,6 +1713,11 @@
         "zh": "没事。",
         "py": "Méi shì.",
         "en": "No problem."
+      },
+      {
+        "zh": "下次注意就行。",
+        "py": "Xiàcì zhùyì jiù xíng.",
+        "en": "Just be more careful next time."
       }
     ]
   },
@@ -1798,6 +1857,11 @@
         "zh": "还行。",
         "py": "Hái xíng.",
         "en": "Not bad."
+      },
+      {
+        "zh": "老样子。",
+        "py": "Lǎo yàngzi.",
+        "en": "Same as always."
       }
     ]
   },
@@ -3097,6 +3161,11 @@
         "zh": "我帮你叫救护车。",
         "py": "Wǒ bāng nǐ jiào jiùhùchē.",
         "en": "I'll call an ambulance for you."
+      },
+      {
+        "zh": "我打120。",
+        "py": "Wǒ dǎ yāo èr líng.",
+        "en": "I'm calling 120 (ambulance)."
       }
     ]
   },

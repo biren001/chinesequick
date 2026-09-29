@@ -253,6 +253,10 @@ const SENTINELS = [
   // 挑 hello（GSC 曝光最高）与 yes（是/不是 那一组）。两条都先从产物现查现抄（HIT）才写入。
   { label: "P1 深化第十一批：你好（三声变调）", needle: "with two separate dips" },
   { label: "P1 深化第十一批：是的语气", needle: "can sound clipped, even impatient" },
+  // P1 第十二批（1/5/9/11/43/46/82 七条）—— P1 深化收口批：补完这批 105 条全部达标准形状。
+  // 两条 needle 落在**不同分类**（money 的多少钱 / emergency 的救命），都先从产物现查现抄（HIT）。
+  { label: "P1 深化第十二批：多少钱（块 vs 元）", needle: "Same number, two words" },
+  { label: "P1 深化第十二批：救命（120 的读法）", needle: "yāo èr líng" },
 ];
 
 /* ---------------- 哨兵体检：按【全部本地页】统计，不联网 ---------------- */
@@ -395,6 +399,9 @@ const MUST = [
   // 常驻必检顺便盯住「补齐的内容有没有真的上线」。
   "/how-to-say-hello-in-chinese/",
   "/how-to-say-yes-in-chinese/",
+  // P1 第十二批（收口批）：两条哨兵分别落在 how-much（money）与 help（emergency）。
+  "/how-to-say-how-much-in-chinese/",
+  "/how-to-say-help-in-chinese/",
 ];
 
 /* MUST 里对不上任何本地页的路径。非空 = 「必检」这个承诺已经被悄悄打折，必须当失败处理。 */

@@ -144,5 +144,5 @@ for (const r of report) {
 }
 console.log(`写后复验 : ${report.length - bad}/${report.length} 条达标`);
 console.log(`_comment : ${back._comment ? "保留 ✓" : "★丢失"}`);
-console.log(`备份     : ${DEEP}.bakpatch`);
+console.log(`备份     : ${DEEP}.bak8`);
 process.exit(bad ? 1 : 0);
