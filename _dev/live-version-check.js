@@ -263,6 +263,9 @@ const SENTINELS = [
   // 7 天课（新页面类型）：Day 1 的 H2 标题只出现在课程页；首页/清单页的入口文案
   // 刻意避开这个串，保证这条哨兵「课程内容没上线 → 必假」。
   { label: "7 天课（Day 1 标题）", needle: "Say hello, thank you, sorry" },
+  // 上网指南（新页面类型）：这两句只在指南页正文出现，首页/清单页入口文案刻意避开。
+  { label: "上网指南（Wi-Fi 登录）", needle: "a Chinese mobile number for the SMS code" },
+  { label: "上网指南（App 可用性）", needle: "Not reliably accessible: Google services" },
 ];
 
 /* ---------------- 哨兵体检：按【全部本地页】统计，不联网 ---------------- */
@@ -414,6 +417,8 @@ const MUST = [
   "/address-card/",
   // 7 天课（新页面类型）：Day 1 标题只在课程页出现 → 当哨兵用，见 SENTINELS。
   "/7-day-chinese-course/",
+  // 上网指南（新页面类型）：Wi-Fi 登录与 App 可用性是这页独有的内容。
+  "/getting-online-in-china/",
 ];
 
 /* MUST 里对不上任何本地页的路径。非空 = 「必检」这个承诺已经被悄悄打折，必须当失败处理。 */

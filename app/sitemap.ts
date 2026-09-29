@@ -26,6 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: "/7-day-chinese-course", priority: 0.9, changeFrequency: "monthly" },
     { url: "/emergency-card", priority: 0.8, changeFrequency: "monthly" },
     { url: "/address-card", priority: 0.8, changeFrequency: "monthly" },
+    { url: "/getting-online-in-china", priority: 0.8, changeFrequency: "monthly" },
     ...SCENARIOS.map((s) => ({
       url: `/scenarios/${s.slug}`,
       priority: 0.8,

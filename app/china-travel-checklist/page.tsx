@@ -132,6 +132,15 @@ export default function ChinaTravelChecklistPage() {
         >
           Start the free 7-day course
         </Link>
+        <p className="mt-3 text-sm text-muted">
+          Still sorting out mobile data?{" "}
+          <Link
+            href="/getting-online-in-china/"
+            className="text-accent underline underline-offset-4"
+          >
+            Getting online in China: eSIM, Wi-Fi and data
+          </Link>
+        </p>
       </div>
 
       <p className="mt-8 text-sm text-muted">

@@ -50,6 +50,8 @@ const pages = [
   // 行程卡是「断了网才最需要」的页 —— 必须进预缓存
   "/emergency-card/",
   "/address-card/",
+  // 上网指南：落地后查「怎么联网/哪些 App 能用」正是离线场景
+  "/getting-online-in-china/",
   // 7 天课：装成 App 后整个课程离线可学（音频本来就在预缓存里）
   "/7-day-chinese-course/",
   ...scenarioDirs,

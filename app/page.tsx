@@ -63,6 +63,15 @@ export default function HomePage() {
         >
           Start the China travel checklist
         </Link>
+        <p className="mt-2.5 text-sm text-muted">
+          Sorting out data too?{" "}
+          <Link
+            href="/getting-online-in-china"
+            className="text-accent underline underline-offset-4"
+          >
+            How to get online in China
+          </Link>
+        </p>
       </section>
 
       <section className="mt-8 rounded-2xl border border-line bg-card p-5">
