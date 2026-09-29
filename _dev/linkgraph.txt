@@ -1,11 +1,11 @@
 {
- "sitemapPages": 133,
- "pagesScanned": 138,
+ "sitemapPages": 135,
+ "pagesScanned": 140,
  "orphanCount": 0,
  "orphans": [],
  "brokenInternalLinks": [],
- "minInbound": 5,
- "maxInbound": 152,
+ "minInbound": 2,
+ "maxInbound": 154,
  "homeLinksToCategoryPages": [
   "chinese-restaurant-phrases",
   "chinese-travel-phrases",
@@ -18,11 +18,11 @@
  "sampleInbound": [
   [
    "https://chinesequick.com",
-   142
+   144
   ],
   [
    "https://chinesequick.com/china-travel-checklist",
-   149
+   152
   ],
   [
    "https://chinesequick.com/chinese-numbers",
@@ -30,15 +30,15 @@
   ],
   [
    "https://chinesequick.com/scenarios",
-   152
+   154
   ],
   [
-   "https://chinesequick.com/scenarios/arriving-at-the-airport",
-   14
+   "https://chinesequick.com/emergency-card",
+   5
   ],
   [
-   "https://chinesequick.com/scenarios/taking-a-taxi",
-   16
+   "https://chinesequick.com/address-card",
+   2
   ]
  ],
  "lowInbound": []

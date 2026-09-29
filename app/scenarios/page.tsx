@@ -116,6 +116,30 @@ export default function ScenariosPage() {
         </Link>
       </section>
 
+      <section className="mt-4 rounded-2xl border border-line bg-card p-5">
+        <h2 className="text-base font-medium text-ink">Two cards to prepare</h2>
+        <p className="mt-1.5 text-sm text-muted">
+          Fill them in at home, show them in China: an address card for taxi
+          drivers, and an emergency card with your blood type, allergies and
+          emergency contact. Both are saved on your own device and work
+          offline.
+        </p>
+        <div className="mt-4 grid grid-cols-2 gap-3">
+          <Link
+            href="/address-card"
+            className="rounded-xl border border-line px-4 py-3 text-center text-sm font-medium text-ink transition hover:border-accent active:scale-[0.98]"
+          >
+            🏨 Address card
+          </Link>
+          <Link
+            href="/emergency-card"
+            className="rounded-xl border border-line px-4 py-3 text-center text-sm font-medium text-ink transition hover:border-accent active:scale-[0.98]"
+          >
+            🚨 Emergency card
+          </Link>
+        </div>
+      </section>
+
       <p className="mt-6 text-center text-sm text-muted">
         <Link
           href="/chinese-numbers"

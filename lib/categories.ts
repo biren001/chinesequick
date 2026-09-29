@@ -60,6 +60,7 @@ export const CATEGORIES: Category[] = [
     blurb: "Get help fast: police, doctor, lost and allergies.",
     seoSlug: "chinese-emergency-phrases",
     forLabel: "emergencies",
+    guide: { href: "/emergency-card", label: "Fill in your emergency card" },
   },
 ];
 

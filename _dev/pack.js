@@ -47,6 +47,9 @@ const pages = [
   "/china-travel-checklist/",
   "/chinese-numbers/",
   "/scenarios/",
+  // 行程卡是「断了网才最需要」的页 —— 必须进预缓存
+  "/emergency-card/",
+  "/address-card/",
   ...scenarioDirs,
   ...pageDirs,
   "/saved/",

@@ -257,6 +257,9 @@ const SENTINELS = [
   // 两条 needle 落在**不同分类**（money 的多少钱 / emergency 的救命），都先从产物现查现抄（HIT）。
   { label: "P1 深化第十二批：多少钱（块 vs 元）", needle: "Same number, two words" },
   { label: "P1 深化第十二批：救命（120 的读法）", needle: "yāo èr líng" },
+  // 行程卡（新页面类型）：needle 都先从产物现抄，且必须全站唯一。
+  { label: "行程卡：紧急卡（四个号码）", needle: "nobody constructs sentences" },
+  { label: "行程卡：地址卡（先出示再说）", needle: "that is the whole protocol" },
 ];
 
 /* ---------------- 哨兵体检：按【全部本地页】统计，不联网 ---------------- */
@@ -402,6 +405,10 @@ const MUST = [
   // P1 第十二批（收口批）：两条哨兵分别落在 how-much（money）与 help（emergency）。
   "/how-to-say-how-much-in-chinese/",
   "/how-to-say-help-in-chinese/",
+  // 行程卡（新页面类型）：紧急卡带固定短语哨兵，地址卡带「请带我去这个地址」哨兵。
+  // 这两页也是最需要离线可用的入口 → 常驻必检。
+  "/emergency-card/",
+  "/address-card/",
 ];
 
 /* MUST 里对不上任何本地页的路径。非空 = 「必检」这个承诺已经被悄悄打折，必须当失败处理。 */
