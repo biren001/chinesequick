@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import "./globals.css";
 import FeedbackFooter from "@/components/FeedbackFooter";
+import { RememberPlace } from "@/components/LastPlace";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/site";
 import { buildId } from "@/lib/build";
 
@@ -83,6 +84,7 @@ export default function RootLayout({
     <html lang="en" translate="no" data-build={buildId()}>
       <body className="min-h-dvh antialiased">
         {children}
+        <RememberPlace />
         <FeedbackFooter />
       </body>
       {/* 离线支持：注册 /sw.js。注册失败不影响任何功能。 */}

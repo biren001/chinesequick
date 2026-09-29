@@ -10,6 +10,7 @@ import { SITE_NAME, SITE_TAGLINE } from "@/lib/site";
 import { BUILD_SHA, buildDateLabel } from "@/lib/build";
 import StartLearning from "@/components/StartLearning";
 import PhraseSearch from "@/components/PhraseSearch";
+import { ResumeCard } from "@/components/LastPlace";
 
 export const metadata: Metadata = {
   alternates: { canonical: urlOf("/") },
@@ -45,6 +46,9 @@ export default function HomePage() {
 
         <PhraseSearch />
       </section>
+
+      {/* 「接着上次看」：浏览器被系统回收/重开 App 后，从这里一键回到上次停留的页面 */}
+      <ResumeCard />
 
       <section className="rounded-2xl border border-accent bg-accent-soft p-5">
         <p className="text-sm font-medium tracking-wide text-accent uppercase">Going to China?</p>

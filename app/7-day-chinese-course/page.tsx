@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import AudioButton from "@/components/AudioButton";
 import JsonLd from "@/components/JsonLd";
+import { CourseDayNav, CourseResume, DayOpener, MarkDayDone } from "@/components/CourseTracker";
 import { COURSE_DAYS, COURSE_PATH, getCourseDayPhrases } from "@/lib/course";
 import { phraseAudio } from "@/lib/audio";
 import { breadcrumbSchema, faqSchema, orgId, urlOf } from "@/lib/jsonld";
@@ -98,47 +99,67 @@ export default function SevenDayCoursePage() {
         </p>
       </header>
 
-      <div className="space-y-10">
+      {/* 进度卡片 + Day 快捷跳转：进度在本机，回来不用从头翻 */}
+      <CourseResume titles={COURSE_DAYS.map((d) => d.title)} />
+      <CourseDayNav names={COURSE_DAYS.map((d) => d.name)} />
+
+      <div className="space-y-6">
         {COURSE_DAYS.map((d) => {
           const phrases = getCourseDayPhrases(d.ids);
           return (
             <section key={d.day} id={`day-${d.day}`} className="scroll-mt-6">
-              <h2 className="text-xl font-semibold tracking-tight text-ink">
-                <span aria-hidden="true">{d.emoji}</span> Day {d.day} — {d.title}
-              </h2>
-              <p className="mt-2 text-sm text-muted">{d.intro}</p>
+              {/* 默认折叠：整页不再是一眼望不到底的长卷，挂载时自动展开「当前该学的那天」 */}
+              <details
+                id={`course-day-${d.day}`}
+                className="scroll-mt-6 rounded-2xl border border-line bg-card"
+              >
+                <summary className="cursor-pointer px-4 py-3">
+                  <h2 className="text-xl font-semibold tracking-tight text-ink">
+                    <span aria-hidden="true">{d.emoji}</span> Day {d.day} — {d.title}
+                  </h2>
+                  <p className="mt-1 text-sm text-muted">
+                    {d.name} · {phrases.length} phrases · about 20 minutes
+                  </p>
+                </summary>
+                <div className="px-4 pb-4">
+                  <DayOpener day={d.day} />
+                  <p className="text-sm text-muted">{d.intro}</p>
 
-              <ol className="mt-4 space-y-2">
-                {phrases.map((p) => (
-                  <li
-                    key={p.id}
-                    className="flex items-center gap-3 rounded-2xl border border-line bg-card px-4 py-3"
-                  >
-                    <div className="min-w-0 flex-1">
-                      <Link
-                        href={phrasePath(phraseSlug(p))}
-                        className="block text-base font-medium text-ink underline-offset-4 hover:underline"
+                  <ol className="mt-4 space-y-2">
+                    {phrases.map((p) => (
+                      <li
+                        key={p.id}
+                        className="flex items-center gap-3 rounded-2xl border border-line bg-card px-4 py-3"
                       >
-                        {p.chinese}
-                      </Link>
-                      <span className="block text-sm text-muted">
-                        {p.pinyin} — {p.english}
-                      </span>
-                    </div>
-                    <AudioButton
-                      text={p.chinese}
-                      src={phraseAudio[String(p.id)] ?? null}
-                      label="Listen"
-                      repeats={3}
-                    />
-                  </li>
-                ))}
-              </ol>
+                        <div className="min-w-0 flex-1">
+                          <Link
+                            href={phrasePath(phraseSlug(p))}
+                            className="block text-base font-medium text-ink underline-offset-4 hover:underline"
+                          >
+                            {p.chinese}
+                          </Link>
+                          <span className="block text-sm text-muted">
+                            {p.pinyin} — {p.english}
+                          </span>
+                        </div>
+                        <AudioButton
+                          text={p.chinese}
+                          src={phraseAudio[String(p.id)] ?? null}
+                          label="Listen"
+                          repeats={3}
+                        />
+                      </li>
+                    ))}
+                  </ol>
 
-              <p className="mt-3 rounded-xl bg-accent-soft px-4 py-3 text-sm text-ink">
-                <span className="font-medium">Today&apos;s mission: </span>
-                {d.mission}
-              </p>
+                  <p className="mt-3 rounded-xl bg-accent-soft px-4 py-3 text-sm text-ink">
+                    <span className="font-medium">Today&apos;s mission: </span>
+                    {d.mission}
+                  </p>
+
+                  <MarkDayDone day={d.day} />
+                </div>
+              </details>
             </section>
           );
         })}
