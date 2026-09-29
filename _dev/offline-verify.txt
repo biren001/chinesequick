@@ -1,0 +1,20 @@
+目标站点: https://chinesequick.com
+SW 状态: {"controller":true,"script":"https://chinesequick.com/sw.js"}
+缓存桶: ["cq-2026-09-26e"]
+预缓存音频: 105 条（清单 105 条）
+已缓存页面: []
+
+-- 已切到 offline --
+断网重载（数字页）: /chinese-numbers/ || 内容在
+断网打开已访问短语页: /how-to-say-thank-you-in-chinese/ || 正文在
+断网朗读 谢谢（/audio/42.mp3）: {"v":"canplay","dur":0.648083}
+断网点页面朗读按钮: no-audio-el
+断网打开未访问页: /how-to-say-hello-in-chinese/ || 拿到该页内容
+断网 /audio/slow/42.mp3: {"v":"canplay","dur":0.869042}
+断网 /audio/numbers/ba.mp3: {"v":"canplay","dur":0.424542}
+断网 /audio/words/ai.mp3: {"v":"canplay","dur":0.449792}
+
+-- 恢复网络 --
+恢复后打开短语页: 正常
+
+判定: PASS ✅ 断网可朗读、已访问页可离线打开
