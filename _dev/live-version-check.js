@@ -266,6 +266,8 @@ const SENTINELS = [
   // 上网指南（新页面类型）：这两句只在指南页正文出现，首页/清单页入口文案刻意避开。
   { label: "上网指南（Wi-Fi 登录）", needle: "a Chinese mobile number for the SMS code" },
   { label: "上网指南（App 可用性）", needle: "Not reliably accessible: Google services" },
+  // 听力小测（新页面类型）：SSR 介绍句只在测页出现，首页/llms.txt 的入口文案刻意避开。
+  { label: "听力小测（SSR 介绍句）", needle: "hear a phrase in Mandarin and pick what it means" },
 ];
 
 /* ---------------- 哨兵体检：按【全部本地页】统计，不联网 ---------------- */
@@ -419,6 +421,8 @@ const MUST = [
   "/7-day-chinese-course/",
   // 上网指南（新页面类型）：Wi-Fi 登录与 App 可用性是这页独有的内容。
   "/getting-online-in-china/",
+  // 听力小测（新页面类型）：SSR 介绍句是这页独有的内容。
+  "/listening-quiz/",
 ];
 
 /* MUST 里对不上任何本地页的路径。非空 = 「必检」这个承诺已经被悄悄打折，必须当失败处理。 */

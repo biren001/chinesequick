@@ -52,6 +52,8 @@ const pages = [
   "/address-card/",
   // 上网指南：落地后查「怎么联网/哪些 App 能用」正是离线场景
   "/getting-online-in-china/",
+  // 听力小测：音频全在预缓存里，断网照样能练
+  "/listening-quiz/",
   // 7 天课：装成 App 后整个课程离线可学（音频本来就在预缓存里）
   "/7-day-chinese-course/",
   ...scenarioDirs,

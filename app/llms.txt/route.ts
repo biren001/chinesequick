@@ -30,6 +30,10 @@ export function GET() {
     `- [Address card](${SITE_URL}/address-card/): a fill-in card with the hotel's Chinese name and address to show taxi and Didi drivers, plus the phrase 请带我去这个地址 — printable, saved on the visitor's own device.`,
     `- [Getting online in China](${SITE_URL}/getting-online-in-china/): eSIM and roaming vs a local SIM, why hotel Wi-Fi asks for a Chinese mobile number, which apps work in mainland China, and the two Wi-Fi phrases with audio.`,
     "",
+    "## Practice",
+    "",
+    `- [Chinese listening quiz](${SITE_URL}/listening-quiz/): hear a real recording and pick the meaning — built from the same ${PHRASES.length} phrases, answers reveal characters and pinyin, every question links to its full phrase page.`,
+    "",
     "## Situation guides (step by step)",
     "",
   ];

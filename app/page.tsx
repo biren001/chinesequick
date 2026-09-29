@@ -86,6 +86,15 @@ export default function HomePage() {
         >
           Start the free 7-day course
         </Link>
+        <p className="mt-2.5 text-sm text-muted">
+          Prefer testing yourself?{" "}
+          <Link
+            href="/listening-quiz"
+            className="text-accent underline underline-offset-4"
+          >
+            Take the listening quiz
+          </Link>
+        </p>
       </section>
 
       <section className="mt-8">
