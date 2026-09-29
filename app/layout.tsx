@@ -56,6 +56,8 @@ export const metadata: Metadata = {
   other: { google: "notranslate" },
   manifest: "/manifest.webmanifest",
   applicationName: SITE_NAME,
+  // apple-touch-icon：iOS 没有安装事件，「添加到主屏幕」时用这张当图标（Safari 自动缩到 180×180）。
+  icons: { icon: "/favicon.ico", apple: "/logo.png" },
   appleWebApp: { capable: true, title: SITE_NAME, statusBarStyle: "default" },
 };
 
