@@ -39,8 +39,8 @@
    "ItemList"
   ],
   "jsonldErrors": [],
-  "textLen": 1741,
-  "itemCount": 15
+  "textLen": 2107,
+  "itemCount": 20
  },
  "learn": {
   "canonical": "https://chinesequick.com/learn/restaurant/",
@@ -51,7 +51,7 @@
   "jsonldErrors": []
  },
  "sitemap": {
-  "total": 148,
+  "total": 168,
   "allHttps": true,
   "allTrailingSlash": true,
   "noNoindexPage": true,
@@ -86,7 +86,7 @@
  "robotsUaCount": 19,
  "files": {
   "llms": true,
-  "llmsHead": "# ChineseQuick\n\n> Get by in China — real phrases, audio and trip prep. 115 free Mandarin Chinese phrases for travel, food, shopping, hotels, everyday conversati",
+  "llmsHead": "# ChineseQuick\n\n> Get by in China — real phrases, audio and trip prep. 135 free Mandarin Chinese phrases for travel, food, shopping, hotels, everyday conversati",
   "og": true,
   "ogSize": 60425,
   "icon": true,
@@ -95,8 +95,8 @@
   "thankYouNoindex": "noindex, nofollow"
  },
  "allPages": {
-  "pages": 157,
-  "jsonldBlocks": 144,
+  "pages": 177,
+  "jsonldBlocks": 164,
   "pagesWithBadJson": 0,
   "badList": [],
   "noTranslateMissing": []
@@ -126,14 +126,14 @@
   "titleLen": 44,
   "descLen": 112,
   "jsonldErrors": [],
-  "audioRefs": 13
+  "audioRefs": 14
  },
  "punctuation": {
   "doublePeriodFiles": 0,
   "doublePeriodList": []
  },
  "grammar": {
-  "articleChecked": 115,
+  "articleChecked": 135,
   "articleWrong": 0,
   "articleWrongList": []
  },

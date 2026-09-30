@@ -5863,5 +5863,455 @@
       }
     ]
   },
-  "_comment": "deep 补缺批：25 条早期存量短语（id 12,14,20,22,25,29,30,53,55,56,57,58,59,60,61,71,93,94,95,96,101,102,103,104,105）"
+  "126": {
+    "when": [
+      "Use it at any restaurant, noodle shop or street stall before or while ordering — cilantro comes as a default garnish across most of China.",
+      "It is also the right answer to 加不加香菜, the question you will hear constantly in canteens and noodle shops."
+    ],
+    "variants": [
+      {
+        "zh": "不要葱。",
+        "py": "Bú yào cōng.",
+        "en": "No scallions, please."
+      },
+      {
+        "zh": "我不吃香菜。",
+        "py": "Wǒ bù chī xiāngcài.",
+        "en": "I don't eat cilantro."
+      },
+      {
+        "zh": "香菜放一边。",
+        "py": "Xiāngcài fàng yìbiān.",
+        "en": "Put the cilantro on the side."
+      }
+    ],
+    "mistakes": [
+      "Mixing up 不要辣 and 不要香菜 — 辣 is chili spice and 香菜 is the herb; the wrong one brings you chili oil instead of removing the garnish.",
+      "Staying silent and picking it out later — staff garnish dishes automatically, so stating 不要香菜 before cooking keeps it out of the broth entirely.",
+      "Forgetting the same pattern for 葱 (scallions) — the other herb sprinkled on nearly as widely, and the identical 不要葱 keeps it off too."
+    ],
+    "replies": [
+      {
+        "zh": "好，不加香菜。",
+        "py": "Hǎo, bù jiā xiāngcài.",
+        "en": "Okay, no cilantro."
+      },
+      {
+        "zh": "香菜单独放。",
+        "py": "Xiāngcài dāndú fàng.",
+        "en": "The cilantro will come on the side."
+      },
+      {
+        "zh": "一点都不加吗？",
+        "py": "Yìdiǎn dōu bù jiā ma?",
+        "en": "Not even a little bit?"
+      }
+    ]
+  },
+  "127": {
+    "when": [
+      "Use it at restaurants when a dish is going fast and you want another order of the same thing — pointing at the plate removes any doubt about which one.",
+      "It works just as well at street stalls and canteens, where portions run small and ordering one more round is completely normal."
+    ],
+    "variants": [
+      {
+        "zh": "再来一瓶啤酒。",
+        "py": "Zài lái yì píng píjiǔ.",
+        "en": "One more bottle of beer."
+      },
+      {
+        "zh": "再来两份饺子。",
+        "py": "Zài lái liǎng fèn jiǎozi.",
+        "en": "Two more orders of dumplings."
+      },
+      {
+        "zh": "这个再来一份。",
+        "py": "Zhège zài lái yí fèn.",
+        "en": "One more of this one."
+      }
+    ],
+    "mistakes": [
+      "Using 一杯 for food — 杯 counts drinks and 份 counts dishes; the measure word is what makes the sentence sound native.",
+      "Dropping 来 and saying 再一份 — it is understood, but 再来 is the fixed rhythm everyone actually says.",
+      "Ordering a second round after the kitchen has stopped — many kitchens close half an hour before the restaurant does, so ask 还能点吗 first."
+    ],
+    "replies": [
+      {
+        "zh": "好，马上来。",
+        "py": "Hǎo, mǎshàng lái.",
+        "en": "Okay, coming right up."
+      },
+      {
+        "zh": "好的，一份。",
+        "py": "Hǎo de, yí fèn.",
+        "en": "Sure, one more serving."
+      },
+      {
+        "zh": "这个卖完了。",
+        "py": "Zhège mài wán le.",
+        "en": "That one is sold out."
+      }
+    ]
+  },
+  "128": {
+    "when": [
+      "Ask it when you arrive somewhere new — a hotel, a homestay, a station exit — to judge whether you should walk, ride the metro or take a taxi.",
+      "It is also the polite way to start a fare estimate with a taxi driver before you get in."
+    ],
+    "variants": [
+      {
+        "zh": "这里离地铁站远吗？",
+        "py": "Zhèlǐ lí dìtiě zhàn yuǎn ma?",
+        "en": "Is it far from the metro station?"
+      },
+      {
+        "zh": "离这儿有多远？",
+        "py": "Lí zhèr yǒu duō yuǎn?",
+        "en": "How far is it from here?"
+      },
+      {
+        "zh": "走路能到吗？",
+        "py": "Zǒulù néng dào ma?",
+        "en": "Can I get there on foot?"
+      }
+    ],
+    "mistakes": [
+      "Using 是 to connect two places — Chinese measures distance with A 离 B 远, never A 是 B 远; 离 is the preposition that carries the distance.",
+      "Confusing 远 (far) with 久 (a long time) — distance answers in kilometers and time in minutes, and 多远 vs 多久 is what picks between them.",
+      "Expecting an exact distance — locals answer with walking time or landmarks, so follow up with 走路要多久 (how long does it take to walk)."
+    ],
+    "replies": [
+      {
+        "zh": "不远，走路十分钟。",
+        "py": "Bù yuǎn, zǒulù shí fēnzhōng.",
+        "en": "Not far, ten minutes on foot."
+      },
+      {
+        "zh": "有点远，建议坐地铁。",
+        "py": "Yǒudiǎn yuǎn, jiànyì zuò dìtiě.",
+        "en": "A bit far; I'd suggest the metro."
+      },
+      {
+        "zh": "打车大概二十块。",
+        "py": "Dǎchē dàgài èrshí kuài.",
+        "en": "About twenty yuan by taxi."
+      }
+    ]
+  },
+  "129": {
+    "when": [
+      "Use it on a platform, at a bus stop or outside a metro gate before you board — confirming the destination costs nothing and saves a wrong-way ride.",
+      "Swap the destination and the sentence still works: any 火车站, 市中心 or landmark name fits straight into the slot."
+    ],
+    "variants": [
+      {
+        "zh": "这趟车到市中心吗？",
+        "py": "Zhè tàng chē dào shìzhōngxīn ma?",
+        "en": "Does this train go downtown?"
+      },
+      {
+        "zh": "这路公交车去火车站吗？",
+        "py": "Zhè lù gōngjiāochē qù huǒchēzhàn ma?",
+        "en": "Does this bus go to the train station?"
+      },
+      {
+        "zh": "我该坐几号线？",
+        "py": "Wǒ gāi zuò jǐ hào xiàn?",
+        "en": "Which metro line should I take?"
+      }
+    ],
+    "mistakes": [
+      "Saying 这车 without 趟 — 趟 is the measure word for a scheduled run, and 这趟车 is the fixed phrase staff expect to hear.",
+      "Dropping the 吗 — 这趟车去机场 without it is a statement, not a question, and staff may just nod along without correcting you.",
+      "Asking after the doors have opened — drivers on express routes may not wait, so confirm before you step in rather than once you are on."
+    ],
+    "replies": [
+      {
+        "zh": "对，去机场。",
+        "py": "Duì, qù jīchǎng.",
+        "en": "Yes, it goes to the airport."
+      },
+      {
+        "zh": "不去，你坐反了。",
+        "py": "Bú qù, nǐ zuò fǎn le.",
+        "en": "It doesn't; you're headed the wrong way."
+      },
+      {
+        "zh": "这趟不去，下一趟去。",
+        "py": "Zhè tàng bú qù, xià yí tàng qù.",
+        "en": "This one doesn't; the next one does."
+      }
+    ]
+  },
+  "130": {
+    "when": [
+      "Use it at a hotel front desk, a restaurant counter or any staffed reception when you want someone else to handle the calling — it is the standard polite way to get a cab.",
+      "It also works in shops and malls, where staff can summon a car on an app for you when the street outside is busy."
+    ],
+    "variants": [
+      {
+        "zh": "可以帮我叫个车吗？",
+        "py": "Kěyǐ bāng wǒ jiào ge chē ma?",
+        "en": "Can you call me a car?"
+      },
+      {
+        "zh": "请帮我用滴滴叫车。",
+        "py": "Qǐng bāng wǒ yòng Dīdī jiào chē.",
+        "en": "Please call me a car with Didi."
+      },
+      {
+        "zh": "麻烦帮我叫出租车，去机场。",
+        "py": "Máfan bāng wǒ jiào chūzūchē, qù jīchǎng.",
+        "en": "Please call me a taxi — I'm going to the airport."
+      }
+    ],
+    "mistakes": [
+      "Saying 打车 when you want someone else to do it — 打车 is what you do yourself; the key words in this sentence are 帮我 (for me).",
+      "Hailing from the curb at rush hour — in big cities most cars are dispatched by app, and a front desk 叫车 beats waving your arm.",
+      "Forgetting to say where you are going — adding 去机场 or an address while asking gets the right kind of car the first time."
+    ],
+    "replies": [
+      {
+        "zh": "好，我帮您叫。",
+        "py": "Hǎo, wǒ bāng nín jiào.",
+        "en": "Sure, I'll call one for you."
+      },
+      {
+        "zh": "您稍等，五分钟到。",
+        "py": "Nín shāo děng, wǔ fēnzhōng dào.",
+        "en": "Wait a moment; it will arrive in five minutes."
+      },
+      {
+        "zh": "车已经叫好了。",
+        "py": "Chē yǐjīng jiào hǎo le.",
+        "en": "The car is already booked."
+      }
+    ]
+  },
+  "131": {
+    "when": [
+      "Use it at the front desk when the door reader refuses your card — a dead card is routine, and this sentence gets it fixed without any embarrassment.",
+      "It also covers the checkout-day case: the card expired at noon and you still need to step back inside for your bags."
+    ],
+    "variants": [
+      {
+        "zh": "房卡消磁了。",
+        "py": "Fángkǎ xiāocí le.",
+        "en": "The key card got demagnetized."
+      },
+      {
+        "zh": "门打不开了。",
+        "py": "Mén dǎ bu kāi le.",
+        "en": "The door won't open."
+      },
+      {
+        "zh": "我进不去房间。",
+        "py": "Wǒ jìn bu qù fángjiān.",
+        "en": "I can't get into my room."
+      }
+    ],
+    "mistakes": [
+      "Keeping the card in your phone case or against a magnet — this is the top cause of dead cards, and staff guess it the moment they hear the sentence.",
+      "Describing the problem but leaving the card in the room — bring the card itself to the front desk; they recharge or re-encode it in seconds.",
+      "Panicking after noon — cards stop at checkout time by design, and the desk reactivates yours if a late checkout was agreed."
+    ],
+    "replies": [
+      {
+        "zh": "我给您重新做一张。",
+        "py": "Wǒ gěi nín chóngxīn zuò yì zhāng.",
+        "en": "I'll make you a new one."
+      },
+      {
+        "zh": "您的房号是多少？",
+        "py": "Nín de fánghào shì duōshao?",
+        "en": "What is your room number?"
+      },
+      {
+        "zh": "是不是跟手机放一起了？",
+        "py": "Shì bu shì gēn shǒujī fàng yìqǐ le?",
+        "en": "Was it next to your phone?"
+      }
+    ]
+  },
+  "132": {
+    "when": [
+      "Use it inside a bank, or when asking staff where the ATM is — 取钱 (withdraw money) is the everyday word, and tellers hear it from everyone.",
+      "It also works at a bank counter with your passport and card, where staff will route you to a foreign-card machine or a human teller."
+    ],
+    "variants": [
+      {
+        "zh": "附近有取款机吗？",
+        "py": "Fùjìn yǒu qǔkuǎnjī ma?",
+        "en": "Is there an ATM nearby?"
+      },
+      {
+        "zh": "我想取五百块。",
+        "py": "Wǒ xiǎng qǔ wǔbǎi kuài.",
+        "en": "I would like to withdraw five hundred yuan."
+      },
+      {
+        "zh": "我的卡取不了钱。",
+        "py": "Wǒ de kǎ qǔ bu liǎo qián.",
+        "en": "My card can't withdraw money."
+      }
+    ],
+    "mistakes": [
+      "Mixing up 取钱 (withdraw) and 存钱 (deposit) — the words look alike on screen, and pressing 存款 feeds money in instead of taking it out.",
+      "Using convenience-store ATMs with a foreign card — stick to big banks like 中国银行 and 工商银行, whose machines take international cards with an English menu.",
+      "Withdrawing small amounts repeatedly — foreign cards usually cap daily amounts and every withdrawal carries a fee, so take what you need in one go."
+    ],
+    "replies": [
+      {
+        "zh": "请到那边取款机。",
+        "py": "Qǐng dào nàbiān qǔkuǎnjī.",
+        "en": "Please use the ATM over there."
+      },
+      {
+        "zh": "请出示您的护照。",
+        "py": "Qǐng chūshì nín de hùzhào.",
+        "en": "Please show your passport."
+      },
+      {
+        "zh": "单日最多取两千。",
+        "py": "Dān rì zuìduō qǔ liǎngqiān.",
+        "en": "The daily withdrawal limit is two thousand yuan."
+      }
+    ]
+  },
+  "133": {
+    "when": [
+      "Use it when directions, prices or instructions finally click — it closes the loop politely and encourages people to keep talking with you.",
+      "Say it instead of nodding silently after someone re-explains something slowly; the phrase tells them their effort worked."
+    ],
+    "variants": [
+      {
+        "zh": "好的，明白了。",
+        "py": "Hǎo de, míngbai le.",
+        "en": "Okay, understood."
+      },
+      {
+        "zh": "我懂了。",
+        "py": "Wǒ dǒng le.",
+        "en": "I got it."
+      },
+      {
+        "zh": "明白，谢谢！",
+        "py": "Míngbai, xièxie!",
+        "en": "Got it, thanks!"
+      }
+    ],
+    "mistakes": [
+      "Confusing 明白 with 知道 — 明白 means the explanation made sense, 知道 means you know the fact; after an explanation, 明白了 is the natural reply.",
+      "Saying it when you actually don't understand — politeness stops the explanation exactly when you need it most, and 我不太明白 keeps it going.",
+      "Dropping the 了 — 我明白 alone sounds like a general claim about your abilities; 了 marks that the understanding just happened."
+    ],
+    "replies": [
+      {
+        "zh": "对，就是这样。",
+        "py": "Duì, jiùshì zhèyàng.",
+        "en": "Right, that's exactly it."
+      },
+      {
+        "zh": "不明白的话再问我。",
+        "py": "Bù míngbai de huà zài wèn wǒ.",
+        "en": "If it is not clear, ask me again."
+      },
+      {
+        "zh": "我再给你讲一遍。",
+        "py": "Wǒ zài gěi nǐ jiǎng yí biàn.",
+        "en": "Let me explain it once more."
+      }
+    ]
+  },
+  "134": {
+    "when": [
+      "Use it at a pharmacy counter or clinic — stomach trouble is the number-one traveler complaint in China, and this sentence gets you medicine fast.",
+      "It also works in a taxi heading to a hospital, and with hotel staff who can point you to the nearest pharmacy or doctor."
+    ],
+    "variants": [
+      {
+        "zh": "我头疼。",
+        "py": "Wǒ tóuténg.",
+        "en": "I have a headache."
+      },
+      {
+        "zh": "我疼得厉害。",
+        "py": "Wǒ téng de lìhai.",
+        "en": "The pain is bad."
+      },
+      {
+        "zh": "从昨天开始疼。",
+        "py": "Cóng zuótiān kāishǐ téng.",
+        "en": "It has hurt since yesterday."
+      }
+    ],
+    "mistakes": [
+      "Saying 胃疼 when you are not sure which organ it is — 肚子 (belly) covers everything between chest and hips and is what pharmacists expect first.",
+      "Dropping the body part and saying 我疼 — Chinese names the spot; 疼 alone sounds vague even to a doctor.",
+      "Toughing it out for days — pharmacies sell effective stomach medicine over the counter, and staff can route you the moment they hear 肚子疼."
+    ],
+    "replies": [
+      {
+        "zh": "什么时候开始的？",
+        "py": "Shénme shíhou kāishǐ de?",
+        "en": "When did it start?"
+      },
+      {
+        "zh": "拉肚子吗？",
+        "py": "Lā dùzi ma?",
+        "en": "Do you have diarrhea?"
+      },
+      {
+        "zh": "建议去医院看看。",
+        "py": "Jiànyì qù yīyuàn kànkan.",
+        "en": "I suggest going to the hospital for a check."
+      }
+    ]
+  },
+  "135": {
+    "when": [
+      "Use it at the airport lost-luggage desk first, then at your hotel front desk if the airline sent your bag on later — both places act on it immediately.",
+      "It also works at train stations, where left-behind or mixed-up bags end up at the station's lost and found."
+    ],
+    "variants": [
+      {
+        "zh": "我的行李没出来。",
+        "py": "Wǒ de xíngli méi chūlái.",
+        "en": "My luggage didn't come out."
+      },
+      {
+        "zh": "行李转盘上没有我的箱子。",
+        "py": "Xíngli zhuànpán shàng méiyǒu wǒ de xiāngzi.",
+        "en": "My suitcase isn't on the carousel."
+      },
+      {
+        "zh": "我的箱子丢了。",
+        "py": "Wǒ de xiāngzi diū le.",
+        "en": "My suitcase is lost."
+      }
+    ],
+    "mistakes": [
+      "Going to the airline counter instead of 行李查询 — at Chinese airports the lost-luggage desk next to the carousel is the correct first stop.",
+      "Throwing away the baggage tag — the sticky stub links the search to your bag, so keep it until the bag is back in your hands.",
+      "Confusing 丢 with 偷 — 丢 starts a search for a lost bag, while 被偷 (stolen) turns it into a police matter with a different response."
+    ],
+    "replies": [
+      {
+        "zh": "有行李票吗？",
+        "py": "Yǒu xínglipiào ma?",
+        "en": "Do you have the baggage tag?"
+      },
+      {
+        "zh": "请描述一下您的箱子。",
+        "py": "Qǐng miáoshù yíxià nín de xiāngzi.",
+        "en": "Please describe your suitcase."
+      },
+      {
+        "zh": "别急，我们帮您找。",
+        "py": "Bié jí, wǒmen bāng nín zhǎo.",
+        "en": "Don't worry; we will help you find it."
+      }
+    ]
+  },
+  "_comment": "第三批扩词：id 126-135（不要香菜/再来一份/离市中心远吗/这趟车去机场吗/叫出租车/房卡不能用/取钱/我明白了/肚子疼/行李丢了）"
 }

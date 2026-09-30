@@ -1,78 +1,78 @@
 == 哨兵体检（离线）==
-local    : C:\Users\Administrator\WorkBuddy\2026-09-25-20-49-31\real-life-chinese\out（152 页）
+local    : C:\Users\Administrator\WorkBuddy\2026-09-25-20-49-31\real-life-chinese\out（162 页）
 
 -- 哨兵自检（本地命中 / 线上抽样命中）--
-  · 冠词修复（a everyday → an everyday） → 本地 30/152 页
-      命中：/how-to-say-cheers-in-chinese/ /how-to-say-do-you-speak-english-in-chinese/ /how-to-say-excuse-me-in-chinese/ /how-to-say-good-morning-in-chinese/ /how-to-say-good-night-in-chinese/ …共 30 页
-  · P1 深化内容：更自然的说法（全部批次） → 本地 90/152 页
-      命中：/how-to-say-a-towel-please-in-chinese/ /how-to-say-can-i-check-out-later-in-chinese/ /how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-pay-by-card-in-chinese/ /how-to-say-can-i-take-photos-here-in-chinese/ …共 90 页
-  · P1 深化内容：新手常见坑（全部批次） → 本地 90/152 页
-      命中：/how-to-say-a-towel-please-in-chinese/ /how-to-say-can-i-check-out-later-in-chinese/ /how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-pay-by-card-in-chinese/ /how-to-say-can-i-take-photos-here-in-chinese/ …共 90 页
-  · P1 深化第二批：告别页 → 本地 1/152 页
+  · 冠词修复（a everyday → an everyday） → 本地 31/162 页
+      命中：/how-to-say-cheers-in-chinese/ /how-to-say-do-you-speak-english-in-chinese/ /how-to-say-excuse-me-in-chinese/ /how-to-say-good-morning-in-chinese/ /how-to-say-good-night-in-chinese/ …共 31 页
+  · P1 深化内容：更自然的说法（全部批次） → 本地 100/162 页
+      命中：/how-to-say-a-towel-please-in-chinese/ /how-to-say-can-i-check-out-later-in-chinese/ /how-to-say-can-i-get-a-wake-up-call-tomorrow-morning-in-chinese/ /how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-pay-by-card-in-chinese/ …共 100 页
+  · P1 深化内容：新手常见坑（全部批次） → 本地 100/162 页
+      命中：/how-to-say-a-towel-please-in-chinese/ /how-to-say-can-i-check-out-later-in-chinese/ /how-to-say-can-i-get-a-wake-up-call-tomorrow-morning-in-chinese/ /how-to-say-can-i-get-this-to-go-in-chinese/ /how-to-say-can-i-pay-by-card-in-chinese/ …共 100 页
+  · P1 深化第二批：告别页 → 本地 1/162 页
       命中：/how-to-say-goodbye-in-chinese/
-  · P1 深化第二批：问候页（含 FAQ 改读正文） → 本地 1/152 页
+  · P1 深化第二批：问候页（含 FAQ 改读正文） → 本地 1/162 页
       命中：/how-to-say-how-are-you-in-chinese/
-  · FAQ 答案改读正文（deep.when） → 本地 1/152 页
+  · FAQ 答案改读正文（deep.when） → 本地 1/162 页
       命中：/how-to-say-thank-you-in-chinese/
-  · id 13 文案改写（It's this address → This is the address） → 本地 9/152 页
-      命中：/7-day-chinese-course/ /chinese-travel-phrases/ /how-to-say-can-i-take-photos-here-in-chinese/ /how-to-say-i-need-to-go-to-the-airport-in-chinese/ /how-to-say-its-this-address-in-chinese/ …共 9 页
-  · 清单时间轴（三阶段） → 本地 1/152 页
+  · id 13 文案改写（It's this address → This is the address） → 本地 9/162 页
+      命中：/7-day-chinese-course/ /chinese-travel-phrases/ /how-to-say-i-need-to-go-to-the-airport-in-chinese/ /how-to-say-its-this-address-in-chinese/ /how-to-say-please-drive-more-slowly-in-chinese/ …共 9 页
+  · 清单时间轴（三阶段） → 本地 1/162 页
       命中：/china-travel-checklist/
-  · Scenario Mode（场景总览 H1） → 本地 1/152 页
+  · Scenario Mode（场景总览 H1） → 本地 1/162 页
       命中：/scenarios/
-  · Numbers & Money 改动 → 本地 1/152 页
+  · Numbers & Money 改动 → 本地 1/162 页
       命中：/chinese-numbers/
-  · P1 深化第三批：不好意思（拒推销） → 本地 1/152 页
+  · P1 深化第三批：不好意思（拒推销） → 本地 1/162 页
       命中：/how-to-say-excuse-me-in-chinese/
-  · 连播（Listen ×3） → 本地 136/152 页
-      命中：/7-day-chinese-course/ /chinese-emergency-phrases/ /chinese-everyday-phrases/ /chinese-hotel-phrases/ /chinese-money-phrases/ …共 136 页
-  · P1 深化第四批：我爱你（GSC 已曝光页） → 本地 1/152 页
+  · 连播（Listen ×3） → 本地 146/162 页
+      命中：/7-day-chinese-course/ /chinese-emergency-phrases/ /chinese-everyday-phrases/ /chinese-hotel-phrases/ /chinese-money-phrases/ …共 146 页
+  · P1 深化第四批：我爱你（GSC 已曝光页） → 本地 1/162 页
       命中：/how-to-say-i-love-you-in-chinese/
-  · P1 深化第四批：报案证明（emergency） → 本地 1/152 页
+  · P1 深化第四批：报案证明（emergency） → 本地 1/162 页
       命中：/how-to-say-please-call-the-police-in-chinese/
-  · P1 深化第五批：打包（restaurant） → 本地 1/152 页
+  · P1 深化第五批：打包（restaurant） → 本地 1/162 页
       命中：/how-to-say-can-i-get-this-to-go-in-chinese/
-  · P1 深化第五批：过敏（emergency） → 本地 1/152 页
+  · P1 深化第五批：过敏（emergency） → 本地 1/162 页
       命中：/how-to-say-im-allergic-in-chinese/
-  · P1 深化第六批：中文不好（everyday · GSC 已曝光） → 本地 1/152 页
+  · P1 深化第六批：中文不好（everyday · GSC 已曝光） → 本地 1/162 页
       命中：/how-to-say-my-chinese-isnt-good-in-chinese/
-  · P1 深化第六批：生病（emergency） → 本地 1/152 页
+  · P1 深化第六批：生病（emergency） → 本地 1/162 页
       命中：/how-to-say-im-sick-in-chinese/
-  · P1 深化第七批：水（restaurant） → 本地 1/152 页
+  · P1 深化第七批：水（restaurant） → 本地 1/162 页
       命中：/how-to-say-water-please-in-chinese/
-  · P1 深化第七批：空调（hotel） → 本地 1/152 页
+  · P1 深化第七批：空调（hotel） → 本地 1/162 页
       命中：/how-to-say-the-air-conditioner-is-broken-in-chinese/
-  · P1 深化第八批：菜单（restaurant） → 本地 1/152 页
+  · P1 深化第八批：菜单（restaurant） → 本地 1/162 页
       命中：/how-to-say-do-you-have-a-menu-in-chinese/
-  · P1 深化第八批：花生过敏（emergency） → 本地 1/152 页
+  · P1 深化第八批：花生过敏（emergency） → 本地 1/162 页
       命中：/how-to-say-im-allergic-to-peanuts-in-chinese/
-  · P1 深化第九批：小号（shopping） → 本地 1/152 页
+  · P1 深化第九批：小号（shopping） → 本地 1/162 页
       命中：/how-to-say-do-you-have-a-small-size-in-chinese/
-  · P1 深化第九批：看医生（emergency） → 本地 1/152 页
+  · P1 深化第九批：看医生（emergency） → 本地 1/162 页
       命中：/how-to-say-i-need-to-see-a-doctor-in-chinese/
-  · P1 深化第十批：护照丢了（emergency） → 本地 1/152 页
+  · P1 深化第十批：护照丢了（emergency） → 本地 1/162 页
       命中：/how-to-say-i-lost-my-passport-in-chinese/
-  · P1 深化第十批：一共多少钱（money） → 本地 1/152 页
+  · P1 深化第十批：一共多少钱（money） → 本地 1/162 页
       命中：/how-to-say-how-much-is-it-altogether-in-chinese/
-  · P1 深化第十一批：你好（三声变调） → 本地 1/152 页
+  · P1 深化第十一批：你好（三声变调） → 本地 1/162 页
       命中：/how-to-say-hello-in-chinese/
-  · P1 深化第十一批：是的语气 → 本地 1/152 页
+  · P1 深化第十一批：是的语气 → 本地 1/162 页
       命中：/how-to-say-yes-in-chinese/
-  · P1 深化第十二批：多少钱（块 vs 元） → 本地 1/152 页
+  · P1 深化第十二批：多少钱（块 vs 元） → 本地 1/162 页
       命中：/how-to-say-how-much-in-chinese/
-  · P1 深化第十二批：救命（120 的读法） → 本地 2/152 页
+  · P1 深化第十二批：救命（120 的读法） → 本地 2/162 页
       命中：/how-to-say-help-in-chinese/ /how-to-say-please-call-an-ambulance-in-chinese/
-  · 行程卡：紧急卡（四个号码） → 本地 1/152 页
+  · 行程卡：紧急卡（四个号码） → 本地 1/162 页
       命中：/emergency-card/
-  · 行程卡：地址卡（先出示再说） → 本地 1/152 页
+  · 行程卡：地址卡（先出示再说） → 本地 1/162 页
       命中：/address-card/
-  · 7 天课（Day 1 标题） → 本地 1/152 页
+  · 7 天课（Day 1 标题） → 本地 1/162 页
       命中：/7-day-chinese-course/
-  · 上网指南（Wi-Fi 登录） → 本地 1/152 页
+  · 上网指南（Wi-Fi 登录） → 本地 1/162 页
       命中：/getting-online-in-china/
-  · 上网指南（App 可用性） → 本地 1/152 页
+  · 上网指南（App 可用性） → 本地 1/162 页
       命中：/getting-online-in-china/
-  · 听力小测（SSR 介绍句） → 本地 1/152 页
+  · 听力小测（SSR 介绍句） → 本地 1/162 页
       命中：/listening-quiz/
 
 VERDICT PASS —— 36 条哨兵都活着且有区分度
