@@ -1,2 +1,4 @@
-写入锁文件：_dev/sluglock.json（135 条单句页 URL）
-PASS: 已生成（下次构建起开始校验）
+锁内 URL : 135
+实际 URL : 135
+
+PASS: 没有已上线的单句页 URL 丢失

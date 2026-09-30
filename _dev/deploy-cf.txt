@@ -1,5 +1,5 @@
 {
- "at": "2026-09-30T01:35:21.420Z",
+ "at": "2026-09-30T01:56:36.841Z",
  "dir": "C:\\Users\\Administrator\\WorkBuddy\\2026-09-25-20-49-31\\real-life-chinese\\out",
  "project": "chinesequick",
  "dryRun": false,
@@ -22,22 +22,22 @@
   "sitemapCounts": [
    [
     "chinesequick.com",
-    168
+    170
    ]
   ],
   "problems": []
  },
- "fileCount": 908,
- "totalBytes": 21594848,
- "manifestEntries": 908,
- "prevDeployment": "53e4ca74-1353-40ee-bd2e-2d53c9ef0404",
+ "fileCount": 912,
+ "totalBytes": 21914248,
+ "manifestEntries": 912,
+ "prevDeployment": "c5a2afc3-5670-4cc3-ba65-2bf947fc8bc3",
  "knownDeployments": 10,
  "rounds": [
   {
    "round": 1,
    "newDeployment": true,
-   "id": "c5a2afc3",
-   "fileCount": 908,
+   "id": "7fdee5bf",
+   "fileCount": 912,
    "fileCountSource": "deployment",
    "servedOk": true,
    "rolledBackTo": null,
@@ -46,20 +46,20 @@
   }
  ],
  "assetBuckets": 1,
- "assetUploaded": 908,
- "assetHashesDeclared": 908,
+ "assetUploaded": 912,
+ "assetHashesDeclared": 912,
  "settle": {
   "changed": true,
   "servedOk": true,
-  "id": "c5a2afc3-5670-4cc3-ba65-2bf947fc8bc3",
-  "shortId": "c5a2afc3",
-  "url": "https://c5a2afc3.chinesequick.pages.dev",
-  "fileCount": 908,
+  "id": "7fdee5bf-ce86-4d76-8a64-5a20d27b3a74",
+  "shortId": "7fdee5bf",
+  "url": "https://7fdee5bf.chinesequick.pages.dev",
+  "fileCount": 912,
   "fileCountKnown": true,
   "stages": [
    {
     "name": "queued",
-    "started_on": "2026-09-30T01:39:16.16318Z",
+    "started_on": "2026-09-30T02:01:01.318347Z",
     "ended_on": null,
     "status": "active"
    },
@@ -90,7 +90,7 @@
   ],
   "fileCountSource": "deployment",
   "served": {
-   "base": "https://c5a2afc3.chinesequick.pages.dev",
+   "base": "https://7fdee5bf.chinesequick.pages.dev",
    "checks": [
     {
      "path": "/",
@@ -98,7 +98,7 @@
      "type": "text/html"
     },
     {
-     "path": "/_next/static/chunks/139.7a5a8e93a21948c1.js",
+     "path": "/_next/static/TZ2UJ9izA9jSBOPQTIBsU/_buildManifest.js",
      "status": 200,
      "type": "application/javascript"
     },
@@ -112,7 +112,7 @@
   }
  },
  "served": {
-  "base": "https://c5a2afc3.chinesequick.pages.dev",
+  "base": "https://7fdee5bf.chinesequick.pages.dev",
   "checks": [
    {
     "path": "/",
@@ -120,7 +120,7 @@
     "type": "text/html"
    },
    {
-    "path": "/_next/static/chunks/139.7a5a8e93a21948c1.js",
+    "path": "/_next/static/TZ2UJ9izA9jSBOPQTIBsU/_buildManifest.js",
     "status": 200,
     "type": "application/javascript"
    },
@@ -133,7 +133,7 @@
   "ok": true
  },
  "transport": "direct",
- "url": "https://c5a2afc3.chinesequick.pages.dev",
- "deploymentId": "c5a2afc3-5670-4cc3-ba65-2bf947fc8bc3",
+ "url": "https://7fdee5bf.chinesequick.pages.dev",
+ "deploymentId": "7fdee5bf-ce86-4d76-8a64-5a20d27b3a74",
  "ok": true
 }

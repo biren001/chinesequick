@@ -1,5 +1,5 @@
 {
-  "htmlFiles": 177,
+  "htmlFiles": 179,
   "occurrences": 135,
   "pagesWithFaqSentence": 135,
   "variants": {

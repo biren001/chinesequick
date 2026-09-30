@@ -659,6 +659,188 @@ export const SCENARIOS: Scenario[] = [
       },
     ],
   },
+  {
+    slug: "at-the-pharmacy",
+    emoji: "💊",
+    name: "At the pharmacy",
+    blurb: "Find a pharmacy, say what hurts, get the right medicine.",
+    h1: "At a Chinese pharmacy: asking for medicine in Chinese",
+    metaTitle: "Pharmacy Chinese: find medicine and explain what hurts",
+    description:
+      "The Chinese you need at a Chinese drugstore — find one, describe the symptom, mention allergies, and know when a hospital is the right door instead.",
+    intro: [
+      "Stomach trouble and headaches are the two things that actually derail a trip, and both start at a pharmacy (药店) — the shops with the green cross sign that sit every few blocks in any Chinese city, many open late and some around the clock.",
+      "The conversation is short and predictable: what hurts, since when, and whether you are allergic to anything. The pharmacist will pick something and explain how to take it — often only in Chinese, so have your phone's camera ready to translate the box.",
+    ],
+    steps: [
+      {
+        sayId: 91,
+        title: "Open with what's wrong",
+        theySay: {
+          zh: "哪里不舒服？",
+          py: "Nǎlǐ bù shūfu?",
+          en: "What's bothering you?",
+        },
+        note: "This is the question behind the counter, and 生病了 (I'm sick) is the honest, all-purpose answer that starts it. You don't need to diagnose yourself in Chinese — the follow-up questions will walk you there.",
+      },
+      {
+        sayId: 94,
+        title: "Find the pharmacy first",
+        theySay: {
+          zh: "前面路口有一家。",
+          py: "Qiánmiàn lùkǒu yǒu yì jiā.",
+          en: "There's one at the intersection ahead.",
+        },
+        note: "Look for the green cross and the word 药店 — chain drugstores are everywhere and many keep long hours; 24小时 on the sign means round the clock. Hotel staff will point you to the nearest one if the street sign isn't obvious.",
+      },
+      {
+        sayId: 134,
+        title: "Say where it hurts",
+        theySay: {
+          zh: "拉肚子吗？",
+          py: "Lā dùzi ma?",
+          en: "Do you have diarrhea?",
+        },
+        note: "肚子疼 (belly hurts) is what the pharmacist needs to hear, and the follow-up questions are exactly this direct — travelers find it startling the first time. Answer honestly; embarrassment costs you the right medicine.",
+      },
+      {
+        sayId: 89,
+        title: "Mention allergies before they ask",
+        theySay: {
+          zh: "对什么过敏？",
+          py: "Duì shénme guòmǐn?",
+          en: "What are you allergic to?",
+        },
+        note: "They ask this for almost everything, and the answer matters more than the symptom. If it's a food rather than a drug, 我对花生过敏 (I'm allergic to peanuts) is the sentence to have ready — peanut oil turns up in unexpected places.",
+      },
+      {
+        sayId: 88,
+        title: "When the pharmacy isn't enough",
+        theySay: {
+          zh: "前面医院，挂号在一楼。",
+          py: "Qiánmiàn yīyuàn, guàhào zài yīlóu.",
+          en: "There's a hospital ahead; registration is on the first floor.",
+        },
+        note: "Pharmacists redirect people the moment a symptom sounds serious, so take that advice. At a hospital you register first (挂号) and then see a doctor — big hospitals have an international desk, and your hotel front desk can call one for you.",
+      },
+    ],
+    alsoIds: [90, 87],
+    faq: [
+      {
+        q: "Can I buy medicine over the counter in China?",
+        a: "Yes — most common remedies for stomach trouble, colds and pain are sold at pharmacies without a prescription. Describe the symptom (我肚子疼 works for the first one), let the pharmacist pick, and keep the box: it tells a doctor exactly what you took if the problem doesn't settle.",
+      },
+      {
+        q: "How do I find a pharmacy in China?",
+        a: "Look for the green cross sign with 药店 on it, or ask 这附近有药店吗 (is there a pharmacy nearby?). Chain drugstores are dense in any city, many open past ten at night, and some run 24 hours — the staff are used to customers pointing at what hurts.",
+      },
+      {
+        q: "When should I go to a hospital instead of a pharmacy?",
+        a: "For anything beyond a familiar minor complaint — high fever, an injury, breathing trouble — go to a hospital (医院) or call 120 for an ambulance. Pharmacists redirect people themselves when a symptom sounds serious, and hotel desks can help you find a doctor who speaks English.",
+      },
+    ],
+  },
+  {
+    slug: "bargaining-at-a-market",
+    emoji: "🧺",
+    name: "Bargaining at a market",
+    blurb: "Browse politely, ask the price, talk it down a little.",
+    h1: "Bargaining in Chinese: browse, ask, and talk it down",
+    metaTitle: "Bargaining in Chinese: market phrases that work politely",
+    description:
+      "How to bargain at a Chinese market in Chinese — browse without pressure, ask the price, ask for a discount, try things on and close the deal politely.",
+    intro: [
+      "Bargaining in China is polite, brief and expected — in the right place. Tourist markets and small stalls expect it; supermarkets and chain stores have fixed prices and no amount of 可以便宜一点吗 will move them, so read the setting first.",
+      "The whole dance is about six sentences, and tone matters as much as words: smile, take your time, and treat the first quote as an opening position rather than an insult. Walking away slowly is a legitimate final move, and sometimes it's the one that closes the deal.",
+    ],
+    steps: [
+      {
+        sayId: 34,
+        title: "Browse without pressure",
+        theySay: {
+          zh: "好的，随便看。",
+          py: "Hǎo de, suíbiàn kàn.",
+          en: "Sure, take your time.",
+        },
+        note: "我随便看看 is the opener that tells a seller you're browsing, not buying yet — and they genuinely back off when they hear it. Looking without buying is completely normal here; no one follows you out for it.",
+      },
+      {
+        sayId: 31,
+        title: "Ask the price",
+        theySay: {
+          zh: "八十。",
+          py: "Bāshí.",
+          en: "Eighty.",
+        },
+        note: "The answer is a number plus 块 (kuài, the spoken word for yuan) — the numbers page is what lets you actually hear it. In tourist markets the first quote usually has room in it; in a fixed-price shop the number is the number.",
+      },
+      {
+        sayId: 40,
+        title: "Ask if there's a deal",
+        theySay: {
+          zh: "现在有活动。",
+          py: "Xiànzài yǒu huódòng.",
+          en: "There's a promotion on now.",
+        },
+        note: "打折 means discount, and it's a real concept in malls — seasonal sales go to 五折 (half price). At a stall the same question politely signals that you know there's a local price and a visitor price.",
+      },
+      {
+        sayId: 32,
+        title: "Talk it down",
+        theySay: {
+          zh: "便宜十块，拿走吧。",
+          py: "Piányi shí kuài, ná zǒu ba.",
+          en: "Ten yuan off — take it.",
+        },
+        note: "可以便宜一点吗 is the whole negotiation in one polite line. Counter whatever they say with your own number, and keep the smile on — a friendly ten-minute haggle that ends a few yuan apart is the normal outcome, not a failure.",
+      },
+      {
+        sayId: 33,
+        title: "Try it on",
+        theySay: {
+          zh: "可以，这边试。",
+          py: "Kěyǐ, zhèbiān shì.",
+          en: "Sure, try it over here.",
+        },
+        note: "Stalls keep a curtain or a mirror for this. Sizes run smaller than most visitors expect, and the stall's stock is the only size range you have — so trying beats guessing, and 这个有点大 (this one is a bit big) keeps the exchange moving.",
+      },
+      {
+        sayId: 37,
+        title: "Ask for your size",
+        theySay: {
+          zh: "有，等一下。",
+          py: "Yǒu, děng yíxià.",
+          en: "Yes — one moment.",
+        },
+        note: "小号, 中号, 大号 are S, M and L — the same three sizes on every market rack. If they fetch one from the back, that's normal: the racks out front are rarely the full stock.",
+      },
+      {
+        sayId: 38,
+        title: "Close the deal",
+        theySay: {
+          zh: "好的，一共三十。",
+          py: "Hǎo de, yígòng sānshí.",
+          en: "OK — thirty altogether.",
+        },
+        note: "Once the number is agreed, 给我一个袋子 finishes it and payment is the usual QR scan or cash. That final 一共 number is the deal — anything added afterwards is a new conversation you can simply decline.",
+      },
+    ],
+    alsoIds: [59, 35, 123],
+    faq: [
+      {
+        q: "Do you have to bargain in China?",
+        a: "Only where it's expected: tourist markets, small stalls and the shops around them. Malls, chain stores, supermarkets and restaurants all have fixed prices. If you're unsure, ask 这个多少钱 and watch whether the number comes with a pause — that pause is the invitation.",
+      },
+      {
+        q: "How much can you talk a price down at a Chinese market?",
+        a: "It varies by market and item, so anchor on the reply rather than a fixed rule. Start with 可以便宜一点吗 (can you make it cheaper?), counter their answer once, and let walking away do the last round — sellers call people back more often than visitors expect.",
+      },
+      {
+        q: "What if I ask the price and don't want to buy?",
+        a: "Nothing happens — asking is free and normal. 我随便看看 (I'm just browsing) or a smile and 谢谢 closes the moment politely. You are never obliged to buy after asking, and sellers don't treat it as rude.",
+      },
+    ],
+  },
 ];
 
 /** slug -> 场景 */

@@ -12,7 +12,7 @@
   ],
   "jsonldErrors": [],
   "titleLen": 55,
-  "textLen": 2333
+  "textLen": 2378
  },
  "phrase": {
   "canonical": "https://chinesequick.com/how-to-say-thank-you-in-chinese/",
@@ -51,7 +51,7 @@
   "jsonldErrors": []
  },
  "sitemap": {
-  "total": 168,
+  "total": 170,
   "allHttps": true,
   "allTrailingSlash": true,
   "noNoindexPage": true,
@@ -95,8 +95,8 @@
   "thankYouNoindex": "noindex, nofollow"
  },
  "allPages": {
-  "pages": 177,
-  "jsonldBlocks": 164,
+  "pages": 179,
+  "jsonldBlocks": 166,
   "pagesWithBadJson": 0,
   "badList": [],
   "noTranslateMissing": []
@@ -158,8 +158,8 @@
   "hubInSitemap": true,
   "titleLen": 41,
   "descLen": 142,
-  "hubItems": 6,
-  "hubScenarioLinks": 6,
+  "hubItems": 8,
+  "hubScenarioLinks": 8,
   "jsonldErrors": [],
   "pages": [
    {
@@ -175,6 +175,36 @@
     "itemListCount": 6,
     "faqCount": 3,
     "phraseLinks": 9,
+    "jsonldErrors": []
+   },
+   {
+    "slug": "at-the-pharmacy",
+    "exists": true,
+    "inSitemap": true,
+    "titleLen": 54,
+    "descLen": 148,
+    "stepsRendered": 5,
+    "theySayRendered": 5,
+    "statedSteps": 5,
+    "statedPhrases": 5,
+    "itemListCount": 5,
+    "faqCount": 3,
+    "phraseLinks": 7,
+    "jsonldErrors": []
+   },
+   {
+    "slug": "bargaining-at-a-market",
+    "exists": true,
+    "inSitemap": true,
+    "titleLen": 56,
+    "descLen": 150,
+    "stepsRendered": 7,
+    "theySayRendered": 7,
+    "statedSteps": 7,
+    "statedPhrases": 7,
+    "itemListCount": 7,
+    "faqCount": 3,
+    "phraseLinks": 10,
     "jsonldErrors": []
    },
    {
