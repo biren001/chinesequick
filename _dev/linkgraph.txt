@@ -1,11 +1,11 @@
 {
- "sitemapPages": 180,
- "pagesScanned": 185,
+ "sitemapPages": 190,
+ "pagesScanned": 195,
  "orphanCount": 0,
  "orphans": [],
  "brokenInternalLinks": [],
  "minInbound": 1,
- "maxInbound": 204,
+ "maxInbound": 214,
  "homeLinksToCategoryPages": [
   "chinese-restaurant-phrases",
   "chinese-travel-phrases",
@@ -18,11 +18,11 @@
  "sampleInbound": [
   [
    "https://chinesequick.com",
-   190
+   200
   ],
   [
    "https://chinesequick.com/china-travel-checklist",
-   198
+   208
   ],
   [
    "https://chinesequick.com/chinese-numbers",
@@ -30,7 +30,7 @@
   ],
   [
    "https://chinesequick.com/scenarios",
-   204
+   214
   ],
   [
    "https://chinesequick.com/7-day-chinese-course",

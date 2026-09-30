@@ -6763,5 +6763,455 @@
       }
     ]
   },
+  "146": {
+    "when": [
+      "Use it the moment the waiter asks anything about spice — it is the safest answer when 只有一点辣 sounds risky but 不要辣 feels like a shame at a good noodle shop.",
+      "It also works when ordering for the table: say it for the whole dish so the kitchen sets the heat level once instead of scattering requests."
+    ],
+    "variants": [
+      {
+        "zh": "少放点辣。",
+        "py": "Shǎo fàng diǎn là.",
+        "en": "Go easy on the chili."
+      },
+      {
+        "zh": "中辣就行。",
+        "py": "Zhōng là jiù xíng.",
+        "en": "Medium spicy is fine."
+      },
+      {
+        "zh": "一点点辣都可以。",
+        "py": "Yìdiǎndiǎn là dōu kěyǐ.",
+        "en": "Even a tiny bit of spice is okay."
+      }
+    ],
+    "mistakes": [
+      "Saying 不要辣 when you actually want 微辣 — kitchens take it literally and you get zero chili; 微辣 is a distinct setting, not a weaker version of no spice.",
+      "Assuming 微辣 is mild by your home standard — in Sichuan or Hunan their mild can still bite, so keep 请给我水 ready.",
+      "Forgetting the word order — it is 微辣就行, not 就行微辣; the spice level always comes first, 就行 closes the sentence."
+    ],
+    "replies": [
+      {
+        "zh": "好的，微辣。",
+        "py": "Hǎo de, wēi là.",
+        "en": "Okay, mild spicy."
+      },
+      {
+        "zh": "我们家的微辣有点辣，没问题吧？",
+        "py": "Wǒmen jiā de wēi là yǒudiǎn là, méi wèntí ba?",
+        "en": "Our mild is a bit spicy — still okay?"
+      },
+      {
+        "zh": "要完全不放辣吗？",
+        "py": "Yào wánquán bú fàng là ma?",
+        "en": "Do you want no chili at all?"
+      }
+    ]
+  },
+  "147": {
+    "when": [
+      "Ask it at the door of any busy restaurant, ticket window or food stall when the queue in front of you is long and you need to decide whether to wait.",
+      "Use it with a queue number in hand too — if the answer is over half an hour, 多少号 now means a walk and a return, and this question tells you which."
+    ],
+    "variants": [
+      {
+        "zh": "还要等多久？",
+        "py": "Hái yào děng duō jiǔ?",
+        "en": "How much longer is the wait?"
+      },
+      {
+        "zh": "现在排到几号了？",
+        "py": "Xiànzài pái dào jǐ hào le?",
+        "en": "Which number are they on now?"
+      },
+      {
+        "zh": "可以先点单吗？",
+        "py": "Kěyǐ xiān diǎndān ma?",
+        "en": "Can I order while waiting?"
+      }
+    ],
+    "mistakes": [
+      "Dropping 要 — 要等多久 is the natural question; 等多久 alone sounds clipped and 多久等 doesn't work at all.",
+      "Mishearing 分钟 as 点钟 — 二十分钟 means twenty minutes; 二十点 would mean eight o'clock, a completely different answer.",
+      "Walking away without a queue number — many places won't call you if you never took one; combine with a photo of the ticket so you remember your 号."
+    ],
+    "replies": [
+      {
+        "zh": "大概十分钟。",
+        "py": "Dàgài shí fēnzhōng.",
+        "en": "About ten minutes."
+      },
+      {
+        "zh": "前面还有三桌。",
+        "py": "Qiánmiàn hái yǒu sān zhuō.",
+        "en": "There are three tables ahead of you."
+      },
+      {
+        "zh": "人多的时候要等一小时。",
+        "py": "Rén duō de shíhou yào děng yì xiǎoshí.",
+        "en": "At busy times you wait an hour."
+      }
+    ]
+  },
+  "148": {
+    "when": [
+      "Use it on the platform or inside the train when signs are crowded with numbers and you need to confirm the car you boarded is the line you meant.",
+      "It also works at transfer stations — before you follow the crowd down the corridor, confirm the next platform is the line your map shows."
+    ],
+    "variants": [
+      {
+        "zh": "这是 2 号线吗？",
+        "py": "Zhè shì èr hào xiàn ma?",
+        "en": "Is this Line 2?"
+      },
+      {
+        "zh": "去XX坐几号线？",
+        "py": "Qù XX zuò jǐ hào xiàn?",
+        "en": "Which line goes to X?"
+      },
+      {
+        "zh": "在哪儿换乘？",
+        "py": "Zài nǎr huànchéng?",
+        "en": "Where do I transfer?"
+      }
+    ],
+    "mistakes": [
+      "Saying 几线 instead of 几号线 — the 号 belongs inside the question; 几号线 is the fixed phrase staff expect.",
+      "Confusing the line number with the exit number — 2号线 is the metro line, 2号口 is exit 2; mixing them sends you to the wrong surface.",
+      "Not checking direction — Chinese lines name their terminus, so confirm 往 (bound for) plus the last stop, not just the line number."
+    ],
+    "replies": [
+      {
+        "zh": "这是 1 号线。",
+        "py": "Zhè shì yī hào xiàn.",
+        "en": "This is Line 1."
+      },
+      {
+        "zh": "这是 10 号线，往虹桥火车站方向。",
+        "py": "Zhè shì shí hào xiàn, wǎng Hóngqiáo Huǒchēzhàn fāngxiàng.",
+        "en": "This is Line 10, bound for Hongqiao Railway Station."
+      },
+      {
+        "zh": "对面就是 2 号线。",
+        "py": "Duìmiàn jiù shì èr hào xiàn.",
+        "en": "Line 2 is right across the platform."
+      }
+    ]
+  },
+  "149": {
+    "when": [
+      "Use it when you land somewhere new and need water, a charger, snacks or an ATM at odd hours — convenience stores are the one thing China's streets never run out of.",
+      "Ask it before you leave a hotel or metro station at night; the answer plus a direction pointing keeps the walk short and safe."
+    ],
+    "variants": [
+      {
+        "zh": "最近的便利店在哪儿？",
+        "py": "Zuìjìn de biànlìdiàn zài nǎr?",
+        "en": "Where is the nearest convenience store?"
+      },
+      {
+        "zh": "便利店几点关门？",
+        "py": "Biànlìdiàn jǐ diǎn guānmén?",
+        "en": "What time does the convenience store close?"
+      },
+      {
+        "zh": "附近有超市吗？",
+        "py": "Fùjìn yǒu chāoshì ma?",
+        "en": "Is there a supermarket nearby?"
+      }
+    ],
+    "mistakes": [
+      "Calling it 方便店 — the store is 便利店 (convenience store); 方便 belongs to 方便面 (instant noodles) and polite questions.",
+      "Expecting a 7-Eleven everywhere — coverage differs by city; 罗森, 全家 and 便利蜂 are the names you will actually see.",
+      "Forgetting you can pay by cash there too — if Alipay fails, convenience stores are the classic fallback for 支付宝没绑好 moments."
+    ],
+    "replies": [
+      {
+        "zh": "前面路口就有一家。",
+        "py": "Qiánmiàn lùkǒu jiù yǒu yì jiā.",
+        "en": "There's one at the intersection ahead."
+      },
+      {
+        "zh": "出酒店往左，50 米。",
+        "py": "Chū jiǔdiàn wǎng zuǒ, wǔshí mǐ.",
+        "en": "Exit the hotel, turn left, 50 meters."
+      },
+      {
+        "zh": "对面那家 24 小时开门。",
+        "py": "Duìmiàn nà jiā èrshísì xiǎoshí kāimén.",
+        "en": "The one across the street is open 24 hours."
+      }
+    ]
+  },
+  "150": {
+    "when": [
+      "Use it at the front desk or over the room phone when your room needs freshening up mid-stay and no one has come by.",
+      "It also works on checkout morning when you are packing and want the room tidied before you return to collect luggage."
+    ],
+    "variants": [
+      {
+        "zh": "可以帮我清理一下吗？",
+        "py": "Kěyǐ bāng wǒ qīnglǐ yíxià ma?",
+        "en": "Can you clean it up for me?"
+      },
+      {
+        "zh": "请问几点能打扫？",
+        "py": "Qǐngwèn jǐ diǎn néng dǎsǎo?",
+        "en": "What time can it be cleaned?"
+      },
+      {
+        "zh": "能多拿两瓶水吗？",
+        "py": "Néng duō ná liǎng píng shuǐ ma?",
+        "en": "Could you bring two more bottles of water?"
+      }
+    ],
+    "mistakes": [
+      "Using 洗 instead of 打扫 — 洗房间 sounds like washing; 打扫 is the verb housekeeping actually answers to.",
+      "Blocking the door tag — if you hang 请勿打扰 (do not disturb), staff skip your room all day; take it down before going out.",
+      "Leaving valuables in the open — cleaning staff are trustworthy but tipping cash on the desk can vanish into the tidy-up; pocket it first."
+    ],
+    "replies": [
+      {
+        "zh": "好的，下午两点前打扫。",
+        "py": "Hǎo de, xiàwǔ liǎng diǎn qián dǎsǎo.",
+        "en": "Sure, it will be cleaned before 2pm."
+      },
+      {
+        "zh": "您把门牌挂反了就行。",
+        "py": "Nín bǎ ménpái guà fǎn le jiù xíng.",
+        "en": "Just flip the door tag over."
+      },
+      {
+        "zh": "现在方便进去吗？",
+        "py": "Xiànzài fāngbiàn jìnqù ma?",
+        "en": "Is now a good time to come in?"
+      }
+    ]
+  },
+  "151": {
+    "when": [
+      "Report it at the front desk or call reception when the shower or tap runs cold no matter how long you wait — winter hotels can genuinely run out on busy nights.",
+      "Use it before you shower, not after: test the water first, and if this comes out of your mouth dripping wet, the towel situation becomes urgent too."
+    ],
+    "variants": [
+      {
+        "zh": "热水坏了。",
+        "py": "Rè shuǐ huài le.",
+        "en": "The hot water is broken."
+      },
+      {
+        "zh": "水不热。",
+        "py": "Shuǐ bú rè.",
+        "en": "The water isn't hot."
+      },
+      {
+        "zh": "没有热水了。",
+        "py": "Méiyǒu rè shuǐ le.",
+        "en": "The hot water has run out."
+      }
+    ],
+    "mistakes": [
+      "Saying 没水 when the problem is only temperature — 没水 means no water at all; 没有热水 points the repair at the right pipe.",
+      "Not testing both taps — hot is labelled 热水, cold 冷水; tourists sometimes twist the wrong handle and blame the boiler.",
+      "Only texting the booking app — reception fixes it in minutes; an app message may reach nobody until morning."
+    ],
+    "replies": [
+      {
+        "zh": "我们马上派人来修。",
+        "py": "Wǒmen mǎshàng pài rén lái xiū.",
+        "en": "We'll send someone to fix it right away."
+      },
+      {
+        "zh": "您等十分钟试试。",
+        "py": "Nín děng shí fēnzhōng shìshi.",
+        "en": "Wait ten minutes and try again."
+      },
+      {
+        "zh": "给您换一间房。",
+        "py": "Gěi nín huàn yì jiān fáng.",
+        "en": "We'll move you to another room."
+      }
+    ]
+  },
+  "152": {
+    "when": [
+      "Ask it before paying for any hotel rate, tour or train ticket when plans might change — many cheap Chinese rates are 不退不改, no refund and no change.",
+      "Use it on booking apps too: the filter 免费取消 uses exactly these words, so asking it in person or reading it on screen is the same check."
+    ],
+    "variants": [
+      {
+        "zh": "可以退吗？",
+        "py": "Kěyǐ tuì ma?",
+        "en": "Can it be refunded?"
+      },
+      {
+        "zh": "取消要收费吗？",
+        "py": "Qǔxiāo yào shōufèi ma?",
+        "en": "Is there a cancellation fee?"
+      },
+      {
+        "zh": "最晚什么时候能取消？",
+        "py": "Zuìwǎn shénme shíhou néng qǔxiāo?",
+        "en": "What's the latest I can cancel?"
+      }
+    ],
+    "mistakes": [
+      "Assuming 24-hour rules like home platforms — many Chinese hotel rates lock at booking, so ask before you tap pay, not after.",
+      "Confusing 取消 with 退票 — 取消 kills a future booking; 退票 refunds an issued ticket; both appear on the same app page and mean different money.",
+      "Cancelling by not showing up — no-shows often forfeit the first night; a real cancellation call protects the wallet."
+    ],
+    "replies": [
+      {
+        "zh": "可以，入住当天下午六点前都行。",
+        "py": "Kěyǐ, rùzhù dàngtiān xiàwǔ liù diǎn qián dōu xíng.",
+        "en": "Yes, anytime before 6pm on check-in day."
+      },
+      {
+        "zh": "这个价格不能退。",
+        "py": "Zhège jiàgé bùnéng tuì.",
+        "en": "This rate is non-refundable."
+      },
+      {
+        "zh": "取消收一晚房费。",
+        "py": "Qǔxiāo shōu yì wǎn fángfèi.",
+        "en": "Cancelling costs one night's room fee."
+      }
+    ]
+  },
+  "153": {
+    "when": [
+      "Use it when you fall for something bulky — a suitcase, a tea set, ceramics — and cannot face carrying it through the metro at rush hour.",
+      "It also works when you are checking out tomorrow and shipping straight home is easier: the shop can send it to the hotel to repack, or onward."
+    ],
+    "variants": [
+      {
+        "zh": "可以帮忙寄快递吗？",
+        "py": "Kěyǐ bāngmáng jì kuàidì ma?",
+        "en": "Can you help me send it by courier?"
+      },
+      {
+        "zh": "多久能送到？",
+        "py": "Duō jiǔ néng sòngdào?",
+        "en": "How long does delivery take?"
+      },
+      {
+        "zh": "可以寄到机场吗？",
+        "py": "Kěyǐ jì dào jīchǎng ma?",
+        "en": "Can you send it to the airport?"
+      }
+    ],
+    "mistakes": [
+      "Leaving only the English hotel name — couriers need the Chinese address; screenshot it from the booking app before you shop.",
+      "Forgetting your checkout date — say 我明天退房 (I check out tomorrow) so it arrives before you, not after.",
+      "Paying without a receipt for the courier — the 取件码 (pickup code) or tracking number on it is how you chase the parcel."
+    ],
+    "replies": [
+      {
+        "zh": "可以，同城明天就到。",
+        "py": "Kěyǐ, tóngchéng míngtiān jiù dào.",
+        "en": "Yes, same-city delivery arrives tomorrow."
+      },
+      {
+        "zh": "您把酒店地址给我。",
+        "py": "Nín bǎ jiǔdiàn dìzhǐ gěi wǒ.",
+        "en": "Give me the hotel's address."
+      },
+      {
+        "zh": "加十块运费。",
+        "py": "Jiā shí kuài yùnfèi.",
+        "en": "That's ten yuan extra for shipping."
+      }
+    ]
+  },
+  "154": {
+    "when": [
+      "Say it at the scene of a fall, cut or sprain — it tells bystanders instantly that this is an injury needing action, not just confusion.",
+      "Use it at the hospital or pharmacy too: it opens the visit faster than describing the story, and then you point or name the body part."
+    ],
+    "variants": [
+      {
+        "zh": "我的腿受伤了。",
+        "py": "Wǒ de tuǐ shòushāng le.",
+        "en": "My leg is injured."
+      },
+      {
+        "zh": "流血了。",
+        "py": "Liú xiě le.",
+        "en": "It's bleeding."
+      },
+      {
+        "zh": "这里很疼。",
+        "py": "Zhèlǐ hěn téng.",
+        "en": "It hurts here."
+      }
+    ],
+    "mistakes": [
+      "Saying 我疼了 — Chinese uses 疼 as a statement like 腿疼 (my leg hurts); 受伤 is the word for injured and what triggers real help.",
+      "Understating to be polite — Chinese strangers will take 疼 as minor; 流血了 (it's bleeding) or 骨头可能断了 (a bone may be broken) gets you an ambulance, not a band-aid.",
+      "Waiting to find exact words — 120 is the national emergency medical number; call it, then use this phrase on the phone."
+    ],
+    "replies": [
+      {
+        "zh": "伤到哪儿了？",
+        "py": "Shāng dào nǎr le?",
+        "en": "Where are you hurt?"
+      },
+      {
+        "zh": "我扶你去医院。",
+        "py": "Wǒ fú nǐ qù yīyuàn.",
+        "en": "I'll help you to the hospital."
+      },
+      {
+        "zh": "要叫救护车吗？",
+        "py": "Yào jiào jiùhùchē ma?",
+        "en": "Should we call an ambulance?"
+      }
+    ]
+  },
+  "155": {
+    "when": [
+      "Use it in taxis and DiDi cars in summer when the driver has windows down and AC off — fuel-saving habit, and this sentence is the polite nudge.",
+      "It works for hotel rooms and restaurants too: any time 空调 is switched off and the room is turning into a steam room, ask it before you sweat through your shirt."
+    ],
+    "variants": [
+      {
+        "zh": "可以把空调开大一点吗？",
+        "py": "Kěyǐ bǎ kōngtiáo kāi dà yìdiǎn ma?",
+        "en": "Can you turn the AC up?"
+      },
+      {
+        "zh": "太热了，能开空调吗？",
+        "py": "Tài rè le, néng kāi kōngtiáo ma?",
+        "en": "It's too hot — can you turn on the AC?"
+      },
+      {
+        "zh": "请关一下空调。",
+        "py": "Qǐng guān yíxià kōngtiáo.",
+        "en": "Please turn the AC off."
+      }
+    ],
+    "mistakes": [
+      "Saying 开空调吗 when you want it colder in a cooled room — 开 is on/off; 开大一点 (turn it up) or 调低一点 (turn the temperature down) is the follow-up you actually need.",
+      "Mixing up 开 and 关 — 关空调 turns it off; getting this wrong in winter makes a cold taxi even colder.",
+      "Skipping 太热了 as a softener — adding the reason first makes the request friendly, and drivers respond to warmth better than commands."
+    ],
+    "replies": [
+      {
+        "zh": "好的，马上开。",
+        "py": "Hǎo de, mǎshàng kāi.",
+        "en": "Sure, turning it on now."
+      },
+      {
+        "zh": "空调坏了，您介意开窗吗？",
+        "py": "Kōngtiáo huài le, nín jièyì kāi chuāng ma?",
+        "en": "The AC is broken — mind if we open the windows?"
+      },
+      {
+        "zh": "温度调到多少？",
+        "py": "Wēndù tiáo dào duōshǎo?",
+        "en": "What temperature shall I set it to?"
+      }
+    ]
+  },
   "_comment": "第四批扩词：id 136-145（收美金/手续费/寄国外/两件便宜/退票/坐过站/下一班/续住/没问题/走散了）"
 }

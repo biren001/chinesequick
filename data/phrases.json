@@ -4004,5 +4004,250 @@
     "en": "it has happened"
    }
   ]
+ },
+ {
+  "id": 146,
+  "category": "restaurant",
+  "chinese": "微辣就行。",
+  "pinyin": "Wēi là jiù xíng.",
+  "english": "Just a little spicy, please.",
+  "audio": null,
+  "tip": "微 means slightly — 微辣 is the lowest heat level on most menus, between 不辣 (no spice) and 中辣 (medium). Point at the 辣度 on the menu while saying this and you cannot be misunderstood.",
+  "words": [
+   {
+    "zh": "微",
+    "py": "wēi",
+    "en": "slightly / mild"
+   },
+   {
+    "zh": "辣",
+    "py": "là",
+    "en": "spicy"
+   },
+   {
+    "zh": "就行",
+    "py": "jiù xíng",
+    "en": "will do / that's fine"
+   }
+  ]
+ },
+ {
+  "id": 147,
+  "category": "restaurant",
+  "chinese": "要等多久？",
+  "pinyin": "Yào děng duō jiǔ?",
+  "english": "How long is the wait?",
+  "audio": null,
+  "tip": "Works for restaurant lines, ticket queues and food pickup alike. The answer is usually a number plus 分钟 (fēnzhōng, minutes) — for example 二十分钟 (twenty minutes).",
+  "words": [
+   {
+    "zh": "要",
+    "py": "yào",
+    "en": "need to"
+   },
+   {
+    "zh": "等",
+    "py": "děng",
+    "en": "to wait"
+   },
+   {
+    "zh": "多久",
+    "py": "duō jiǔ",
+    "en": "how long"
+   }
+  ]
+ },
+ {
+  "id": 148,
+  "category": "travel",
+  "chinese": "这是几号线？",
+  "pinyin": "Zhè shì jǐ hào xiàn?",
+  "english": "Which metro line is this?",
+  "audio": null,
+  "tip": "线 is the word for metro lines — Line 2 is simply 2号线. Staff usually answer with the direction too, like 往浦东 (bound for Pudong), so listen for 往 or 开往 (bound for).",
+  "words": [
+   {
+    "zh": "这",
+    "py": "zhè",
+    "en": "this"
+   },
+   {
+    "zh": "几号",
+    "py": "jǐ hào",
+    "en": "which number"
+   },
+   {
+    "zh": "线",
+    "py": "xiàn",
+    "en": "line (metro/rail)"
+   }
+  ]
+ },
+ {
+  "id": 149,
+  "category": "travel",
+  "chinese": "附近有便利店吗？",
+  "pinyin": "Fùjìn yǒu biànlìdiàn ma?",
+  "english": "Is there a convenience store nearby?",
+  "audio": null,
+  "tip": "Chains like 便利蜂, 罗森 (Lawson) and 全家 (FamilyMart) sell water, chargers and snacks, most open around the clock. Swap the last word: 药店 (yàodiàn) pharmacy, 超市 (chāoshì) supermarket.",
+  "words": [
+   {
+    "zh": "附近",
+    "py": "fùjìn",
+    "en": "nearby"
+   },
+   {
+    "zh": "有",
+    "py": "yǒu",
+    "en": "there is"
+   },
+   {
+    "zh": "便利店",
+    "py": "biànlìdiàn",
+    "en": "convenience store"
+   }
+  ]
+ },
+ {
+  "id": 150,
+  "category": "hotel",
+  "chinese": "请打扫一下房间。",
+  "pinyin": "Qǐng dǎsǎo yíxià fángjiān.",
+  "english": "Please clean the room.",
+  "audio": null,
+  "tip": "Say it at the front desk or hang the make-up-room door tag — housekeeping in Chinese hotels usually runs 9am to 2pm. 一下 softens the request into something polite and brief.",
+  "words": [
+   {
+    "zh": "打扫",
+    "py": "dǎsǎo",
+    "en": "to clean"
+   },
+   {
+    "zh": "一下",
+    "py": "yíxià",
+    "en": "briefly (softener)"
+   },
+   {
+    "zh": "房间",
+    "py": "fángjiān",
+    "en": "room"
+   }
+  ]
+ },
+ {
+  "id": 151,
+  "category": "hotel",
+  "chinese": "没有热水。",
+  "pinyin": "Méiyǒu rè shuǐ.",
+  "english": "There's no hot water.",
+  "audio": null,
+  "tip": "Chinese taps are labelled 热水 (hot) and 冷水 (cold). If the shower truly has no hot water, report it at the desk — pairs with 空调坏了 for reporting room problems.",
+  "words": [
+   {
+    "zh": "没有",
+    "py": "méiyǒu",
+    "en": "there isn't"
+   },
+   {
+    "zh": "热",
+    "py": "rè",
+    "en": "hot"
+   },
+   {
+    "zh": "水",
+    "py": "shuǐ",
+    "en": "water"
+   }
+  ]
+ },
+ {
+  "id": 152,
+  "category": "hotel",
+  "chinese": "可以免费取消吗？",
+  "pinyin": "Kěyǐ miǎnfèi qǔxiāo ma?",
+  "english": "Can I cancel for free?",
+  "audio": null,
+  "tip": "Ask before you pay — many Chinese hotel rates are 不退不改 (no refund, no change). 免费取消 is the exact phrase booking sites use for free cancellation, so you will see it everywhere.",
+  "words": [
+   {
+    "zh": "免费",
+    "py": "miǎnfèi",
+    "en": "free of charge"
+   },
+   {
+    "zh": "取消",
+    "py": "qǔxiāo",
+    "en": "to cancel"
+   }
+  ]
+ },
+ {
+  "id": 153,
+  "category": "shopping",
+  "chinese": "可以送到酒店吗？",
+  "pinyin": "Kěyǐ sòngdào jiǔdiàn ma?",
+  "english": "Can you deliver it to my hotel?",
+  "audio": null,
+  "tip": "Common for bulky buys like luggage or tea sets — shops use 同城快递 (same-city courier), arriving same or next day. Have the hotel's Chinese address ready on your phone.",
+  "words": [
+   {
+    "zh": "送",
+    "py": "sòng",
+    "en": "to deliver"
+   },
+   {
+    "zh": "到",
+    "py": "dào",
+    "en": "to (arrive at)"
+   },
+   {
+    "zh": "酒店",
+    "py": "jiǔdiàn",
+    "en": "hotel"
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "category": "emergency",
+  "chinese": "我受伤了。",
+  "pinyin": "Wǒ shòushāng le.",
+  "english": "I'm injured.",
+  "audio": null,
+  "tip": "For cuts, sprains and falls. Add the body part: 腿 (tuǐ) leg, 手 (shǒu) hand, 头 (tóu) head. For serious bleeding call 120 for an ambulance — see 请叫救护车.",
+  "words": [
+   {
+    "zh": "受伤",
+    "py": "shòushāng",
+    "en": "to be injured"
+   },
+   {
+    "zh": "了",
+    "py": "le",
+    "en": "(completed)"
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "category": "travel",
+  "chinese": "可以开空调吗？",
+  "pinyin": "Kěyǐ kāi kōngtiáo ma?",
+  "english": "Can you turn on the AC?",
+  "audio": null,
+  "tip": "Standard in taxis and DiDi rides in summer — drivers sometimes leave it off to save fuel. 开 means on; if you are cold, say 请关空调 (please turn it off) or 请调低一点 (please turn it down).",
+  "words": [
+   {
+    "zh": "开",
+    "py": "kāi",
+    "en": "to turn on"
+   },
+   {
+    "zh": "空调",
+    "py": "kōngtiáo",
+    "en": "air conditioner"
+   }
+  ]
  }
 ]
