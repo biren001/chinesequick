@@ -1,5 +1,5 @@
 zip        : deploy-chinesequick.zip
-大小       : 8897 KB
+大小       : 8898 KB
 条目数     : 1331
 顶层项     : 213 个 — 404, 404.html, 7-day-chinese-course, about, address-card, apple-icon.png, audio, b3009d2d0336934d3d8380112e45b81d.txt …
 反斜杠分隔 : 0 

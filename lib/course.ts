@@ -7,7 +7,7 @@ import { PHRASES } from "./phrases";
  * **零新音频** —— 每条都链到它自己的单句页（音频、逐词表、深化内容全复用）。
  * 课程页本身卖的是"顺序"和"每天的推进感"，不是新内容。
  *
- * 新短语按主题归入对应的天（每天 15–18 条浮动，构建期自检抓漏抓重）。
+ * 新短语按主题归入对应的天（每天不低于 15 条、不超过 30 条，构建期自检抓漏抓重抓失衡）。
  */
 export const COURSE_PATH = "/7-day-chinese-course";
 
@@ -34,10 +34,10 @@ export const COURSE_DAYS: CourseDay[] = [
     name: "Say hello",
     title: "Say hello, thank you, sorry",
     intro:
-      "Fifteen words that carry almost every polite exchange you will have in China. None of them is hard to say, and locals notice immediately when a visitor uses them — doors open faster, service gets friendlier, and small misunderstandings shrink.",
+      "These words carry almost every polite exchange you will have in China. None of them is hard to say, and locals notice immediately when a visitor uses them — doors open faster, service gets friendlier, and small misunderstandings shrink.",
     mission:
       "Greet three people today — hotel staff, a shop assistant, a taxi driver. A spoken 你好 plus a smile is enough.",
-    ids: [41, 65, 46, 79, 47, 80, 42, 44, 50, 43, 76, 62, 63, 67, 45, 165],
+    ids: [41, 65, 46, 79, 47, 80, 42, 44, 50, 43, 76, 62, 63, 67, 45, 165, 73, 74, 75],
   },
   {
     day: 2,
@@ -48,7 +48,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "The phrases that rescue you the moment a conversation outruns your Chinese. These are also the ones locals answer most helpfully: 请说慢一点 and 请写下来 turn a blank stare into a typed screen or a handwritten note you can show to the next person.",
     mission:
       "Have one full conversation where you say 我不懂 and 请再说一遍 out loud instead of switching to gestures.",
-    ids: [48, 49, 70, 71, 72, 69, 68, 64, 77, 78, 66, 73, 74, 75, 81, 124, 133, 144],
+    ids: [48, 49, 70, 71, 72, 69, 68, 64, 77, 78, 66, 81, 124, 133, 144],
   },
   {
     day: 3,
@@ -59,7 +59,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Restaurants are where you will use Chinese most. Menus may have no photos, staff may have no English, and pointing alone will not get you less spicy or no meat. After today you can order, ask what is good, and pay for the meal.",
     mission:
       "Order one dish end to end: point at the menu, say 我要这个，and finish with 买单。",
-    ids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 51, 52, 53, 54, 99, 106, 116, 117, 118, 126, 127, 146, 147, 156, 157, 158],
+    ids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 51, 52, 53, 54, 99, 106, 116, 117, 118, 126, 127, 146, 147, 156, 157, 158, 100, 101],
   },
   {
     day: 4,
@@ -70,7 +70,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Drivers and station staff often speak no English at all, which makes this the day that saves the most walking. The address card on this site plus 请带我去这个地址 handles the destination; the rest of today's phrases handle tickets, timing and directions.",
     mission:
       "Take one taxi or train using Chinese only — show the address, ask 多久能到？and pay with 不用找了。",
-    ids: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 55, 56, 57, 58, 102, 107, 108, 110, 119, 120, 128, 129, 140, 141, 142, 148, 149, 155, 159, 160, 161],
+    ids: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 55, 56, 57, 58, 102, 107, 108, 110, 119, 120, 128, 129, 148, 155, 159, 160],
   },
   {
     day: 5,
@@ -81,7 +81,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Hotels are also where mobile payments stop being optional: front desks, breakfast vouchers and luggage storage all move faster when you can ask for Alipay or WeChat Pay by name. Today ends with you checking in, sorting a room problem, and paying without opening your wallet for cash.",
     mission:
       "Check in by saying 我要入住 and 我订了房间，then pay once with 可以用支付宝吗？",
-    ids: [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 95, 96, 97, 98, 103, 111, 112, 113, 121, 122, 130, 131, 143, 150, 151, 152, 162],
+    ids: [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 95, 96, 97, 98, 111, 112, 113, 121, 122, 130, 131, 143, 150, 151, 152, 162, 114, 115],
   },
   {
     day: 6,
@@ -92,18 +92,18 @@ export const COURSE_DAYS: CourseDay[] = [
       "Markets and small shops run on two sentences: 这个多少钱 and 可以便宜一点吗。Everything else today is about getting the right size, the right color, and not buying the first thing you touch. Browse politely with 我随便看看 — sellers genuinely back off when you say it.",
     mission:
       "Buy something small: ask the price, try it on, and ask 可以便宜一点吗？ once. The worst case is a smile and a no.",
-    ids: [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 59, 60, 61, 100, 101, 109, 114, 115, 123, 132, 136, 137, 138, 139, 153, 163, 164],
+    ids: [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 59, 60, 61, 109, 123, 132, 136, 137, 138, 139, 153, 163, 164, 149, 103],
   },
   {
     day: 7,
     emoji: "🚨",
     name: "Emergencies",
-    title: "Emergencies and payment problems",
+    title: "Emergencies and when things go wrong",
     intro:
-      "The phrases you hope never to need, learned last so they stay fresh. They cover the four emergency numbers, sickness and allergies, a lost passport or stolen wallet — plus the two payment failures that most often end a good day badly.",
+      "The phrases you hope never to need, learned last so they stay fresh. They cover the four emergency numbers, sickness and allergies, a lost passport or stolen wallet — plus the travel breakdowns (a missed stop, a delayed flight, a refund at the window) and the two payment failures that most often end a good day badly.",
     mission:
       "Fill in the emergency card on this site and save 110 and 120 in your phone under favorites before your trip.",
-    ids: [82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 104, 105, 125, 134, 135, 145, 154],
+    ids: [82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 104, 105, 125, 134, 135, 145, 154, 140, 141, 142, 161],
   },
 ];
 
@@ -144,5 +144,9 @@ export function getCourseDayPhrases(ids: number[]) {
   const thinDay = COURSE_DAYS.find((d) => d.ids.length < 15);
   if (thinDay) {
     throw new Error(`Day ${thinDay.day} 只有 ${thinDay.ids.length} 条 —— 每天至少 15 条`);
+  }
+  const fatDay = COURSE_DAYS.find((d) => d.ids.length > 30);
+  if (fatDay) {
+    throw new Error(`Day ${fatDay.day} 有 ${fatDay.ids.length} 条 —— 单日最多 30 条，考虑把部分词移到别天`);
   }
 }
