@@ -33,6 +33,7 @@ export function GET() {
     "## Practice",
     "",
     `- [Chinese listening quiz](${SITE_URL}/listening-quiz/): hear a real recording and pick the meaning — built from the same ${PHRASES.length} phrases, answers reveal characters and pinyin, every question links to its full phrase page.`,
+    `- [Numbers listening quiz](${SITE_URL}/numbers-quiz/): hear one of ${NUMBERS.length} number and money sounds and pick the one you heard — drills the sì vs shí distinctions that decide what you pay at a market.`,
     "",
     "## Situation guides (step by step)",
     "",

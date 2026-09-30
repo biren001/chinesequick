@@ -108,6 +108,14 @@ export default function ListeningQuizPage() {
               Chinese numbers with audio
             </Link>
           </li>
+          <li>
+            <Link
+              href="/numbers-quiz/"
+              className="text-accent underline underline-offset-4"
+            >
+              Numbers listening quiz
+            </Link>
+          </li>
         </ul>
       </section>
     </main>

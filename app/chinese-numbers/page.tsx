@@ -108,6 +108,16 @@ export default function ChineseNumbersPage() {
           Tap any character to hear it. These eleven are the whole foundation: everything below is
           assembled from them.
         </p>
+        <p className="mt-3 text-sm text-muted">
+          Think you can tell 四 from 十 by ear?{" "}
+          <Link
+            href="/numbers-quiz"
+            className="text-accent underline underline-offset-4 hover:underline"
+          >
+            Take the numbers listening quiz
+          </Link>
+          .
+        </p>
       </section>
 
       <section className="mb-10">

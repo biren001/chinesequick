@@ -1,5 +1,5 @@
 {
- "at": "2026-09-30T04:31:19.639Z",
+ "at": "2026-09-30T05:00:52.526Z",
  "dir": "C:\\Users\\Administrator\\WorkBuddy\\2026-09-25-20-49-31\\real-life-chinese\\out",
  "project": "chinesequick",
  "dryRun": false,
@@ -7,9 +7,9 @@
  "token": "cfat… (len 53)",
  "projectPagesFetched": 1,
  "projects": [
+  "imageprocessing",
   "mathsiege",
   "chinesequick",
-  "imageprocessing",
   "aivisnap-en",
   "aivisnap"
  ],
@@ -23,22 +23,33 @@
   "sitemapCounts": [
    [
     "chinesequick.com",
-    192
+    193
    ]
   ],
   "problems": []
  },
- "fileCount": 1025,
- "totalBytes": 24926122,
- "manifestEntries": 1025,
- "prevDeployment": "b49c7b40-3300-465f-ab2b-b24321fdcee0",
+ "fileCount": 1028,
+ "totalBytes": 24981142,
+ "manifestEntries": 1028,
+ "prevDeployment": "a354fee3-c120-42cb-aff3-a84b981d5000",
  "knownDeployments": 10,
  "rounds": [
   {
    "round": 1,
+   "newDeployment": false,
+   "id": null,
+   "fileCount": 0,
+   "fileCountSource": null,
+   "servedOk": false,
+   "rolledBackTo": null,
+   "uploadError": "资源上传失败：assetsUpload#1 重试耗尽：Client network socket disconnected before secure TLS connection was established | Client network socket disconnected before secure TLS connection was established | Client network socket disconnected before secure TLS connection was established",
+   "cfError": null
+  },
+  {
+   "round": 2,
    "newDeployment": true,
-   "id": "a354fee3",
-   "fileCount": 1025,
+   "id": "f64fbf52",
+   "fileCount": 1028,
    "fileCountSource": "deployment",
    "servedOk": true,
    "rolledBackTo": null,
@@ -47,20 +58,20 @@
   }
  ],
  "assetBuckets": 2,
- "assetUploaded": 1025,
- "assetHashesDeclared": 1025,
+ "assetUploaded": 1028,
+ "assetHashesDeclared": 1028,
  "settle": {
   "changed": true,
   "servedOk": true,
-  "id": "a354fee3-c120-42cb-aff3-a84b981d5000",
-  "shortId": "a354fee3",
-  "url": "https://a354fee3.chinesequick.pages.dev",
-  "fileCount": 1025,
+  "id": "f64fbf52-5d86-4ef0-a0f4-dba5431f334a",
+  "shortId": "f64fbf52",
+  "url": "https://f64fbf52.chinesequick.pages.dev",
+  "fileCount": 1028,
   "fileCountKnown": true,
   "stages": [
    {
     "name": "queued",
-    "started_on": "2026-09-30T04:36:32.619888Z",
+    "started_on": "2026-09-30T05:16:05.73563Z",
     "ended_on": null,
     "status": "active"
    },
@@ -85,13 +96,13 @@
    {
     "name": "deploy",
     "started_on": null,
-    "ended_on": "2026-09-30T04:36:33.918427Z",
-    "status": "success"
+    "ended_on": null,
+    "status": "idle"
    }
   ],
   "fileCountSource": "deployment",
   "served": {
-   "base": "https://a354fee3.chinesequick.pages.dev",
+   "base": "https://f64fbf52.chinesequick.pages.dev",
    "checks": [
     {
      "path": "/",
@@ -113,7 +124,7 @@
   }
  },
  "served": {
-  "base": "https://a354fee3.chinesequick.pages.dev",
+  "base": "https://f64fbf52.chinesequick.pages.dev",
   "checks": [
    {
     "path": "/",
@@ -134,7 +145,7 @@
   "ok": true
  },
  "transport": "direct",
- "url": "https://a354fee3.chinesequick.pages.dev",
- "deploymentId": "a354fee3-c120-42cb-aff3-a84b981d5000",
+ "url": "https://f64fbf52.chinesequick.pages.dev",
+ "deploymentId": "f64fbf52-5d86-4ef0-a0f4-dba5431f334a",
  "ok": true
 }

@@ -93,6 +93,13 @@ export default function HomePage() {
             className="text-accent underline underline-offset-4"
           >
             Take the listening quiz
+          </Link>{" "}
+          or drill the numbers you will hear at markets:{" "}
+          <Link
+            href="/numbers-quiz"
+            className="text-accent underline underline-offset-4"
+          >
+            numbers listening quiz
           </Link>
         </p>
       </section>
