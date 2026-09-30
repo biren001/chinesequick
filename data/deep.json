@@ -7213,5 +7213,455 @@
       }
     ]
   },
+  "156": {
+    "when": [
+      "Say it the moment you step into a busy restaurant with no host stand — the nearest staff member will either wave you to a table or start a waitlist with your name.",
+      "It also works at the door of a full noodle shop at lunch rush: asking takes two seconds and often gets you 两位马上 (two seats right away) instead of standing around guessing."
+    ],
+    "variants": [
+      {
+        "zh": "两位。",
+        "py": "Liǎng wèi.",
+        "en": "Table for two."
+      },
+      {
+        "zh": "有两位的位子吗？",
+        "py": "Yǒu liǎng wèi de wèizi ma?",
+        "en": "Is there a table for two?"
+      },
+      {
+        "zh": "要等多久？",
+        "py": "Yào děng duōjiǔ?",
+        "en": "How long is the wait?"
+      }
+    ],
+    "mistakes": [
+      "Using 房间 (room) or 位置 for a restaurant table — 位子 is the natural word for a seat in a restaurant; 位置 means a location or position and sounds like you're asking about the building.",
+      "Skipping the party size — 有位子吗 gets you moving, but adding 两位 or 三位 up front lets the staff match you to the right table in one step instead of a second round of gestures.",
+      "Waiting outside a half-empty restaurant — in many casual places you seat yourself; if nobody responds to 有位子吗, walk toward any open table and the staff will stop you if it's reserved."
+    ],
+    "replies": [
+      {
+        "zh": "有，这边请。",
+        "py": "Yǒu, zhèbiān qǐng.",
+        "en": "Yes, this way please."
+      },
+      {
+        "zh": "稍微等一下，马上好。",
+        "py": "Shāowěi děng yíxià, mǎshàng hǎo.",
+        "en": "Wait a moment, it'll be ready soon."
+      },
+      {
+        "zh": "几位？",
+        "py": "Jǐ wèi?",
+        "en": "How many people?"
+      }
+    ]
+  },
+  "157": {
+    "when": [
+      "Use it when the table has no chopsticks — common in hotel breakfast rooms, Western-style cafés, or when a box of them sits out of reach on a shared shelf.",
+      "It also works mid-meal when yours fell on the floor: just catch the staff's eye and say it, they'll bring a fresh pair without a second question."
+    ],
+    "variants": [
+      {
+        "zh": "请给我勺子。",
+        "py": "Qǐng gěi wǒ sháozi.",
+        "en": "A spoon, please."
+      },
+      {
+        "zh": "有叉子吗？",
+        "py": "Yǒu chāzi ma?",
+        "en": "Do you have a fork?"
+      },
+      {
+        "zh": "再来一双筷子。",
+        "py": "Zài lái yì shuāng kuàizi.",
+        "en": "One more pair of chopsticks."
+      }
+    ],
+    "mistakes": [
+      "Saying 一个筷子 — chopsticks count as pairs: 一双筷子 (one pair). 一个筷子 makes waiters pause because it literally means one single stick.",
+      "Expecting a napkin to come automatically — many places only give tissues in a box on the table, so ask 纸巾 (napkins) the same way when you need them.",
+      "Waiting silently at fancy restaurants — high-end places set forks by default; if you want to eat Chinese-style there, you have to ask, nobody will guess."
+    ],
+    "replies": [
+      {
+        "zh": "好的，马上给您。",
+        "py": "Hǎo de, mǎshàng gěi nín.",
+        "en": "Sure, right away."
+      },
+      {
+        "zh": "筷子在那边的抽屉里，自己拿。",
+        "py": "Kuàizi zài nàbiān de chōuti li, zìjǐ ná.",
+        "en": "Chopsticks are in the drawer over there, help yourself."
+      },
+      {
+        "zh": "需要勺子吗？",
+        "py": "Xūyào sháozi ma?",
+        "en": "Do you need a spoon too?"
+      }
+    ]
+  },
+  "158": {
+    "when": [
+      "Say it when a waiter suggests another dish, tops up your rice, or asks 还吃吗 (still eating?) — it politely closes the meal so they stop offering.",
+      "It also works when a host keeps piling food on your plate at a family-style dinner: this is the gentle, culturally standard way to refuse more without offending anyone."
+    ],
+    "variants": [
+      {
+        "zh": "我饱了。",
+        "py": "Wǒ bǎo le.",
+        "en": "I'm full."
+      },
+      {
+        "zh": "吃不下了。",
+        "py": "Chī bu xià le.",
+        "en": "I can't eat any more."
+      },
+      {
+        "zh": "太撑了。",
+        "py": "Tài chēng le.",
+        "en": "I'm stuffed."
+      }
+    ],
+    "mistakes": [
+      "Confusing 饱 with 饿 — 饱 means full, 饿 means hungry; they sound nothing alike but both end sentences about eating, so double-check before you say one.",
+      "Saying it too early — hosts hear 我吃饱了 as I'm done, and staff may start clearing the table; use it only when you really are finished.",
+      "Forgetting that refusal needs a reason to sound soft — adding 真的 (really) as in 我真的吃饱了 makes it warm instead of curt."
+    ],
+    "replies": [
+      {
+        "zh": "好的，那给您上果盘。",
+        "py": "Hǎo de, nà gěi nín shàng guǒpán.",
+        "en": "Okay, then we'll bring the fruit plate."
+      },
+      {
+        "zh": "真不吃啦？再来一点点。",
+        "py": "Zhēn bù chī la? Zài lái yìdiǎndiǎn.",
+        "en": "Really no more? Just a tiny bit more."
+      },
+      {
+        "zh": "好的，需要打包剩下的吗？",
+        "py": "Hǎo de, xūyào dǎbāo shèngxià de ma?",
+        "en": "Okay, do you want to take the leftovers to go?"
+      }
+    ]
+  },
+  "159": {
+    "when": [
+      "Say it in a train station when you can't match your ticket to the signs — staff at the entrance or security check will point you to the right waiting hall and gate number.",
+      "It also works at airports when the Chinese sign 登机口 isn't obvious: show your boarding pass while asking and they'll read the gate for you."
+    ],
+    "variants": [
+      {
+        "zh": "我的检票口是几号？",
+        "py": "Wǒ de jiǎnpiàokǒu shì jǐ hào?",
+        "en": "Which number is my gate?"
+      },
+      {
+        "zh": "登机口在哪里？",
+        "py": "Dēngjīkǒu zài nǎlǐ?",
+        "en": "Where is the boarding gate? (airport)"
+      },
+      {
+        "zh": "在几楼候车？",
+        "py": "Zài jǐ lóu hòuchē?",
+        "en": "Which floor is the waiting area on?"
+      }
+    ],
+    "mistakes": [
+      "Walking to the platform without checking — high-speed rail checks tickets at a specific gate that only opens 10–15 minutes before departure, so find the gate first, not the track.",
+      "Ignoring the stop announcement — at big stations the gate number on your ticket changes last-minute; the boards above the waiting hall are the only reliable source.",
+      "Using 卖票口 (ticket office window) instead of 检票口 (gate) — they sound similar and both end in 口, but one sells tickets and the other checks them."
+    ],
+    "replies": [
+      {
+        "zh": "A12 检票口，二楼。",
+        "py": "A12 jiǎnpiàokǒu, èr lóu.",
+        "en": "Gate A12, second floor."
+      },
+      {
+        "zh": "看大屏幕，往左边走。",
+        "py": "Kàn dà píngmù, wǎng zuǒbiān zǒu.",
+        "en": "Check the big screen, go left."
+      },
+      {
+        "zh": "还有十分钟开始检票。",
+        "py": "Hái yǒu shí fēnzhōng kāishǐ jiǎnpiào.",
+        "en": "Ticket check starts in ten minutes."
+      }
+    ]
+  },
+  "160": {
+    "when": [
+      "Say it when someone is sitting in your assigned seat on a train — show your ticket or the 12306 screen at the same time, and the misunderstanding clears in seconds.",
+      "It also works the other way: if you realize you're in the wrong seat, apologize with 对不起 and this sentence explains you're about to move — 我坐错了 (I sat in the wrong seat) is its natural partner."
+    ],
+    "variants": [
+      {
+        "zh": "我的座位在哪里？",
+        "py": "Wǒ de zuòwèi zài nǎlǐ?",
+        "en": "Where is my seat?"
+      },
+      {
+        "zh": "不好意思，我坐错位子了。",
+        "py": "Bù hǎoyìsi, wǒ zuò cuò wèizi le.",
+        "en": "Sorry, I sat in the wrong seat."
+      },
+      {
+        "zh": "可以换一下座位吗？",
+        "py": "Kěyǐ huàn yíxià zuòwèi ma?",
+        "en": "Can we swap seats?"
+      }
+    ],
+    "mistakes": [
+      "Just staring or tapping the person — a quiet point feels rude in a packed carriage; one friendly sentence with the ticket in hand turns an awkward moment into a normal one.",
+      "Arguing over a standing seat — on tickets marked 无座 (no seat), standing cars are first-come, and someone with an assigned ticket always wins the seat.",
+      "Mixing up 座位 and 位子 — both mean seat and both are fine, but 座位 is the word on tickets and screens, so it's the safest to match with what you're pointing at."
+    ],
+    "replies": [
+      {
+        "zh": "哦对不起，我看错了。",
+        "py": "Ò duìbùqǐ, wǒ kàn cuò le.",
+        "en": "Oh sorry, I misread it."
+      },
+      {
+        "zh": "没事没事，我马上让开。",
+        "py": "Méishì méishì, wǒ mǎshàng ràngkāi.",
+        "en": "No problem, I'll move right away."
+      },
+      {
+        "zh": "你的是靠窗的这个。",
+        "py": "Nǐ de shì kào chuāng de zhège.",
+        "en": "Yours is this one by the window."
+      }
+    ]
+  },
+  "161": {
+    "when": [
+      "Say it when checking in late, rebooking a hotel, or explaining to a taxi queue why you just walked out of the airport hours behind schedule.",
+      "It also works at the airline counter: pairing it with 我要改签 (I want to rebook) gets the conversation moving — the board already shows 延误, but saying it out loud marks you as someone to help."
+    ],
+    "variants": [
+      {
+        "zh": "我的航班取消了。",
+        "py": "Wǒ de hángbān qǔxiāo le.",
+        "en": "My flight is cancelled."
+      },
+      {
+        "zh": "几点能起飞？",
+        "py": "Jǐ diǎn néng qǐfēi?",
+        "en": "What time can it take off?"
+      },
+      {
+        "zh": "我要改签。",
+        "py": "Wǒ yào gǎiqiān.",
+        "en": "I want to rebook."
+      }
+    ],
+    "mistakes": [
+      "Assuming the gate staff rebook you — for real delays the airline counter (航空公司柜台) handles changes; the gate crew only boards whoever the new time says.",
+      "Mixing 延误 (delayed) with 取消 (cancelled) — the boards distinguish them clearly and so should you: delayed means wait, cancelled means go rebook or refund.",
+      "Leaving the airport without a plan — if the delay runs past midnight, many nearby hotels offer free shuttles; ask the information desk instead of paying a surprise taxi fare."
+    ],
+    "replies": [
+      {
+        "zh": "预计延误两个小时。",
+        "py": "Yùjì yánwù liǎng gè xiǎoshí.",
+        "en": "Expected delay is two hours."
+      },
+      {
+        "zh": "您可以去柜台改签。",
+        "py": "Nín kěyǐ qù guìtái gǎiqiān.",
+        "en": "You can rebook at the counter."
+      },
+      {
+        "zh": "有餐补可以领。",
+        "py": "Yǒu cānbǔ kěyǐ lǐng.",
+        "en": "You can claim a meal voucher."
+      }
+    ]
+  },
+  "162": {
+    "when": [
+      "Say it at check-in the night before, together with asking what time breakfast starts — one question gets you the floor, the room name and whether you need a voucher.",
+      "It also works the next morning when you're standing in a lobby corridor with no sign in English: any staff member passing by can point you down the right hallway."
+    ],
+    "variants": [
+      {
+        "zh": "早餐在几楼？",
+        "py": "Zǎocān zài jǐ lóu?",
+        "en": "Which floor is breakfast on?"
+      },
+      {
+        "zh": "早餐券怎么用？",
+        "py": "Zǎocānquàn zěnme yòng?",
+        "en": "How do I use the breakfast voucher?"
+      },
+      {
+        "zh": "早餐到几点？",
+        "py": "Zǎocān dào jǐ diǎn?",
+        "en": "Until what time is breakfast served?"
+      }
+    ],
+    "mistakes": [
+      "Assuming breakfast is included — many Chinese budget chains charge for it separately; if the voucher talk never happened, 早餐在哪里吃 will quickly reveal whether you're paying.",
+      "Sleeping past the window — hotel breakfast usually ends at 9:30 or 10:00 sharp, earlier than most Western hotels, so ask the closing time in the same breath.",
+      "Looking only for a restaurant sign — some chains serve breakfast in a side shop next door; the voucher or a staff pointer is the only reliable map."
+    ],
+    "replies": [
+      {
+        "zh": "二楼，八点到九点半。",
+        "py": "Èr lóu, bā diǎn dào jiǔ diǎn bàn.",
+        "en": "Second floor, 8:00 to 9:30."
+      },
+      {
+        "zh": "凭早餐券去旁边那家店。",
+        "py": "Píng zǎocānquàn qù pángbiān nà jiā diàn.",
+        "en": "Use the voucher at the shop next door."
+      },
+      {
+        "zh": "拿房卡登记一下就行。",
+        "py": "Ná fángkǎ dēngjì yíxià jiù xíng.",
+        "en": "Just register with your room card."
+      }
+    ]
+  },
+  "163": {
+    "when": [
+      "Say it before paying when you're unsure about a size — malls and brand stores answer yes and explain the window; market stalls will say no, which is exactly what you want to know before money changes hands.",
+      "It also works after the purchase if the tag is still on: bring the receipt (发票 or 小票) and this line opens the exchange desk conversation."
+    ],
+    "variants": [
+      {
+        "zh": "不合适可以退吗？",
+        "py": "Bù héshì kěyǐ tuì ma?",
+        "en": "Can I return it if it doesn't fit?"
+      },
+      {
+        "zh": "我想换个中号。",
+        "py": "Wǒ xiǎng huàn gè zhōng hào.",
+        "en": "I'd like to exchange it for a medium."
+      },
+      {
+        "zh": "换货要带小票吗？",
+        "py": "Huànhuò yào dài xiǎopiào ma?",
+        "en": "Do I need the receipt to exchange?"
+      }
+    ],
+    "mistakes": [
+      "Using 退 (refund) when you mean 换 (exchange) — a refund asks for money back and gets refused far more often; an exchange for another size is an easier yes.",
+      "Cutting the tags off first — exchanges almost always require the original tags attached, so wear it once at home with tags folded away, not removed.",
+      "Losing the receipt — no 小票 or 发票, no exchange, even in big malls; photograph it the moment you get it."
+    ],
+    "replies": [
+      {
+        "zh": "七天之内凭小票可以换。",
+        "py": "Qī tiān zhī nèi píng xiǎopiào kěyǐ huàn.",
+        "en": "Within seven days, with the receipt, you can exchange."
+      },
+      {
+        "zh": "换可以，退不行。",
+        "py": "Huàn kěyǐ, tuì bù xíng.",
+        "en": "Exchange yes, refund no."
+      },
+      {
+        "zh": "标签剪掉了就不能换了。",
+        "py": "Biāoqiān jiǎn diào le jiù bù néng huàn le.",
+        "en": "If the tag is cut off, no exchange."
+      }
+    ]
+  },
+  "164": {
+    "when": [
+      "Say it at any counter or market stall when 付款 feels vague — it asks whether QR payment works here, which covers Alipay, WeChat Pay, or whatever app you've set up.",
+      "It also works for taxis and street vendors: almost everyone displays a QR code on a piece of plastic, and this question confirms yours will be accepted before you fumble for cash."
+    ],
+    "variants": [
+      {
+        "zh": "扫这个码可以吗？",
+        "py": "Sǎo zhège mǎ kěyǐ ma?",
+        "en": "Can I scan this code?"
+      },
+      {
+        "zh": "我只带手机了。",
+        "py": "Wǒ zhǐ dài shǒujī le.",
+        "en": "I only have my phone with me."
+      },
+      {
+        "zh": "现金可以吗？",
+        "py": "Xiànjīn kěyǐ ma?",
+        "en": "Is cash okay?"
+      }
+    ],
+    "mistakes": [
+      "Scanning the wrong code — stalls often show two: one receives payment (收钱码) and one is the vendor's own social QR; the paying one usually says 收款 under it.",
+      "Assuming no sign means no QR — many vendors keep the code on a string around their neck or taped inside the cart; ask rather than walking away.",
+      "Forgetting your fallback — if the app fails at a critical moment, 我用现金 (I'll use cash) plus small bills still saves the transaction."
+    ],
+    "replies": [
+      {
+        "zh": "可以，扫这个就行。",
+        "py": "Kěyǐ, sǎo zhège jiù xíng.",
+        "en": "Yes, just scan this one."
+      },
+      {
+        "zh": "微信支付宝都可以。",
+        "py": "Wēixìn zhīfùbǎo dōu kěyǐ.",
+        "en": "WeChat and Alipay both work."
+      },
+      {
+        "zh": "码在那个牌子上。",
+        "py": "Mǎ zài nàge páizi shang.",
+        "en": "The code is on that sign."
+      }
+    ]
+  },
+  "165": {
+    "when": [
+      "Say it as an opener with taxi drivers, market vendors or anyone chatting you up — it flips the mood instantly: people slow down, smile, and start helping instead of transacting.",
+      "It also works as a soft apology before asking something complicated: pair it with 我中文说得不好 and even a mangled question gets full patience."
+    ],
+    "variants": [
+      {
+        "zh": "我第一次来上海。",
+        "py": "Wǒ dì yī cì lái Shànghǎi.",
+        "en": "It's my first time in Shanghai."
+      },
+      {
+        "zh": "中国真好看。",
+        "py": "Zhōngguó zhēn hǎokàn.",
+        "en": "China is really beautiful."
+      },
+      {
+        "zh": "我喜欢中国菜。",
+        "py": "Wǒ xǐhuan Zhōngguó cài.",
+        "en": "I like Chinese food."
+      }
+    ],
+    "mistakes": [
+      "Getting 次 wrong — the measure word for times is 次: 第一次, 第二次, 第三次; using 遍 or 回 here sounds off in this fixed phrase.",
+      "Saying it flat like a fact — this line works because of warmth; a smile and a little effort on the tones does more than perfect grammar ever could.",
+      "Expecting English back — some will switch to English, many will just speak slower Chinese; either way 请说慢一点 keeps the exchange alive."
+    ],
+    "replies": [
+      {
+        "zh": "欢迎欢迎！",
+        "py": "Huānyíng huānyíng!",
+        "en": "Welcome, welcome!"
+      },
+      {
+        "zh": "去过哪些地方？",
+        "py": "Qù guò nǎxiē dìfang?",
+        "en": "Which places have you been to?"
+      },
+      {
+        "zh": "中国菜吃得惯吗？",
+        "py": "Zhōngguó cài chī de guàn ma?",
+        "en": "Is the food agreeing with you?"
+      }
+    ]
+  },
   "_comment": "第四批扩词：id 136-145（收美金/手续费/寄国外/两件便宜/退票/坐过站/下一班/续住/没问题/走散了）"
 }

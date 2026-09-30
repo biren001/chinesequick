@@ -37,7 +37,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Fifteen words that carry almost every polite exchange you will have in China. None of them is hard to say, and locals notice immediately when a visitor uses them — doors open faster, service gets friendlier, and small misunderstandings shrink.",
     mission:
       "Greet three people today — hotel staff, a shop assistant, a taxi driver. A spoken 你好 plus a smile is enough.",
-    ids: [41, 65, 46, 79, 47, 80, 42, 44, 50, 43, 76, 62, 63, 67, 45],
+    ids: [41, 65, 46, 79, 47, 80, 42, 44, 50, 43, 76, 62, 63, 67, 45, 165],
   },
   {
     day: 2,
@@ -59,7 +59,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Restaurants are where you will use Chinese most. Menus may have no photos, staff may have no English, and pointing alone will not get you less spicy or no meat. After today you can order, ask what is good, and pay for the meal.",
     mission:
       "Order one dish end to end: point at the menu, say 我要这个，and finish with 买单。",
-    ids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 51, 52, 53, 54, 99, 106, 116, 117, 118, 126, 127, 146, 147],
+    ids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 51, 52, 53, 54, 99, 106, 116, 117, 118, 126, 127, 146, 147, 156, 157, 158],
   },
   {
     day: 4,
@@ -70,7 +70,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Drivers and station staff often speak no English at all, which makes this the day that saves the most walking. The address card on this site plus 请带我去这个地址 handles the destination; the rest of today's phrases handle tickets, timing and directions.",
     mission:
       "Take one taxi or train using Chinese only — show the address, ask 多久能到？and pay with 不用找了。",
-    ids: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 55, 56, 57, 58, 102, 107, 108, 110, 119, 120, 128, 129, 140, 141, 142, 148, 149, 155],
+    ids: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 55, 56, 57, 58, 102, 107, 108, 110, 119, 120, 128, 129, 140, 141, 142, 148, 149, 155, 159, 160, 161],
   },
   {
     day: 5,
@@ -81,7 +81,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Hotels are also where mobile payments stop being optional: front desks, breakfast vouchers and luggage storage all move faster when you can ask for Alipay or WeChat Pay by name. Today ends with you checking in, sorting a room problem, and paying without opening your wallet for cash.",
     mission:
       "Check in by saying 我要入住 and 我订了房间，then pay once with 可以用支付宝吗？",
-    ids: [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 95, 96, 97, 98, 103, 111, 112, 113, 121, 122, 130, 131, 143, 150, 151, 152],
+    ids: [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 95, 96, 97, 98, 103, 111, 112, 113, 121, 122, 130, 131, 143, 150, 151, 152, 162],
   },
   {
     day: 6,
@@ -92,7 +92,7 @@ export const COURSE_DAYS: CourseDay[] = [
       "Markets and small shops run on two sentences: 这个多少钱 and 可以便宜一点吗。Everything else today is about getting the right size, the right color, and not buying the first thing you touch. Browse politely with 我随便看看 — sellers genuinely back off when you say it.",
     mission:
       "Buy something small: ask the price, try it on, and ask 可以便宜一点吗？ once. The worst case is a smile and a no.",
-    ids: [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 59, 60, 61, 100, 101, 109, 114, 115, 123, 132, 136, 137, 138, 139, 153],
+    ids: [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 59, 60, 61, 100, 101, 109, 114, 115, 123, 132, 136, 137, 138, 139, 153, 163, 164],
   },
   {
     day: 7,

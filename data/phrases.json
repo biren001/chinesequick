@@ -4249,5 +4249,265 @@
     "en": "air conditioner"
    }
   ]
+ },
+ {
+  "id": 156,
+  "category": "restaurant",
+  "chinese": "有位子吗？",
+  "pinyin": "Yǒu wèizi ma?",
+  "english": "Do you have a table?",
+  "audio": null,
+  "tip": "The first sentence when you walk into a busy restaurant with no host stand. Add 两位 (a table for two) if you can: 有两位的位子吗？ The server will either wave you to a table or write your name down for a wait.",
+  "words": [
+   {
+    "zh": "有",
+    "py": "yǒu",
+    "en": "to have / there is"
+   },
+   {
+    "zh": "位子",
+    "py": "wèizi",
+    "en": "seat / table spot"
+   },
+   {
+    "zh": "吗",
+    "py": "ma",
+    "en": "(question particle)"
+   }
+  ]
+ },
+ {
+  "id": 157,
+  "category": "restaurant",
+  "chinese": "请给我筷子。",
+  "pinyin": "Qǐng gěi wǒ kuàizi.",
+  "english": "Chopsticks, please.",
+  "audio": null,
+  "tip": "Swap the last word as needed: 勺子 (spoon), 叉子 (fork), 纸巾 (napkin). Many casual places keep chopsticks in a drawer or a box on the table — if you don't see any, this line solves it. 给我 alone means give me.",
+  "words": [
+   {
+    "zh": "给",
+    "py": "gěi",
+    "en": "to give"
+   },
+   {
+    "zh": "筷子",
+    "py": "kuàizi",
+    "en": "chopsticks"
+   },
+   {
+    "zh": "勺子",
+    "py": "sháozi",
+    "en": "spoon"
+   }
+  ]
+ },
+ {
+  "id": 158,
+  "category": "restaurant",
+  "chinese": "我吃饱了。",
+  "pinyin": "Wǒ chī bǎo le.",
+  "english": "I'm full.",
+  "audio": null,
+  "tip": "What you say when staff offer more food or another dish — it politely closes the meal. Paired with 买单 (the bill, please) it means you're done. Don't confuse with 我吃饱饭了, a longer form that means the same thing.",
+  "words": [
+   {
+    "zh": "吃",
+    "py": "chī",
+    "en": "to eat"
+   },
+   {
+    "zh": "饱",
+    "py": "bǎo",
+    "en": "full (stomach)"
+   },
+   {
+    "zh": "了",
+    "py": "le",
+    "en": "(completed action)"
+   }
+  ]
+ },
+ {
+  "id": 159,
+  "category": "travel",
+  "chinese": "检票口在哪里？",
+  "pinyin": "Jiǎnpiàokǒu zài nǎlǐ?",
+  "english": "Where is the boarding gate?",
+  "audio": null,
+  "tip": "Works for both train stations (they call it 检票口) and airports (boarding gates are usually marked 登机口 — swap the word if a sign says that). Your ticket or the 12306 app shows the gate number; staff will point if you show them the ticket.",
+  "words": [
+   {
+    "zh": "检票口",
+    "py": "jiǎnpiàokǒu",
+    "en": "ticket check / boarding gate"
+   },
+   {
+    "zh": "在",
+    "py": "zài",
+    "en": "at / is at"
+   },
+   {
+    "zh": "哪里",
+    "py": "nǎlǐ",
+    "en": "where"
+   }
+  ]
+ },
+ {
+  "id": 160,
+  "category": "travel",
+  "chinese": "这是我的座位。",
+  "pinyin": "Zhè shì wǒ de zuòwèi.",
+  "english": "This is my seat.",
+  "audio": null,
+  "tip": "High-speed rail and trains are strictly assigned seating, and seat-swapping misunderstandings happen constantly. Show your ticket or 12306 screen while saying it. To ask yours: 我的座位在哪里？ (Where is my seat?)",
+  "words": [
+   {
+    "zh": "座位",
+    "py": "zuòwèi",
+    "en": "seat (assigned)"
+   },
+   {
+    "zh": "这是",
+    "py": "zhè shì",
+    "en": "this is"
+   },
+   {
+    "zh": "我的",
+    "py": "wǒ de",
+    "en": "my / mine"
+   }
+  ]
+ },
+ {
+  "id": 161,
+  "category": "travel",
+  "chinese": "我的航班延误了。",
+  "pinyin": "Wǒ de hángbān yánwù le.",
+  "english": "My flight is delayed.",
+  "audio": null,
+  "tip": "延误 is the word on every airport status board (取消 means cancelled — worse). Useful when explaining to hotel staff or a taxi queue why you're arriving late: 我的航班延误了，我要改住一晚。 Airlines rebook you automatically for major delays; ask at the counter, not the gate.",
+  "words": [
+   {
+    "zh": "航班",
+    "py": "hángbān",
+    "en": "flight"
+   },
+   {
+    "zh": "延误",
+    "py": "yánwù",
+    "en": "delayed"
+   },
+   {
+    "zh": "取消",
+    "py": "qǔxiāo",
+    "en": "cancelled"
+   }
+  ]
+ },
+ {
+  "id": 162,
+  "category": "hotel",
+  "chinese": "早餐在哪里吃？",
+  "pinyin": "Zǎocān zài nǎlǐ chī?",
+  "english": "Where do I eat breakfast?",
+  "audio": null,
+  "tip": "The natural follow-up to 早餐几点开始 (when does breakfast start). Big hotels have a restaurant floor; budget chains often hand you a breakfast voucher (早餐券) to use at a neighboring shop — if you get a coupon, ask 凭这个去哪里吃？",
+  "words": [
+   {
+    "zh": "早餐",
+    "py": "zǎocān",
+    "en": "breakfast"
+   },
+   {
+    "zh": "吃",
+    "py": "chī",
+    "en": "to eat"
+   },
+   {
+    "zh": "哪里",
+    "py": "nǎlǐ",
+    "en": "where"
+   }
+  ]
+ },
+ {
+  "id": 163,
+  "category": "shopping",
+  "chinese": "尺码不合适可以换吗？",
+  "pinyin": "Chǐmǎ bù héshì kěyǐ huàn ma?",
+  "english": "Can I exchange it if the size doesn't fit?",
+  "audio": null,
+  "tip": "Ask BEFORE buying — small market stalls generally won't, but malls and brand stores will within 7–30 days with the receipt (发票 or 小票). Keep the tags on. 换 means exchange for another size/color; 退 means return for money, which is much harder.",
+  "words": [
+   {
+    "zh": "尺码",
+    "py": "chǐmǎ",
+    "en": "size (clothing)"
+   },
+   {
+    "zh": "合适",
+    "py": "héshì",
+    "en": "to fit / suitable"
+   },
+   {
+    "zh": "换",
+    "py": "huàn",
+    "en": "to exchange"
+   }
+  ]
+ },
+ {
+  "id": 164,
+  "category": "money",
+  "chinese": "可以扫码吗？",
+  "pinyin": "Kěyǐ sǎo mǎ ma?",
+  "english": "Can I pay by scanning a QR code?",
+  "audio": null,
+  "tip": "扫码 (scan the code) is the verb behind virtually all payments in China. This line covers any app you've set up — Alipay, WeChat Pay, or a foreign card inside them. Street vendors, taxis, even buskers take QR codes; ask this whenever 付款 feels too vague.",
+  "words": [
+   {
+    "zh": "扫",
+    "py": "sǎo",
+    "en": "to scan"
+   },
+   {
+    "zh": "码",
+    "py": "mǎ",
+    "en": "code (QR code)"
+   },
+   {
+    "zh": "付钱",
+    "py": "fù qián",
+    "en": "to pay"
+   }
+  ]
+ },
+ {
+  "id": 165,
+  "category": "everyday",
+  "chinese": "我第一次来中国。",
+  "pinyin": "Wǒ dì yī cì lái Zhōngguó.",
+  "english": "It's my first time in China.",
+  "audio": null,
+  "tip": "The best ice-breaker in the language — vendors, taxi drivers and waiters instantly become patient and helpful when they hear it. 次 is the measure word for times: 第二次 (second time), 第三次 (third time) all slot into the same sentence.",
+  "words": [
+   {
+    "zh": "第一次",
+    "py": "dì yī cì",
+    "en": "the first time"
+   },
+   {
+    "zh": "来",
+    "py": "lái",
+    "en": "to come"
+   },
+   {
+    "zh": "中国",
+    "py": "Zhōngguó",
+    "en": "China"
+   }
+  ]
  }
 ]
