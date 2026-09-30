@@ -88,7 +88,7 @@ export default function SiteControls() {
   };
 
   const btn =
-    "flex h-10 w-10 items-center justify-center rounded-full border border-line bg-card text-ink shadow-sm transition hover:bg-accent-soft active:scale-95";
+    "flex h-11 w-11 items-center justify-center rounded-full border border-line bg-card text-ink shadow-sm transition hover:bg-accent-soft active:scale-95";
 
   return (
     <div
@@ -105,7 +105,7 @@ export default function SiteControls() {
             aria-label={s.aria}
             aria-pressed={size === s.value}
             onClick={() => pick(s.value)}
-            className={`${s.className} h-9 w-9 font-medium transition ${
+            className={`${s.className} h-11 w-11 font-medium transition ${
               size === s.value ? "bg-accent text-white" : "text-ink hover:bg-accent-soft"
             }`}
           >

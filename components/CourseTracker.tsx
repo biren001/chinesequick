@@ -107,7 +107,7 @@ export function CourseDayNav({ names }: { names: string[] }) {
             }}
             aria-current={isCurrent ? "true" : undefined}
             className={
-              "rounded-full border px-3 py-1.5 text-xs font-medium transition " +
+              "rounded-full border px-3 py-2.5 text-xs font-medium transition " +
               (isCurrent
                 ? "border-accent bg-accent text-white"
                 : "border-line bg-card text-ink hover:border-accent hover:text-accent")
