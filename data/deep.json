@@ -525,6 +525,51 @@
       }
     ]
   },
+  "12": {
+    "when": [
+      "Use it at a hotel desk or with any driver when the destination is too long to explain street by street.",
+      "It also works at car-rental counters and when asking which bus reaches the airport."
+    ],
+    "variants": [
+      {
+        "zh": "请去机场。",
+        "py": "Qǐng qù jīchǎng.",
+        "en": "To the airport, please."
+      },
+      {
+        "zh": "我要赶飞机。",
+        "py": "Wǒ yào gǎn fēijī.",
+        "en": "I need to catch a flight."
+      },
+      {
+        "zh": "请送我到机场。",
+        "py": "Qǐng sòng wǒ dào jīchǎng.",
+        "en": "Please take me to the airport."
+      }
+    ],
+    "mistakes": [
+      "Saying 飞机场 and expecting confusion — both words work and drivers understand either; 机场 is simply the modern, shorter form.",
+      "Leaving out the urgency when the flight is near — 我要赶飞机 tells the driver to weigh route choice differently than a casual trip.",
+      "Aiming the sentence at metro staff — for directions inside the system ask which line; this sentence is for taxis, didi and car services."
+    ],
+    "replies": [
+      {
+        "zh": "好，上车吧。",
+        "py": "Hǎo, shàng chē ba.",
+        "en": "Okay, get in."
+      },
+      {
+        "zh": "哪个航站楼？",
+        "py": "Nǎge hángzhàn lóu?",
+        "en": "Which terminal?"
+      },
+      {
+        "zh": "大概四十分钟。",
+        "py": "Dàgài sìshí fēnzhōng.",
+        "en": "About forty minutes."
+      }
+    ]
+  },
   "13": {
     "when": [
       "Say it as you hand your phone over to a taxi driver or a hotel front desk clerk, with the address already open on the screen — reading a Chinese address aloud is far harder than showing it.",
@@ -570,6 +615,51 @@
         "zh": "这边不能停车。",
         "py": "Zhèbiān bù néng tíng chē.",
         "en": "You can't stop on this side."
+      }
+    ]
+  },
+  "14": {
+    "when": [
+      "Use it at any ticket window — trains, metro, attractions — as the natural first question before deciding how many to buy.",
+      "The same question works at attractions, where entrance tickets answer to the same words."
+    ],
+    "variants": [
+      {
+        "zh": "票多少钱？",
+        "py": "Piào duōshǎo qián?",
+        "en": "How much are tickets?"
+      },
+      {
+        "zh": "门票多少钱？",
+        "py": "Ménpiào duōshǎo qián?",
+        "en": "How much is the entrance ticket?"
+      },
+      {
+        "zh": "一张多少？",
+        "py": "Yì zhāng duōshǎo?",
+        "en": "How much for one?"
+      }
+    ],
+    "mistakes": [
+      "Dropping the counter word — 一张票 is the fixed shape; 一票 sounds clipped and occasionally confusing.",
+      "Mixing 票 and 门票 — 票 covers transport tickets, 门票 is specifically site entry; both sellers, but the wrong one slows the exchange.",
+      "Paying before asking about discounts — 学生票 and children's prices exist even for foreign students, and the window rarely volunteers them."
+    ],
+    "replies": [
+      {
+        "zh": "五十块一张。",
+        "py": "Wǔshí kuài yì zhāng.",
+        "en": "Fifty yuan each."
+      },
+      {
+        "zh": "要几张？",
+        "py": "Yào jǐ zhāng?",
+        "en": "How many do you want?"
+      },
+      {
+        "zh": "学生半价。",
+        "py": "Xuéshēng bànjià.",
+        "en": "Half price for students."
       }
     ]
   },
@@ -811,6 +901,51 @@
       }
     ]
   },
+  "20": {
+    "when": [
+      "Use it at check-in desks, ticket counters and SIM registration — anywhere real-name ID rules apply and the clerk has asked for 证件.",
+      "It also covers the reverse situation where a clerk waves you through and you need to volunteer it."
+    ],
+    "variants": [
+      {
+        "zh": "请看我的护照。",
+        "py": "Qǐng kàn wǒ de hùzhào.",
+        "en": "Please look at my passport."
+      },
+      {
+        "zh": "护照在这儿。",
+        "py": "Hùzhào zài zhèr.",
+        "en": "Here's the passport."
+      },
+      {
+        "zh": "我要出示护照。",
+        "py": "Wǒ yào chūshì hùzhào.",
+        "en": "I need to show my passport."
+      }
+    ],
+    "mistakes": [
+      "Handing it over with the photo page covered — staff need the picture and number visible; open it flat to the data page first.",
+      "Confusing 护照 with 身份证 — 身份证 is the local ID card; when a sign says one or the other, yours is always the passport.",
+      "Leaving it as a deposit at small hotels — legit businesses register and return it; walking away without it takes a reminder, so watch the counter."
+    ],
+    "replies": [
+      {
+        "zh": "好的，我登记一下。",
+        "py": "Hǎo de, wǒ dēngjì yíxià.",
+        "en": "Okay, let me register it."
+      },
+      {
+        "zh": "麻烦复印一下。",
+        "py": "Máfan fùyìn yíxià.",
+        "en": "Let me make a copy."
+      },
+      {
+        "zh": "请出示签证页。",
+        "py": "Qǐng chūshì qiānzhèng yè.",
+        "en": "Please show the visa page too."
+      }
+    ]
+  },
   "21": {
     "when": [
       "Say it at the front desk as your opening line, before anyone asks you anything — it moves the conversation from \"do you have a room\" to \"find my booking\".",
@@ -855,6 +990,51 @@
         "zh": "没查到您的预订。",
         "py": "Méi chá dào nín de yùdìng.",
         "en": "I can't find your booking."
+      }
+    ]
+  },
+  "22": {
+    "when": [
+      "Use it walking into a hotel without a booking, or calling ahead at night when the booking apps show sold out.",
+      "The same sentence works on the phone, where desks answer it faster than booking apps update availability."
+    ],
+    "variants": [
+      {
+        "zh": "今天有房吗？",
+        "py": "Jīntiān yǒu fáng ma?",
+        "en": "Do you have a room tonight?"
+      },
+      {
+        "zh": "还有房间吗？",
+        "py": "Hái yǒu fángjiān ma?",
+        "en": "Any rooms left?"
+      },
+      {
+        "zh": "有大床房吗？",
+        "py": "Yǒu dàchuángfáng ma?",
+        "en": "Do you have a double room?"
+      }
+    ],
+    "mistakes": [
+      "Asking without a date — walk-ins are always asked which night, so lead with 今晚 (tonight) to skip a round trip.",
+      "Trusting 满了 immediately — ask 附近有别的酒店吗 (is there another hotel nearby); desk staff genuinely help with this.",
+      "Skipping the price check — the desk quotes rack rate to walk-ins; ask 多少钱一晚 before accepting the key."
+    ],
+    "replies": [
+      {
+        "zh": "有，标间三百八。",
+        "py": "Yǒu, biāojiān sānbāi bā.",
+        "en": "Yes — standard room, 380 yuan."
+      },
+      {
+        "zh": "只剩大床房了。",
+        "py": "Zhǐ shèng dàchuángfáng le.",
+        "en": "Only doubles are left."
+      },
+      {
+        "zh": "满了，旁边有一家。",
+        "py": "Mǎn le, pángbiān yǒu yì jiā.",
+        "en": "Full — there's another hotel next door."
       }
     ]
   },
@@ -951,6 +1131,51 @@
         "zh": "欢迎再次光临。",
         "py": "Huānyíng zài cì guānglín.",
         "en": "Welcome back any time."
+      }
+    ]
+  },
+  "25": {
+    "when": [
+      "Use it at check-in when the key card shows a number you can't parse, or in older hotels where the desk just waves vaguely.",
+      "It also pairs naturally with asking which way the elevator is when the lobby is a maze."
+    ],
+    "variants": [
+      {
+        "zh": "我的房间在几层？",
+        "py": "Wǒ de fángjiān zài jǐ céng?",
+        "en": "Which story is my room on?"
+      },
+      {
+        "zh": "五零八在几楼？",
+        "py": "Wǔ líng bā zài jǐ lóu?",
+        "en": "Which floor is 508 on?"
+      },
+      {
+        "zh": "电梯在哪边？",
+        "py": "Diàntī zài nǎ biān?",
+        "en": "Which way is the elevator?"
+      }
+    ],
+    "mistakes": [
+      "Expecting every number to exist — Chinese elevators often skip 4, 13 and 14, so room 508 may sit on a button labeled differently.",
+      "Confusing 楼 and 层 — both mean floor, but 层 is the counter word for stories; hearing 六层 means take the elevator to six.",
+      "Reading the room number as the floor for three-digit rooms — the first digit usually is the floor, but confirm with the desk when it isn't."
+    ],
+    "replies": [
+      {
+        "zh": "五楼，电梯左转。",
+        "py": "Wǔ lóu, diàntī zuǒ zhuǎn.",
+        "en": "Fifth floor — turn left out of the elevator."
+      },
+      {
+        "zh": "请坐电梯到六层。",
+        "py": "Qǐng zuò diàntī dào liù céng.",
+        "en": "Take the elevator to the sixth floor."
+      },
+      {
+        "zh": "这栋没电梯，走楼梯上二楼。",
+        "py": "Zhè dòng méi diàntī, zǒu lóutī shàng èr lóu.",
+        "en": "No elevator in this wing — stairs to the second floor."
       }
     ]
   },
@@ -1095,6 +1320,96 @@
         "zh": "毛巾在浴室架子上。",
         "py": "Máojīn zài yùshì jiàzi shàng.",
         "en": "The towels are on the rack in the bathroom."
+      }
+    ]
+  },
+  "29": {
+    "when": [
+      "Use it when you have checked out but the evening train is hours away, or when you arrive long before check-in opens.",
+      "The same question works at train stations and mall storage counters, where the answer includes a per-day price."
+    ],
+    "variants": [
+      {
+        "zh": "行李能放这儿吗？",
+        "py": "Xíngli néng fàng zhèr ma?",
+        "en": "Can I leave my luggage here?"
+      },
+      {
+        "zh": "存到晚上可以吗？",
+        "py": "Cún dào wǎnshang kěyǐ ma?",
+        "en": "Can it stay until evening?"
+      },
+      {
+        "zh": "有行李寄存处吗？",
+        "py": "Yǒu xíngli jìcúnchù ma?",
+        "en": "Is there a luggage storage room?"
+      }
+    ],
+    "mistakes": [
+      "Confusing 寄存 with 寄 — 寄 alone means to mail; luggage goes into 寄存 or just 放.",
+      "Assuming it is free — hotels store guest bags free; stations and malls charge per bag per day, so ask the price when it is not your hotel.",
+      "Losing the claim ticket — take the 憑條, photograph it, and check the closing time before walking away."
+    ],
+    "replies": [
+      {
+        "zh": "可以，放前台这边。",
+        "py": "Kěyǐ, fàng qiántái zhèbiān.",
+        "en": "Sure, leave it at the front desk."
+      },
+      {
+        "zh": "晚上八点前取。",
+        "py": "Wǎnshang bā diǎn qián qǔ.",
+        "en": "Pick it up before 8 p.m."
+      },
+      {
+        "zh": "一件十块。",
+        "py": "Yí jiàn shí kuài.",
+        "en": "Ten yuan per bag."
+      }
+    ]
+  },
+  "30": {
+    "when": [
+      "Use it at check-in to plan the morning, or the night before an early departure when you need to know if breakfast will happen in time.",
+      "It also settles whether breakfast is included at all, before the room card detail comes back."
+    ],
+    "variants": [
+      {
+        "zh": "早餐是几点到几点？",
+        "py": "Zǎocān shì jǐ diǎn dào jǐ diǎn?",
+        "en": "What hours is breakfast?"
+      },
+      {
+        "zh": "含早餐吗？",
+        "py": "Hán zǎocān ma?",
+        "en": "Is breakfast included?"
+      },
+      {
+        "zh": "明天早餐在几楼？",
+        "py": "Míngtiān zǎocān zài jǐ lóu?",
+        "en": "Which floor is breakfast tomorrow?"
+      }
+    ],
+    "mistakes": [
+      "Asking only the start time — you also need 几点结束 (when it ends) to know if an early tour outruns it.",
+      "Assuming home hours — big hotels start 6:30-7:30, but smaller ones can start at 8:00, late enough to miss a morning train.",
+      "Forgetting the location — breakfast floors move between restaurants; one extra question saves a morning search."
+    ],
+    "replies": [
+      {
+        "zh": "七点到十点，二楼。",
+        "py": "Qī diǎn dào shí diǎn, èr lóu.",
+        "en": "Seven to ten, second floor."
+      },
+      {
+        "zh": "凭房卡用餐。",
+        "py": "Píng fángkǎ yòngcān.",
+        "en": "Show your room card to eat."
+      },
+      {
+        "zh": "您这间不含早。",
+        "py": "Nín zhè jiān bù hán zǎo.",
+        "en": "Your room rate doesn't include breakfast."
       }
     ]
   },
@@ -2152,6 +2467,51 @@
       }
     ]
   },
+  "53": {
+    "when": [
+      "Use it in cheap local eateries where rice refills cost nothing or one or two yuan and the kitchen expects the ask.",
+      "It also works when the dish-to-rice ratio surprises you; asking costs nothing and refills are standard in local shops."
+    ],
+    "variants": [
+      {
+        "zh": "米饭能免费加吗？",
+        "py": "Mǐfàn néng miǎnfèi jiā ma?",
+        "en": "Is the rice refill free?"
+      },
+      {
+        "zh": "再来一碗米饭。",
+        "py": "Zài lái yì wǎn mǐfàn.",
+        "en": "One more bowl of rice, please."
+      },
+      {
+        "zh": "加饭多少钱？",
+        "py": "Jiā fàn duōshǎo qián?",
+        "en": "How much is extra rice?"
+      }
+    ],
+    "mistakes": [
+      "Waiting for table service at fast rice shops — many have a rice cooker station; carry your bowl over and help yourself.",
+      "Saying 加米 — 米 is uncooked grain; the cooked bowl you want is 米饭.",
+      "Assuming free everywhere — noodle shops may not serve rice at all, and mid-range restaurants charge per bowl."
+    ],
+    "replies": [
+      {
+        "zh": "可以，免费的。",
+        "py": "Kěyǐ, miǎnfèi de.",
+        "en": "Sure — it's free."
+      },
+      {
+        "zh": "自己去那边加。",
+        "py": "Zìjǐ qù nàbiān jiā.",
+        "en": "Refill it yourself over there."
+      },
+      {
+        "zh": "一块一碗。",
+        "py": "Yí kuài yì wǎn.",
+        "en": "One yuan a bowl."
+      }
+    ]
+  },
   "54": {
     "when": [
       "Say it after the dish is on the table and you have actually tasted it — 太…了 reports what you just found, and this is the sentence that gets the plate taken away or replaced.",
@@ -2196,6 +2556,321 @@
         "zh": "要不要开水？",
         "py": "Yào bú yào kāishuǐ?",
         "en": "Would you like some hot water?"
+      }
+    ]
+  },
+  "55": {
+    "when": [
+      "The address card sentence — show the card, say the line, and let the written characters carry the pronunciation you can't.",
+      "It also works when a stranger offers help and the fastest gift you can accept is a ride direction."
+    ],
+    "variants": [
+      {
+        "zh": "请送我到这个地方。",
+        "py": "Qǐng sòng wǒ dào zhège dìfang.",
+        "en": "Please take me to this place."
+      },
+      {
+        "zh": "就是这个地址。",
+        "py": "Jiù shì zhège dìzhǐ.",
+        "en": "It's this address."
+      },
+      {
+        "zh": "麻烦按这个地址走。",
+        "py": "Máfan àn zhège dìzhǐ zǒu.",
+        "en": "Please follow this address."
+      }
+    ],
+    "mistakes": [
+      "Covering half the card with your thumb — hold it flat and whole; the driver reads street and number in one glance.",
+      "Reading the pinyin aloud instead of showing characters — your accent can mangle the address the characters would have carried perfectly.",
+      "Putting the phone away too early — keep the address visible until the driver confirms he knows it, in case of a follow-up question."
+    ],
+    "replies": [
+      {
+        "zh": "好，我知道，上车吧。",
+        "py": "Hǎo, wǒ zhīdào, shàng chē ba.",
+        "en": "Got it — hop in."
+      },
+      {
+        "zh": "是那个酒店吧？",
+        "py": "Shì nàge jiǔdiàn ba?",
+        "en": "That hotel, right?"
+      },
+      {
+        "zh": "导航一下就知道。",
+        "py": "Dǎoháng yíxià jiù zhīdào.",
+        "en": "One navigation check and we're set."
+      }
+    ]
+  },
+  "56": {
+    "when": [
+      "Use it in the taxi right after showing the address, at ticket counters for the next departure, or when a stranger points you down a long street.",
+      "The same question doubles as a check on route optimism, since drivers who promise twenty minutes rarely mean forty."
+    ],
+    "variants": [
+      {
+        "zh": "要多长时间？",
+        "py": "Yào duō cháng shíjiān?",
+        "en": "How long will it take?"
+      },
+      {
+        "zh": "还有几站？",
+        "py": "Hái yǒu jǐ zhàn?",
+        "en": "How many stops left?"
+      },
+      {
+        "zh": "快到了吗？",
+        "py": "Kuài dào le ma?",
+        "en": "Are we almost there?"
+      }
+    ],
+    "mistakes": [
+      "Taking the first number literally in rush hour — 二十分钟 means twenty minutes with no traffic; double it mentally before planning.",
+      "Asking 多久能到 on the metro platform — staff answer in stops and minutes for the next train, so ask 几站 or 下一班几分钟.",
+      "Confusing 到 with 走 — 多久能到 asks arrival, 走多久 asks the walk; both work but the answer differs in kind."
+    ],
+    "replies": [
+      {
+        "zh": "二十分钟左右。",
+        "py": "Èrshí fēnzhōng zuǒyòu.",
+        "en": "About twenty minutes."
+      },
+      {
+        "zh": "不堵车就十分钟。",
+        "py": "Bù dǔchē jiù shí fēnzhōng.",
+        "en": "Ten minutes if there's no jam."
+      },
+      {
+        "zh": "快了，前面路口右转就到。",
+        "py": "Kuài le, qiánmiàn lùkǒu yòu zhuǎn jiù dào.",
+        "en": "Almost — right at the intersection ahead."
+      }
+    ]
+  },
+  "57": {
+    "when": [
+      "Use it when asking to borrow a charger at a desk, explaining why you cannot show an e-ticket, or opening a request to use someone's phone for one call.",
+      "It also opens the request to borrow a stranger phone for one call, which people grant more than you would expect."
+    ],
+    "variants": [
+      {
+        "zh": "手机没电了，能借充电器吗？",
+        "py": "Shǒujī méi diàn le, néng jiè chōngdiànqì ma?",
+        "en": "Phone's dead — can I borrow a charger?"
+      },
+      {
+        "zh": "我手机关机了。",
+        "py": "Wǒ shǒujī guānjī le.",
+        "en": "My phone is off."
+      },
+      {
+        "zh": "有充电宝吗？",
+        "py": "Yǒu chōngdiànbǎo ma?",
+        "en": "Do you have a power bank?"
+      }
+    ],
+    "mistakes": [
+      "Confusing 没电 with 坏了 — 坏 means broken hardware; 没电 promises the phone revives with a cable.",
+      "Asking staff before trying a shared power bank — 扫码充电宝 stands sit at every convenience store and are the faster fix.",
+      "Letting the battery die at all on travel days — carry the cable; hotel desks lend chargers, but they ask for a deposit."
+    ],
+    "replies": [
+      {
+        "zh": "用我的充电器吧。",
+        "py": "Yòng wǒ de chōngdiànqì ba.",
+        "en": "Use my charger."
+      },
+      {
+        "zh": "门口有共享充电宝。",
+        "py": "Ménkǒu yǒu gòngxiǎng chōngdiànbǎo.",
+        "en": "There's a shared power bank by the door."
+      },
+      {
+        "zh": "前台有，押金五十。",
+        "py": "Qiántái yǒu, yājīn wǔshí.",
+        "en": "Front desk has one — 50 yuan deposit."
+      }
+    ]
+  },
+  "58": {
+    "when": [
+      "Use it at scenic spots, where trading photo favors between visitors is completely normal and rarely refused.",
+      "It also works for a solo traveler who wants one photo that is not a selfie, with a landmark in it."
+    ],
+    "variants": [
+      {
+        "zh": "能帮我们拍张合影吗？",
+        "py": "Néng bāng wǒmen pāi zhāng héyǐng ma?",
+        "en": "Could you take a group photo of us?"
+      },
+      {
+        "zh": "麻烦帮我拍一下。",
+        "py": "Máfan bāng wǒ pāi yíxià.",
+        "en": "Please take one for me."
+      },
+      {
+        "zh": "可以帮我拍照吗？",
+        "py": "Kěyǐ bāng wǒ pāizhào ma?",
+        "en": "Could you take a photo for me?"
+      }
+    ],
+    "mistakes": [
+      "Handing over your phone cold — point at the shutter and say 按这个就行 (just press this), or the helper hunts for the button.",
+      "Accepting one shot — everyone says 再来一张 (one more); it is normal and gets you a keeper.",
+      "Asking staff mid-task — fellow visitors are the right target; uniformed workers are busy being uniformed."
+    ],
+    "replies": [
+      {
+        "zh": "好，站在那儿。",
+        "py": "Hǎo, zhàn zài nàr.",
+        "en": "Sure — stand over there."
+      },
+      {
+        "zh": "来，一、二、三。",
+        "py": "Lái, yī, èr, sān.",
+        "en": "Ready — one, two, three."
+      },
+      {
+        "zh": "拍好了，看看行不行。",
+        "py": "Pāi hǎo le, kànkan xíng bu xíng.",
+        "en": "Done — check if it's okay."
+      }
+    ]
+  },
+  "59": {
+    "when": [
+      "Use it when the size on display is too small — the seller goes straight to the stock room instead of making you hunt racks.",
+      "The same question works for shoes, where sizes answer to a different counter word but the ask sounds identical."
+    ],
+    "variants": [
+      {
+        "zh": "有再大一点的吗？",
+        "py": "Yǒu zài dà yìdiǎn de ma?",
+        "en": "Do you have a slightly bigger one?"
+      },
+      {
+        "zh": "大一号有吗？",
+        "py": "Dà yì hào yǒu ma?",
+        "en": "Do you have one size up?"
+      },
+      {
+        "zh": "这有XL的吗？",
+        "py": "Zhè yǒu XL de ma?",
+        "en": "Do you have this in XL?"
+      }
+    ],
+    "mistakes": [
+      "Trusting your home size — Chinese cut runs smaller, so ask for 大一号 even when you wear M back home.",
+      "Mixing up 大 and 小 under pressure — pause a breath; this is the costliest two-character swap in a Chinese shop.",
+      "Forgetting the softener — 有大号的吗 is a question, 有再大一点的吗 is a request; the second gets friendlier service."
+    ],
+    "replies": [
+      {
+        "zh": "我去仓库看看。",
+        "py": "Wǒ qù cāngkù kànkan.",
+        "en": "Let me check the stockroom."
+      },
+      {
+        "zh": "这就是最大码了。",
+        "py": "Zhè jiù shì zuì dà mǎ le.",
+        "en": "This is the biggest size we have."
+      },
+      {
+        "zh": "有一件，你试试。",
+        "py": "Yǒu yí jiàn, nǐ shìshi.",
+        "en": "There's one — try it."
+      }
+    ]
+  },
+  "60": {
+    "when": [
+      "Use it in stores displaying the blue 离境退税 logo, once your purchases might pass the 500-yuan same-store threshold.",
+      "It also applies at the airport itself, where the refund counter sits before customs and passport control."
+    ],
+    "variants": [
+      {
+        "zh": "这个能退税吗？",
+        "py": "Zhège néng tuìshuì ma?",
+        "en": "Can this be tax-refunded?"
+      },
+      {
+        "zh": "离境退税在哪儿办？",
+        "py": "Líjìng tuìshuì zài nǎr bàn?",
+        "en": "Where do I process the departure tax refund?"
+      },
+      {
+        "zh": "退税要什么手续？",
+        "py": "Tuìshuì yào shénme shǒuxù?",
+        "en": "What's the procedure for the refund?"
+      }
+    ],
+    "mistakes": [
+      "Expecting every store to refund — only licensed 离境退税 shops participate; no blue logo, no refund, however big the purchase.",
+      "Losing the special receipt — the refund slip must be stamped by customs at the airport before you check bags in.",
+      "Leaving it to the last gate — the refund counter sits before passport control; a tight connection can eat the whole window."
+    ],
+    "replies": [
+      {
+        "zh": "满500可以退。",
+        "py": "Mǎn wǔbǎi kěyǐ tuì.",
+        "en": "Refundable over 500 yuan."
+      },
+      {
+        "zh": "我们店不是退税店。",
+        "py": "Wǒmen diàn bú shì tuìshuì diàn.",
+        "en": "We're not a refund-licensed store."
+      },
+      {
+        "zh": "机场海关那边盖章。",
+        "py": "Jīchǎng hǎiguān nàbiān gài zhāng.",
+        "en": "Get it stamped at airport customs."
+      }
+    ]
+  },
+  "61": {
+    "when": [
+      "Use it at small stalls and older shops where QR codes dominate — cash remains legal tender and this question does the insisting politely.",
+      "It also settles things on day one, before your payment app is linked and tested with a small payment."
+    ],
+    "variants": [
+      {
+        "zh": "能用现金吗？",
+        "py": "Néng yòng xiànjīn ma?",
+        "en": "Can I use cash?"
+      },
+      {
+        "zh": "现金可以吗？",
+        "py": "Xiànjīn kěyǐ ma?",
+        "en": "Is cash okay?"
+      },
+      {
+        "zh": "收纸币吗？",
+        "py": "Shōu zhǐbì ma?",
+        "en": "Do you take banknotes?"
+      }
+    ],
+    "mistakes": [
+      "Assuming no QR means no sale — by law RMB cash must be accepted; a polite 重复 ask usually produces a drawer somewhere.",
+      "Offering big notes at street stalls — a 100-yuan note can exceed a vendor's float; carry 10s and 20s for markets.",
+      "Expecting card terminals — foreign Visa and Mastercard fail almost everywhere in person; cash and Alipay are the two working rails."
+    ],
+    "replies": [
+      {
+        "zh": "收，我找您钱。",
+        "py": "Shōu, wǒ zhǎo nín qián.",
+        "en": "We take it — I'll make change."
+      },
+      {
+        "zh": "有零钱吗？",
+        "py": "Yǒu língqián ma?",
+        "en": "Do you have smaller notes?"
+      },
+      {
+        "zh": "最好扫码，现金也行。",
+        "py": "Zuìhǎo sǎomǎ, xiànjīn yě xíng.",
+        "en": "QR is easier, but cash works."
       }
     ]
   },
@@ -2639,6 +3314,51 @@
         "zh": "这里没人会说。",
         "py": "Zhèlǐ méi rén huì shuō.",
         "en": "Nobody here speaks it."
+      }
+    ]
+  },
+  "71": {
+    "when": [
+      "Use it the moment a reply outruns your listening — asking at sentence one saves the whole conversation from drifting.",
+      "The same sentence works on the phone, where pace runs faster and there is no body language to lean on."
+    ],
+    "variants": [
+      {
+        "zh": "请慢一点说。",
+        "py": "Qǐng màn yìdiǎn shuō.",
+        "en": "Please speak a bit slower."
+      },
+      {
+        "zh": "说得慢一点好吗？",
+        "py": "Shuō de màn yìdiǎn hǎo ma?",
+        "en": "Could you say it more slowly?"
+      },
+      {
+        "zh": "再说慢点。",
+        "py": "Zài shuō màn diǎn.",
+        "en": "Say it slower again."
+      }
+    ],
+    "mistakes": [
+      "Smiling through incomprehension — three polite nod s look engaged but guarantee the next sentence comes even faster.",
+      "Saying 慢慢 alone — it needs the verb attached; 慢慢说 works, bare 慢慢 reads as an instruction to take it easy.",
+      "Mumbling the request — this sentence lands best slightly louder and perfectly clear; it models exactly what you're asking for."
+    ],
+    "replies": [
+      {
+        "zh": "好，我慢点说。",
+        "py": "Hǎo, wǒ màn diǎn shuō.",
+        "en": "Sure, I'll slow down."
+      },
+      {
+        "zh": "这样可以吗？",
+        "py": "Zhèyàng kěyǐ ma?",
+        "en": "Is this speed okay?"
+      },
+      {
+        "zh": "要不我写给你？",
+        "py": "Yào bu wǒ xiě gěi nǐ?",
+        "en": "How about I write it down?"
       }
     ]
   },
@@ -3648,6 +4368,186 @@
       }
     ]
   },
+  "93": {
+    "when": [
+      "Use it at the hotel desk or police station right after noticing — a desk clerk making calls for you beats searching the streets alone.",
+      "It also turns bystanders from curious to helpful, since people respond to the news with action."
+    ],
+    "variants": [
+      {
+        "zh": "钱包丢了。",
+        "py": "Qiánbāo diū le.",
+        "en": "I lost my wallet."
+      },
+      {
+        "zh": "我的包被偷了。",
+        "py": "Wǒ de bāo bèi tōu le.",
+        "en": "My bag was stolen."
+      },
+      {
+        "zh": "我被偷了。",
+        "py": "Wǒ bèi tōu le.",
+        "en": "I've been robbed."
+      }
+    ],
+    "mistakes": [
+      "Saying 丢了 when you know it was stolen — 丢 means lost somewhere; 被偷 is the word police reports are built on.",
+      "Hunting the streets first — the fastest help is the nearest desk; hotel staff dial 110 and explain location faster than you can.",
+      "Delaying card cancellations — call the banks before the search; Chinese pickpockets move faster than tourists retrace steps."
+    ],
+    "replies": [
+      {
+        "zh": "报警了吗？我帮您打。",
+        "py": "Bàojǐng le ma? Wǒ bāng nín dǎ.",
+        "en": "Have you called the police? I'll dial for you."
+      },
+      {
+        "zh": "在哪儿丢的？",
+        "py": "Zài nǎr diū de?",
+        "en": "Where did it happen?"
+      },
+      {
+        "zh": "报案回执留着补证件。",
+        "py": "Bào'àn huízhí liúzhe bǔ zhèngjiàn.",
+        "en": "Keep the police report slip for replacing documents."
+      }
+    ]
+  },
+  "94": {
+    "when": [
+      "Use it for everyday medicine — pharmacies with green cross signs are everywhere and open until about 10 p.m.",
+      "The same question works for all-night branches, where a green cross with a 24-hour sign marks the exception."
+    ],
+    "variants": [
+      {
+        "zh": "附近有药店吗？",
+        "py": "Fùjìn yǒu yàodiàn ma?",
+        "en": "Is there a pharmacy nearby?"
+      },
+      {
+        "zh": "哪儿有药房？",
+        "py": "Nǎr yǒu yàofáng?",
+        "en": "Where's a pharmacy?"
+      },
+      {
+        "zh": "最近的药店怎么走？",
+        "py": "Zuìjìn de yàodiàn zěnme zǒu?",
+        "en": "How do I get to the closest pharmacy?"
+      }
+    ],
+    "mistakes": [
+      "Assuming 24 hours — most close at 22:00; look for the 24小时 sign on the rare all-night branch.",
+      "Describing symptoms to strangers on the street — walk into the pharmacy itself; the pharmacist asks directly and triages honestly.",
+      "Expecting prescription rules like home — common painkillers are over the counter, but bring the original box if you carry daily medication."
+    ],
+    "replies": [
+      {
+        "zh": "前面路口有一家。",
+        "py": "Qiánmiàn lùkǒu yǒu yì jiā.",
+        "en": "There's one at the intersection ahead."
+      },
+      {
+        "zh": "马路对面有个大药房。",
+        "py": "Mǎlù duìmiàn yǒu gè dà yàofáng.",
+        "en": "There's a big pharmacy across the street."
+      },
+      {
+        "zh": "走五分钟，右手边。",
+        "py": "Zǒu wǔ fēnzhōng, yòushǒu biān.",
+        "en": "Five minutes' walk, on your right."
+      }
+    ]
+  },
+  "95": {
+    "when": [
+      "Use it before handing over anything — hotels, taxis, restaurants, markets; asking costs nothing and the tenth time saves an awkward minute.",
+      "It also covers metro gates and buses, where the app payment code works even when a counter has none."
+    ],
+    "variants": [
+      {
+        "zh": "能支付宝付吗？",
+        "py": "Néng Zhīfùbǎo fù ma?",
+        "en": "Can I pay with Alipay?"
+      },
+      {
+        "zh": "支付宝行吗？",
+        "py": "Zhīfùbǎo xíng ma?",
+        "en": "Is Alipay okay?"
+      },
+      {
+        "zh": "扫这个二维码行吗？",
+        "py": "Sǎo zhège èrwéimǎ xíng ma?",
+        "en": "Can I scan this QR code?"
+      }
+    ],
+    "mistakes": [
+      "Opening the wrong app — 支付宝 and 微信支付 are rival wallets; vendors sometimes want one specifically and the other fails.",
+      "Arriving with an unlinked card — add your international card and test a tiny payment on day one, not at the checkout counter.",
+      "Asking where no code exists — metro gates and buses take app payment codes, so the question is only for counters and stalls."
+    ],
+    "replies": [
+      {
+        "zh": "可以，扫这个。",
+        "py": "Kěyǐ, sǎo zhège.",
+        "en": "Yes — scan this one."
+      },
+      {
+        "zh": "支付宝微信都行。",
+        "py": "Zhīfùbǎo Wēixìn dōu xíng.",
+        "en": "Alipay or WeChat, either works."
+      },
+      {
+        "zh": "您扫我，还是我扫您？",
+        "py": "Nín sǎo wǒ, háishì wǒ sǎo nín?",
+        "en": "You scan mine, or I scan yours?"
+      }
+    ]
+  },
+  "96": {
+    "when": [
+      "Use it at smaller vendors who run WeChat only because their regulars already live in the app, and as the fallback when an Alipay code errors out.",
+      "The same question is the natural fallback the moment the other wallet times out or errors twice."
+    ],
+    "variants": [
+      {
+        "zh": "微信能付吗？",
+        "py": "Wēixìn néng fù ma?",
+        "en": "Can I pay via WeChat?"
+      },
+      {
+        "zh": "微信行不行？",
+        "py": "Wēixìn xíng bu xíng?",
+        "en": "Does WeChat work?"
+      },
+      {
+        "zh": "我微信付。",
+        "py": "Wǒ Wēixìn fù.",
+        "en": "I'll pay with WeChat."
+      }
+    ],
+    "mistakes": [
+      "Funding only one wallet — top up and link cards in both apps; they fail at different moments and one saves the other.",
+      "Scanning a personal code when the official 商家码 errors — either can work, but ask which one when the first scan fails.",
+      "Skipping setup before the trip — WeChat Pay needs a linked card configured while you still have patience and Wi-Fi."
+    ],
+    "replies": [
+      {
+        "zh": "行，微信扫我。",
+        "py": "Xíng, Wēixìn sǎo wǒ.",
+        "en": "Sure — scan my code with WeChat."
+      },
+      {
+        "zh": "都可以。",
+        "py": "Dōu kěyǐ.",
+        "en": "Either is fine."
+      },
+      {
+        "zh": "微信有点问题，支付宝行吗？",
+        "py": "Wēixìn yǒudiǎn wèntí, Zhīfùbǎo xíng ma?",
+        "en": "WeChat is acting up — is Alipay okay?"
+      }
+    ]
+  },
   "97": {
     "when": [
       "Use it at any counter when you cannot tell how payment works here — no card reader in sight, no QR code propped up, and nobody has asked you for money yet.",
@@ -3835,6 +4735,231 @@
         "zh": "请到收银台。",
         "py": "Qǐng dào shōuyíntái.",
         "en": "Please pay at the cashier."
+      }
+    ]
+  },
+  "101": {
+    "when": [
+      "Use it when a group splits a bill — ask before anyone pays, then each person scans the table's code separately.",
+      "It also covers the coupon case, where one person pays with a deal and the others settle privately."
+    ],
+    "variants": [
+      {
+        "zh": "我们各付各的。",
+        "py": "Wǒmen gè fù gè de.",
+        "en": "We'll each pay our own."
+      },
+      {
+        "zh": "一人扫一次行吗？",
+        "py": "Yì rén sǎo yí cì xíng ma?",
+        "en": "Can each of us scan once?"
+      },
+      {
+        "zh": "AA制可以吗？",
+        "py": "AA zhì kěyǐ ma?",
+        "en": "Can we split it evenly?"
+      }
+    ],
+    "mistakes": [
+      "Expecting a split-the-bill button — there is none at the table; AA happens by separate scans, one person per code.",
+      "Confusing AA制 with 各付各的 — AA splits the total evenly; 各付各的 means everyone pays for what they ordered.",
+      "Asking the waiter to divide — the kitchen brings one bill; the splitting happens at the QR step, not on paper."
+    ],
+    "replies": [
+      {
+        "zh": "可以，一人扫一次。",
+        "py": "Kěyǐ, yì rén sǎo yí cì.",
+        "en": "Sure — one scan each."
+      },
+      {
+        "zh": "我先付，你们转我。",
+        "py": "Wǒ xiān fù, nǐmen zhuǎn wǒ.",
+        "en": "I'll pay first, you all transfer me."
+      },
+      {
+        "zh": "扫桌上的码就行。",
+        "py": "Sǎo zhuō shàng de mǎ jiù xíng.",
+        "en": "Just scan the code on the table."
+      }
+    ]
+  },
+  "102": {
+    "when": [
+      "Use it when paying small cash amounts and the change is a few yuan — the local way for generosity to land without embarrassment.",
+      "The same sentence works for market stalls and small taxis alike, anywhere the change is small and the kindness is welcome."
+    ],
+    "variants": [
+      {
+        "zh": "零钱不用找了。",
+        "py": "Língqián bú yòng zhǎo le.",
+        "en": "Don't bother with the change."
+      },
+      {
+        "zh": "剩下的给你。",
+        "py": "Shèngxià de gěi nǐ.",
+        "en": "Keep what's left."
+      },
+      {
+        "zh": "不用找了，谢谢。",
+        "py": "Bú yòng zhǎo le, xièxie.",
+        "en": "Keep the change, thanks."
+      }
+    ],
+    "mistakes": [
+      "Waving off big change — 20 yuan on an 80 fare reads as confusion about the meter, not kindness.",
+      "Expecting service to transform — China has no tipping culture; this is politeness, and it lands as politeness.",
+      "Saying it during a fare dispute — settle the amount first; 不用找了 only means something when the number is agreed."
+    ],
+    "replies": [
+      {
+        "zh": "那谢谢您了！",
+        "py": "Nà xièxie nín le!",
+        "en": "Well, thank you!"
+      },
+      {
+        "zh": "这怎么好意思。",
+        "py": "Zhè zěnme hǎoyìsi.",
+        "en": "Oh, you shouldn't have."
+      },
+      {
+        "zh": "好嘞，慢走！",
+        "py": "Hǎo lei, màn zǒu!",
+        "en": "You got it — take care!"
+      }
+    ]
+  },
+  "103": {
+    "when": [
+      "Use it when a company or insurer needs proof of purchase — 发票 is the official tax document, a different object from a till slip.",
+      "It also matters for insurance claims, where the official invoice is the only document that counts as proof."
+    ],
+    "variants": [
+      {
+        "zh": "能开发票吗？",
+        "py": "Néng kāi fāpiào ma?",
+        "en": "Can you issue a fapiao?"
+      },
+      {
+        "zh": "需要一张发票。",
+        "py": "Xūyào yì zhāng fāpiào.",
+        "en": "I need a fapiao."
+      },
+      {
+        "zh": "抬头写这个。",
+        "py": "Táitóu xiě zhège.",
+        "en": "Put this as the invoice title."
+      }
+    ],
+    "mistakes": [
+      "Confusing 发票 with 收据 — a 收据 is a mere receipt; reimbursement in China requires the tax-registered fapiao.",
+      "Giving the company title 抬头 by voice alone — carry it as text on your phone; one wrong character voids the document.",
+      "Expecting instant paper — many places email 电子发票; have an email address ready before you ask."
+    ],
+    "replies": [
+      {
+        "zh": "可以，抬头给我一下。",
+        "py": "Kěyǐ, táitóu gěi wǒ yíxià.",
+        "en": "Sure — let me have the invoice title."
+      },
+      {
+        "zh": "电子发票发您邮箱。",
+        "py": "Diànzǐ fāpiào fā nín yóuxiāng.",
+        "en": "I'll email you the e-invoice."
+      },
+      {
+        "zh": "个人还是公司抬头？",
+        "py": "Gèrén háishì gōngsī táitóu?",
+        "en": "Personal or company title?"
+      }
+    ]
+  },
+  "104": {
+    "when": [
+      "Use it at the counter when your screen shows failure and the queue grows — the sentence explains everything and buys you patience.",
+      "The same sentence works when the code scans but errors, with the screen shown and the line said out loud."
+    ],
+    "variants": [
+      {
+        "zh": "付不了。",
+        "py": "Fù bu liǎo.",
+        "en": "The payment won't go through."
+      },
+      {
+        "zh": "扫码失败。",
+        "py": "Sǎomǎ shībài.",
+        "en": "The scan failed."
+      },
+      {
+        "zh": "我再试一次。",
+        "py": "Wǒ zài shì yí cì.",
+        "en": "Let me try again."
+      }
+    ],
+    "mistakes": [
+      "Struggling silently with the phone — staff see failed payments daily; showing the screen gets a second QR or a workaround in seconds.",
+      "Re-scanning ten times before asking — after two failures, say the sentence and hand the problem over.",
+      "Assuming your bank blocked it — usually it is the app's risk check on a new location; a retry after a minute often clears it."
+    ],
+    "replies": [
+      {
+        "zh": "别急，再扫一次。",
+        "py": "Bié jí, zài sǎo yí cì.",
+        "en": "No rush — scan again."
+      },
+      {
+        "zh": "用现金也行。",
+        "py": "Yòng xiànjīn yě xíng.",
+        "en": "Cash works too."
+      },
+      {
+        "zh": "您换个网试试。",
+        "py": "Nín huàn gè wǎng shìshi.",
+        "en": "Try switching networks."
+      }
+    ]
+  },
+  "105": {
+    "when": [
+      "Use it when a foreign card declines — the default experience in China, since most terminals read UnionPay only.",
+      "It also sets up the graceful pivot to the payment app, which staff suggest the moment you say it."
+    ],
+    "variants": [
+      {
+        "zh": "卡刷不了。",
+        "py": "Kǎ shuā bu liǎo.",
+        "en": "The card won't swipe."
+      },
+      {
+        "zh": "这卡刷不过去。",
+        "py": "Zhè kǎ shuā bu guòqù.",
+        "en": "This card won't go through."
+      },
+      {
+        "zh": "我用支付宝吧。",
+        "py": "Wǒ yòng Zhīfùbǎo ba.",
+        "en": "I'll just use Alipay."
+      }
+    ],
+    "mistakes": [
+      "Retrying five times — foreign Visa and Mastercard rarely pass a POS terminal; two tries, then switch rails.",
+      "Blaming the merchant — their terminal genuinely cannot read the card; it is infrastructure, not attitude.",
+      "Forgetting bank ATMs — foreign cards usually DO work in bank machines for cash withdrawal, which is the reliable backup."
+    ],
+    "replies": [
+      {
+        "zh": "刷不了国外的卡。",
+        "py": "Shuā bu liǎo guówài de kǎ.",
+        "en": "Foreign cards don't go through here."
+      },
+      {
+        "zh": "旁边就有ATM。",
+        "py": "Pángbiān jiù yǒu ATM.",
+        "en": "There's an ATM right nearby."
+      },
+      {
+        "zh": "您用支付宝吧，都能付。",
+        "py": "Nín yòng Zhīfùbǎo ba, dōu néng fù.",
+        "en": "Just use Alipay — it works everywhere."
       }
     ]
   },
@@ -4738,5 +5863,5 @@
       }
     ]
   },
-  "_comment": "扩词第二批（id 116-125）。结构：when x2 / variants x3 / mistakes x3 / replies x3。when 两条各自成句且连读通顺。"
+  "_comment": "deep 补缺批：25 条早期存量短语（id 12,14,20,22,25,29,30,53,55,56,57,58,59,60,61,71,93,94,95,96,101,102,103,104,105）"
 }
