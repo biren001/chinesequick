@@ -1,15 +1,15 @@
 {
-  "htmlFiles": 179,
-  "occurrences": 135,
-  "pagesWithFaqSentence": 135,
+  "htmlFiles": 189,
+  "occurrences": 145,
+  "pagesWithFaqSentence": 145,
   "variants": {
-    "a hotel": 17,
-    "a shopping": 14,
+    "a hotel": 18,
+    "a shopping": 16,
     "a restaurant": 20,
-    "a money": 14,
-    "a travel": 22,
-    "an everyday": 32,
-    "an emergency": 16
+    "a money": 16,
+    "a travel": 25,
+    "an everyday": 33,
+    "an emergency": 17
   },
   "wrong": 0,
   "wrongList": [],

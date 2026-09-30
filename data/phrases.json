@@ -3744,5 +3744,265 @@
     "en": "change of state"
    }
   ]
+ },
+ {
+  "id": 136,
+  "category": "money",
+  "chinese": "这里收美金吗？",
+  "pinyin": "Zhèlǐ shōu Měijīn ma?",
+  "english": "Do you take US dollars?",
+  "audio": null,
+  "tip": "Mostly useful near borders and in tourist hotels — the honest answer in most of China is no. 美金 is the spoken word for US dollars; 美元 (měiyuán) is the written one, and both are understood.",
+  "words": [
+   {
+    "zh": "这里",
+    "py": "zhèlǐ",
+    "en": "here"
+   },
+   {
+    "zh": "收",
+    "py": "shōu",
+    "en": "to accept (payment)"
+   },
+   {
+    "zh": "美金",
+    "py": "Měijīn",
+    "en": "US dollars"
+   }
+  ]
+ },
+ {
+  "id": 137,
+  "category": "money",
+  "chinese": "手续费多少？",
+  "pinyin": "Shǒuxùfèi duōshao?",
+  "english": "How much is the fee?",
+  "audio": null,
+  "tip": "The question to ask before any money move — changing cash, a foreign-card ATM withdrawal or a wire at the bank. 手续费 is the universal word for a service fee, and it is sometimes negotiable at exchange counters.",
+  "words": [
+   {
+    "zh": "手续费",
+    "py": "shǒuxùfèi",
+    "en": "service fee"
+   },
+   {
+    "zh": "多少",
+    "py": "duōshao",
+    "en": "how much"
+   }
+  ]
+ },
+ {
+  "id": 138,
+  "category": "shopping",
+  "chinese": "可以寄到国外吗？",
+  "pinyin": "Kěyǐ jì dào guówài ma?",
+  "english": "Can you ship this abroad?",
+  "audio": null,
+  "tip": "Worth asking for bulky souvenirs — teapots, art, furniture. Big shops may offer international shipping or help with a forwarder; small stalls will not. 寄 covers mail and parcel shipping in one word.",
+  "words": [
+   {
+    "zh": "可以",
+    "py": "kěyǐ",
+    "en": "can"
+   },
+   {
+    "zh": "寄",
+    "py": "jì",
+    "en": "to ship / to mail"
+   },
+   {
+    "zh": "国外",
+    "py": "guówài",
+    "en": "abroad"
+   }
+  ]
+ },
+ {
+  "id": 139,
+  "category": "shopping",
+  "chinese": "买两件可以便宜吗？",
+  "pinyin": "Mǎi liǎng jiàn kěyǐ piányi ma?",
+  "english": "Any discount if I buy two?",
+  "audio": null,
+  "tip": "The bulk-discount line, and sellers almost always move for a second item — 件 is the measure word for clothes. Same frame works with any number: 买三件 (buy three). Pairs with 可以便宜一点吗.",
+  "words": [
+   {
+    "zh": "买",
+    "py": "mǎi",
+    "en": "to buy"
+   },
+   {
+    "zh": "两件",
+    "py": "liǎng jiàn",
+    "en": "two (items of clothing)"
+   },
+   {
+    "zh": "便宜",
+    "py": "piányi",
+    "en": "cheaper"
+   }
+  ]
+ },
+ {
+  "id": 140,
+  "category": "travel",
+  "chinese": "我要退票。",
+  "pinyin": "Wǒ yào tuìpiào.",
+  "english": "I want to refund this ticket.",
+  "audio": null,
+  "tip": "Say it at the original ticket window with the ticket and your passport. Train tickets refund for a fee by departure time and the rules tighten close to the train — so go as soon as plans change.",
+  "words": [
+   {
+    "zh": "我",
+    "py": "wǒ",
+    "en": "I"
+   },
+   {
+    "zh": "要",
+    "py": "yào",
+    "en": "want to"
+   },
+   {
+    "zh": "退票",
+    "py": "tuìpiào",
+    "en": "to refund a ticket"
+   }
+  ]
+ },
+ {
+  "id": 141,
+  "category": "travel",
+  "chinese": "我坐过站了。",
+  "pinyin": "Wǒ zuò guò zhàn le.",
+  "english": "I missed my stop.",
+  "audio": null,
+  "tip": "过 here means \"went past\" — the sentence is the polite way to ask for help without panic. On the metro the fix is easy: stay on to the next stop and ride back. On a bus, tell the driver 再停一下.",
+  "words": [
+   {
+    "zh": "我",
+    "py": "wǒ",
+    "en": "I"
+   },
+   {
+    "zh": "坐",
+    "py": "zuò",
+    "en": "to ride"
+   },
+   {
+    "zh": "过站",
+    "py": "guò zhàn",
+    "en": "past the stop"
+   },
+   {
+    "zh": "了",
+    "py": "le",
+    "en": "it has happened"
+   }
+  ]
+ },
+ {
+  "id": 142,
+  "category": "travel",
+  "chinese": "下一班几点？",
+  "pinyin": "Xià yì bān jǐ diǎn?",
+  "english": "What time is the next one?",
+  "audio": null,
+  "tip": "班 is the measure word for scheduled runs — buses, ferries, metro trains. If the answer stumps you, the follow-up is 多久一班 (duō jiǔ yì bān, how often does one come).",
+  "words": [
+   {
+    "zh": "下一班",
+    "py": "xià yì bān",
+    "en": "the next (scheduled run)"
+   },
+   {
+    "zh": "几",
+    "py": "jǐ",
+    "en": "what (number)"
+   },
+   {
+    "zh": "点",
+    "py": "diǎn",
+    "en": "o'clock"
+   }
+  ]
+ },
+ {
+  "id": 143,
+  "category": "hotel",
+  "chinese": "我要续住一晚。",
+  "pinyin": "Wǒ yào xùzhù yì wǎn.",
+  "english": "I'd like to stay one more night.",
+  "audio": null,
+  "tip": "续住 means extend the stay — ask the night before, because rooms booked through apps are often released for resale on the morning of checkout. Swap 一晚 for 两晚 (two nights) freely.",
+  "words": [
+   {
+    "zh": "我要",
+    "py": "wǒ yào",
+    "en": "I'd like to"
+   },
+   {
+    "zh": "续住",
+    "py": "xùzhù",
+    "en": "to extend a stay"
+   },
+   {
+    "zh": "一晚",
+    "py": "yì wǎn",
+    "en": "one night"
+   }
+  ]
+ },
+ {
+  "id": 144,
+  "category": "everyday",
+  "chinese": "没问题。",
+  "pinyin": "Méi wèntí.",
+  "english": "No problem.",
+  "audio": null,
+  "tip": "The agreement word for everything: a request, a change of plan, a thank-you. Literally \"no problem exists\". Pair it with 没关系 (it's fine) — one says yes, the other forgives.",
+  "words": [
+   {
+    "zh": "没",
+    "py": "méi",
+    "en": "not have"
+   },
+   {
+    "zh": "问题",
+    "py": "wèntí",
+    "en": "problem"
+   }
+  ]
+ },
+ {
+  "id": 145,
+  "category": "emergency",
+  "chinese": "我和朋友走散了。",
+  "pinyin": "Wǒ hé péngyou zǒusàn le.",
+  "english": "I got separated from my friend.",
+  "audio": null,
+  "tip": "The standard sentence at information desks, station staff and police — they deal with it daily. Have a meeting spot in mind before big crowds; phones die and signals drop in the metro, which is exactly when this happens.",
+  "words": [
+   {
+    "zh": "我和",
+    "py": "wǒ hé",
+    "en": "I and ..."
+   },
+   {
+    "zh": "朋友",
+    "py": "péngyou",
+    "en": "friend"
+   },
+   {
+    "zh": "走散",
+    "py": "zǒusàn",
+    "en": "got separated"
+   },
+   {
+    "zh": "了",
+    "py": "le",
+    "en": "it has happened"
+   }
+  ]
  }
 ]

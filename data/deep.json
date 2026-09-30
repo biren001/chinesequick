@@ -6313,5 +6313,455 @@
       }
     ]
   },
-  "_comment": "第三批扩词：id 126-135（不要香菜/再来一份/离市中心远吗/这趟车去机场吗/叫出租车/房卡不能用/取钱/我明白了/肚子疼/行李丢了）"
+  "136": {
+    "when": [
+      "Ask it only where foreign currency plausibly works — border towns, big tourist hotels, airline offices — because most everyday shops in China take yuan only.",
+      "It is also the honest way to check before pulling out cash that may be useless, so you learn the answer before the transaction starts."
+    ],
+    "variants": [
+      {
+        "zh": "可以用美元吗？",
+        "py": "Kěyǐ yòng Měiyuán ma?",
+        "en": "Can I pay in US dollars?"
+      },
+      {
+        "zh": "这里能换美金吗？",
+        "py": "Zhèlǐ néng huàn Měijīn ma?",
+        "en": "Can I change US dollars here?"
+      },
+      {
+        "zh": "我只有美金。",
+        "py": "Wǒ zhǐyǒu Měijīn.",
+        "en": "I only have US dollars."
+      }
+    ],
+    "mistakes": [
+      "Assuming big cities mean broad acceptance — even in Shanghai or Beijing, street shops and taxis take yuan or QR payment, and dollars only work in a handful of counters.",
+      "Confusing 美金 with 美元 — both mean US dollars and both are understood, but 美金 is the spoken word people use and 美元 leans written.",
+      "Offering large notes in a small shop — even where dollars are taken, change comes back in yuan, so keep small bills and expect the rate to include a margin."
+    ],
+    "replies": [
+      {
+        "zh": "不收，只收人民币。",
+        "py": "Bù shōu, zhǐ shōu Rénmínbì.",
+        "en": "No — yuan only."
+      },
+      {
+        "zh": "可以，按今天的汇率。",
+        "py": "Kěyǐ, àn jīntiān de huìlǜ.",
+        "en": "Yes, at today's exchange rate."
+      },
+      {
+        "zh": "银行那边可以换。",
+        "py": "Yínháng nàbiān kěyǐ huàn.",
+        "en": "You can change it at the bank over there."
+      }
+    ]
+  },
+  "137": {
+    "when": [
+      "Ask it before any money service — changing cash at a bank or exchange counter, withdrawing at an ATM with a foreign card, or wiring money — because the fee is often not shown until you commit.",
+      "It also works for ticket changes and hotel deposits: any time an extra charge might be hiding, this is the question that surfaces it."
+    ],
+    "variants": [
+      {
+        "zh": "取钱要手续费吗？",
+        "py": "Qǔ qián yào shǒuxùfèi ma?",
+        "en": "Is there a fee for withdrawing money?"
+      },
+      {
+        "zh": "换钱手续费是多少？",
+        "py": "Huàn qián shǒuxùfèi shì duōshao?",
+        "en": "What is the fee for changing money?"
+      },
+      {
+        "zh": "要收多少手续费？",
+        "py": "Yào shōu duōshao shǒuxùfèi?",
+        "en": "How much of a fee do you charge?"
+      }
+    ],
+    "mistakes": [
+      "Only comparing the headline exchange rate — a great rate with a heavy commission can lose to a fair rate with no fee, which is why the question comes before the transaction.",
+      "Skipping the question at ATMs — foreign-card withdrawals can carry two fees, one from each bank, and neither may appear on screen before you accept.",
+      "Confusing 手续费 with 小费 — 手续费 is the service fee you cannot avoid; 小费 is a tip, and tipping is not expected anywhere in China."
+    ],
+    "replies": [
+      {
+        "zh": "每笔五十块。",
+        "py": "Měi bǐ wǔshí kuài.",
+        "en": "Fifty yuan per transaction."
+      },
+      {
+        "zh": "不收手续费。",
+        "py": "Bù shōu shǒuxùfèi.",
+        "en": "There is no fee."
+      },
+      {
+        "zh": "按百分之一收。",
+        "py": "Àn bǎifēn zhī yī shōu.",
+        "en": "We charge one percent."
+      }
+    ]
+  },
+  "138": {
+    "when": [
+      "Ask it when a purchase is bulky or fragile — teapots, paintings, ceramics — and you would rather have it arrive home than survive your suitcase.",
+      "It also opens the shipping conversation early: if the shop cannot send abroad, they may point you to a forwarding service, and you learn that before you pay."
+    ],
+    "variants": [
+      {
+        "zh": "能寄到美国吗？",
+        "py": "Néng jì dào Měiguó ma?",
+        "en": "Can you ship to the United States?"
+      },
+      {
+        "zh": "可以帮我寄快递吗？",
+        "py": "Kěyǐ bāng wǒ jì kuàidì ma?",
+        "en": "Can you help me send this by courier?"
+      },
+      {
+        "zh": "运费大概多少？",
+        "py": "Yùnfèi dàgài duōshao?",
+        "en": "Roughly how much is the shipping?"
+      }
+    ],
+    "mistakes": [
+      "Asking at markets and small stalls — international shipping lives at big shops, galleries and malls; a stall's answer will be no and the sentence works better one level up.",
+      "Forgetting that 快递 is the magic word — domestic couriers are everywhere and cheap, so a nearby 快递点 can ship for you even when the shop itself cannot.",
+      "Packing before asking — shops that do ship abroad pack to survive the trip, and their materials are better than what you have; ask first, let them wrap it."
+    ],
+    "replies": [
+      {
+        "zh": "可以，走海运慢一些。",
+        "py": "Kěyǐ, zǒu hǎiyùn màn yìxiē.",
+        "en": "Yes — by sea, slower though."
+      },
+      {
+        "zh": "我们这边寄不了。",
+        "py": "Wǒmen zhèbiān jì bu liǎo.",
+        "en": "We can't ship from here."
+      },
+      {
+        "zh": "要填一张快递单。",
+        "py": "Yào tián yì zhāng kuàidì dān.",
+        "en": "You'll need to fill in a courier form."
+      }
+    ]
+  },
+  "139": {
+    "when": [
+      "Use it when you genuinely want two or more of something — a second item in hand is the strongest bargaining chip a market seller will see all day.",
+      "It also works in small shops with a little flexibility, though in fixed-price chain stores the answer is a polite no and nothing is lost by asking."
+    ],
+    "variants": [
+      {
+        "zh": "买三个能便宜点吗？",
+        "py": "Mǎi sān gè néng piányi diǎn ma?",
+        "en": "Any discount if I buy three?"
+      },
+      {
+        "zh": "多买几个能打折吗？",
+        "py": "Duō mǎi jǐ gè néng dǎzhé ma?",
+        "en": "If I buy several, is there a discount?"
+      },
+      {
+        "zh": "两件多少钱？",
+        "py": "Liǎng jiàn duōshao qián?",
+        "en": "How much for two?"
+      }
+    ],
+    "mistakes": [
+      "Promising to buy more and then buying one — sellers remember, and the discount you talk them into is real money out of their pocket; only ask if you mean it.",
+      "Asking before checking the item — agree on quality and size first, because the discount conversation makes no sense if the thing doesn't fit.",
+      "Using 个 for clothes — 件 is the measure word for garments and 个 is for objects; 买两个T恤 sounds off, 买两件 is the natural line."
+    ],
+    "replies": [
+      {
+        "zh": "两件给你算一百。",
+        "py": "Liǎng jiàn gěi nǐ suàn yìbǎi.",
+        "en": "Two for a hundred, I'll count it for you."
+      },
+      {
+        "zh": "买两件送一双袜子。",
+        "py": "Mǎi liǎng jiàn sòng yì shuāng wàzi.",
+        "en": "Buy two and I'll throw in a pair of socks."
+      },
+      {
+        "zh": "一件就是一件的价。",
+        "py": "Yí jiàn jiùshì yí jiàn de jià.",
+        "en": "One is one price."
+      }
+    ]
+  },
+  "140": {
+    "when": [
+      "Use it at the station's ticket window as soon as plans change — train tickets refund for a fee that grows as departure approaches, so early is cheap and late is expensive.",
+      "It also covers flights and long-distance buses, though each carrier has its own cutoff and the counter staff will state it once you say the line."
+    ],
+    "variants": [
+      {
+        "zh": "这张票能退吗？",
+        "py": "Zhè zhāng piào néng tuì ma?",
+        "en": "Can this ticket be refunded?"
+      },
+      {
+        "zh": "改签到明天可以吗？",
+        "py": "Gǎiqiān dào míngtiān kěyǐ ma?",
+        "en": "Can I change it to tomorrow?"
+      },
+      {
+        "zh": "退票要扣多少钱？",
+        "py": "Tuìpiào yào kòu duōshao qián?",
+        "en": "How much do they deduct for a refund?"
+      }
+    ],
+    "mistakes": [
+      "Going to the automatic machines — refunds and changes happen at the staffed window (人工窗口) with the passport you booked under, so machines are not the door for this one.",
+      "Waiting until after departure — missed trains have their own same-day rules that are stricter than a refund before departure, so walk to the window the moment the plan breaks.",
+      "Confusing 退票 with 改签 — 退票 returns the money, 改签 moves you to another train; often 改签 costs less, so ask for both prices."
+    ],
+    "replies": [
+      {
+        "zh": "收百分之五的手续费。",
+        "py": "Shōu bǎifēn zhī wǔ de shǒuxùfèi.",
+        "en": "There's a five percent fee."
+      },
+      {
+        "zh": "开车前两小时以内不行。",
+        "py": "Kāichē qián liǎng xiǎoshí yǐnèi bù xíng.",
+        "en": "Not within two hours of departure."
+      },
+      {
+        "zh": "请出示护照和票。",
+        "py": "Qǐng chūshì hùzhào hé piào.",
+        "en": "Please show your passport and the ticket."
+      }
+    ]
+  },
+  "141": {
+    "when": [
+      "Use it the moment you realise the bus or metro has carried you past your stop — on the metro the fix is automatic (ride back one stop), on a bus you need the driver to hear it now.",
+      "It also works in taxis when you spot the landmark flying by, though there you are more likely to say 请在前面停车 instead."
+    ],
+    "variants": [
+      {
+        "zh": "坐过站了，怎么办？",
+        "py": "Zuò guò zhàn le, zěnme bàn?",
+        "en": "I missed my stop — what do I do?"
+      },
+      {
+        "zh": "师傅，再停一下！",
+        "py": "Shīfu, zài tíng yíxià!",
+        "en": "Driver — stop again, please!"
+      },
+      {
+        "zh": "我该坐回去了。",
+        "py": "Wǒ gāi zuò huíqù le.",
+        "en": "I should ride back."
+      }
+    ],
+    "mistakes": [
+      "Rushing off at the next stop to walk back — on the metro the same line carries you back for free, and on a bus the next stop may be a motorway ramp; staying aboard is usually the better move.",
+      "Confusing 坐过站 with 坐错车 — 过站 means the right vehicle went one stop too far; 错车 means the wrong line entirely, and the fix for those is very different.",
+      "Waiting for the announcement in English — smaller cities and buses announce in Chinese only, so watch the stops on a map app as you ride."
+    ],
+    "replies": [
+      {
+        "zh": "下一站下车再坐回来。",
+        "py": "Xià yí zhàn xiàchē zài zuò huílái.",
+        "en": "Get off at the next stop and ride back."
+      },
+      {
+        "zh": "现在不能停，到站才行。",
+        "py": "Xiànzài bù néng tíng, dào zhàn cái xíng.",
+        "en": "I can't stop now — only at a stop."
+      },
+      {
+        "zh": "没事，就隔一站。",
+        "py": "Méishì, jiù gé yí zhàn.",
+        "en": "No worries — it's just one stop over."
+      }
+    ]
+  },
+  "142": {
+    "when": [
+      "Use it at any stop, pier or station where runs are scheduled — buses, ferries, airport shuttles — and the timetable on the wall is either absent or in Chinese only.",
+      "It also works for the last service of the night: pair it with 末班车是几点 (what time is the last one) before you commit to dinner across town."
+    ],
+    "variants": [
+      {
+        "zh": "多久来一班？",
+        "py": "Duō jiǔ lái yì bān?",
+        "en": "How often does one come?"
+      },
+      {
+        "zh": "末班车是几点？",
+        "py": "Mòbānchē shì jǐ diǎn?",
+        "en": "What time is the last one?"
+      },
+      {
+        "zh": "这趟车还有吗？",
+        "py": "Zhè tàng chē hái yǒu ma?",
+        "en": "Is this run still available?"
+      }
+    ],
+    "mistakes": [
+      "Using 次 instead of 班 for transit — 班 is the measure word for scheduled runs, so 下一班几点 is the fixed phrase; 次 belongs to counting times something happens.",
+      "Asking 你 instead of the schedule — drivers on break and queue staff know the line by heart, and the answer is usually faster than digging out your phone.",
+      "Not confirming the direction — the same route number often runs two ways from nearby stops, so add 到XX的方向 (the direction toward X) if the stop serves both."
+    ],
+    "replies": [
+      {
+        "zh": "十分钟一班。",
+        "py": "Shí fēnzhōng yì bān.",
+        "en": "One every ten minutes."
+      },
+      {
+        "zh": "刚走了一班，再等等。",
+        "py": "Gāng zǒu le yì bān, zài děng děng.",
+        "en": "One just left — wait a bit."
+      },
+      {
+        "zh": "末班是九点半。",
+        "py": "Mòbān shì jiǔ diǎn bàn.",
+        "en": "The last one is at nine thirty."
+      }
+    ]
+  },
+  "143": {
+    "when": [
+      "Use it at the front desk the night before your checkout day — rooms from booking apps are commonly released for resale in the morning, so the evening ask is the one that succeeds.",
+      "It also fits the shorter ask for a late room on the same day, though that version is usually 我可以晚点退房 and handled as a checkout extension instead."
+    ],
+    "variants": [
+      {
+        "zh": "可以再住一晚吗？",
+        "py": "Kěyǐ zài zhù yì wǎn ma?",
+        "en": "Can I stay one more night?"
+      },
+      {
+        "zh": "续住两天可以吗？",
+        "py": "Xùzhù liǎng tiān kěyǐ ma?",
+        "en": "Could I extend by two days?"
+      },
+      {
+        "zh": "明天还有空房吗？",
+        "py": "Míngtiān hái yǒu kōngfáng ma?",
+        "en": "Do you still have rooms tomorrow?"
+      }
+    ],
+    "mistakes": [
+      "Asking on checkout morning — the room may already be sold through the app by then, and the clerk genuinely cannot undo it; the night before is the reliable moment.",
+      "Expecting the same rate — walk-in extension prices can differ from your booking app, so ask the price with the room and decide with the number in hand.",
+      "Forgetting the room change — extensions sometimes move you to another room, which means packing; ask 换房间吗 (am I changing rooms?) before you say yes."
+    ],
+    "replies": [
+      {
+        "zh": "可以，加一晚三百八。",
+        "py": "Kěyǐ, jiā yì wǎn sānbāi bā.",
+        "en": "Yes — one more night is 380 yuan."
+      },
+      {
+        "zh": "明晚有房，要换房间。",
+        "py": "Míngwǎn yǒu fáng, yào huàn fángjiān.",
+        "en": "There's a room tomorrow, but you'd change rooms."
+      },
+      {
+        "zh": "您在系统里重新订一下。",
+        "py": "Nín zài xìtǒng lǐ chóngxīn dìng yíxià.",
+        "en": "Please rebook in the system."
+      }
+    ]
+  },
+  "144": {
+    "when": [
+      "Use it to agree to any request — a server suggesting a table, a driver offering a detour, a stranger asking you to hold a place in line — it is the friendly yes that keeps the exchange moving.",
+      "It also answers a thank-you: say it with a wave after 谢谢 and it reads as 'don't mention it', the local equivalent of 'no problem at all'."
+    ],
+    "variants": [
+      {
+        "zh": "没问题，交给我。",
+        "py": "Méi wèntí, jiāo gěi wǒ.",
+        "en": "No problem — leave it to me."
+      },
+      {
+        "zh": "好的，没问题的。",
+        "py": "Hǎo de, méi wèntí de.",
+        "en": "Sure, no problem at all."
+      },
+      {
+        "zh": "小意思。",
+        "py": "Xiǎo yìsi.",
+        "en": "It's nothing."
+      }
+    ],
+    "mistakes": [
+      "Confusing 没问题 with 没关系 — 没问题 agrees to a request; 没关系 forgives a mistake, and swapping them makes you accept apologies you meant to wave off.",
+      "Using it to answer a request you cannot actually do — the phrase is a real commitment here, so check feasibility first and fall back on 我试试 (let me try) when unsure.",
+      "Saying it flatly with a straight face — the phrase carries warmth, and with a smile it lands as easygoing rather than grudging."
+    ],
+    "replies": [
+      {
+        "zh": "谢谢，那就拜托你了。",
+        "py": "Xièxie, nà jiù bàituō nǐ le.",
+        "en": "Thanks — I'll leave it in your hands."
+      },
+      {
+        "zh": "麻烦你了！",
+        "py": "Máfan nǐ le!",
+        "en": "Sorry for the trouble!"
+      },
+      {
+        "zh": "你人真好。",
+        "py": "Nǐ rén zhēn hǎo.",
+        "en": "You're really kind."
+      }
+    ]
+  },
+  "145": {
+    "when": [
+      "Use it at any information desk, station office or police post the moment you lose your group in a crowd — staff handle this daily and will usually broadcast or call for you.",
+      "It also works on the phone to the missing friend: the sentence tells whoever answers where you are calling from and that you are staying put."
+    ],
+    "variants": [
+      {
+        "zh": "我找不到我朋友了。",
+        "py": "Wǒ zhǎo bu dào wǒ péngyou le.",
+        "en": "I can't find my friend."
+      },
+      {
+        "zh": "我们走散了，能广播一下吗？",
+        "py": "Wǒmen zǒusàn le, néng guǎngbō yíxià ma?",
+        "en": "We got separated — could you make an announcement?"
+      },
+      {
+        "zh": "孩子不见了！",
+        "py": "Háizi bú jiàn le!",
+        "en": "My child is missing!"
+      }
+    ],
+    "mistakes": [
+      "Roaming while searching — pick a fixed landmark and stay there, because a moving person is the one thing both searchers cannot find; staff will tell you the same thing.",
+      "Saving this for later — the moment you cannot see them and they cannot see you, ask staff; ten minutes of searching alone in a crowd is how minutes become hours.",
+      "Forgetting the screenshot — a photo of the person on your phone is what an announcement or a police report actually needs, and it is the fastest way to describe them."
+    ],
+    "replies": [
+      {
+        "zh": "别走，我帮您广播。",
+        "py": "Bié zǒu, wǒ bāng nín guǎngbō.",
+        "en": "Stay here — I'll make an announcement."
+      },
+      {
+        "zh": "您朋友电话多少？",
+        "py": "Nín péngyou diànhuà duōshao?",
+        "en": "What's your friend's number?"
+      },
+      {
+        "zh": "有没有他们的照片？",
+        "py": "Yǒu méiyǒu tāmen de zhàopiàn?",
+        "en": "Do you have a photo of them?"
+      }
+    ]
+  },
+  "_comment": "第四批扩词：id 136-145（收美金/手续费/寄国外/两件便宜/退票/坐过站/下一班/续住/没问题/走散了）"
 }

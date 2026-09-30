@@ -51,7 +51,7 @@
   "jsonldErrors": []
  },
  "sitemap": {
-  "total": 170,
+  "total": 180,
   "allHttps": true,
   "allTrailingSlash": true,
   "noNoindexPage": true,
@@ -86,7 +86,7 @@
  "robotsUaCount": 19,
  "files": {
   "llms": true,
-  "llmsHead": "# ChineseQuick\n\n> Get by in China — real phrases, audio and trip prep. 135 free Mandarin Chinese phrases for travel, food, shopping, hotels, everyday conversati",
+  "llmsHead": "# ChineseQuick\n\n> Get by in China — real phrases, audio and trip prep. 145 free Mandarin Chinese phrases for travel, food, shopping, hotels, everyday conversati",
   "og": true,
   "ogSize": 60425,
   "icon": true,
@@ -95,8 +95,8 @@
   "thankYouNoindex": "noindex, nofollow"
  },
  "allPages": {
-  "pages": 179,
-  "jsonldBlocks": 166,
+  "pages": 189,
+  "jsonldBlocks": 176,
   "pagesWithBadJson": 0,
   "badList": [],
   "noTranslateMissing": []
@@ -126,14 +126,14 @@
   "titleLen": 44,
   "descLen": 112,
   "jsonldErrors": [],
-  "audioRefs": 14
+  "audioRefs": 16
  },
  "punctuation": {
   "doublePeriodFiles": 0,
   "doublePeriodList": []
  },
  "grammar": {
-  "articleChecked": 135,
+  "articleChecked": 145,
   "articleWrong": 0,
   "articleWrongList": []
  },
