@@ -116,6 +116,14 @@ export default function ListeningQuizPage() {
               Numbers listening quiz
             </Link>
           </li>
+          <li>
+            <Link
+              href="/prices-quiz/"
+              className="text-accent underline underline-offset-4"
+            >
+              Price listening quiz
+            </Link>
+          </li>
         </ul>
       </section>
     </main>

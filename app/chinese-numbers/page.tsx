@@ -115,6 +115,13 @@ export default function ChineseNumbersPage() {
             className="text-accent underline underline-offset-4 hover:underline"
           >
             Take the numbers listening quiz
+          </Link>{" "}
+          or practice whole prices like 三十五块五 in the{" "}
+          <Link
+            href="/prices-quiz"
+            className="text-accent underline underline-offset-4 hover:underline"
+          >
+            price listening quiz
           </Link>
           .
         </p>

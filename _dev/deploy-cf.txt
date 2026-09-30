@@ -1,5 +1,5 @@
 {
- "at": "2026-09-30T06:32:32.979Z",
+ "at": "2026-09-30T08:20:41.222Z",
  "dir": "C:\\Users\\Administrator\\WorkBuddy\\2026-09-25-20-49-31\\real-life-chinese\\out",
  "project": "chinesequick",
  "dryRun": false,
@@ -8,8 +8,8 @@
  "projectPagesFetched": 1,
  "projects": [
   "imageprocessing",
-  "chinesequick",
   "mathsiege",
+  "chinesequick",
   "aivisnap-en",
   "aivisnap"
  ],
@@ -23,22 +23,22 @@
   "sitemapCounts": [
    [
     "chinesequick.com",
-    203
+    204
    ]
   ],
   "problems": []
  },
- "fileCount": 1084,
- "totalBytes": 26363185,
- "manifestEntries": 1084,
- "prevDeployment": "cd14811d-e95f-4489-bdf7-f7d858473566",
+ "fileCount": 1088,
+ "totalBytes": 26484047,
+ "manifestEntries": 1088,
+ "prevDeployment": "7f488b3f-627a-4dad-888e-5409706d1610",
  "knownDeployments": 10,
  "rounds": [
   {
    "round": 1,
    "newDeployment": true,
-   "id": "7f488b3f",
-   "fileCount": 1084,
+   "id": "4f703d11",
+   "fileCount": 1088,
    "fileCountSource": "deployment",
    "servedOk": true,
    "rolledBackTo": null,
@@ -47,20 +47,20 @@
   }
  ],
  "assetBuckets": 2,
- "assetUploaded": 1084,
- "assetHashesDeclared": 1084,
+ "assetUploaded": 1088,
+ "assetHashesDeclared": 1088,
  "settle": {
   "changed": true,
   "servedOk": true,
-  "id": "7f488b3f-627a-4dad-888e-5409706d1610",
-  "shortId": "7f488b3f",
-  "url": "https://7f488b3f.chinesequick.pages.dev",
-  "fileCount": 1084,
+  "id": "4f703d11-cef2-418b-8784-acee1a8d97f2",
+  "shortId": "4f703d11",
+  "url": "https://4f703d11.chinesequick.pages.dev",
+  "fileCount": 1088,
   "fileCountKnown": true,
   "stages": [
    {
     "name": "queued",
-    "started_on": "2026-09-30T06:38:23.768634Z",
+    "started_on": "2026-09-30T08:26:19.759598Z",
     "ended_on": null,
     "status": "active"
    },
@@ -91,7 +91,7 @@
   ],
   "fileCountSource": "deployment",
   "served": {
-   "base": "https://7f488b3f.chinesequick.pages.dev",
+   "base": "https://4f703d11.chinesequick.pages.dev",
    "checks": [
     {
      "path": "/",
@@ -113,7 +113,7 @@
   }
  },
  "served": {
-  "base": "https://7f488b3f.chinesequick.pages.dev",
+  "base": "https://4f703d11.chinesequick.pages.dev",
   "checks": [
    {
     "path": "/",
@@ -134,7 +134,7 @@
   "ok": true
  },
  "transport": "direct",
- "url": "https://7f488b3f.chinesequick.pages.dev",
- "deploymentId": "7f488b3f-627a-4dad-888e-5409706d1610",
+ "url": "https://4f703d11.chinesequick.pages.dev",
+ "deploymentId": "4f703d11-cef2-418b-8784-acee1a8d97f2",
  "ok": true
 }

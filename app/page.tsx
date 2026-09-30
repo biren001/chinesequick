@@ -100,6 +100,10 @@ export default function HomePage() {
             className="text-accent underline underline-offset-4"
           >
             numbers listening quiz
+          </Link>{" "}
+          and full prices like 三十五块五:{" "}
+          <Link href="/prices-quiz" className="text-accent underline underline-offset-4">
+            price listening quiz
           </Link>
         </p>
       </section>

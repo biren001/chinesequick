@@ -91,6 +91,14 @@ export default function NumbersQuizPage() {
         <ul className="mt-2 space-y-1.5 text-sm">
           <li>
             <Link
+              href="/prices-quiz/"
+              className="text-accent underline underline-offset-4"
+            >
+              Price listening quiz
+            </Link>
+          </li>
+          <li>
+            <Link
               href="/chinese-numbers/"
               className="text-accent underline underline-offset-4"
             >

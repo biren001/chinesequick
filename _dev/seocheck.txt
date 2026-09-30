@@ -12,7 +12,7 @@
   ],
   "jsonldErrors": [],
   "titleLen": 55,
-  "textLen": 2503
+  "textLen": 2552
  },
  "phrase": {
   "canonical": "https://chinesequick.com/how-to-say-thank-you-in-chinese/",
@@ -51,7 +51,7 @@
   "jsonldErrors": []
  },
  "sitemap": {
-  "total": 203,
+  "total": 204,
   "allHttps": true,
   "allTrailingSlash": true,
   "noNoindexPage": true,
@@ -95,8 +95,8 @@
   "thankYouNoindex": "noindex, nofollow"
  },
  "allPages": {
-  "pages": 212,
-  "jsonldBlocks": 199,
+  "pages": 213,
+  "jsonldBlocks": 200,
   "pagesWithBadJson": 0,
   "badList": [],
   "noTranslateMissing": []

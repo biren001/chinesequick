@@ -34,6 +34,7 @@ export function GET() {
     "",
     `- [Chinese listening quiz](${SITE_URL}/listening-quiz/): hear a real recording and pick the meaning — built from the same ${PHRASES.length} phrases, answers reveal characters and pinyin, every question links to its full phrase page.`,
     `- [Numbers listening quiz](${SITE_URL}/numbers-quiz/): hear one of ${NUMBERS.length} number and money sounds and pick the one you heard — drills the sì vs shí distinctions that decide what you pay at a market.`,
+    `- [Price listening quiz](${SITE_URL}/prices-quiz/): hear a full price like 三十五块五 played word by word with real audio and pick the one you heard — whole prices from ¥1 to ¥99, with the 五角 ending half the time.`,
     "",
     "## Situation guides (step by step)",
     "",
