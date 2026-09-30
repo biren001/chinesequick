@@ -841,6 +841,182 @@ export const SCENARIOS: Scenario[] = [
       },
     ],
   },
+  {
+    slug: "changing-money",
+    emoji: "💱",
+    name: "Changing money and ATMs",
+    blurb: "Find a bank, check the rate, dodge the fees.",
+    h1: "Changing money in Chinese: banks, rates and ATM fees",
+    metaTitle: "Changing Money in China: Rates, Fees and ATMs",
+    description:
+      "The Chinese you need to change money or use an ATM in China — find a bank, check the exchange rate, ask the fee and withdraw cash, with audio.",
+    intro: [
+      "China runs on QR payments, but cash still matters at markets, small temples and the occasional luggage desk — so most visitors change money or use an ATM at least once. The good news is that the conversation is always the same four questions: where, what rate, what fee, and how much.",
+      "One practical rule before any of the phrases: fees are charged per transaction, whether you're changing notes or withdrawing cash. Fewer, larger transactions beat several small ones almost every time.",
+    ],
+    steps: [
+      {
+        sayId: 114,
+        title: "Find somewhere to change money",
+        theySay: {
+          zh: "银行可以换，带护照。",
+          py: "Yínháng kěyǐ huàn, dài hùzhào.",
+          en: "Banks can change it — bring your passport.",
+        },
+        note: "Banks give the honest rate but want your passport and a queue ticket; airport counters open the longest hours but the rate is noticeably worse. Self-service exchange machines (自助兑换机) now sit in malls and metro hubs and take passports too — the machine often has an English screen, which makes this whole page optional.",
+      },
+      {
+        sayId: 115,
+        title: "Ask the rate before you commit",
+        theySay: {
+          zh: "今天汇率是七点一。",
+          py: "Jīntiān huìlǜ shì qī diǎn yī.",
+          en: "Today's rate is 7.1.",
+        },
+        note: "点 is the spoken decimal point, so 七点一 is 7.1 — the numbers page doing its job. Check a currency app for the mid-market rate first; if the counter offers more than a couple of percent worse, the difference is the real fee, whatever they claim about charges.",
+      },
+      {
+        sayId: 136,
+        title: "Check which notes they take",
+        theySay: {
+          zh: "收美金，但要新钞。",
+          py: "Shōu Měijīn, dàn yào xīn chāo.",
+          en: "We take US dollars, but only crisp bills.",
+        },
+        note: "Exchange counters reject worn, torn or written-on notes — US bills especially — so bring undamaged cash from home. The same 收 frame answers the general question of paying in dollars directly: outside these counters, almost nobody takes foreign cash.",
+      },
+      {
+        sayId: 137,
+        title: "Ask what the fee is",
+        theySay: {
+          zh: "每笔手续费五十块。",
+          py: "Měi bǐ shǒuxùfèi wǔshí kuài.",
+          en: "The fee is fifty yuan per transaction.",
+        },
+        note: "笔 (bǐ) is the measure word for a transaction, and 每笔 means per transaction — the detail that decides strategy. Hotel desks often waive the fee but quote a worse rate, so compare the final yuan figure, never the headline rate alone.",
+      },
+      {
+        sayId: 132,
+        title: "Or just use the ATM",
+        theySay: {
+          zh: "请插入银行卡，输入密码。",
+          py: "Qǐng chārù yínhángkǎ, shūrù mìmǎ.",
+          en: "Please insert your card and enter your PIN.",
+        },
+        note: "Foreign Visa and Mastercard cards work in the ATMs of the big banks — 工商银行 (ICBC), 中国银行 (Bank of China), 建设银行 (CCB) — and usually in convenience-store ATMs. Withdraw the maximum your home bank allows, since charges apply per withdrawal; if the card is declined, 我的卡不能用 plus showing the screen is the whole conversation.",
+      },
+    ],
+    alsoIds: [104, 105, 100],
+    faq: [
+      {
+        q: "Can foreigners use ATMs in China?",
+        a: "Yes. ATMs at the big banks (ICBC, Bank of China, CCB) accept foreign Visa and Mastercard cards, and many convenience-store ATMs do too. 我要取钱 (I need to withdraw money) is the phrase you'll rarely need to say aloud — but 手续费多少 (how much is the fee?) is worth knowing, because both your home bank and the local one may charge per withdrawal.",
+      },
+      {
+        q: "Should I exchange cash or withdraw money in China?",
+        a: "A mix works best: QR payments cover almost everything, so you only need small amounts of cash for markets, temples and the old-economy corners. If you do change notes, banks beat airport counters on rate; if you withdraw, take out larger amounts less often, because fees are per transaction.",
+      },
+      {
+        q: "Do I need cash at all in China?",
+        a: "Much less than you'd expect — street vendors, taxis and even temple donation boxes increasingly take QR codes. Keep a few small notes for the exceptions (some markets, luggage storage, rural buses), and ask 哪里可以换钱 (where can I change money?) before you actually need to.",
+      },
+    ],
+  },
+  {
+    slug: "when-travel-goes-wrong",
+    emoji: "🧭",
+    name: "When travel goes wrong",
+    blurb: "Missed stops, dead key cards, refunds and lost bags.",
+    h1: "Travel problems in Chinese: missed stops, refunds and lost bags",
+    metaTitle: "Travel Problems in Chinese: Refunds, Delays and Lost Bags",
+    description:
+      "The Chinese for the days travel doesn't cooperate — missed your stop, the next departure, refunding a ticket, a dead key card, lost luggage and finding your friend.",
+    intro: [
+      "Everything on this page is a sentence you hope never to use, which is exactly why it's worth learning: when plans break, the conversation happens fast, in Chinese, and usually while you're standing in a crowd with luggage.",
+      "The pattern behind all six situations is the same: state the problem in one short sentence, then let staff ask the follow-ups. They deal with these mishaps daily — you are not the first person to miss a stop or lose a bag, and the fix is usually shorter than you fear.",
+    ],
+    steps: [
+      {
+        sayId: 141,
+        title: "You missed your stop",
+        theySay: {
+          zh: "没关系，下一站下车往回坐。",
+          py: "Méi guānxi, xià yī zhàn xiàchē wǎng huí zuò.",
+          en: "It's fine — get off at the next stop and ride back.",
+        },
+        note: "坐过站 literally means “rode past the station”. On the metro it costs nothing but a few minutes; announcements repeat in English in most big cities, so the real fix is listening for your station. Buses are the trap — there's no announcement, which is why 到了请叫我 (tell me when we arrive) exists.",
+      },
+      {
+        sayId: 142,
+        title: "Ask for the next departure",
+        theySay: {
+          zh: "十分钟后有一班。",
+          py: "Shí fēnzhōng hòu yǒu yì bān.",
+          en: "There's one in ten minutes.",
+        },
+        note: "班 (bān) is the measure word for scheduled services — buses, trains, ferries — so this one question covers all of them. At a station, check the departure boards too: they show delays and platform changes before any staff member tells you.",
+      },
+      {
+        sayId: 140,
+        title: "Refund a ticket you can't use",
+        theySay: {
+          zh: "可以退，收百分之五手续费。",
+          py: "Kěyǐ tuì, shōu bǎifēnzhī wǔ shǒuxùfèi.",
+          en: "You can refund it — there's a 5% fee.",
+        },
+        note: "Refunds happen at the staffed window (人工窗口) with the passport you booked under — the ticket is tied to it. High-speed rail fees scale with how close to departure you cancel, and tickets bought in the 12306 app can be refunded in the app itself, in English.",
+      },
+      {
+        sayId: 131,
+        title: "When the key card dies",
+        theySay: {
+          zh: "我帮你重新刷一下。",
+          py: "Wǒ bāng nǐ chóngxīn shuā yíxià.",
+          en: "Let me re-programme it for you.",
+        },
+        note: "Demagnetised or time-expired key cards are routine and the front desk fixes them in a minute. Before you walk down again, try the card in the slot inside the door: many Chinese hotel rooms cut all power until the card sits there, which feels exactly like a broken card.",
+      },
+      {
+        sayId: 135,
+        title: "Lost luggage at the airport",
+        theySay: {
+          zh: "有行李票吗？给我看一下。",
+          py: "Yǒu xínglǐpiào ma? Gěi wǒ kàn yíxià.",
+          en: "Do you have your luggage ticket? Show me.",
+        },
+        note: "The lost-luggage desk sits in the arrivals hall by the carousels, and the claim tag — the 行李票 sticker or the barcode on your boarding pass stub — is what they photograph. Hotels can receive couriered bags afterwards, which is why 可以送到酒店吗 exists on the shopping page.",
+      },
+      {
+        sayId: 145,
+        title: "Separated from your friend",
+        theySay: {
+          zh: "你们在哪个门见面？",
+          py: "Nǐmen zài nǎge mén jiànmiàn?",
+          en: "Which gate did you agree to meet at?",
+        },
+        note: "门 (mén) means gate or exit, and big stations have many — agree on a numbered one, not “the entrance”. WeChat's location share solves this in seconds if you're connected; if not, the rule is that one person stays put, because two people searching rarely converge.",
+      },
+    ],
+    alsoIds: [154, 125, 144],
+    faq: [
+      {
+        q: "What do I say if I missed my stop in Chinese?",
+        a: "我坐过站了 (Wǒ zuò guò zhàn le) — “I rode past my stop”. On the metro, just ride back; on a bus, say it to the driver and 下一班几点 (what time is the next one?) covers the wait. The related phrase 到了请叫我 prevents the problem next time.",
+      },
+      {
+        q: "How do I report lost luggage in China?",
+        a: "At the airport, go to the lost-luggage desk in the arrivals hall and say 我的行李丢了 (my luggage is missing). They will ask for your luggage ticket (行李票) — the claim tag on your boarding pass — so keep it until the bag is in your hands.",
+      },
+      {
+        q: "Can I refund a train ticket in China?",
+        a: "Yes — 我要退票 (I want to refund this ticket) at the staffed window, with the passport you booked under. High-speed rail refund fees scale with how close to departure you cancel, and tickets bought in the official 12306 app can be refunded inside the app in English.",
+      },
+      {
+        q: "What should I do if I get separated from my group in China?",
+        a: "Say 我和朋友走散了 (I got separated from my friend) to station staff, and name a numbered gate (几号门) to regroup at. If your phone has signal, a WeChat location share ends the problem instantly — one more reason to set WeChat up before you fly.",
+      },
+    ],
+  },
 ];
 
 /** slug -> 场景 */
