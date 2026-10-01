@@ -12,7 +12,7 @@
   ],
   "jsonldErrors": [],
   "titleLen": 55,
-  "textLen": 2577
+  "textLen": 2595
  },
  "phrase": {
   "canonical": "https://chinesequick.com/how-to-say-thank-you-in-chinese/",
@@ -51,7 +51,7 @@
   "jsonldErrors": []
  },
  "sitemap": {
-  "total": 205,
+  "total": 206,
   "allHttps": true,
   "allTrailingSlash": true,
   "noNoindexPage": true,
@@ -95,8 +95,8 @@
   "thankYouNoindex": "noindex, nofollow"
  },
  "allPages": {
-  "pages": 214,
-  "jsonldBlocks": 201,
+  "pages": 215,
+  "jsonldBlocks": 202,
   "pagesWithBadJson": 0,
   "badList": [],
   "noTranslateMissing": []
@@ -158,8 +158,8 @@
   "hubInSitemap": true,
   "titleLen": 41,
   "descLen": 142,
-  "hubItems": 11,
-  "hubScenarioLinks": 11,
+  "hubItems": 12,
+  "hubScenarioLinks": 12,
   "jsonldErrors": [],
   "pages": [
    {
@@ -242,7 +242,7 @@
     "exists": true,
     "inSitemap": true,
     "titleLen": 60,
-    "descLen": 183,
+    "descLen": 145,
     "stepsRendered": 6,
     "theySayRendered": 6,
     "statedSteps": 6,
@@ -298,6 +298,21 @@
     "jsonldErrors": []
    },
    {
+    "slug": "shopping-for-clothes",
+    "exists": true,
+    "inSitemap": true,
+    "titleLen": 58,
+    "descLen": 152,
+    "stepsRendered": 7,
+    "theySayRendered": 7,
+    "statedSteps": 7,
+    "statedPhrases": 7,
+    "itemListCount": 7,
+    "faqCount": 4,
+    "phraseLinks": 11,
+    "jsonldErrors": []
+   },
+   {
     "slug": "taking-a-taxi",
     "exists": true,
     "inSitemap": true,
@@ -317,7 +332,7 @@
     "exists": true,
     "inSitemap": true,
     "titleLen": 57,
-    "descLen": 164,
+    "descLen": 146,
     "stepsRendered": 6,
     "theySayRendered": 6,
     "statedSteps": 6,

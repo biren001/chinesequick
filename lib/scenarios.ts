@@ -930,7 +930,7 @@ export const SCENARIOS: Scenario[] = [
     h1: "Travel problems in Chinese: missed stops, refunds and lost bags",
     metaTitle: "Travel Problems in Chinese: Refunds, Delays and Lost Bags",
     description:
-      "The Chinese for the days travel doesn't cooperate — missed your stop, the next departure, refunding a ticket, a dead key card, lost luggage and finding your friend.",
+      "The Chinese for the days travel doesn't cooperate — missed stops, next departures, refunds, a dead key card, lost luggage and finding your friend.",
     intro: [
       "Everything on this page is a sentence you hope never to use, which is exactly why it's worth learning: when plans break, the conversation happens fast, in Chinese, and usually while you're standing in a crowd with luggage.",
       "The pattern behind all six situations is the same: state the problem in one short sentence, then let staff ask the follow-ups. They deal with these mishaps daily — you are not the first person to miss a stop or lose a bag, and the fix is usually shorter than you fear.",
@@ -1025,7 +1025,7 @@ export const SCENARIOS: Scenario[] = [
     h1: "Checking out of a Chinese hotel: deposits, luggage and late check-out",
     metaTitle: "Hotel check-out in Chinese: deposit, luggage, late check-out",
     description:
-      "The Chinese for the last hour at a Chinese hotel — asking for late check-out, getting your deposit back, storing luggage after check-out, and getting a taxi. Seven phrases with audio.",
+      "The Chinese for your last hour at a Chinese hotel — late check-out, the deposit back, luggage storage and the taxi out. Seven phrases with audio.",
     intro: [
       "Check-out is a calm scene by Chinese-travel standards, but it has its own script: the deposit you paid at check-in comes back, your room key stops working at noon, and your flight leaves at night while check-out is at twelve.",
       "Desk staff at hotels that take foreign guests usually speak enough English for all of this. The phrases below are for the front desks that don't — smaller city hotels, the guesthouse two streets over — and for the moments when pointing at your watch doesn't quite say 五点之前我可以退房吗.",
@@ -1109,6 +1109,111 @@ export const SCENARIOS: Scenario[] = [
       {
         q: "How do I ask a hotel to call a taxi in Chinese?",
         a: "可以帮我叫出租车吗 (Kěyǐ bāng wǒ jiào chūzūchē ma?) — “can you call a taxi for me?”. Hotels call licensed cabs from their own fleet, the fare runs on the meter, and the desk will tell you roughly how many minutes until it arrives. For very early departures, ask the night before about booking one for a set time.",
+      },
+    ],
+  },
+  {
+    slug: "shopping-for-clothes",
+    emoji: "👕",
+    name: "Buying clothes",
+    blurb: "Fitting rooms, sizes, colors and exchanges in a real shop.",
+    h1: "Clothes shopping in Chinese: sizes, fitting rooms and exchanges",
+    metaTitle: "Clothes shopping in China: sizes, fitting rooms, exchanges",
+    description:
+      "The Chinese for buying clothes in a shop — browsing, prices, fitting rooms, sizes, colors and exchanges when the fit is wrong. Seven phrases with audio.",
+    intro: [
+      "Malls and brand stores in China work much like anywhere else — fixed prices, fitting rooms, receipts. What's different is the interface: staff greet you immediately, sizes run small by Western standards, and the size you need may live in a cabinet the assistant fetches rather than on the rack.",
+      "The phrases below cover the whole arc of a purchase, from 我随便看看 (just browsing) at the door to 尺码不合适可以换吗 (can I exchange it if it doesn't fit?) at the till. For markets and stalls where prices move, that's the bargaining scenario instead — different rules, different phrases.",
+    ],
+    steps: [
+      {
+        sayId: 34,
+        title: "Open with “just browsing”",
+        theySay: {
+          zh: "好的，随便看，需要帮忙叫我。",
+          py: "Hǎo de, suíbiàn kàn, xūyào bāngmáng jiào wǒ.",
+          en: "Sure, look around — call me if you need help.",
+        },
+        note: "我随便看看 is the polite way to shake off a hovering assistant without leaving the shop. It works because it's what locals say too. In smaller shops the assistant really will stay within arm's reach the whole time — that's attention, not suspicion.",
+      },
+      {
+        sayId: 31,
+        title: "Ask the price of the thing in your hand",
+        theySay: {
+          zh: "这个二百八。",
+          py: "Zhège èrbǎibā.",
+          en: "This one is 280.",
+        },
+        note: "这个多少钱 while pointing at or holding the item. Note the number shape: 二百八 is colloquial for 二百八十 — in speech, the last 十 of a round tens number often gets dropped, so 二百八 is 280, not 28. When in doubt, hold up fingers or point at the tag.",
+      },
+      {
+        sayId: 33,
+        title: "Ask to try it on",
+        theySay: {
+          zh: "可以，试衣间在那边。",
+          py: "Kěyǐ, shìyījiān zài nàbiān.",
+          en: "Sure, the fitting room is over there.",
+        },
+        note: "试衣间 (shìyījiān) is the fitting room. Staff usually count the items you carry in and give you a numbered tag — hand it back at the door, it's how they keep the count straight. In some shops you try on over a rented stocking cap; if they hand you one, that's what it's for.",
+      },
+      {
+        sayId: 37,
+        title: "Swap the size",
+        theySay: {
+          zh: "小号有，您稍等，我去拿。",
+          py: "Xiǎohào yǒu, nín shāoděng, wǒ qù ná.",
+          en: "We have small — wait a moment, I'll get it.",
+        },
+        note: "Chinese sizing runs smaller than US/EU — if you wear M at home, expect to ask for L or XL here, so 有大号的吗 (larger size?) is the direction most visitors actually need. 这个有点大 (this one is a bit big) hands the problem back to the assistant, who will usually vanish into the back room for the right size.",
+      },
+      {
+        sayId: 35,
+        title: "Ask for another color",
+        theySay: {
+          zh: "有黑色和蓝色，您要哪个？",
+          py: "Yǒu hēisè hé lánsè, nín yào nǎge?",
+          en: "There's black and blue — which would you like?",
+        },
+        note: "有别的颜色吗 opens the cabinet: in many shops only one color is on display and the rest are stacked in boxes behind the counter. Colors are single syllables — 黑 hēi (black), 白 bái (white), 蓝 lán (blue), 红 hóng (red) — so pointing plus the color word is a complete sentence.",
+      },
+      {
+        sayId: 163,
+        title: "Check the exchange policy before you pay",
+        theySay: {
+          zh: "凭小票七天内可以换。",
+          py: "Píng xiǎopiào qī tiān nèi kěyǐ huàn.",
+          en: "With the receipt, you can exchange within seven days.",
+        },
+        note: "Ask this at the till, not after you get home: 尺码不合适可以换吗 (can I exchange it if the size doesn't fit?). Exchange (换) is easy at malls with a receipt — 小票 — but refund (退) is much harder, and some shops only offer store credit. Keep the receipt with the garment until you've worn it once.",
+      },
+      {
+        sayId: 164,
+        title: "Pay the way the till wants",
+        theySay: {
+          zh: "扫这个码就行。",
+          py: "Sǎo zhège mǎ jiù xíng.",
+          en: "Just scan this code.",
+        },
+        note: "可以扫码吗 covers almost every till in a mall. Two extras worth knowing: in big malls you can ask 可以退税吗 (tax refund?) at the service desk on the way out if you're over the minimum spend, and 给我一个袋子 (a bag, please) — plastic bags are no longer free in most shops.",
+      },
+    ],
+    alsoIds: [40, 139, 39, 153],
+    faq: [
+      {
+        q: "How do I ask to try on clothes in Chinese?",
+        a: "我可以试试吗 (Wǒ kěyǐ shìshi ma?) — “can I try it on?”. Staff will point you to the 试衣间 (fitting room) and usually hand you a numbered tag for the items you take in. Fitting rooms in Chinese malls are generally staffed and counted, so hand the tag back at the door.",
+      },
+      {
+        q: "How do I ask for a different size in Chinese?",
+        a: "有小号吗 (do you have a small size?) for smaller, 有大号的吗 (larger size?) for bigger, or just hand it back with 这个有点大 (this one is a bit big). Chinese sizing runs about one size smaller than US/EU, so most Western visitors need to size up — that's normal, not vanity sizing working against you.",
+      },
+      {
+        q: "Can I return or exchange clothes in China?",
+        a: "Exchange is the realistic option: 尺码不合适可以换吗 (can I exchange it if the size doesn't fit?) with the receipt (小票), usually within seven days at malls and brand stores. Full refunds are much harder — some shops only give store credit — so check the policy at the till before you pay, and keep the receipt.",
+      },
+      {
+        q: "Do you haggle for clothes in China?",
+        a: "Not in malls and brand stores — prices are fixed, and 打折吗 (is there a discount?) is the most you should ask; sales staff will tell you about ongoing promotions. Haggling is for markets and street stalls, which is its own scenario with its own phrases like 可以便宜一点吗.",
       },
     ],
   },
