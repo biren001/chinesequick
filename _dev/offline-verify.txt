@@ -1,8 +1,8 @@
 模式: 本地真断网（中途关掉服务器）  http://127.0.0.1:41299 ← out/
 SW controller: http://127.0.0.1:41299/sw.js
 缓存桶: ["cq-2026-09-29a"]
-预缓存音频: 401 条（全站 401 条）
-预缓存页面: 20 个 → ["/","/offline/","/china-travel-checklist/","/chinese-numbers/","/scenarios/","/scenarios/arriving-at-the-airport/","/scenarios/checking-into-a-hotel/","/scenarios/getting-around/","/scenarios/ordering-food/","/scenarios/paying-in-china/","/scenarios/taking-a-taxi/","/chinese-emergency-phrases/","/chinese-hotel-phrases/","/chinese-everyday-phrases/","/chinese-money-phrases/","/chinese-restaurant-phrases/","/chinese-shopping-phrases/","/chinese-travel-phrases/","/saved/","/about/"]
+预缓存音频: 456 条（全站 401 条）
+预缓存页面: 30 个 → ["/","/offline/","/china-travel-checklist/","/chinese-numbers/","/scenarios/","/emergency-card/","/address-card/","/getting-online-in-china/","/listening-quiz/","/7-day-chinese-course/","/scenarios/arriving-at-the-airport/","/scenarios/at-the-pharmacy/","/scenarios/bargaining-at-a-market/","/scenarios/changing-money/","/scenarios/checking-into-a-hotel/","/scenarios/checking-out-of-a-hotel/","/scenarios/getting-around/","/scenarios/ordering-food/","/scenarios/paying-in-china/","/scenarios/taking-a-taxi/","/scenarios/when-travel-goes-wrong/","/chinese-emergency-phrases/","/chinese-everyday-phrases/","/chinese-hotel-phrases/","/chinese-money-phrases/","/chinese-restaurant-phrases/","/chinese-shopping-phrases/","/chinese-travel-phrases/","/saved/","/about/"]
 
 -- 服务器已关闭（真断网：连接被拒）--
 断网重载（数字页）: /chinese-numbers/ || 内容在

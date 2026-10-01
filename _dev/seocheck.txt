@@ -12,7 +12,7 @@
   ],
   "jsonldErrors": [],
   "titleLen": 55,
-  "textLen": 2552
+  "textLen": 2577
  },
  "phrase": {
   "canonical": "https://chinesequick.com/how-to-say-thank-you-in-chinese/",
@@ -25,7 +25,7 @@
    "FAQPage"
   ],
   "jsonldErrors": [],
-  "textLen": 2425,
+  "textLen": 2424,
   "hasWordTable": false,
   "hasFaq": true,
   "h2Count": 6,
@@ -39,7 +39,7 @@
    "ItemList"
   ],
   "jsonldErrors": [],
-  "textLen": 2469,
+  "textLen": 2468,
   "itemCount": 25
  },
  "learn": {
@@ -51,7 +51,7 @@
   "jsonldErrors": []
  },
  "sitemap": {
-  "total": 204,
+  "total": 205,
   "allHttps": true,
   "allTrailingSlash": true,
   "noNoindexPage": true,
@@ -74,7 +74,7 @@
   ],
   "jsonldErrors": [],
   "faqCount": 5,
-  "textLen": 9002,
+  "textLen": 9001,
   "checkboxes": 17,
   "externalSources": 3,
   "lastCheckedShown": true,
@@ -95,8 +95,8 @@
   "thankYouNoindex": "noindex, nofollow"
  },
  "allPages": {
-  "pages": 213,
-  "jsonldBlocks": 200,
+  "pages": 214,
+  "jsonldBlocks": 201,
   "pagesWithBadJson": 0,
   "badList": [],
   "noTranslateMissing": []
@@ -158,8 +158,8 @@
   "hubInSitemap": true,
   "titleLen": 41,
   "descLen": 142,
-  "hubItems": 10,
-  "hubScenarioLinks": 10,
+  "hubItems": 11,
+  "hubScenarioLinks": 11,
   "jsonldErrors": [],
   "pages": [
    {
@@ -235,6 +235,21 @@
     "itemListCount": 8,
     "faqCount": 3,
     "phraseLinks": 11,
+    "jsonldErrors": []
+   },
+   {
+    "slug": "checking-out-of-a-hotel",
+    "exists": true,
+    "inSitemap": true,
+    "titleLen": 60,
+    "descLen": 183,
+    "stepsRendered": 6,
+    "theySayRendered": 6,
+    "statedSteps": 6,
+    "statedPhrases": 6,
+    "itemListCount": 6,
+    "faqCount": 4,
+    "phraseLinks": 9,
     "jsonldErrors": []
    },
    {

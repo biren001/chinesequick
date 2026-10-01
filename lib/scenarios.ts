@@ -1017,6 +1017,101 @@ export const SCENARIOS: Scenario[] = [
       },
     ],
   },
+  {
+    slug: "checking-out-of-a-hotel",
+    emoji: "🧳",
+    name: "Checking out of a hotel",
+    blurb: "Late check-out, the deposit, luggage storage and the ride out.",
+    h1: "Checking out of a Chinese hotel: deposits, luggage and late check-out",
+    metaTitle: "Hotel check-out in Chinese: deposit, luggage, late check-out",
+    description:
+      "The Chinese for the last hour at a Chinese hotel — asking for late check-out, getting your deposit back, storing luggage after check-out, and getting a taxi. Seven phrases with audio.",
+    intro: [
+      "Check-out is a calm scene by Chinese-travel standards, but it has its own script: the deposit you paid at check-in comes back, your room key stops working at noon, and your flight leaves at night while check-out is at twelve.",
+      "Desk staff at hotels that take foreign guests usually speak enough English for all of this. The phrases below are for the front desks that don't — smaller city hotels, the guesthouse two streets over — and for the moments when pointing at your watch doesn't quite say 五点之前我可以退房吗.",
+    ],
+    steps: [
+      {
+        sayId: 30,
+        title: "Plan the morning before you pack",
+        theySay: {
+          zh: "六点半开始，二楼。",
+          py: "Liùdiǎnbàn kāishǐ, èr lóu.",
+          en: "It starts at 6:30, on the second floor.",
+        },
+        note: "Ask this the night before, not while holding your bags — breakfast hours decide whether you eat at the hotel or at the station. 半 (bàn) turns any clock time into “half past”, so 七点半 is 7:30 and 下一点 means the half hour goes to the next hour: 一点半 reads as “half past one”, never “one and a half hours”.",
+      },
+      {
+        sayId: 112,
+        title: "Buy yourself the afternoon",
+        theySay: {
+          zh: "可以，最晚到两点。",
+          py: "Kěyǐ, zuìwǎn dào liǎngdiǎn.",
+          en: "Yes, until 2 p.m. at the latest.",
+        },
+        note: "Most Chinese hotels grant late check-out for free if the room isn't sold that night — asking costs nothing. But it is a favour, not a right: if they say the room is needed, pay the half-day rate or store the bags instead.",
+      },
+      {
+        sayId: 24,
+        title: "Check out and get the deposit",
+        theySay: {
+          zh: "房卡押金一百，退给您。",
+          py: "Fángkǎ yājīn yìbǎi, tuì gěi nín.",
+          en: "The key deposit was 100 — here it is back.",
+        },
+        note: "我要退房 (I'd like to check out) plus your room number is the whole transaction. The deposit (押金, yājīn) you paid at check-in — often 100–300 yuan — comes back the same way you paid it, which is one more reason the payment app matters. Hand back the key card and wait: cash deposits mean counting banknotes at the desk.",
+      },
+      {
+        sayId: 29,
+        title: "Leave the bags, keep the day",
+        theySay: {
+          zh: "可以，放这边，凭牌取。",
+          py: "Kěyǐ, fàng zhèbiān, píng pái qǔ.",
+          en: "Yes, put them here — collect them with this tag.",
+        },
+        note: "Standard practice and almost always free for guests that day: you check out, the bags stay at the front desk, and you collect them with a claim tag (牌) before heading to the station. This is what makes a night train or a 10 p.m. flight painless — check out in the morning, keep the room-free afternoon.",
+      },
+      {
+        sayId: 130,
+        title: "Get to the station with time to spare",
+        theySay: {
+          zh: "帮您叫一辆？十分钟左右到。",
+          py: "Bāng nín jiào yí liàng? Shí fēnzhōng zuǒyòu dào.",
+          en: "Shall I call one for you? About ten minutes.",
+        },
+        note: "Front desks call taxis for guests all day — 可以帮我叫出租车吗 gets you a proper licensed cab from the door, often the same fleet the hotel uses. If they ask when, 现在就行 (now is fine) or give a time for a scheduled pickup.",
+      },
+      {
+        sayId: 143,
+        title: "Or don't leave — stay one more night",
+        theySay: {
+          zh: "要加钱吗？不用，价格一样。",
+          py: "Yào jiā qián ma? Búyòng, jiàgé yíyàng.",
+          en: "Is there an extra charge? No, same price.",
+        },
+        note: "The phrase that turns a fixed itinerary back into a flexible one: 我要续住一晚 (I'd like to stay one more night), said at the desk the evening before. Off-peak, mid-week, most hotels just extend your stay at the same rate — ask the night before, not at checkout hour when the room may already be promised.",
+      },
+    ],
+    alsoIds: [162, 131, 25],
+    faq: [
+      {
+        q: "How do I say check out in Chinese?",
+        a: "我要退房 (Wǒ yào tuìfáng) — “I'd like to check out”, said at the front desk with your room number. Check-out time in China is usually 12 noon; to ask for later, 我可以晚点退房吗 (can I check out later?) is the phrase, and most hotels say yes when the room isn't sold that night.",
+      },
+      {
+        q: "Do I get my hotel deposit back in China?",
+        a: "Yes — the 押金 (yājīn, deposit) you paid at check-in is refunded at check-out, usually 100–300 yuan for the key card and possible room charges. It goes back the way you paid: app deposits return to the app, cash deposits are handed back at the desk, so keep the payment record until you have the money in hand.",
+      },
+      {
+        q: "Can I store my luggage at the hotel after check-out?",
+        a: "Almost always, and free: say 可以寄存行李吗 (can I store my luggage?) at the front desk. You get a claim tag, the bags sit behind the desk, and you collect them before you leave for the station — the standard way to use a night flight or an evening train without paying for a half-day room.",
+      },
+      {
+        q: "How do I ask a hotel to call a taxi in Chinese?",
+        a: "可以帮我叫出租车吗 (Kěyǐ bāng wǒ jiào chūzūchē ma?) — “can you call a taxi for me?”. Hotels call licensed cabs from their own fleet, the fare runs on the meter, and the desk will tell you roughly how many minutes until it arrives. For very early departures, ask the night before about booking one for a set time.",
+      },
+    ],
+  },
 ];
 
 /** slug -> 场景 */
