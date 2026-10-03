@@ -17,7 +17,7 @@
         "after": "true",
         "labelAfter": "Remove from saved phrases",
         "storage": "{\"version\":1,\"ids\":[1]}",
-        "otherUntouched": 13
+        "otherUntouched": 24
       },
       "audioRequests": []
     },
@@ -72,14 +72,11 @@
       "slow": false,
       "value": {
         "overflowPx": 0,
-        "count": 2,
-        "chinese": [
-          "多少钱？",
-          "我爱你。"
-        ],
+        "count": 0,
+        "chinese": [],
         "hasEmptyState": false,
         "storage": "{\"version\":1,\"ids\":[1,73]}",
-        "heartFilled": 2
+        "heartFilled": 0
       },
       "audioRequests": []
     },
@@ -102,18 +99,21 @@
       "slow": false,
       "value": {
         "answered": 5,
-        "wrongCount": 2,
+        "wrongCount": 5,
         "sawResult": true,
-        "reviewHeading": "Review 2 phrases you missed",
-        "headingCount": 2,
+        "reviewHeading": "Review 5 phrases you missed",
+        "headingCount": 5,
         "listedPhrases": [
-          "不要辣。",
-          "太辣了！"
+          "我吃饱了。",
+          "有热水吗？",
+          "多少钱？",
+          "可以打包吗？",
+          "有菜单吗？"
         ],
-        "practiseLabel": "Practise these 2",
+        "practiseLabel": "Practise these 5",
         "reviewQuizShown": true,
         "reviewQuizOptions": 3,
-        "reviewQuizQuestion": "How do you say \"Not spicy, please.\" in Chinese?",
+        "reviewQuizQuestion": "How do you say \"Can I get this to go?\" in Chinese?",
         "hasBackButton": true,
         "overflowPx": 0
       },
@@ -158,7 +158,7 @@
       "value": {
         "overflowPx": 0,
         "found": true,
-        "label": "Play all 14 phrases",
+        "label": "Play all 31 phrases",
         "pressedBefore": "false",
         "singlePressedDuring": "true",
         "pressedAfterStart": "true",
@@ -172,17 +172,21 @@
         ],
         "singleStoppedByPlayAll": "false",
         "advanced": [
+          1,
           2,
-          3,
-          4
+          3
         ],
         "nowPlaying": true,
-        "currentLine": "一张票多少钱？",
+        "currentLine": "就是这个地址。",
         "pressedAfterStop": "false",
         "panelGoneAfterStop": true,
-        "labelAfterStop": "▶ Play all 14"
+        "labelAfterStop": "▶ Play all 31"
       },
       "audioRequests": [
+        {
+          "url": "https://chinesequick.com/audio/11.mp3",
+          "status": 200
+        },
         {
           "url": "https://chinesequick.com/audio/11.mp3",
           "status": 200
@@ -193,10 +197,6 @@
         },
         {
           "url": "https://chinesequick.com/audio/13.mp3",
-          "status": 200
-        },
-        {
-          "url": "https://chinesequick.com/audio/14.mp3",
           "status": 200
         }
       ]
@@ -221,11 +221,11 @@
       "audioRequests": [
         {
           "url": "https://chinesequick.com/audio/numbers/ling.mp3",
-          "status": 206
+          "status": 200
         },
         {
           "url": "https://chinesequick.com/audio/numbers/yi.mp3",
-          "status": 206
+          "status": 200
         }
       ]
     },
@@ -264,9 +264,15 @@
   ],
   "consoleErrors": [],
   "networkNoise": [],
-  "fails": [],
+  "fails": [
+    "/saved/ 应累计 2 条，实际 0"
+  ],
   "analyticsBlocked": true,
   "audioResponses": [
+    {
+      "url": "https://chinesequick.com/audio/11.mp3",
+      "status": 200
+    },
     {
       "url": "https://chinesequick.com/audio/11.mp3",
       "status": 200
@@ -280,23 +286,19 @@
       "status": 200
     },
     {
-      "url": "https://chinesequick.com/audio/14.mp3",
+      "url": "https://chinesequick.com/audio/numbers/ling.mp3",
       "status": 200
     },
     {
-      "url": "https://chinesequick.com/audio/numbers/ling.mp3",
-      "status": 206
-    },
-    {
       "url": "https://chinesequick.com/audio/numbers/yi.mp3",
-      "status": 206
+      "status": 200
     },
     {
       "url": "https://chinesequick.com/audio/4.mp3",
       "status": 200
     }
   ],
-  "verdict": "PASS",
+  "verdict": "FAIL",
   "analytics": {
     "attempts": 28,
     "responses": 0,

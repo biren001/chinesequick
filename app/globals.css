@@ -37,3 +37,14 @@ body {
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
 }
+
+/* 打印 / 存 PDF：交互控件一律不上纸。
+   站上有三类页面是「打出来用」的：地址卡、紧急卡、收藏清单。
+   逐页加 print:hidden 总会漏（实测紧急卡漏了 6 个 Listen 按钮），
+   这里全局兜底一次，以后新增页面类型也自动干净。 */
+@media print {
+  button,
+  nav {
+    display: none !important;
+  }
+}

@@ -78,7 +78,8 @@ export default function EmergencyCardPage() {
         <h1 className="mt-2 text-3xl leading-tight font-semibold tracking-tight text-ink">
           Emergency card for China: fill it in before you fly
         </h1>
-        <p className="mt-3 text-base leading-relaxed text-muted">
+        {/* 纸上是给别人看的：只留号码、短语和卡片本体，这段说明不上纸 */}
+        <p className="print:hidden mt-3 text-base leading-relaxed text-muted">
           In a real emergency nobody constructs sentences — you point, you hand
           something over, or you dial. This page gives you all three: the
           numbers that work anywhere in China, the six phrases that summon
@@ -161,7 +162,7 @@ export default function EmergencyCardPage() {
         </div>
       </section>
 
-      <section className="mb-8">
+      <section className="print:hidden mb-8">
         <h2 className="text-xl font-semibold text-ink">How to use it</h2>
         <ol className="mt-3 space-y-2.5 text-base leading-relaxed text-muted">
           <li>
@@ -180,7 +181,7 @@ export default function EmergencyCardPage() {
         </ol>
       </section>
 
-      <section className="mb-8">
+      <section className="print:hidden mb-8">
         <h2 className="text-xl font-semibold text-ink">Questions</h2>
         <div className="mt-3 space-y-4">
           {FAQ.map((f) => (

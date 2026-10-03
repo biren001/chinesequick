@@ -70,7 +70,8 @@ export default function AddressCardPage() {
         <h1 className="mt-2 text-3xl leading-tight font-semibold tracking-tight text-ink">
           Address card for China: show the driver where to go
         </h1>
-        <p className="mt-3 text-base leading-relaxed text-muted">
+        {/* 纸上是给司机看的：只留短语和卡片本体，这段说明不上纸 */}
+        <p className="print:hidden mt-3 text-base leading-relaxed text-muted">
           The first ten seconds of every taxi ride in China are the hard part:
           the driver needs your destination in Chinese, and a spoken street
           address usually means nothing. Locals don't speak addresses either —
@@ -117,7 +118,7 @@ export default function AddressCardPage() {
         </div>
       </section>
 
-      <section className="mb-8">
+      <section className="print:hidden mb-8">
         <h2 className="text-xl font-semibold text-ink">Three habits that make it work</h2>
         <ol className="mt-3 space-y-2.5 text-base leading-relaxed text-muted">
           <li>
@@ -138,7 +139,7 @@ export default function AddressCardPage() {
         </ol>
       </section>
 
-      <section className="mb-8">
+      <section className="print:hidden mb-8">
         <h2 className="text-xl font-semibold text-ink">Questions</h2>
         <div className="mt-3 space-y-4">
           {FAQ.map((f) => (

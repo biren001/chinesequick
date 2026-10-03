@@ -56,7 +56,7 @@ export default function InstallApp() {
 
   if (mode === "ios") {
     return (
-      <p className="mt-3 text-xs text-muted">
+      <p className="print:hidden mt-3 text-xs text-muted">
         Use this offline: tap <span aria-hidden="true">Share</span>
         <span className="sr-only">Share</span> then <strong className="font-medium">Add to Home Screen</strong>.
       </p>
@@ -66,7 +66,7 @@ export default function InstallApp() {
   return (
     <button
       type="button"
-      className="mt-3 rounded-full border border-line px-4 py-2 text-xs font-medium text-ink transition hover:border-accent hover:text-accent"
+      className="print:hidden mt-3 rounded-full border border-line px-4 py-2 text-xs font-medium text-ink transition hover:border-accent hover:text-accent"
       onClick={async () => {
         if (!prompt) return;
         await prompt.prompt();

@@ -1,0 +1,22 @@
+VERDICT: PASS  (21/21)
+PASS  /saved/ 屏幕态有正文  — bodyLen=750
+PASS  /saved/ 渲染出 2 条收藏  — li=2
+PASS  /saved/ Print 按钮可见
+PASS  /saved/ 词条 break-inside-avoid  — breakInside=avoid
+PASS  /saved/ 点击触发 window.print()  — called=1
+PASS  /saved/ 打印时无可见按钮  — []
+PASS  /saved/ 打印时无可见导航
+PASS  /saved/ 打印时无悬浮控件  — fixed=0
+PASS  /saved/ 打印时正文保留  — bodyLen=457
+PASS  /saved/ 打印时出现纸上来源行
+PASS  /address-card/ 屏幕态有正文  — bodyLen=3408
+PASS  /address-card/ 打印时无可见按钮  — []
+PASS  /address-card/ 打印时无可见导航
+PASS  /address-card/ 打印时无悬浮控件  — fixed=0
+PASS  /address-card/ 打印时正文保留  — bodyLen=763
+PASS  /emergency-card/ 屏幕态有正文  — bodyLen=3570
+PASS  /emergency-card/ 打印时无可见按钮  — []
+PASS  /emergency-card/ 打印时无可见导航
+PASS  /emergency-card/ 打印时无悬浮控件  — fixed=0
+PASS  /emergency-card/ 打印时正文保留  — bodyLen=1081
+PASS  无 console 异常 / 未捕获错误

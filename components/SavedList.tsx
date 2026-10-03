@@ -64,19 +64,38 @@ export default function SavedList() {
 
   return (
     <div className="space-y-6">
-      <p className="text-sm text-muted">
-        {phrases.length} phrase{phrases.length === 1 ? "" : "s"}, stored on this device only.
-      </p>
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <p className="text-sm text-muted">
+          {phrases.length} phrase{phrases.length === 1 ? "" : "s"}, stored on this device only.
+        </p>
+        {/*
+          打印/存 PDF：手机没电、没信号、或者要给同行的人看时，纸是最稳的介质。
+          与地址卡/紧急卡同一套语言（window.print() + print:hidden），
+          打印时按钮自己消失、只留短语本体。
+        */}
+        <button
+          type="button"
+          onClick={() => window.print()}
+          className="print:hidden rounded-xl border border-line bg-card px-3 py-2 text-sm font-medium text-ink transition hover:border-accent hover:text-accent"
+        >
+          Print / save as PDF
+        </button>
+      </div>
 
       {phrases.length > 1 && (
-        <PlayAll phrases={phrases} title={`Listen to your ${phrases.length} saved phrases`} />
+        <div className="print:hidden">
+          <PlayAll phrases={phrases} title={`Listen to your ${phrases.length} saved phrases`} />
+        </div>
       )}
 
       <ol className="space-y-3">
         {phrases.map((phrase) => {
           const category = getCategory(phrase.category);
           return (
-            <li key={phrase.id} className="rounded-2xl border border-line bg-card p-5">
+            <li
+              key={phrase.id}
+              className="break-inside-avoid rounded-2xl border border-line bg-card p-5"
+            >
               {category && (
                 <p className="text-xs font-medium text-muted">
                   <span aria-hidden="true">{category.emoji}</span> {category.name}
@@ -87,7 +106,7 @@ export default function SavedList() {
               </p>
               <p className="mt-1 text-base text-accent">{phrase.pinyin}</p>
               <p className="mt-2 text-sm text-muted">{phrase.english}</p>
-              <div className="mt-4 flex flex-wrap gap-2">
+              <div className="print:hidden mt-4 flex flex-wrap gap-2">
                 <AudioButton
                   text={phrase.chinese}
                   src={audioForPhrase(phrase)}
@@ -114,8 +133,13 @@ export default function SavedList() {
         })}
       </ol>
 
+      {/* 只在纸上出现的一行：说明这些句子从哪来、还能去哪听 */}
+      <p className="hidden print:block mt-6 text-center text-xs text-muted">
+        Printed from ChineseQuick · chinesequick.com — hear every phrase at chinesequick.com/saved/
+      </p>
+
       {firstCategory && (
-        <div className="rounded-2xl bg-accent-soft p-5 text-center">
+        <div className="print:hidden rounded-2xl bg-accent-soft p-5 text-center">
           <p className="text-base font-medium text-ink">Practice what you saved</p>
           <Link
             href={`/learn/${firstCategory.id}`}

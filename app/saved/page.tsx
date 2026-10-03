@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 export default function SavedPage() {
   return (
     <main className="mx-auto max-w-md px-5 pt-10 pb-16">
-      <nav className="mb-6">
+      <nav className="print:hidden mb-6">
         <Link href="/" className="text-sm text-muted underline underline-offset-4">
           ChineseQuick
         </Link>
